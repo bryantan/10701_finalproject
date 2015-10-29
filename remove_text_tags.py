@@ -78,6 +78,6 @@ for i in xrange(0, len(sentences)):
 #         sample['type'] = 'none'
 
 with open(sys.argv[1] + '_samples', 'w') as outfile:
-    json.dump(samples, outfile)
+    json.dump(samples, outfile, indent=0)
 
 os.remove(sys.argv[1] + "_out.xml")
