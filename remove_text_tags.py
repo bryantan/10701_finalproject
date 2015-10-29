@@ -1,6 +1,8 @@
+import os
 import re
 import sys
 import json
+from subprocess import call
 
 def get_word(word):
     word = re.sub('<.*?>', '', re.sub('</.*?>', '', word))
@@ -13,9 +15,11 @@ subs = ['<text.*?>', '</text>', '<fontspec.*?/>', '<page.*?>', '</page>', '<imag
 dictionary = open('/usr/share/dict/words', "r").readlines()
 dictionary = map(lambda x:x.lower().strip(), dictionary)
 
+call(["pdftohtml", "-c", "-i", "-xml", sys.argv[1], sys.argv[1] + "_out.xml"])
+
 # process XML text
 text = ""
-with open(sys.argv[1], "r") as xmlfile:
+with open(sys.argv[1] + "_out.xml", "r") as xmlfile:
     text = xmlfile.read().replace('\n', ' ')
 
 # remove specified items
@@ -46,6 +50,9 @@ new_text = " ".join(new_words)
 new_text = re.sub('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', '\n', new_text)
 new_text = re.sub('Fig.\n', 'Fig. ', new_text)
 
+with open(sys.argv[1] + "_sentences", 'w') as outfile:
+    outfile.write(new_text)
+
 # create list of sentences and then add sample objects to list
 sentences = new_text.split('\n')
 samples = []
@@ -58,17 +65,19 @@ for i in xrange(0, len(sentences)):
         samples.append({'pre': sentences[i-1], 'main': sentences[i], 'post': sentences[i+1], 'type': 'none'})
 
 # manually select what type of sample each sentence is
-for sample in samples:
-    print "Current sentence: " + sample['main']
-    sample_type = input("What is the type of this sentence? 0. None, 1. Theorem, 2. Definition\n")
-    if sample_type == 0:
-        sample['type'] = 'none'
-    elif sample_type == 1:
-        sample['type'] = 'theorem'
-    elif sample_type == 2:
-        sample['type'] = 'definition'
-    else:
-        sample['type'] = 'none'
+# for sample in samples:
+#     print "Current sentence: " + sample['main']
+#     sample_type = input("What is the type of this sentence? 1. None, 2. Theorem, 3. Definition\n")
+#     if sample_type == 1:
+#         sample['type'] = 'none'
+#     elif sample_type == 2:
+#         sample['type'] = 'theorem'
+#     elif sample_type == 3:
+#         sample['type'] = 'definition'
+#     else:
+#         sample['type'] = 'none'
 
-with open('samples.txt', 'w') as outfile:
+with open(sys.argv[1] + '_samples', 'w') as outfile:
     json.dump(samples, outfile)
+
+os.remove(sys.argv[1] + "_out.xml")
