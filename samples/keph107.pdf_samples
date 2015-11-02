@@ -1,0 +1,1772 @@
+[
+{
+"pre": "", 
+"post": "(A particle is represented as a point mass.", 
+"main": "<b>C</b><b>HAPTER</b> <b>S</b> <b>EVEN</b><b>S</b> <b>YSTEMS</b> <b> </b><b>OF</b> <b>P</b> <b>ARTICLES</b><b> </b><b>AND</b> <b>R</b> <b>OTATIONAL</b> <b>M</b> <b>OTION</b> <b>7.1 </b><b>INTRODUCTION</b> In the earlier chapters we primarily considered the motion of a single particle.", 
+"type": "none"
+}, 
+{
+"pre": "<b>C</b><b>HAPTER</b> <b>S</b> <b>EVEN</b><b>S</b> <b>YSTEMS</b> <b> </b><b>OF</b> <b>P</b> <b>ARTICLES</b><b> </b><b>AND</b> <b>R</b> <b>OTATIONAL</b> <b>M</b> <b>OTION</b> <b>7.1 </b><b>INTRODUCTION</b> In the earlier chapters we primarily considered the motion of a single particle.", 
+"post": "It has practically no size.) We applied the results of our study even to the motion of bodies of finite size, assuming that motion of such bodies can be described in terms of the motion of a particle.", 
+"main": "(A particle is represented as a point mass.", 
+"type": "none"
+}, 
+{
+"pre": "(A particle is represented as a point mass.", 
+"post": "Any real body which we encounter in daily life has a finite size.", 
+"main": "It has practically no size.) We applied the results of our study even to the motion of bodies of finite size, assuming that motion of such bodies can be described in terms of the motion of a particle.", 
+"type": "none"
+}, 
+{
+"pre": "It has practically no size.) We applied the results of our study even to the motion of bodies of finite size, assuming that motion of such bodies can be described in terms of the motion of a particle.", 
+"post": "In dealing with the motion of extended bodies (bodies of finite size) often the idealised model of a particle is inadequate.", 
+"main": "Any real body which we encounter in daily life has a finite size.", 
+"type": "none"
+}, 
+{
+"pre": "Any real body which we encounter in daily life has a finite size.", 
+"post": "In this chapter we shall try togo beyond this inadequacy.", 
+"main": "In dealing with the motion of extended bodies (bodies of finite size) often the idealised model of a particle is inadequate.", 
+"type": "none"
+}, 
+{
+"pre": "In dealing with the motion of extended bodies (bodies of finite size) often the idealised model of a particle is inadequate.", 
+"post": "We shall attempt to build an understanding of the motion of extended bodies.", 
+"main": "In this chapter we shall try togo beyond this inadequacy.", 
+"type": "none"
+}, 
+{
+"pre": "In this chapter we shall try togo beyond this inadequacy.", 
+"post": "An extended body, in the first place, is a system of particles.", 
+"main": "We shall attempt to build an understanding of the motion of extended bodies.", 
+"type": "none"
+}, 
+{
+"pre": "We shall attempt to build an understanding of the motion of extended bodies.", 
+"post": "We shall begin with the consideration of motion of the system as a whole.", 
+"main": "An extended body, in the first place, is a system of particles.", 
+"type": "none"
+}, 
+{
+"pre": "An extended body, in the first place, is a system of particles.", 
+"post": "The centre of mass of a system of particles will be a key concept here.", 
+"main": "We shall begin with the consideration of motion of the system as a whole.", 
+"type": "none"
+}, 
+{
+"pre": "We shall begin with the consideration of motion of the system as a whole.", 
+"post": "We shall discuss the motion of the centre of mass of a system of particles and usefulness of this concept in understanding the motion of extended bodies.", 
+"main": "The centre of mass of a system of particles will be a key concept here.", 
+"type": "none"
+}, 
+{
+"pre": "The centre of mass of a system of particles will be a key concept here.", 
+"post": "Alar ge class of problems with extended bodies can be solved by considering them to be rigid bodies.", 
+"main": "We shall discuss the motion of the centre of mass of a system of particles and usefulness of this concept in understanding the motion of extended bodies.", 
+"type": "none"
+}, 
+{
+"pre": "We shall discuss the motion of the centre of mass of a system of particles and usefulness of this concept in understanding the motion of extended bodies.", 
+"post": "<b>Ideally a</b> <b>rigid body is a body with a perfectly definite and</b> <b>unchanging shape.", 
+"main": "Alar ge class of problems with extended bodies can be solved by considering them to be rigid bodies.", 
+"type": "none"
+}, 
+{
+"pre": "Alar ge class of problems with extended bodies can be solved by considering them to be rigid bodies.", 
+"post": "The distances between all pairs of</b> <b>particles of such a body do not change.</b> It is evident from this definition of a rigid body that no real body is truly rigid, since real bodies deform under the influence of forces.", 
+"main": "<b>Ideally a</b> <b>rigid body is a body with a perfectly definite and</b> <b>unchanging shape.", 
+"type": "definition"
+}, 
+{
+"pre": "<b>Ideally a</b> <b>rigid body is a body with a perfectly definite and</b> <b>unchanging shape.", 
+"post": "But in many situations the deformations are negligible.", 
+"main": "The distances between all pairs of</b> <b>particles of such a body do not change.</b> It is evident from this definition of a rigid body that no real body is truly rigid, since real bodies deform under the influence of forces.", 
+"type": "none"
+}, 
+{
+"pre": "The distances between all pairs of</b> <b>particles of such a body do not change.</b> It is evident from this definition of a rigid body that no real body is truly rigid, since real bodies deform under the influence of forces.", 
+"post": "Ina number of situations involving bodies such as wheels, tops, steel beams, molecules and planets on the other hand, we can ignore that they warp, bend or vibrate and treat them as rigid.", 
+"main": "But in many situations the deformations are negligible.", 
+"type": "none"
+}, 
+{
+"pre": "But in many situations the deformations are negligible.", 
+"post": "<b>7.1.1</b> <b>What kind of motion can a rigid body have?</b> Let us try to explore this question by taking some examples of the motion of rigid bodies.", 
+"main": "Ina number of situations involving bodies such as wheels, tops, steel beams, molecules and planets on the other hand, we can ignore that they warp, bend or vibrate and treat them as rigid.", 
+"type": "none"
+}, 
+{
+"pre": "Ina number of situations involving bodies such as wheels, tops, steel beams, molecules and planets on the other hand, we can ignore that they warp, bend or vibrate and treat them as rigid.", 
+"post": "Let us begin with a rectangular block sliding down an inclined plane without any sidewise <b>7.1</b> Introduction <b>7.2</b> Centre of mass <b>7.3</b> Motion of centre of mass <b>7.4</b> Linear momentum of a system of particles <b>7.5</b> Vector product of two vectors <b>7.6</b> Angular velocity and its relation with linear velocity <b>7.7</b> Tor que and angular momentum <b>7.8</b> Equilibrium of a rigid body <b>7.9</b> Moment of inertia <b>7.10</b> Theorems of perpendicular and parallel axes <b>7.11</b> Kinematics of rotational motion about a fixed axis <b>7.12</b> Dynamics of rotational motion about a fixed axis <b>7.13</b> Angular momentum in case of rotation about a fixed axis <b>7.14</b> Rolling motion Summary Points to Ponder Exercises Additional exercises 2015-16(20/01/2015) 142 PHYSICS movement.", 
+"main": "<b>7.1.1</b> <b>What kind of motion can a rigid body have?</b> Let us try to explore this question by taking some examples of the motion of rigid bodies.", 
+"type": "none"
+}, 
+{
+"pre": "<b>7.1.1</b> <b>What kind of motion can a rigid body have?</b> Let us try to explore this question by taking some examples of the motion of rigid bodies.", 
+"post": "The block is a rigid body.", 
+"main": "Let us begin with a rectangular block sliding down an inclined plane without any sidewise <b>7.1</b> Introduction <b>7.2</b> Centre of mass <b>7.3</b> Motion of centre of mass <b>7.4</b> Linear momentum of a system of particles <b>7.5</b> Vector product of two vectors <b>7.6</b> Angular velocity and its relation with linear velocity <b>7.7</b> Tor que and angular momentum <b>7.8</b> Equilibrium of a rigid body <b>7.9</b> Moment of inertia <b>7.10</b> Theorems of perpendicular and parallel axes <b>7.11</b> Kinematics of rotational motion about a fixed axis <b>7.12</b> Dynamics of rotational motion about a fixed axis <b>7.13</b> Angular momentum in case of rotation about a fixed axis <b>7.14</b> Rolling motion Summary Points to Ponder Exercises Additional exercises 2015-16(20/01/2015) 142 PHYSICS movement.", 
+"type": "none"
+}, 
+{
+"pre": "Let us begin with a rectangular block sliding down an inclined plane without any sidewise <b>7.1</b> Introduction <b>7.2</b> Centre of mass <b>7.3</b> Motion of centre of mass <b>7.4</b> Linear momentum of a system of particles <b>7.5</b> Vector product of two vectors <b>7.6</b> Angular velocity and its relation with linear velocity <b>7.7</b> Tor que and angular momentum <b>7.8</b> Equilibrium of a rigid body <b>7.9</b> Moment of inertia <b>7.10</b> Theorems of perpendicular and parallel axes <b>7.11</b> Kinematics of rotational motion about a fixed axis <b>7.12</b> Dynamics of rotational motion about a fixed axis <b>7.13</b> Angular momentum in case of rotation about a fixed axis <b>7.14</b> Rolling motion Summary Points to Ponder Exercises Additional exercises 2015-16(20/01/2015) 142 PHYSICS movement.", 
+"post": "Its motion down the plane is such that all the particles of the body are moving together, i.e. they have the same velocity at any instant of time.", 
+"main": "The block is a rigid body.", 
+"type": "none"
+}, 
+{
+"pre": "The block is a rigid body.", 
+"post": "The rigid body here is in pure translational motion (Fig. 7.1).", 
+"main": "Its motion down the plane is such that all the particles of the body are moving together, i.e. they have the same velocity at any instant of time.", 
+"type": "none"
+}, 
+{
+"pre": "Its motion down the plane is such that all the particles of the body are moving together, i.e. they have the same velocity at any instant of time.", 
+"post": "<b>In pure translational motion at any</b> <b>instant of time all particles of the body have</b> <b>the same velocity.</b> Consider now the rolling motion of a solid metallic or wooden cylinder down the same inclined plane (Fig. 7.2).", 
+"main": "The rigid body here is in pure translational motion (Fig. 7.1).", 
+"type": "none"
+}, 
+{
+"pre": "The rigid body here is in pure translational motion (Fig. 7.1).", 
+"post": "The rigid body in this problem, namely the cylinder, shifts from the top to the bottom of the inclined plane, and thus, has translational motion.", 
+"main": "<b>In pure translational motion at any</b> <b>instant of time all particles of the body have</b> <b>the same velocity.</b> Consider now the rolling motion of a solid metallic or wooden cylinder down the same inclined plane (Fig. 7.2).", 
+"type": "law"
+}, 
+{
+"pre": "<b>In pure translational motion at any</b> <b>instant of time all particles of the body have</b> <b>the same velocity.</b> Consider now the rolling motion of a solid metallic or wooden cylinder down the same inclined plane (Fig. 7.2).", 
+"post": "But as Fig. 7.2 shows, all its particles are not moving with the same velocity at any instant.", 
+"main": "The rigid body in this problem, namely the cylinder, shifts from the top to the bottom of the inclined plane, and thus, has translational motion.", 
+"type": "none"
+}, 
+{
+"pre": "The rigid body in this problem, namely the cylinder, shifts from the top to the bottom of the inclined plane, and thus, has translational motion.", 
+"post": "The body therefore, is not in pure translation.", 
+"main": "But as Fig. 7.2 shows, all its particles are not moving with the same velocity at any instant.", 
+"type": "none"
+}, 
+{
+"pre": "But as Fig. 7.2 shows, all its particles are not moving with the same velocity at any instant.", 
+"post": "Its motion is translation plus \u2018something else.\u2019 In order to understand what this \u2018something else\u2019 is, let us take a rigid body so constrained that it cannot have translational motion.", 
+"main": "The body therefore, is not in pure translation.", 
+"type": "none"
+}, 
+{
+"pre": "The body therefore, is not in pure translation.", 
+"post": "The most common way to constrain a rigid body so that it does not have translational motion is to fix it along a straight line.", 
+"main": "Its motion is translation plus \u2018something else.\u2019 In order to understand what this \u2018something else\u2019 is, let us take a rigid body so constrained that it cannot have translational motion.", 
+"type": "none"
+}, 
+{
+"pre": "Its motion is translation plus \u2018something else.\u2019 In order to understand what this \u2018something else\u2019 is, let us take a rigid body so constrained that it cannot have translational motion.", 
+"post": "The only possible motion of such a rigid body is <b>rotation</b>.", 
+"main": "The most common way to constrain a rigid body so that it does not have translational motion is to fix it along a straight line.", 
+"type": "none"
+}, 
+{
+"pre": "The most common way to constrain a rigid body so that it does not have translational motion is to fix it along a straight line.", 
+"post": "The line along which the body is fixed is termed as its <b>axis of rotation</b>.", 
+"main": "The only possible motion of such a rigid body is <b>rotation</b>.", 
+"type": "definition"
+}, 
+{
+"pre": "The only possible motion of such a rigid body is <b>rotation</b>.", 
+"post": "If you look around, you will come across many examples of rotation about an axis, a ceiling fan, a potter\u2019s wheel, a giant wheel ina fair, a merry-go-round and soon (Fig 7.3(a) and (b)).", 
+"main": "The line along which the body is fixed is termed as its <b>axis of rotation</b>.", 
+"type": "definition"
+}, 
+{
+"pre": "The line along which the body is fixed is termed as its <b>axis of rotation</b>.", 
+"post": "(a) (b) <i><b>Fig. 7.3</b></i> <i>Rotation about a fixed axis</i> <i>(a) A ceiling fan</i> <i>(b) A potter\u2019s wheel</i> .", 
+"main": "If you look around, you will come across many examples of rotation about an axis, a ceiling fan, a potter\u2019s wheel, a giant wheel ina fair, a merry-go-round and soon (Fig 7.3(a) and (b)).", 
+"type": "none"
+}, 
+{
+"pre": "If you look around, you will come across many examples of rotation about an axis, a ceiling fan, a potter\u2019s wheel, a giant wheel ina fair, a merry-go-round and soon (Fig 7.3(a) and (b)).", 
+"post": "Let us try to understand what rotation is, what characterises rotation.", 
+"main": "(a) (b) <i><b>Fig. 7.3</b></i> <i>Rotation about a fixed axis</i> <i>(a) A ceiling fan</i> <i>(b) A potter\u2019s wheel</i> .", 
+"type": "none"
+}, 
+{
+"pre": "(a) (b) <i><b>Fig. 7.3</b></i> <i>Rotation about a fixed axis</i> <i>(a) A ceiling fan</i> <i>(b) A potter\u2019s wheel</i> .", 
+"post": "You may notice that <b>in rotation of a rigid body about a fixed</b> <i><b>Fig 7.1</b></i> <i>Translational (sliding) motion of a block down</i> <i>an inclined plane.</i> <i>(Any point like P</i> <i>1</i> <i>or P</i> <i>2 </i><i>of the block moves</i> <i>with the same velocity at any instant of time.)</i> <i><b>Fig. 7.2</b></i> <i>Rolling motion of a cylinder It is not pure</i> <i>translational motion.", 
+"main": "Let us try to understand what rotation is, what characterises rotation.", 
+"type": "none"
+}, 
+{
+"pre": "Let us try to understand what rotation is, what characterises rotation.", 
+"post": "Points P</i> <i>1</i> <i>, P</i> <i>2</i> <i>,</i> <i> </i><i>P</i> <i>3</i> <i>and P</i> <i>4</i> <i>have different velocities (shown by arr ows)</i> <i>at any instant of time.", 
+"main": "You may notice that <b>in rotation of a rigid body about a fixed</b> <i><b>Fig 7.1</b></i> <i>Translational (sliding) motion of a block down</i> <i>an inclined plane.</i> <i>(Any point like P</i> <i>1</i> <i>or P</i> <i>2 </i><i>of the block moves</i> <i>with the same velocity at any instant of time.)</i> <i><b>Fig. 7.2</b></i> <i>Rolling motion of a cylinder It is not pure</i> <i>translational motion.", 
+"type": "law"
+}, 
+{
+"pre": "You may notice that <b>in rotation of a rigid body about a fixed</b> <i><b>Fig 7.1</b></i> <i>Translational (sliding) motion of a block down</i> <i>an inclined plane.</i> <i>(Any point like P</i> <i>1</i> <i>or P</i> <i>2 </i><i>of the block moves</i> <i>with the same velocity at any instant of time.)</i> <i><b>Fig. 7.2</b></i> <i>Rolling motion of a cylinder It is not pure</i> <i>translational motion.", 
+"post": "In fact, the velocity of</i> <i>the point of contact P</i> <i>3 </i><i>is zero at any instant,</i> <i>if the cylinder rolls without slipping.</i> 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 143 <b>axis, every particle of the body moves ina</b> <b>circle, which lies ina plane perpendicular to</b> <b>the axis and has its centre on the axis</b><i>.</i> Fig. 7.4 shows the rotational motion of a rigid body about a fixed axis (the <i>z</i>-axis of the frame of refer ence).", 
+"main": "Points P</i> <i>1</i> <i>, P</i> <i>2</i> <i>,</i> <i> </i><i>P</i> <i>3</i> <i>and P</i> <i>4</i> <i>have different velocities (shown by arr ows)</i> <i>at any instant of time.", 
+"type": "none"
+}, 
+{
+"pre": "Points P</i> <i>1</i> <i>, P</i> <i>2</i> <i>,</i> <i> </i><i>P</i> <i>3</i> <i>and P</i> <i>4</i> <i>have different velocities (shown by arr ows)</i> <i>at any instant of time.", 
+"post": "Let P 1 be a particle of the rigid body, arbitrarily chosen and at a distance <i>r</i> 1 from fixed axis.", 
+"main": "In fact, the velocity of</i> <i>the point of contact P</i> <i>3 </i><i>is zero at any instant,</i> <i>if the cylinder rolls without slipping.</i> 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 143 <b>axis, every particle of the body moves ina</b> <b>circle, which lies ina plane perpendicular to</b> <b>the axis and has its centre on the axis</b><i>.</i> Fig. 7.4 shows the rotational motion of a rigid body about a fixed axis (the <i>z</i>-axis of the frame of refer ence).", 
+"type": "law"
+}, 
+{
+"pre": "In fact, the velocity of</i> <i>the point of contact P</i> <i>3 </i><i>is zero at any instant,</i> <i>if the cylinder rolls without slipping.</i> 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 143 <b>axis, every particle of the body moves ina</b> <b>circle, which lies ina plane perpendicular to</b> <b>the axis and has its centre on the axis</b><i>.</i> Fig. 7.4 shows the rotational motion of a rigid body about a fixed axis (the <i>z</i>-axis of the frame of refer ence).", 
+"post": "The particle P 1 describes a circle of radius <i>r</i> 1 with its centre C 1 on the fixed axis.", 
+"main": "Let P 1 be a particle of the rigid body, arbitrarily chosen and at a distance <i>r</i> 1 from fixed axis.", 
+"type": "none"
+}, 
+{
+"pre": "Let P 1 be a particle of the rigid body, arbitrarily chosen and at a distance <i>r</i> 1 from fixed axis.", 
+"post": "The circle lies ina plane perpendicular to the axis.", 
+"main": "The particle P 1 describes a circle of radius <i>r</i> 1 with its centre C 1 on the fixed axis.", 
+"type": "none"
+}, 
+{
+"pre": "The particle P 1 describes a circle of radius <i>r</i> 1 with its centre C 1 on the fixed axis.", 
+"post": "The figure also shows another particle P 2 of the rigid body, P 2 is at a distance <i>r</i> 2 from the fixed axis.", 
+"main": "The circle lies ina plane perpendicular to the axis.", 
+"type": "none"
+}, 
+{
+"pre": "The circle lies ina plane perpendicular to the axis.", 
+"post": "The particle P 2 moves ina circle of radius <i>r</i> 2 and with centre C 2 on the axis.", 
+"main": "The figure also shows another particle P 2 of the rigid body, P 2 is at a distance <i>r</i> 2 from the fixed axis.", 
+"type": "none"
+}, 
+{
+"pre": "The figure also shows another particle P 2 of the rigid body, P 2 is at a distance <i>r</i> 2 from the fixed axis.", 
+"post": "This circle, too, lies ina plane perpendicular to the axis.", 
+"main": "The particle P 2 moves ina circle of radius <i>r</i> 2 and with centre C 2 on the axis.", 
+"type": "none"
+}, 
+{
+"pre": "The particle P 2 moves ina circle of radius <i>r</i> 2 and with centre C 2 on the axis.", 
+"post": "Note that the circles described by P 1 and P 2 may lie indifferent planes; both these planes, however, are perpendicular to the fixed axis.", 
+"main": "This circle, too, lies ina plane perpendicular to the axis.", 
+"type": "none"
+}, 
+{
+"pre": "This circle, too, lies ina plane perpendicular to the axis.", 
+"post": "For any particle on the axis like P 3 , <i>r</i> = 0.", 
+"main": "Note that the circles described by P 1 and P 2 may lie indifferent planes; both these planes, however, are perpendicular to the fixed axis.", 
+"type": "none"
+}, 
+{
+"pre": "Note that the circles described by P 1 and P 2 may lie indifferent planes; both these planes, however, are perpendicular to the fixed axis.", 
+"post": "Any such particle remains stationary while the body rotates.", 
+"main": "For any particle on the axis like P 3 , <i>r</i> = 0.", 
+"type": "none"
+}, 
+{
+"pre": "For any particle on the axis like P 3 , <i>r</i> = 0.", 
+"post": "This is expected since the axis is fixed.", 
+"main": "Any such particle remains stationary while the body rotates.", 
+"type": "none"
+}, 
+{
+"pre": "Any such particle remains stationary while the body rotates.", 
+"post": "<i><b>Fig. 7.5 (a)</b></i> <i>A spinning top</i> <i>(The point of contact of the top with the</i> <i>ground, its tip O, is fixed.)</i> <i><b>Fig. 7.5 (b)</b></i> <i>An oscillating table fan.", 
+"main": "This is expected since the axis is fixed.", 
+"type": "none"
+}, 
+{
+"pre": "This is expected since the axis is fixed.", 
+"post": "The pivot of the</i> <i>fan, point O, is fixed.</i> In some examples of rotation, however, the axis may not be fixed.", 
+"main": "<i><b>Fig. 7.5 (a)</b></i> <i>A spinning top</i> <i>(The point of contact of the top with the</i> <i>ground, its tip O, is fixed.)</i> <i><b>Fig. 7.5 (b)</b></i> <i>An oscillating table fan.", 
+"type": "none"
+}, 
+{
+"pre": "<i><b>Fig. 7.5 (a)</b></i> <i>A spinning top</i> <i>(The point of contact of the top with the</i> <i>ground, its tip O, is fixed.)</i> <i><b>Fig. 7.5 (b)</b></i> <i>An oscillating table fan.", 
+"post": "A prominent example of this kind of rotation is atop spinning in place [Fig. 7.5(a)].", 
+"main": "The pivot of the</i> <i>fan, point O, is fixed.</i> In some examples of rotation, however, the axis may not be fixed.", 
+"type": "none"
+}, 
+{
+"pre": "The pivot of the</i> <i>fan, point O, is fixed.</i> In some examples of rotation, however, the axis may not be fixed.", 
+"post": "(We assume that the top does not slip from place to place and so does not have translational motion.) We know from experience that the axis of such a spinning top moves around the vertical through its point of contact with the ground, sweeping out a cone as shown in Fig. 7.5(a).", 
+"main": "A prominent example of this kind of rotation is atop spinning in place [Fig. 7.5(a)].", 
+"type": "none"
+}, 
+{
+"pre": "A prominent example of this kind of rotation is atop spinning in place [Fig. 7.5(a)].", 
+"post": "(This movement of the axis of the top around the vertical is termed <b>precession</b><i>.</i>) Note, the <b>point of contact of the top with</b> <b>ground is fixed</b>.", 
+"main": "(We assume that the top does not slip from place to place and so does not have translational motion.) We know from experience that the axis of such a spinning top moves around the vertical through its point of contact with the ground, sweeping out a cone as shown in Fig. 7.5(a).", 
+"type": "none"
+}, 
+{
+"pre": "(We assume that the top does not slip from place to place and so does not have translational motion.) We know from experience that the axis of such a spinning top moves around the vertical through its point of contact with the ground, sweeping out a cone as shown in Fig. 7.5(a).", 
+"post": "The axis of rotation of the top at any instant passes through the point of contact.", 
+"main": "(This movement of the axis of the top around the vertical is termed <b>precession</b><i>.</i>) Note, the <b>point of contact of the top with</b> <b>ground is fixed</b>.", 
+"type": "none"
+}, 
+{
+"pre": "(This movement of the axis of the top around the vertical is termed <b>precession</b><i>.</i>) Note, the <b>point of contact of the top with</b> <b>ground is fixed</b>.", 
+"post": "Another simple example of this kind of rotation is the oscillating table fan ora pedestal fan.", 
+"main": "The axis of rotation of the top at any instant passes through the point of contact.", 
+"type": "none"
+}, 
+{
+"pre": "The axis of rotation of the top at any instant passes through the point of contact.", 
+"post": "You may have observed that the axis of <i><b>Fig. 7.4</b></i> <i>A rigid body rotation about the z-axis</i> (<i>Each point of the body such asP</i> <i>1</i> <i>or</i> <i>P</i> <i>2</i> <i>describes a circle with its centre (C</i> <i>1</i> <i>or C</i> <i>2</i> )<i> on the axis.", 
+"main": "Another simple example of this kind of rotation is the oscillating table fan ora pedestal fan.", 
+"type": "none"
+}, 
+{
+"pre": "Another simple example of this kind of rotation is the oscillating table fan ora pedestal fan.", 
+"post": "The radius of the</i> <i>circle </i>( <i>r</i> <i>1</i> <i>orr</i> <i>2</i> )<i> is the perpendicular</i> <i>distance of the point </i>(<i>P</i> <i>1</i> <i>or P</i> <i>2</i> )<i> from the</i> <i>axis.", 
+"main": "You may have observed that the axis of <i><b>Fig. 7.4</b></i> <i>A rigid body rotation about the z-axis</i> (<i>Each point of the body such asP</i> <i>1</i> <i>or</i> <i>P</i> <i>2</i> <i>describes a circle with its centre (C</i> <i>1</i> <i>or C</i> <i>2</i> )<i> on the axis.", 
+"type": "none"
+}, 
+{
+"pre": "You may have observed that the axis of <i><b>Fig. 7.4</b></i> <i>A rigid body rotation about the z-axis</i> (<i>Each point of the body such asP</i> <i>1</i> <i>or</i> <i>P</i> <i>2</i> <i>describes a circle with its centre (C</i> <i>1</i> <i>or C</i> <i>2</i> )<i> on the axis.", 
+"post": "A point on the axis like P</i> <i>3 </i><i>remains</i> <i>stationary).</i> 2015-16(20/01/2015) 144 PHYSICS rotation of such a fan has an oscillating (sidewise) movement ina horizontal plane about the vertical through the point at which the axis is pivoted (point O in Fig. 7.5(b)).", 
+"main": "The radius of the</i> <i>circle </i>( <i>r</i> <i>1</i> <i>orr</i> <i>2</i> )<i> is the perpendicular</i> <i>distance of the point </i>(<i>P</i> <i>1</i> <i>or P</i> <i>2</i> )<i> from the</i> <i>axis.", 
+"type": "none"
+}, 
+{
+"pre": "The radius of the</i> <i>circle </i>( <i>r</i> <i>1</i> <i>orr</i> <i>2</i> )<i> is the perpendicular</i> <i>distance of the point </i>(<i>P</i> <i>1</i> <i>or P</i> <i>2</i> )<i> from the</i> <i>axis.", 
+"post": "While the fan rotates and its axis moves sidewise, this point is fixed.", 
+"main": "A point on the axis like P</i> <i>3 </i><i>remains</i> <i>stationary).</i> 2015-16(20/01/2015) 144 PHYSICS rotation of such a fan has an oscillating (sidewise) movement ina horizontal plane about the vertical through the point at which the axis is pivoted (point O in Fig. 7.5(b)).", 
+"type": "none"
+}, 
+{
+"pre": "A point on the axis like P</i> <i>3 </i><i>remains</i> <i>stationary).</i> 2015-16(20/01/2015) 144 PHYSICS rotation of such a fan has an oscillating (sidewise) movement ina horizontal plane about the vertical through the point at which the axis is pivoted (point O in Fig. 7.5(b)).", 
+"post": "Thus, in more general cases of rotation, such as the rotation of atop ora pedestal fan, <b>one point and not</b> <b>one line,</b> of the rigid body is fixed.", 
+"main": "While the fan rotates and its axis moves sidewise, this point is fixed.", 
+"type": "none"
+}, 
+{
+"pre": "While the fan rotates and its axis moves sidewise, this point is fixed.", 
+"post": "In this case the axis is not fixed, though it always passes through the fixed point.", 
+"main": "Thus, in more general cases of rotation, such as the rotation of atop ora pedestal fan, <b>one point and not</b> <b>one line,</b> of the rigid body is fixed.", 
+"type": "none"
+}, 
+{
+"pre": "Thus, in more general cases of rotation, such as the rotation of atop ora pedestal fan, <b>one point and not</b> <b>one line,</b> of the rigid body is fixed.", 
+"post": "In our study, however, we mostly deal with the simpler and special case of rotation in which one line (i.e. the axis) is fixed.", 
+"main": "In this case the axis is not fixed, though it always passes through the fixed point.", 
+"type": "none"
+}, 
+{
+"pre": "In this case the axis is not fixed, though it always passes through the fixed point.", 
+"post": "Thus, for us rotation will be about a fixed axis only unless stated otherwise.", 
+"main": "In our study, however, we mostly deal with the simpler and special case of rotation in which one line (i.e. the axis) is fixed.", 
+"type": "none"
+}, 
+{
+"pre": "In our study, however, we mostly deal with the simpler and special case of rotation in which one line (i.e. the axis) is fixed.", 
+"post": "The rolling motion of a cylinder down an inclined plane is a combination of rotation about a fixed axis and translation.", 
+"main": "Thus, for us rotation will be about a fixed axis only unless stated otherwise.", 
+"type": "none"
+}, 
+{
+"pre": "Thus, for us rotation will be about a fixed axis only unless stated otherwise.", 
+"post": "Thus, the \u2018something else\u2019 in the case of rolling motion which we referred to earlier is rotational motion.", 
+"main": "The rolling motion of a cylinder down an inclined plane is a combination of rotation about a fixed axis and translation.", 
+"type": "none"
+}, 
+{
+"pre": "The rolling motion of a cylinder down an inclined plane is a combination of rotation about a fixed axis and translation.", 
+"post": "You will find Fig. 7.6(a) and (b) instructive from this point of view.", 
+"main": "Thus, the \u2018something else\u2019 in the case of rolling motion which we referred to earlier is rotational motion.", 
+"type": "none"
+}, 
+{
+"pre": "Thus, the \u2018something else\u2019 in the case of rolling motion which we referred to earlier is rotational motion.", 
+"post": "Both these figures show motion of the same body along identical translational trajectory.", 
+"main": "You will find Fig. 7.6(a) and (b) instructive from this point of view.", 
+"type": "none"
+}, 
+{
+"pre": "You will find Fig. 7.6(a) and (b) instructive from this point of view.", 
+"post": "In one case, Fig. 7.6(a), the motion is a pure translation; in the other case [Fig. 7.6(b)] it is a combination of translation and rotation.", 
+"main": "Both these figures show motion of the same body along identical translational trajectory.", 
+"type": "none"
+}, 
+{
+"pre": "Both these figures show motion of the same body along identical translational trajectory.", 
+"post": "(You may try to reproduce the two types of motion shown using a rigid object like a heavy book.) We now recapitulate the most important observations of the present section: <b>The motion</b> <b>of a rigid body which is not pivoted or fixed</b> <b>in someway is either a pure translation ora</b> <b>combination of translation and rotation.", 
+"main": "In one case, Fig. 7.6(a), the motion is a pure translation; in the other case [Fig. 7.6(b)] it is a combination of translation and rotation.", 
+"type": "none"
+}, 
+{
+"pre": "In one case, Fig. 7.6(a), the motion is a pure translation; in the other case [Fig. 7.6(b)] it is a combination of translation and rotation.", 
+"post": "The</b> <b>motion of a rigid body which is pivoted or</b> <b>fixed in someway is rotation.</b> The rotation maybe about an axis that is fixed (e.g. a ceiling fan) or moving (e.g. an oscillating table fan).", 
+"main": "(You may try to reproduce the two types of motion shown using a rigid object like a heavy book.) We now recapitulate the most important observations of the present section: <b>The motion</b> <b>of a rigid body which is not pivoted or fixed</b> <b>in someway is either a pure translation ora</b> <b>combination of translation and rotation.", 
+"type": "definition"
+}, 
+{
+"pre": "(You may try to reproduce the two types of motion shown using a rigid object like a heavy book.) We now recapitulate the most important observations of the present section: <b>The motion</b> <b>of a rigid body which is not pivoted or fixed</b> <b>in someway is either a pure translation ora</b> <b>combination of translation and rotation.", 
+"post": "We shall, in the present chapter, consider rotational motion about a fixed axis only.", 
+"main": "The</b> <b>motion of a rigid body which is pivoted or</b> <b>fixed in someway is rotation.</b> The rotation maybe about an axis that is fixed (e.g. a ceiling fan) or moving (e.g. an oscillating table fan).", 
+"type": "definition"
+}, 
+{
+"pre": "The</b> <b>motion of a rigid body which is pivoted or</b> <b>fixed in someway is rotation.</b> The rotation maybe about an axis that is fixed (e.g. a ceiling fan) or moving (e.g. an oscillating table fan).", 
+"post": "<b>7.2 </b> <b> CENTRE OF MASS</b> We shall first see what the centre of mass of a system of particles is and then discuss its significance.", 
+"main": "We shall, in the present chapter, consider rotational motion about a fixed axis only.", 
+"type": "none"
+}, 
+{
+"pre": "We shall, in the present chapter, consider rotational motion about a fixed axis only.", 
+"post": "For simplicity we shall start with a two particle system.", 
+"main": "<b>7.2 </b> <b> CENTRE OF MASS</b> We shall first see what the centre of mass of a system of particles is and then discuss its significance.", 
+"type": "none"
+}, 
+{
+"pre": "<b>7.2 </b> <b> CENTRE OF MASS</b> We shall first see what the centre of mass of a system of particles is and then discuss its significance.", 
+"post": "We shall take the line joining the two particles to bethe <i>x</i>- axis.", 
+"main": "For simplicity we shall start with a two particle system.", 
+"type": "none"
+}, 
+{
+"pre": "For simplicity we shall start with a two particle system.", 
+"post": "<i><b>Fig. 7.7</b></i> Let the distances of the two particles be <i>x</i> 1 and <i>x</i> 2 respectively from some origin O.", 
+"main": "We shall take the line joining the two particles to bethe <i>x</i>- axis.", 
+"type": "none"
+}, 
+{
+"pre": "We shall take the line joining the two particles to bethe <i>x</i>- axis.", 
+"post": "Let <i>m</i> 1 and <i>m</i> 2 be respectively the masses of the two <i><b>Fig. 7.6(a)</b></i> <i>Motion of a rigid body which is pure</i> <i>translation.</i> <i><b>Fig. 7.6(b)</b></i> <i>Motion of a rigid body which is a</i> <i>combination of translation and</i> <i>rotation.</i> <i>Fig 7.6 (a) and 7.6 (b) illustrate different motions of</i> <i>the same body.", 
+"main": "<i><b>Fig. 7.7</b></i> Let the distances of the two particles be <i>x</i> 1 and <i>x</i> 2 respectively from some origin O.", 
+"type": "none"
+}, 
+{
+"pre": "<i><b>Fig. 7.7</b></i> Let the distances of the two particles be <i>x</i> 1 and <i>x</i> 2 respectively from some origin O.", 
+"post": "Note Pis an arbitrary point of the</i> <i>body; O is the centre of mass of the body, which is</i> <i>defined in the next section.", 
+"main": "Let <i>m</i> 1 and <i>m</i> 2 be respectively the masses of the two <i><b>Fig. 7.6(a)</b></i> <i>Motion of a rigid body which is pure</i> <i>translation.</i> <i><b>Fig. 7.6(b)</b></i> <i>Motion of a rigid body which is a</i> <i>combination of translation and</i> <i>rotation.</i> <i>Fig 7.6 (a) and 7.6 (b) illustrate different motions of</i> <i>the same body.", 
+"type": "none"
+}, 
+{
+"pre": "Let <i>m</i> 1 and <i>m</i> 2 be respectively the masses of the two <i><b>Fig. 7.6(a)</b></i> <i>Motion of a rigid body which is pure</i> <i>translation.</i> <i><b>Fig. 7.6(b)</b></i> <i>Motion of a rigid body which is a</i> <i>combination of translation and</i> <i>rotation.</i> <i>Fig 7.6 (a) and 7.6 (b) illustrate different motions of</i> <i>the same body.", 
+"post": "Suffice to say here that</i> <i>the trajectories of O are the translational trajectories</i> <i>Tr</i> <i>1</i> <i>and T r</i> <i>2 </i><i>of the body.", 
+"main": "Note Pis an arbitrary point of the</i> <i>body; O is the centre of mass of the body, which is</i> <i>defined in the next section.", 
+"type": "none"
+}, 
+{
+"pre": "Note Pis an arbitrary point of the</i> <i>body; O is the centre of mass of the body, which is</i> <i>defined in the next section.", 
+"post": "The positions O and Pat</i> <i>three different instants of time are shown by O</i> <i>1</i> <i>, O</i> <i>2</i> <i>,</i> <i>and O</i> <i>3</i> <i>, and P</i> <i>1</i> <i>, P</i> <i>2</i> <i>and P</i> <i>3</i> <i>, respectively, in both</i> <i>Figs.", 
+"main": "Suffice to say here that</i> <i>the trajectories of O are the translational trajectories</i> <i>Tr</i> <i>1</i> <i>and T r</i> <i>2 </i><i>of the body.", 
+"type": "none"
+}, 
+{
+"pre": "Suffice to say here that</i> <i>the trajectories of O are the translational trajectories</i> <i>Tr</i> <i>1</i> <i>and T r</i> <i>2 </i><i>of the body.", 
+"post": "7.6 (a) and (b) .", 
+"main": "The positions O and Pat</i> <i>three different instants of time are shown by O</i> <i>1</i> <i>, O</i> <i>2</i> <i>,</i> <i>and O</i> <i>3</i> <i>, and P</i> <i>1</i> <i>, P</i> <i>2</i> <i>and P</i> <i>3</i> <i>, respectively, in both</i> <i>Figs.", 
+"type": "none"
+}, 
+{
+"pre": "The positions O and Pat</i> <i>three different instants of time are shown by O</i> <i>1</i> <i>, O</i> <i>2</i> <i>,</i> <i>and O</i> <i>3</i> <i>, and P</i> <i>1</i> <i>, P</i> <i>2</i> <i>and P</i> <i>3</i> <i>, respectively, in both</i> <i>Figs.", 
+"post": "As seen from Fig. 7.6(a), at any</i> <i>instant the velocities of any particles like O and P of</i> <i>the body are the same in pure translation.", 
+"main": "7.6 (a) and (b) .", 
+"type": "none"
+}, 
+{
+"pre": "7.6 (a) and (b) .", 
+"post": "Notice, in</i> <i>this case the orientation of OP, i.e. the angle OP makes</i> <i>with a fixed direction, say the horizontal, remains</i> <i>the same, i.e. </i>\u03b1 <i>1 </i> <i>= </i>\u03b1 <i>2</i> <i> = </i>\u03b1 <i>3</i> <i>.", 
+"main": "As seen from Fig. 7.6(a), at any</i> <i>instant the velocities of any particles like O and P of</i> <i>the body are the same in pure translation.", 
+"type": "none"
+}, 
+{
+"pre": "As seen from Fig. 7.6(a), at any</i> <i>instant the velocities of any particles like O and P of</i> <i>the body are the same in pure translation.", 
+"post": "Fig. 7.6 (b) illustrates a</i> <i>case of combination of translation and rotation.", 
+"main": "Notice, in</i> <i>this case the orientation of OP, i.e. the angle OP makes</i> <i>with a fixed direction, say the horizontal, remains</i> <i>the same, i.e. </i>\u03b1 <i>1 </i> <i>= </i>\u03b1 <i>2</i> <i> = </i>\u03b1 <i>3</i> <i>.", 
+"type": "none"
+}, 
+{
+"pre": "Notice, in</i> <i>this case the orientation of OP, i.e. the angle OP makes</i> <i>with a fixed direction, say the horizontal, remains</i> <i>the same, i.e. </i>\u03b1 <i>1 </i> <i>= </i>\u03b1 <i>2</i> <i> = </i>\u03b1 <i>3</i> <i>.", 
+"post": "In</i> <i>this case, at any instants the velocities of O and P</i> <i>differ.", 
+"main": "Fig. 7.6 (b) illustrates a</i> <i>case of combination of translation and rotation.", 
+"type": "none"
+}, 
+{
+"pre": "Fig. 7.6 (b) illustrates a</i> <i>case of combination of translation and rotation.", 
+"post": "Also, </i>\u03b1 <i>1</i> <i>, </i>\u03b1 <i>2</i> <i>and </i>\u03b1 <i>3</i> <i>may all be different.</i> 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 145 particles.", 
+"main": "In</i> <i>this case, at any instants the velocities of O and P</i> <i>differ.", 
+"type": "none"
+}, 
+{
+"pre": "In</i> <i>this case, at any instants the velocities of O and P</i> <i>differ.", 
+"post": "The centre of mass of the system is that point C which is at a distance <i>X</i> from O, where <i>X</i> is given by 1 1 2 2 1 2 <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> + = + (7.1) In Eq. (7.1), <i>X</i> can be regarded as the mass- weighted mean of <i>x</i> 1 and <i>x</i> 2 .", 
+"main": "Also, </i>\u03b1 <i>1</i> <i>, </i>\u03b1 <i>2</i> <i>and </i>\u03b1 <i>3</i> <i>may all be different.</i> 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 145 particles.", 
+"type": "none"
+}, 
+{
+"pre": "Also, </i>\u03b1 <i>1</i> <i>, </i>\u03b1 <i>2</i> <i>and </i>\u03b1 <i>3</i> <i>may all be different.</i> 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 145 particles.", 
+"post": "If the two particles have the same mass <i>m</i> 1 = <i>m</i> 2 = <i>m</i> , then 1 2 1 2 2 2 <i>mx</i> <i>mx</i> <i>x</i> <i>x</i> <i>X</i> <i>m</i> + + = = Thus, for two particles of equal mass the centre of mass lies exactly midway between them.", 
+"main": "The centre of mass of the system is that point C which is at a distance <i>X</i> from O, where <i>X</i> is given by 1 1 2 2 1 2 <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> + = + (7.1) In Eq. (7.1), <i>X</i> can be regarded as the mass- weighted mean of <i>x</i> 1 and <i>x</i> 2 .", 
+"type": "definition"
+}, 
+{
+"pre": "The centre of mass of the system is that point C which is at a distance <i>X</i> from O, where <i>X</i> is given by 1 1 2 2 1 2 <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> + = + (7.1) In Eq. (7.1), <i>X</i> can be regarded as the mass- weighted mean of <i>x</i> 1 and <i>x</i> 2 .", 
+"post": "If we have<i>n</i> particles of masses <i>m</i> 1 , <i>m</i> 2 , ...<i>m</i> <i>n</i> respectively, along a straight line taken as the <i>x</i>- axis, then by definition the position of the centre of the mass of the system of particles is given by 1 1 2 2 1 2 ....", 
+"main": "If the two particles have the same mass <i>m</i> 1 = <i>m</i> 2 = <i>m</i> , then 1 2 1 2 2 2 <i>mx</i> <i>mx</i> <i>x</i> <i>x</i> <i>X</i> <i>m</i> + + = = Thus, for two particles of equal mass the centre of mass lies exactly midway between them.", 
+"type": "none"
+}, 
+{
+"pre": "If the two particles have the same mass <i>m</i> 1 = <i>m</i> 2 = <i>m</i> , then 1 2 1 2 2 2 <i>mx</i> <i>mx</i> <i>x</i> <i>x</i> <i>X</i> <i>m</i> + + = = Thus, for two particles of equal mass the centre of mass lies exactly midway between them.", 
+"post": "....", 
+"main": "If we have<i>n</i> particles of masses <i>m</i> 1 , <i>m</i> 2 , ...<i>m</i> <i>n</i> respectively, along a straight line taken as the <i>x</i>- axis, then by definition the position of the centre of the mass of the system of particles is given by 1 1 2 2 1 2 ....", 
+"type": "definition"
+}, 
+{
+"pre": "If we have<i>n</i> particles of masses <i>m</i> 1 , <i>m</i> 2 , ...<i>m</i> <i>n</i> respectively, along a straight line taken as the <i>x</i>- axis, then by definition the position of the centre of the mass of the system of particles is given by 1 1 2 2 1 2 ....", 
+"post": "<i>i</i> <i>i</i><i>n</i> <i>n</i> <i>n</i><i>i</i> <i>m x</i> <i>m x</i> <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> <i>m</i> <i>m</i> + + + = = + + + \u2211 \u2211 (7.2) where <i>x</i> 1 , <i>x</i> 2 ,...<i>x</i> n are the distances of the particles from the origin; <i>X</i> is also measured from the same origin.", 
+"main": "....", 
+"type": "none"
+}, 
+{
+"pre": "....", 
+"post": "The symbol \u2211 (the Greek letter sigma) denotes summation, in this case over <i>n</i> particles.", 
+"main": "<i>i</i> <i>i</i><i>n</i> <i>n</i> <i>n</i><i>i</i> <i>m x</i> <i>m x</i> <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> <i>m</i> <i>m</i> + + + = = + + + \u2211 \u2211 (7.2) where <i>x</i> 1 , <i>x</i> 2 ,...<i>x</i> n are the distances of the particles from the origin; <i>X</i> is also measured from the same origin.", 
+"type": "definition"
+}, 
+{
+"pre": "<i>i</i> <i>i</i><i>n</i> <i>n</i> <i>n</i><i>i</i> <i>m x</i> <i>m x</i> <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> <i>m</i> <i>m</i> + + + = = + + + \u2211 \u2211 (7.2) where <i>x</i> 1 , <i>x</i> 2 ,...<i>x</i> n are the distances of the particles from the origin; <i>X</i> is also measured from the same origin.", 
+"post": "The sum <i>i</i> <i>m</i> <i>M</i> = \u2211 is the total mass of the system.", 
+"main": "The symbol \u2211 (the Greek letter sigma) denotes summation, in this case over <i>n</i> particles.", 
+"type": "none"
+}, 
+{
+"pre": "The symbol \u2211 (the Greek letter sigma) denotes summation, in this case over <i>n</i> particles.", 
+"post": "Suppose that we have three particles, not lying ina straight line.", 
+"main": "The sum <i>i</i> <i>m</i> <i>M</i> = \u2211 is the total mass of the system.", 
+"type": "none"
+}, 
+{
+"pre": "The sum <i>i</i> <i>m</i> <i>M</i> = \u2211 is the total mass of the system.", 
+"post": "We may define <i>x</i> and <i>y</i>- axes in the plane in which the particles lie and represent the positions of the three particles by coordinates (<i>x</i> 1 ,<i>y</i> 1 ), (<i>x</i> 2 ,<i>y</i> 2 ) and (<i>x</i> 3 ,<i>y</i> 3 ) respectively.", 
+"main": "Suppose that we have three particles, not lying ina straight line.", 
+"type": "none"
+}, 
+{
+"pre": "Suppose that we have three particles, not lying ina straight line.", 
+"post": "Let the masses of the three particles be <i>m</i> 1 , <i>m</i> 2 and <i>m</i> 3 respectively.", 
+"main": "We may define <i>x</i> and <i>y</i>- axes in the plane in which the particles lie and represent the positions of the three particles by coordinates (<i>x</i> 1 ,<i>y</i> 1 ), (<i>x</i> 2 ,<i>y</i> 2 ) and (<i>x</i> 3 ,<i>y</i> 3 ) respectively.", 
+"type": "none"
+}, 
+{
+"pre": "We may define <i>x</i> and <i>y</i>- axes in the plane in which the particles lie and represent the positions of the three particles by coordinates (<i>x</i> 1 ,<i>y</i> 1 ), (<i>x</i> 2 ,<i>y</i> 2 ) and (<i>x</i> 3 ,<i>y</i> 3 ) respectively.", 
+"post": "The centre of mass C of the system of the three particles is defined and located by the coordinates (<i>X, Y)</i> given by 1 1 2 2 3 3 1 2 3 <i>m x</i> <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> <i>m</i> + + = + + (7.3a) 1 1 2 2 3 3 1 2 3 <i>my</i> <i>my</i> <i>my</i> <i>Y</i> <i>m</i> <i>m</i> <i>m</i> + + = + + (7.3b) For the particles of equal mass <i>m</i> = <i>m</i> 1 = <i>m</i> 2 = <i>m</i> 3 , 1 2 3 1 2 3 ( ) 3 3 <i>m x</i> <i>x</i> <i>x</i> <i>x</i> <i>x</i> <i>x</i> <i>X</i> <i>m</i> + + + + = = 1 2 3 1 2 3 ( ) 3 3 <i>my</i> <i>y</i> <i>y</i> <i>y</i> <i>y</i> <i>y</i> <i>Y</i> <i>m</i> + + + + = = Thus, for three particles of equal mass, the centr e of mass coincides with the centroid of the triangle formed by the particles.", 
+"main": "Let the masses of the three particles be <i>m</i> 1 , <i>m</i> 2 and <i>m</i> 3 respectively.", 
+"type": "none"
+}, 
+{
+"pre": "Let the masses of the three particles be <i>m</i> 1 , <i>m</i> 2 and <i>m</i> 3 respectively.", 
+"post": "Results of Eqs.", 
+"main": "The centre of mass C of the system of the three particles is defined and located by the coordinates (<i>X, Y)</i> given by 1 1 2 2 3 3 1 2 3 <i>m x</i> <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> <i>m</i> + + = + + (7.3a) 1 1 2 2 3 3 1 2 3 <i>my</i> <i>my</i> <i>my</i> <i>Y</i> <i>m</i> <i>m</i> <i>m</i> + + = + + (7.3b) For the particles of equal mass <i>m</i> = <i>m</i> 1 = <i>m</i> 2 = <i>m</i> 3 , 1 2 3 1 2 3 ( ) 3 3 <i>m x</i> <i>x</i> <i>x</i> <i>x</i> <i>x</i> <i>x</i> <i>X</i> <i>m</i> + + + + = = 1 2 3 1 2 3 ( ) 3 3 <i>my</i> <i>y</i> <i>y</i> <i>y</i> <i>y</i> <i>y</i> <i>Y</i> <i>m</i> + + + + = = Thus, for three particles of equal mass, the centr e of mass coincides with the centroid of the triangle formed by the particles.", 
+"type": "none"
+}, 
+{
+"pre": "The centre of mass C of the system of the three particles is defined and located by the coordinates (<i>X, Y)</i> given by 1 1 2 2 3 3 1 2 3 <i>m x</i> <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> <i>m</i> + + = + + (7.3a) 1 1 2 2 3 3 1 2 3 <i>my</i> <i>my</i> <i>my</i> <i>Y</i> <i>m</i> <i>m</i> <i>m</i> + + = + + (7.3b) For the particles of equal mass <i>m</i> = <i>m</i> 1 = <i>m</i> 2 = <i>m</i> 3 , 1 2 3 1 2 3 ( ) 3 3 <i>m x</i> <i>x</i> <i>x</i> <i>x</i> <i>x</i> <i>x</i> <i>X</i> <i>m</i> + + + + = = 1 2 3 1 2 3 ( ) 3 3 <i>my</i> <i>y</i> <i>y</i> <i>y</i> <i>y</i> <i>y</i> <i>Y</i> <i>m</i> + + + + = = Thus, for three particles of equal mass, the centr e of mass coincides with the centroid of the triangle formed by the particles.", 
+"post": "(7.3a) and (7.3b) are generalised easily to a system of <i>n</i> particles, not necessarily lying ina plane, but distributed in space.", 
+"main": "Results of Eqs.", 
+"type": "none"
+}, 
+{
+"pre": "Results of Eqs.", 
+"post": "The centre of mass of such a system is at (<i>X, Y, Z </i>), where <i>i</i> <i>i</i> <i>m x</i> <i>X</i> <i>M</i> = \u2211 (7.4a) <i>i</i> <i>i</i> <i>my</i> <i>Y</i> <i>M</i> = \u2211 (7.4b) and <i>i</i> <i>i</i> <i>m z</i> <i>Z</i> <i>M</i> = \u2211 (7.4c) Here <i>M </i>= <i>i</i> <i>m</i> \u2211 is the total mass of the system.", 
+"main": "(7.3a) and (7.3b) are generalised easily to a system of <i>n</i> particles, not necessarily lying ina plane, but distributed in space.", 
+"type": "none"
+}, 
+{
+"pre": "(7.3a) and (7.3b) are generalised easily to a system of <i>n</i> particles, not necessarily lying ina plane, but distributed in space.", 
+"post": "The index <i>i </i>runs from 1 to <i>n;</i> <i>m</i><i>i</i> is the mass of the <i>i</i> th particle and the position of the <i>i</i> th particle is given by (<i>x</i> i , <i>y</i> i , <i>z</i> i ).", 
+"main": "The centre of mass of such a system is at (<i>X, Y, Z </i>), where <i>i</i> <i>i</i> <i>m x</i> <i>X</i> <i>M</i> = \u2211 (7.4a) <i>i</i> <i>i</i> <i>my</i> <i>Y</i> <i>M</i> = \u2211 (7.4b) and <i>i</i> <i>i</i> <i>m z</i> <i>Z</i> <i>M</i> = \u2211 (7.4c) Here <i>M </i>= <i>i</i> <i>m</i> \u2211 is the total mass of the system.", 
+"type": "none"
+}, 
+{
+"pre": "The centre of mass of such a system is at (<i>X, Y, Z </i>), where <i>i</i> <i>i</i> <i>m x</i> <i>X</i> <i>M</i> = \u2211 (7.4a) <i>i</i> <i>i</i> <i>my</i> <i>Y</i> <i>M</i> = \u2211 (7.4b) and <i>i</i> <i>i</i> <i>m z</i> <i>Z</i> <i>M</i> = \u2211 (7.4c) Here <i>M </i>= <i>i</i> <i>m</i> \u2211 is the total mass of the system.", 
+"post": "Eqs.", 
+"main": "The index <i>i </i>runs from 1 to <i>n;</i> <i>m</i><i>i</i> is the mass of the <i>i</i> th particle and the position of the <i>i</i> th particle is given by (<i>x</i> i , <i>y</i> i , <i>z</i> i ).", 
+"type": "none"
+}, 
+{
+"pre": "The index <i>i </i>runs from 1 to <i>n;</i> <i>m</i><i>i</i> is the mass of the <i>i</i> th particle and the position of the <i>i</i> th particle is given by (<i>x</i> i , <i>y</i> i , <i>z</i> i ).", 
+"post": "(7.4a), (7.4b) and (7.4c) can be combined into one equation using the notation of position vectors.", 
+"main": "Eqs.", 
+"type": "none"
+}, 
+{
+"pre": "Eqs.", 
+"post": "Let <i>i</i><b>r</b> bethe position vector of the <i>i</i> th particle and <b>R </b>bethe position vector of the centre of mass: \u0001 <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>x</i> <i>y</i> <i>z</i> = + + <b>r</b> <b>i</b> <b>j</b> <b>k</b> \u0275 \u0275 and \u0001 <i>X</i> <i>Y</i> <i>Z</i> = + + <b>R</b> <b>i</b> <b>j</b> <b>k</b> \u0275 \u0275 Then <i>i i</i> <i>m</i> <i>M</i> = \u2211 <b>r</b> <b>R</b> (7.4d) The sum on the right hand side is a vector sum.", 
+"main": "(7.4a), (7.4b) and (7.4c) can be combined into one equation using the notation of position vectors.", 
+"type": "none"
+}, 
+{
+"pre": "(7.4a), (7.4b) and (7.4c) can be combined into one equation using the notation of position vectors.", 
+"post": "Note the economy of expressions we achieve by use of vectors.", 
+"main": "Let <i>i</i><b>r</b> bethe position vector of the <i>i</i> th particle and <b>R </b>bethe position vector of the centre of mass: \u0001 <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>x</i> <i>y</i> <i>z</i> = + + <b>r</b> <b>i</b> <b>j</b> <b>k</b> \u0275 \u0275 and \u0001 <i>X</i> <i>Y</i> <i>Z</i> = + + <b>R</b> <b>i</b> <b>j</b> <b>k</b> \u0275 \u0275 Then <i>i i</i> <i>m</i> <i>M</i> = \u2211 <b>r</b> <b>R</b> (7.4d) The sum on the right hand side is a vector sum.", 
+"type": "none"
+}, 
+{
+"pre": "Let <i>i</i><b>r</b> bethe position vector of the <i>i</i> th particle and <b>R </b>bethe position vector of the centre of mass: \u0001 <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>x</i> <i>y</i> <i>z</i> = + + <b>r</b> <b>i</b> <b>j</b> <b>k</b> \u0275 \u0275 and \u0001 <i>X</i> <i>Y</i> <i>Z</i> = + + <b>R</b> <b>i</b> <b>j</b> <b>k</b> \u0275 \u0275 Then <i>i i</i> <i>m</i> <i>M</i> = \u2211 <b>r</b> <b>R</b> (7.4d) The sum on the right hand side is a vector sum.", 
+"post": "If the origin of the frame of reference (the coordinate system) is chosen to bethe centre of mass then 0 <i>i i</i> <i>m</i> = \u2211 <b>r</b> for the given system of particles.", 
+"main": "Note the economy of expressions we achieve by use of vectors.", 
+"type": "none"
+}, 
+{
+"pre": "Note the economy of expressions we achieve by use of vectors.", 
+"post": "A rigid body, such as a metre stick ora flywheel, is a system of closely packed particles; Eqs.", 
+"main": "If the origin of the frame of reference (the coordinate system) is chosen to bethe centre of mass then 0 <i>i i</i> <i>m</i> = \u2211 <b>r</b> for the given system of particles.", 
+"type": "none"
+}, 
+{
+"pre": "If the origin of the frame of reference (the coordinate system) is chosen to bethe centre of mass then 0 <i>i i</i> <i>m</i> = \u2211 <b>r</b> for the given system of particles.", 
+"post": "(7.4a), (7.4b), (7.4c) and (7.4d) are therefore, applicable to a rigid body.", 
+"main": "A rigid body, such as a metre stick ora flywheel, is a system of closely packed particles; Eqs.", 
+"type": "none"
+}, 
+{
+"pre": "A rigid body, such as a metre stick ora flywheel, is a system of closely packed particles; Eqs.", 
+"post": "The number of particles (atoms or molecules) in such a body is so large that it is impossible to carryout the summations over individual particles in these equations.", 
+"main": "(7.4a), (7.4b), (7.4c) and (7.4d) are therefore, applicable to a rigid body.", 
+"type": "none"
+}, 
+{
+"pre": "(7.4a), (7.4b), (7.4c) and (7.4d) are therefore, applicable to a rigid body.", 
+"post": "Since the spacing of the particles is 2015-16(20/01/2015) 146 PHYSICS small, we can treat the body as a continuous distribution of mass.", 
+"main": "The number of particles (atoms or molecules) in such a body is so large that it is impossible to carryout the summations over individual particles in these equations.", 
+"type": "none"
+}, 
+{
+"pre": "The number of particles (atoms or molecules) in such a body is so large that it is impossible to carryout the summations over individual particles in these equations.", 
+"post": "We subdivide the body into <i>n </i>small elements of mass; \u2206<i>m</i> 1 , \u2206<i>m</i> 2 ...", 
+"main": "Since the spacing of the particles is 2015-16(20/01/2015) 146 PHYSICS small, we can treat the body as a continuous distribution of mass.", 
+"type": "none"
+}, 
+{
+"pre": "Since the spacing of the particles is 2015-16(20/01/2015) 146 PHYSICS small, we can treat the body as a continuous distribution of mass.", 
+"post": "\u2206<i>m</i> n ; the <i>i</i> th element \u2206<i>m</i> <i>i</i> is taken to be located about the point (<i>x</i> i , <i>y</i> i , <i>z</i> i ).", 
+"main": "We subdivide the body into <i>n </i>small elements of mass; \u2206<i>m</i> 1 , \u2206<i>m</i> 2 ...", 
+"type": "none"
+}, 
+{
+"pre": "We subdivide the body into <i>n </i>small elements of mass; \u2206<i>m</i> 1 , \u2206<i>m</i> 2 ...", 
+"post": "The coordinates of the centre of mass are then approximately given by ( ) ( ) ( ) , , <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>m x</i> <i>my</i> <i>m z</i> <i>X</i> <i>Y</i> <i>Z</i> <i>m</i> <i>m</i> <i>m</i> \u2206 \u2206 \u2206 = = = \u2206 \u2206 \u2206 \u2211 \u2211 \u2211 \u2211 \u2211 \u2211 As we make <i>n</i> bigger and bigger and each \u2206<i>m</i> <i>i</i> smaller and smaller, these expressions become exact.", 
+"main": "\u2206<i>m</i> n ; the <i>i</i> th element \u2206<i>m</i> <i>i</i> is taken to be located about the point (<i>x</i> i , <i>y</i> i , <i>z</i> i ).", 
+"type": "none"
+}, 
+{
+"pre": "\u2206<i>m</i> n ; the <i>i</i> th element \u2206<i>m</i> <i>i</i> is taken to be located about the point (<i>x</i> i , <i>y</i> i , <i>z</i> i ).", 
+"post": "In that case, we denote the sums over <i>i</i> by integrals.", 
+"main": "The coordinates of the centre of mass are then approximately given by ( ) ( ) ( ) , , <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>m x</i> <i>my</i> <i>m z</i> <i>X</i> <i>Y</i> <i>Z</i> <i>m</i> <i>m</i> <i>m</i> \u2206 \u2206 \u2206 = = = \u2206 \u2206 \u2206 \u2211 \u2211 \u2211 \u2211 \u2211 \u2211 As we make <i>n</i> bigger and bigger and each \u2206<i>m</i> <i>i</i> smaller and smaller, these expressions become exact.", 
+"type": "none"
+}, 
+{
+"pre": "The coordinates of the centre of mass are then approximately given by ( ) ( ) ( ) , , <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>i</i> <i>m x</i> <i>my</i> <i>m z</i> <i>X</i> <i>Y</i> <i>Z</i> <i>m</i> <i>m</i> <i>m</i> \u2206 \u2206 \u2206 = = = \u2206 \u2206 \u2206 \u2211 \u2211 \u2211 \u2211 \u2211 \u2211 As we make <i>n</i> bigger and bigger and each \u2206<i>m</i> <i>i</i> smaller and smaller, these expressions become exact.", 
+"post": "Thus, d , <i>i</i> <i>m</i> <i>m</i> <i>M</i> \u2206 \u2192 = \u2211 \u222b ( ) d , <i>i</i> <i>i</i> <i>m x</i> <i>x m</i> \u2206 \u2192 \u2211 \u222b ( ) d , <i>i</i> <i>i</i> <i>my</i> <i>y m</i> \u2206 \u2192 \u2211 \u222b and ( ) d<i>i</i> <i>i</i> <i>m z</i> <i>z m</i> \u2206 \u2192 \u2211 \u222b Here <i>M</i> is the total mass of the body.", 
+"main": "In that case, we denote the sums over <i>i</i> by integrals.", 
+"type": "none"
+}, 
+{
+"pre": "In that case, we denote the sums over <i>i</i> by integrals.", 
+"post": "The coordinates of the centre of mass now are and 1 1 1 d , d d <i>X</i> <i>x mY</i> <i>y m</i> <i>Z</i> <i>z m</i> <i>M</i> <i>M</i> <i>M</i> = = = \u222b \u222b \u222b (7.5a) The vector expression equivalent to these three scalar expressions is 1 d<i>m</i> <i>M</i> = \u222b <b>R</b> <b>r</b> (7.5b) If we choose, the centre of mass as the origin of our coordinate system, = <b>R</b> <b>0</b> i.e., d<i>m </i>= \u222b <b>r</b> <b>0</b> or d d d 0 <i>x m</i><i>y m</i> <i>z m</i> = = = \u222b \u222b \u222b (7.6) Often we have to calculate the centre of mass of homogeneous bodies of regular shapes like rings, discs, spheres, rods etc.", 
+"main": "Thus, d , <i>i</i> <i>m</i> <i>m</i> <i>M</i> \u2206 \u2192 = \u2211 \u222b ( ) d , <i>i</i> <i>i</i> <i>m x</i> <i>x m</i> \u2206 \u2192 \u2211 \u222b ( ) d , <i>i</i> <i>i</i> <i>my</i> <i>y m</i> \u2206 \u2192 \u2211 \u222b and ( ) d<i>i</i> <i>i</i> <i>m z</i> <i>z m</i> \u2206 \u2192 \u2211 \u222b Here <i>M</i> is the total mass of the body.", 
+"type": "none"
+}, 
+{
+"pre": "Thus, d , <i>i</i> <i>m</i> <i>m</i> <i>M</i> \u2206 \u2192 = \u2211 \u222b ( ) d , <i>i</i> <i>i</i> <i>m x</i> <i>x m</i> \u2206 \u2192 \u2211 \u222b ( ) d , <i>i</i> <i>i</i> <i>my</i> <i>y m</i> \u2206 \u2192 \u2211 \u222b and ( ) d<i>i</i> <i>i</i> <i>m z</i> <i>z m</i> \u2206 \u2192 \u2211 \u222b Here <i>M</i> is the total mass of the body.", 
+"post": "(By a homogeneous body we mean a body with uniformly distributed mass.) By using symmetry consideration, we can easily show that the centres of mass of these bodies lie at their geometric centres.", 
+"main": "The coordinates of the centre of mass now are and 1 1 1 d , d d <i>X</i> <i>x mY</i> <i>y m</i> <i>Z</i> <i>z m</i> <i>M</i> <i>M</i> <i>M</i> = = = \u222b \u222b \u222b (7.5a) The vector expression equivalent to these three scalar expressions is 1 d<i>m</i> <i>M</i> = \u222b <b>R</b> <b>r</b> (7.5b) If we choose, the centre of mass as the origin of our coordinate system, = <b>R</b> <b>0</b> i.e., d<i>m </i>= \u222b <b>r</b> <b>0</b> or d d d 0 <i>x m</i><i>y m</i> <i>z m</i> = = = \u222b \u222b \u222b (7.6) Often we have to calculate the centre of mass of homogeneous bodies of regular shapes like rings, discs, spheres, rods etc.", 
+"type": "none"
+}, 
+{
+"pre": "The coordinates of the centre of mass now are and 1 1 1 d , d d <i>X</i> <i>x mY</i> <i>y m</i> <i>Z</i> <i>z m</i> <i>M</i> <i>M</i> <i>M</i> = = = \u222b \u222b \u222b (7.5a) The vector expression equivalent to these three scalar expressions is 1 d<i>m</i> <i>M</i> = \u222b <b>R</b> <b>r</b> (7.5b) If we choose, the centre of mass as the origin of our coordinate system, = <b>R</b> <b>0</b> i.e., d<i>m </i>= \u222b <b>r</b> <b>0</b> or d d d 0 <i>x m</i><i>y m</i> <i>z m</i> = = = \u222b \u222b \u222b (7.6) Often we have to calculate the centre of mass of homogeneous bodies of regular shapes like rings, discs, spheres, rods etc.", 
+"post": "Let us consider a thin rod, whose width and breath (in case the cross section of the rod is rectangular) or radius (in case the cross section of the rod is cylindrical) is much smaller than its length.", 
+"main": "(By a homogeneous body we mean a body with uniformly distributed mass.) By using symmetry consideration, we can easily show that the centres of mass of these bodies lie at their geometric centres.", 
+"type": "none"
+}, 
+{
+"pre": "(By a homogeneous body we mean a body with uniformly distributed mass.) By using symmetry consideration, we can easily show that the centres of mass of these bodies lie at their geometric centres.", 
+"post": "Taking the origin to beat the geometric centre of the rod and <i>x</i>-axis to be along the length of the rod, we can say that on account of reflection symmetry, for every element <i>dm</i> of the rod at <i>x</i>, there is an element of the same mass <i>dm</i> located at \u2013<i>x</i> (Fig. 7.8).", 
+"main": "Let us consider a thin rod, whose width and breath (in case the cross section of the rod is rectangular) or radius (in case the cross section of the rod is cylindrical) is much smaller than its length.", 
+"type": "none"
+}, 
+{
+"pre": "Let us consider a thin rod, whose width and breath (in case the cross section of the rod is rectangular) or radius (in case the cross section of the rod is cylindrical) is much smaller than its length.", 
+"post": "The net contribution of every such pair to the integral and hence the integral d <i>x m</i> \u222b itself is zero.", 
+"main": "Taking the origin to beat the geometric centre of the rod and <i>x</i>-axis to be along the length of the rod, we can say that on account of reflection symmetry, for every element <i>dm</i> of the rod at <i>x</i>, there is an element of the same mass <i>dm</i> located at \u2013<i>x</i> (Fig. 7.8).", 
+"type": "none"
+}, 
+{
+"pre": "Taking the origin to beat the geometric centre of the rod and <i>x</i>-axis to be along the length of the rod, we can say that on account of reflection symmetry, for every element <i>dm</i> of the rod at <i>x</i>, there is an element of the same mass <i>dm</i> located at \u2013<i>x</i> (Fig. 7.8).", 
+"post": "From Eq. (7.6), the point for which the integral itself is zero, is the centre of mass.", 
+"main": "The net contribution of every such pair to the integral and hence the integral d <i>x m</i> \u222b itself is zero.", 
+"type": "none"
+}, 
+{
+"pre": "The net contribution of every such pair to the integral and hence the integral d <i>x m</i> \u222b itself is zero.", 
+"post": "Thus, the centre of mass of a homogenous thin rod coincides with its geometric centre.", 
+"main": "From Eq. (7.6), the point for which the integral itself is zero, is the centre of mass.", 
+"type": "none"
+}, 
+{
+"pre": "From Eq. (7.6), the point for which the integral itself is zero, is the centre of mass.", 
+"post": "This can be understood on the basis of reflection symmetry.", 
+"main": "Thus, the centre of mass of a homogenous thin rod coincides with its geometric centre.", 
+"type": "none"
+}, 
+{
+"pre": "Thus, the centre of mass of a homogenous thin rod coincides with its geometric centre.", 
+"post": "The same symmetry argument will apply to homogeneous rings, discs, spheres, or even thick rods of circular or rectangular cross section.", 
+"main": "This can be understood on the basis of reflection symmetry.", 
+"type": "none"
+}, 
+{
+"pre": "This can be understood on the basis of reflection symmetry.", 
+"post": "For all such bodies you will realise that for every element<i> dm</i> at a point (<i>x, y, z </i>) one can always take an element of the same mass at the point (\u2013<i>x, \u2013y, \u2013z </i>).", 
+"main": "The same symmetry argument will apply to homogeneous rings, discs, spheres, or even thick rods of circular or rectangular cross section.", 
+"type": "none"
+}, 
+{
+"pre": "The same symmetry argument will apply to homogeneous rings, discs, spheres, or even thick rods of circular or rectangular cross section.", 
+"post": "(In other words, the origin is a point of reflection symmetry for these bodies.) As a result, the integrals in Eq. (7.5 a) all are zero.", 
+"main": "For all such bodies you will realise that for every element<i> dm</i> at a point (<i>x, y, z </i>) one can always take an element of the same mass at the point (\u2013<i>x, \u2013y, \u2013z </i>).", 
+"type": "none"
+}, 
+{
+"pre": "For all such bodies you will realise that for every element<i> dm</i> at a point (<i>x, y, z </i>) one can always take an element of the same mass at the point (\u2013<i>x, \u2013y, \u2013z </i>).", 
+"post": "This means that for all the above bodies, their centre of mass coincides with their geometric centre.", 
+"main": "(In other words, the origin is a point of reflection symmetry for these bodies.) As a result, the integrals in Eq. (7.5 a) all are zero.", 
+"type": "none"
+}, 
+{
+"pre": "(In other words, the origin is a point of reflection symmetry for these bodies.) As a result, the integrals in Eq. (7.5 a) all are zero.", 
+"post": "<i><b>Example 7.1</b></i> Find the centre of mass of three particles at the vertices of an equilateral triangle.", 
+"main": "This means that for all the above bodies, their centre of mass coincides with their geometric centre.", 
+"type": "none"
+}, 
+{
+"pre": "This means that for all the above bodies, their centre of mass coincides with their geometric centre.", 
+"post": "The masses of the particles are 100g, 150g, and 200g respectively.", 
+"main": "<i><b>Example 7.1</b></i> Find the centre of mass of three particles at the vertices of an equilateral triangle.", 
+"type": "none"
+}, 
+{
+"pre": "<i><b>Example 7.1</b></i> Find the centre of mass of three particles at the vertices of an equilateral triangle.", 
+"post": "Each side of the equilateral triangle is 0.5m long.", 
+"main": "The masses of the particles are 100g, 150g, and 200g respectively.", 
+"type": "none"
+}, 
+{
+"pre": "The masses of the particles are 100g, 150g, and 200g respectively.", 
+"post": "<i><b>Answer</b></i> <i><b>Fig. 7.9</b></i> <i><b>Fig. 7.8</b></i> <i>Determining the CM of a thin r od.</i> u 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 147 u u With the <i>x \u2013 </i>and <i>y\u2013 </i>axes chosen as shown in Fig. 7.9, the coordinates of points O, A and B forming the equilateral triangle are respectively (0,0), (0.5,0), (0.25,0.25 3 ).", 
+"main": "Each side of the equilateral triangle is 0.5m long.", 
+"type": "none"
+}, 
+{
+"pre": "Each side of the equilateral triangle is 0.5m long.", 
+"post": "Let the masses 100 g, 150g and 200g be located at O, A and B be respectively.", 
+"main": "<i><b>Answer</b></i> <i><b>Fig. 7.9</b></i> <i><b>Fig. 7.8</b></i> <i>Determining the CM of a thin r od.</i> u 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 147 u u With the <i>x \u2013 </i>and <i>y\u2013 </i>axes chosen as shown in Fig. 7.9, the coordinates of points O, A and B forming the equilateral triangle are respectively (0,0), (0.5,0), (0.25,0.25 3 ).", 
+"type": "none"
+}, 
+{
+"pre": "<i><b>Answer</b></i> <i><b>Fig. 7.9</b></i> <i><b>Fig. 7.8</b></i> <i>Determining the CM of a thin r od.</i> u 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 147 u u With the <i>x \u2013 </i>and <i>y\u2013 </i>axes chosen as shown in Fig. 7.9, the coordinates of points O, A and B forming the equilateral triangle are respectively (0,0), (0.5,0), (0.25,0.25 3 ).", 
+"post": "Then, 1 1 2 2 3 3 1 2 3 <i>m x</i> <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> <i>m</i> + + = + + ( ) 100 0 150(0.5) 200(0.25) g m (100 150 200) g + + \uf8ee \uf8f9 \uf8f0 \uf8fb = + + 75 50 125 5 m m m 450 450 18 + = = = 100( 0) 150(0) 200(0.25 3) g m 450 g <i>Y</i> \uf8ee \uf8f9 + + \uf8f0 \uf8fb = 50 3 3 1 m m m 450 9 3 3 = = = The centre of mass C is shown in the figure.", 
+"main": "Let the masses 100 g, 150g and 200g be located at O, A and B be respectively.", 
+"type": "none"
+}, 
+{
+"pre": "Let the masses 100 g, 150g and 200g be located at O, A and B be respectively.", 
+"post": "Note that it is not the geometric centre of the triangle OAB.", 
+"main": "Then, 1 1 2 2 3 3 1 2 3 <i>m x</i> <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> <i>m</i> + + = + + ( ) 100 0 150(0.5) 200(0.25) g m (100 150 200) g + + \uf8ee \uf8f9 \uf8f0 \uf8fb = + + 75 50 125 5 m m m 450 450 18 + = = = 100( 0) 150(0) 200(0.25 3) g m 450 g <i>Y</i> \uf8ee \uf8f9 + + \uf8f0 \uf8fb = 50 3 3 1 m m m 450 9 3 3 = = = The centre of mass C is shown in the figure.", 
+"type": "none"
+}, 
+{
+"pre": "Then, 1 1 2 2 3 3 1 2 3 <i>m x</i> <i>m x</i> <i>m x</i> <i>X</i> <i>m</i> <i>m</i> <i>m</i> + + = + + ( ) 100 0 150(0.5) 200(0.25) g m (100 150 200) g + + \uf8ee \uf8f9 \uf8f0 \uf8fb = + + 75 50 125 5 m m m 450 450 18 + = = = 100( 0) 150(0) 200(0.25 3) g m 450 g <i>Y</i> \uf8ee \uf8f9 + + \uf8f0 \uf8fb = 50 3 3 1 m m m 450 9 3 3 = = = The centre of mass C is shown in the figure.", 
+"post": "Why?", 
+"main": "Note that it is not the geometric centre of the triangle OAB.", 
+"type": "none"
+}, 
+{
+"pre": "Note that it is not the geometric centre of the triangle OAB.", 
+"post": "\u22b3 <i><b>Example 7.2</b></i> Find the centre of mass of a triangular lamina.", 
+"main": "Why?", 
+"type": "none"
+}, 
+{
+"pre": "Why?", 
+"post": "<i><b>Answer</b></i> The lamina ( \u2206<i>LMN </i>) maybe subdivided into narrow strips each parallel to the base <i>( MN)</i> as shown in Fig. 7.10 <i><b>Fig. 7.10</b></i> By symmetry each strip has its centre of mass at its midpoint.", 
+"main": "\u22b3 <i><b>Example 7.2</b></i> Find the centre of mass of a triangular lamina.", 
+"type": "none"
+}, 
+{
+"pre": "\u22b3 <i><b>Example 7.2</b></i> Find the centre of mass of a triangular lamina.", 
+"post": "If we join the midpoint of all the strips we get the median LP.", 
+"main": "<i><b>Answer</b></i> The lamina ( \u2206<i>LMN </i>) maybe subdivided into narrow strips each parallel to the base <i>( MN)</i> as shown in Fig. 7.10 <i><b>Fig. 7.10</b></i> By symmetry each strip has its centre of mass at its midpoint.", 
+"type": "none"
+}, 
+{
+"pre": "<i><b>Answer</b></i> The lamina ( \u2206<i>LMN </i>) maybe subdivided into narrow strips each parallel to the base <i>( MN)</i> as shown in Fig. 7.10 <i><b>Fig. 7.10</b></i> By symmetry each strip has its centre of mass at its midpoint.", 
+"post": "The centre of mass of the triangle as a whole therefore, has to lie on the median LP.", 
+"main": "If we join the midpoint of all the strips we get the median LP.", 
+"type": "none"
+}, 
+{
+"pre": "If we join the midpoint of all the strips we get the median LP.", 
+"post": "Similarly, we can argue that it lies on the median MQ and NR.", 
+"main": "The centre of mass of the triangle as a whole therefore, has to lie on the median LP.", 
+"type": "none"
+}, 
+{
+"pre": "The centre of mass of the triangle as a whole therefore, has to lie on the median LP.", 
+"post": "This means the centre of mass lies on the point of concurrence of the medians, i.e. on the centr oid G of the triangle.", 
+"main": "Similarly, we can argue that it lies on the median MQ and NR.", 
+"type": "none"
+}, 
+{
+"pre": "Similarly, we can argue that it lies on the median MQ and NR.", 
+"post": "\u22b3 <i><b>Example 7.3 </b></i>Find the centre of mass of a uniform L-shaped lamina (a thin flat plate) with dimensions as shown.", 
+"main": "This means the centre of mass lies on the point of concurrence of the medians, i.e. on the centr oid G of the triangle.", 
+"type": "none"
+}, 
+{
+"pre": "This means the centre of mass lies on the point of concurrence of the medians, i.e. on the centr oid G of the triangle.", 
+"post": "The mass of the lamina is 3 kg.", 
+"main": "\u22b3 <i><b>Example 7.3 </b></i>Find the centre of mass of a uniform L-shaped lamina (a thin flat plate) with dimensions as shown.", 
+"type": "none"
+}, 
+{
+"pre": "\u22b3 <i><b>Example 7.3 </b></i>Find the centre of mass of a uniform L-shaped lamina (a thin flat plate) with dimensions as shown.", 
+"post": "<i><b>Answer</b></i> Choosing the <i>X</i> and<i>Y </i>axes as shown in Fig. 7.11 we have the coordinates of the vertices of the L-shaped lamina as given in the figur e.", 
+"main": "The mass of the lamina is 3 kg.", 
+"type": "none"
+}, 
+{
+"pre": "The mass of the lamina is 3 kg.", 
+"post": "We can think of the L-shape to consist of 3 squares each of length 1m.", 
+"main": "<i><b>Answer</b></i> Choosing the <i>X</i> and<i>Y </i>axes as shown in Fig. 7.11 we have the coordinates of the vertices of the L-shaped lamina as given in the figur e.", 
+"type": "none"
+}, 
+{
+"pre": "<i><b>Answer</b></i> Choosing the <i>X</i> and<i>Y </i>axes as shown in Fig. 7.11 we have the coordinates of the vertices of the L-shaped lamina as given in the figur e.", 
+"post": "The mass of each square is 1kg, since the lamina is uniform.", 
+"main": "We can think of the L-shape to consist of 3 squares each of length 1m.", 
+"type": "none"
+}, 
+{
+"pre": "We can think of the L-shape to consist of 3 squares each of length 1m.", 
+"post": "The centres of mass C 1 , C 2 and C 3 of the squares ar e, by symmetry, their geometric centres and have coordinates (1/2,1/2), (3/2,1/2), (1/2,3/2) respectively.", 
+"main": "The mass of each square is 1kg, since the lamina is uniform.", 
+"type": "none"
+}, 
+{
+"pre": "The mass of each square is 1kg, since the lamina is uniform.", 
+"post": "We take the masses of the squares to be concentrated at these points.", 
+"main": "The centres of mass C 1 , C 2 and C 3 of the squares ar e, by symmetry, their geometric centres and have coordinates (1/2,1/2), (3/2,1/2), (1/2,3/2) respectively.", 
+"type": "none"
+}, 
+{
+"pre": "The centres of mass C 1 , C 2 and C 3 of the squares ar e, by symmetry, their geometric centres and have coordinates (1/2,1/2), (3/2,1/2), (1/2,3/2) respectively.", 
+"post": "The centre of mass of the whole L shape (<i>X</i>,<i> Y</i>) is the centre of mass of these mass points.", 
+"main": "We take the masses of the squares to be concentrated at these points.", 
+"type": "none"
+}, 
+{
+"pre": "We take the masses of the squares to be concentrated at these points.", 
+"post": "<i><b>Fig. 7.11</b></i> Hence [ ] ( ) 1(1/ 2) 1(3/ 2) 1(1/ 2) kg m 1 1 1 kg <i>X</i> + + = + + 5 m 6 = [ ] ( ) 1(1/ 2) 1(1/ 2) 1(3/ 2) kg m 5 m 1 1 1 kg 6 <i>Y</i> \uf8ee \uf8f9 + + \uf8f0 \uf8fb = = + + The centre of mass of the L-shape lies on the line OD.", 
+"main": "The centre of mass of the whole L shape (<i>X</i>,<i> Y</i>) is the centre of mass of these mass points.", 
+"type": "none"
+}, 
+{
+"pre": "The centre of mass of the whole L shape (<i>X</i>,<i> Y</i>) is the centre of mass of these mass points.", 
+"post": "We could have guessed this without calculations.", 
+"main": "<i><b>Fig. 7.11</b></i> Hence [ ] ( ) 1(1/ 2) 1(3/ 2) 1(1/ 2) kg m 1 1 1 kg <i>X</i> + + = + + 5 m 6 = [ ] ( ) 1(1/ 2) 1(1/ 2) 1(3/ 2) kg m 5 m 1 1 1 kg 6 <i>Y</i> \uf8ee \uf8f9 + + \uf8f0 \uf8fb = = + + The centre of mass of the L-shape lies on the line OD.", 
+"type": "none"
+}, 
+{
+"pre": "<i><b>Fig. 7.11</b></i> Hence [ ] ( ) 1(1/ 2) 1(3/ 2) 1(1/ 2) kg m 1 1 1 kg <i>X</i> + + = + + 5 m 6 = [ ] ( ) 1(1/ 2) 1(1/ 2) 1(3/ 2) kg m 5 m 1 1 1 kg 6 <i>Y</i> \uf8ee \uf8f9 + + \uf8f0 \uf8fb = = + + The centre of mass of the L-shape lies on the line OD.", 
+"post": "Can you tell why?", 
+"main": "We could have guessed this without calculations.", 
+"type": "none"
+}, 
+{
+"pre": "We could have guessed this without calculations.", 
+"post": "Suppose, the three squares that makeup the L shaped lamina 2015-16(20/01/2015) 148 PHYSICS of Fig. 7.11 had different masses.", 
+"main": "Can you tell why?", 
+"type": "none"
+}, 
+{
+"pre": "Can you tell why?", 
+"post": "How will you then determine the centre of mass of the lamina?", 
+"main": "Suppose, the three squares that makeup the L shaped lamina 2015-16(20/01/2015) 148 PHYSICS of Fig. 7.11 had different masses.", 
+"type": "none"
+}, 
+{
+"pre": "Suppose, the three squares that makeup the L shaped lamina 2015-16(20/01/2015) 148 PHYSICS of Fig. 7.11 had different masses.", 
+"post": "\u22b3 <b>7.3 </b> <b>MOTION OF CENTRE OF MASS</b> Equipped with the definition of the centre of mass, we are now ina position to discuss its physical importance fora system of particles.", 
+"main": "How will you then determine the centre of mass of the lamina?", 
+"type": "none"
+}, 
+{
+"pre": "How will you then determine the centre of mass of the lamina?", 
+"post": "We may rewrite Eq.(7.4d) as 1 1 2 2 ...", 
+"main": "\u22b3 <b>7.3 </b> <b>MOTION OF CENTRE OF MASS</b> Equipped with the definition of the centre of mass, we are now ina position to discuss its physical importance fora system of particles.", 
+"type": "none"
+}, 
+{
+"pre": "\u22b3 <b>7.3 </b> <b>MOTION OF CENTRE OF MASS</b> Equipped with the definition of the centre of mass, we are now ina position to discuss its physical importance fora system of particles.", 
+"post": "<i>i i</i><i>n n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i> <i>m</i> = = + + + \u2211 <b>R</b> <b>r</b> <b>r</b> <b>r</b> <b>r</b> (7.7) Differentiating the two sides of the equation with respect to time we get 1 2 1 2 d d d d ...", 
+"main": "We may rewrite Eq.(7.4d) as 1 1 2 2 ...", 
+"type": "none"
+}, 
+{
+"pre": "We may rewrite Eq.(7.4d) as 1 1 2 2 ...", 
+"post": "d d d <i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i><i>t</i> <i>t</i> <i>t</i> <i>dt</i> = + + + <b>r</b> <b>r</b> <b>r</b> <b>R</b> or 1 1 2 2 ...", 
+"main": "<i>i i</i><i>n n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i> <i>m</i> = = + + + \u2211 <b>R</b> <b>r</b> <b>r</b> <b>r</b> <b>r</b> (7.7) Differentiating the two sides of the equation with respect to time we get 1 2 1 2 d d d d ...", 
+"type": "definition"
+}, 
+{
+"pre": "<i>i i</i><i>n n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i> <i>m</i> = = + + + \u2211 <b>R</b> <b>r</b> <b>r</b> <b>r</b> <b>r</b> (7.7) Differentiating the two sides of the equation with respect to time we get 1 2 1 2 d d d d ...", 
+"post": "<i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i> = + + + <b>V</b> <b>v</b> <b>v</b> <b>v</b> (7.8) where ( ) 1 1 d / d<i>t</i> = <b>v</b> <b>r</b> is the velocity of the first particle ( ) 2 2 <i>d</i> <i>dt</i> = <b>v</b> <b>r</b> is the velocity of the second particle etc.", 
+"main": "d d d <i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i><i>t</i> <i>t</i> <i>t</i> <i>dt</i> = + + + <b>r</b> <b>r</b> <b>r</b> <b>R</b> or 1 1 2 2 ...", 
+"type": "definition"
+}, 
+{
+"pre": "d d d <i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i><i>t</i> <i>t</i> <i>t</i> <i>dt</i> = + + + <b>r</b> <b>r</b> <b>r</b> <b>R</b> or 1 1 2 2 ...", 
+"post": "and d / d<i>t</i> = <b>V</b> <b>R</b> is the velocity of the centre of mass.", 
+"main": "<i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i> = + + + <b>V</b> <b>v</b> <b>v</b> <b>v</b> (7.8) where ( ) 1 1 d / d<i>t</i> = <b>v</b> <b>r</b> is the velocity of the first particle ( ) 2 2 <i>d</i> <i>dt</i> = <b>v</b> <b>r</b> is the velocity of the second particle etc.", 
+"type": "definition"
+}, 
+{
+"pre": "<i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i> = + + + <b>V</b> <b>v</b> <b>v</b> <b>v</b> (7.8) where ( ) 1 1 d / d<i>t</i> = <b>v</b> <b>r</b> is the velocity of the first particle ( ) 2 2 <i>d</i> <i>dt</i> = <b>v</b> <b>r</b> is the velocity of the second particle etc.", 
+"post": "Note that we assumed the masses <i>m</i> 1 , <i>m</i> 2 , ...", 
+"main": "and d / d<i>t</i> = <b>V</b> <b>R</b> is the velocity of the centre of mass.", 
+"type": "definition"
+}, 
+{
+"pre": "and d / d<i>t</i> = <b>V</b> <b>R</b> is the velocity of the centre of mass.", 
+"post": "etc.", 
+"main": "Note that we assumed the masses <i>m</i> 1 , <i>m</i> 2 , ...", 
+"type": "none"
+}, 
+{
+"pre": "Note that we assumed the masses <i>m</i> 1 , <i>m</i> 2 , ...", 
+"post": "do not change in time.", 
+"main": "etc.", 
+"type": "none"
+}, 
+{
+"pre": "etc.", 
+"post": "We have therefor e, treated them as constants in differentiating the equations with respect to time.", 
+"main": "do not change in time.", 
+"type": "none"
+}, 
+{
+"pre": "do not change in time.", 
+"post": "Differentiating Eq.(7.8) with respect to time, we obtain 1 2 1 2 d d d d ...", 
+"main": "We have therefor e, treated them as constants in differentiating the equations with respect to time.", 
+"type": "none"
+}, 
+{
+"pre": "We have therefor e, treated them as constants in differentiating the equations with respect to time.", 
+"post": "d d d d <i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i><i>t</i> <i>t</i> <i>t</i> <i>t</i> = + + + <b>v</b> <b>v</b> <b>v</b> <b>V</b> or 1 1 2 2 ...", 
+"main": "Differentiating Eq.(7.8) with respect to time, we obtain 1 2 1 2 d d d d ...", 
+"type": "definition"
+}, 
+{
+"pre": "Differentiating Eq.(7.8) with respect to time, we obtain 1 2 1 2 d d d d ...", 
+"post": "<i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i> = + + + <b>A</b> <b>a</b> <b>a</b> <b>a</b> (7.9) where ( ) 1 1 d / d<i>t</i> = <b>a</b><b>v</b> is the acceleration of the first particle, ( ) 2 2 d / d<i>t</i> = <b>a</b><b>v</b> is the acceleration of the second particle etc.", 
+"main": "d d d d <i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i><i>t</i> <i>t</i> <i>t</i> <i>t</i> = + + + <b>v</b> <b>v</b> <b>v</b> <b>V</b> or 1 1 2 2 ...", 
+"type": "definition"
+}, 
+{
+"pre": "d d d d <i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i><i>t</i> <i>t</i> <i>t</i> <i>t</i> = + + + <b>v</b> <b>v</b> <b>v</b> <b>V</b> or 1 1 2 2 ...", 
+"post": "and ( ) d / d<i>t</i> = <b>A</b><b>V</b> is the acceleration of the centre of mass of the system of particles.", 
+"main": "<i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i> = + + + <b>A</b> <b>a</b> <b>a</b> <b>a</b> (7.9) where ( ) 1 1 d / d<i>t</i> = <b>a</b><b>v</b> is the acceleration of the first particle, ( ) 2 2 d / d<i>t</i> = <b>a</b><b>v</b> is the acceleration of the second particle etc.", 
+"type": "definition"
+}, 
+{
+"pre": "<i>n</i> <i>n</i> <i>M</i> <i>m</i> <i>m</i> <i>m</i> = + + + <b>A</b> <b>a</b> <b>a</b> <b>a</b> (7.9) where ( ) 1 1 d / d<i>t</i> = <b>a</b><b>v</b> is the acceleration of the first particle, ( ) 2 2 d / d<i>t</i> = <b>a</b><b>v</b> is the acceleration of the second particle etc.", 
+"post": "Now, from Newton\u2019s second law, the force acting on the first particle is given by 1 1 1 <i>m</i> = <b>F</b><b>a</b> .", 
+"main": "and ( ) d / d<i>t</i> = <b>A</b><b>V</b> is the acceleration of the centre of mass of the system of particles.", 
+"type": "definition"
+}, 
+{
+"pre": "and ( ) d / d<i>t</i> = <b>A</b><b>V</b> is the acceleration of the centre of mass of the system of particles.", 
+"post": "The force acting on the second particle is given by 2 2 2 <i>m</i> = <b>F</b><b>a</b> and so on.", 
+"main": "Now, from Newton\u2019s second law, the force acting on the first particle is given by 1 1 1 <i>m</i> = <b>F</b><b>a</b> .", 
+"type": "none"
+}, 
+{
+"pre": "Now, from Newton\u2019s second law, the force acting on the first particle is given by 1 1 1 <i>m</i> = <b>F</b><b>a</b> .", 
+"post": "Eq. (7.9) maybe written as 1 2 ...", 
+"main": "The force acting on the second particle is given by 2 2 2 <i>m</i> = <b>F</b><b>a</b> and so on.", 
+"type": "none"
+}, 
+{
+"pre": "The force acting on the second particle is given by 2 2 2 <i>m</i> = <b>F</b><b>a</b> and so on.", 
+"post": "<i>n</i> <i>M </i>= + + + <b>A</b> <b>F</b> <b>F</b> <b>F</b> (7.10) Thus, the total mass of a system of particles times the acceleration of its centre of mass is the vector sum of all the forces acting on the system of particles.", 
+"main": "Eq. (7.9) maybe written as 1 2 ...", 
+"type": "none"
+}, 
+{
+"pre": "Eq. (7.9) maybe written as 1 2 ...", 
+"post": "Note when we talk of the force 1 <b>F</b> on the first particle, it is not a single force, but the vector sum of all the forces on the first particle; likewise for the second particle etc.", 
+"main": "<i>n</i> <i>M </i>= + + + <b>A</b> <b>F</b> <b>F</b> <b>F</b> (7.10) Thus, the total mass of a system of particles times the acceleration of its centre of mass is the vector sum of all the forces acting on the system of particles.", 
+"type": "none"
+}, 
+{
+"pre": "<i>n</i> <i>M </i>= + + + <b>A</b> <b>F</b> <b>F</b> <b>F</b> (7.10) Thus, the total mass of a system of particles times the acceleration of its centre of mass is the vector sum of all the forces acting on the system of particles.", 
+"post": "Among these forces on each particle there will be <b>external</b> forces exerted by bodies outside the system and also <b>internal</b> forces exerted by the particles on one another.", 
+"main": "Note when we talk of the force 1 <b>F</b> on the first particle, it is not a single force, but the vector sum of all the forces on the first particle; likewise for the second particle etc.", 
+"type": "none"
+}, 
+{
+"pre": "Note when we talk of the force 1 <b>F</b> on the first particle, it is not a single force, but the vector sum of all the forces on the first particle; likewise for the second particle etc.", 
+"post": "We know from Newton\u2019s third law that these internal forces occur in equal and opposite pairs and in the sum of forces of Eq. (7.10), their contribution is zero.", 
+"main": "Among these forces on each particle there will be <b>external</b> forces exerted by bodies outside the system and also <b>internal</b> forces exerted by the particles on one another.", 
+"type": "definition"
+}, 
+{
+"pre": "Among these forces on each particle there will be <b>external</b> forces exerted by bodies outside the system and also <b>internal</b> forces exerted by the particles on one another.", 
+"post": "Only the external forces contribute to the equation.", 
+"main": "We know from Newton\u2019s third law that these internal forces occur in equal and opposite pairs and in the sum of forces of Eq. (7.10), their contribution is zero.", 
+"type": "none"
+}, 
+{
+"pre": "We know from Newton\u2019s third law that these internal forces occur in equal and opposite pairs and in the sum of forces of Eq. (7.10), their contribution is zero.", 
+"post": "We can then rewrite Eq. (7.10) as <i>ext</i> <i>M </i>= <b>A</b> <b>F</b> (7.11) where <i>e xt</i> <b>F</b> represents the sum of all external forces acting on the particles of the system.", 
+"main": "Only the external forces contribute to the equation.", 
+"type": "none"
+}, 
+{
+"pre": "Only the external forces contribute to the equation.", 
+"post": "Eq. (7.11) states that <b>the centre of mass</b> <b>of a system of particles moves as if all the</b> <b>mass of the</b><i> </i><b>system was concentrated at the</b> <b>centre of mass and all the external forces</b> <b>were applied at that point.</b> Notice, to determine the motion of the centre of mass no knowledge of internal forces of the system of particles is requir ed; for this purpose we need to know only the external forces.", 
+"main": "We can then rewrite Eq. (7.10) as <i>ext</i> <i>M </i>= <b>A</b> <b>F</b> (7.11) where <i>e xt</i> <b>F</b> represents the sum of all external forces acting on the particles of the system.", 
+"type": "none"
+}, 
+{
+"pre": "We can then rewrite Eq. (7.10) as <i>ext</i> <i>M </i>= <b>A</b> <b>F</b> (7.11) where <i>e xt</i> <b>F</b> represents the sum of all external forces acting on the particles of the system.", 
+"post": "To obtain Eq. (7.11) we did not need to specify the nature of the system of particles.", 
+"main": "Eq. (7.11) states that <b>the centre of mass</b> <b>of a system of particles moves as if all the</b> <b>mass of the</b><i> </i><b>system was concentrated at the</b> <b>centre of mass and all the external forces</b> <b>were applied at that point.</b> Notice, to determine the motion of the centre of mass no knowledge of internal forces of the system of particles is requir ed; for this purpose we need to know only the external forces.", 
+"type": "law"
+}, 
+{
+"pre": "Eq. (7.11) states that <b>the centre of mass</b> <b>of a system of particles moves as if all the</b> <b>mass of the</b><i> </i><b>system was concentrated at the</b> <b>centre of mass and all the external forces</b> <b>were applied at that point.</b> Notice, to determine the motion of the centre of mass no knowledge of internal forces of the system of particles is requir ed; for this purpose we need to know only the external forces.", 
+"post": "The system maybe a collection of particles in which there maybe all kinds of internal motions, or it maybe a rigid body which has either pure translational motion ora combination of translational and rotational motion.", 
+"main": "To obtain Eq. (7.11) we did not need to specify the nature of the system of particles.", 
+"type": "none"
+}, 
+{
+"pre": "To obtain Eq. (7.11) we did not need to specify the nature of the system of particles.", 
+"post": "Whatever is the system and the motion of its individual particles, the centre of mass moves according to Eq. (7.11).", 
+"main": "The system maybe a collection of particles in which there maybe all kinds of internal motions, or it maybe a rigid body which has either pure translational motion ora combination of translational and rotational motion.", 
+"type": "none"
+}, 
+{
+"pre": "The system maybe a collection of particles in which there maybe all kinds of internal motions, or it maybe a rigid body which has either pure translational motion ora combination of translational and rotational motion.", 
+"post": "Instead of treating extended bodies as single particles as we have done in earlier chapters, we can now treat them as systems of particles.", 
+"main": "Whatever is the system and the motion of its individual particles, the centre of mass moves according to Eq. (7.11).", 
+"type": "none"
+}, 
+{
+"pre": "Whatever is the system and the motion of its individual particles, the centre of mass moves according to Eq. (7.11).", 
+"post": "We can obtain the translational component of their motion, i.e. the motion centre of mass of the system, by taking the mass of the whole system to be concentrated at the centre of mass and all the external forces on the system to be acting at the centre of mass.", 
+"main": "Instead of treating extended bodies as single particles as we have done in earlier chapters, we can now treat them as systems of particles.", 
+"type": "none"
+}, 
+{
+"pre": "Instead of treating extended bodies as single particles as we have done in earlier chapters, we can now treat them as systems of particles.", 
+"post": "This is the procedure that we followed earlier in analysing forces on bodies and solving 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 149 problems without explicitly outlining and justifying the procedure.", 
+"main": "We can obtain the translational component of their motion, i.e. the motion centre of mass of the system, by taking the mass of the whole system to be concentrated at the centre of mass and all the external forces on the system to be acting at the centre of mass.", 
+"type": "none"
+}, 
+{
+"pre": "We can obtain the translational component of their motion, i.e. the motion centre of mass of the system, by taking the mass of the whole system to be concentrated at the centre of mass and all the external forces on the system to be acting at the centre of mass.", 
+"post": "We now realise that in earlier studies we assumed, without saying so, that rotational motion and/or internal motion of the particles were either absent or negligible.", 
+"main": "This is the procedure that we followed earlier in analysing forces on bodies and solving 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 149 problems without explicitly outlining and justifying the procedure.", 
+"type": "none"
+}, 
+{
+"pre": "This is the procedure that we followed earlier in analysing forces on bodies and solving 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 149 problems without explicitly outlining and justifying the procedure.", 
+"post": "We no longer need to do this.", 
+"main": "We now realise that in earlier studies we assumed, without saying so, that rotational motion and/or internal motion of the particles were either absent or negligible.", 
+"type": "none"
+}, 
+{
+"pre": "We now realise that in earlier studies we assumed, without saying so, that rotational motion and/or internal motion of the particles were either absent or negligible.", 
+"post": "We have not only found the justification of the procedure we followed earlier; but we also have found how to describe and separate the translational motion of (1) a rigid body which maybe rotating as well, or (2) a system of particles with all kinds of internal motion.", 
+"main": "We no longer need to do this.", 
+"type": "none"
+}, 
+{
+"pre": "We no longer need to do this.", 
+"post": "<i><b>Fig. 7.12</b></i> <i>The centre of mass of the fragments</i> <i>of the projectile continues along the</i> <i>same parabolic path which it would</i> <i>have followed if there we reno</i> <i>explosion.</i> Figure 7.12 is a good illustration of Eq. (7.11).", 
+"main": "We have not only found the justification of the procedure we followed earlier; but we also have found how to describe and separate the translational motion of (1) a rigid body which maybe rotating as well, or (2) a system of particles with all kinds of internal motion.", 
+"type": "none"
+}, 
+{
+"pre": "We have not only found the justification of the procedure we followed earlier; but we also have found how to describe and separate the translational motion of (1) a rigid body which maybe rotating as well, or (2) a system of particles with all kinds of internal motion.", 
+"post": "A projectile, following the usual parabolic trajectory, explodes into fragments midway in air.", 
+"main": "<i><b>Fig. 7.12</b></i> <i>The centre of mass of the fragments</i> <i>of the projectile continues along the</i> <i>same parabolic path which it would</i> <i>have followed if there we reno</i> <i>explosion.</i> Figure 7.12 is a good illustration of Eq. (7.11).", 
+"type": "none"
+}, 
+{
+"pre": "<i><b>Fig. 7.12</b></i> <i>The centre of mass of the fragments</i> <i>of the projectile continues along the</i> <i>same parabolic path which it would</i> <i>have followed if there we reno</i> <i>explosion.</i> Figure 7.12 is a good illustration of Eq. (7.11).", 
+"post": "The forces leading to the explosion are internal forces.", 
+"main": "A projectile, following the usual parabolic trajectory, explodes into fragments midway in air.", 
+"type": "none"
+}, 
+{
+"pre": "A projectile, following the usual parabolic trajectory, explodes into fragments midway in air.", 
+"post": "They contribute nothing to the motion of the centre of mass.", 
+"main": "The forces leading to the explosion are internal forces.", 
+"type": "none"
+}, 
+{
+"pre": "The forces leading to the explosion are internal forces.", 
+"post": "The total external force, namely, the force of gravity acting on the body, is the same before and after the explosion.", 
+"main": "They contribute nothing to the motion of the centre of mass.", 
+"type": "none"
+}, 
+{
+"pre": "They contribute nothing to the motion of the centre of mass.", 
+"post": "The centre of mass under the influence of the external force continues, therefore, along the same parabolic trajectory as it would have followed if there were no explosion.", 
+"main": "The total external force, namely, the force of gravity acting on the body, is the same before and after the explosion.", 
+"type": "none"
+}, 
+{
+"pre": "The total external force, namely, the force of gravity acting on the body, is the same before and after the explosion.", 
+"post": "<b>7.4</b> <b>LINEAR MOMENTUM OF A SYSTEM OF</b> <b>PARTICLES</b> Let us recall that the linear momentum of a particle is defined as <i>m</i> = <b>p</b> <b>v</b> (7.12) Let us also recall that Newton\u2019s second law written in symbolic form fora single particle is d d<i>t</i> = <b>p</b> <b>F</b> (7.13) where <b>F</b> is the force on the particle.", 
+"main": "The centre of mass under the influence of the external force continues, therefore, along the same parabolic trajectory as it would have followed if there were no explosion.", 
+"type": "none"
+}, 
+{
+"pre": "The centre of mass under the influence of the external force continues, therefore, along the same parabolic trajectory as it would have followed if there were no explosion.", 
+"post": "Let us consider a system of <i>n</i> particles with masses <i>m</i> 1 , <i>m</i> 2 ,...", 
+"main": "<b>7.4</b> <b>LINEAR MOMENTUM OF A SYSTEM OF</b> <b>PARTICLES</b> Let us recall that the linear momentum of a particle is defined as <i>m</i> = <b>p</b> <b>v</b> (7.12) Let us also recall that Newton\u2019s second law written in symbolic form fora single particle is d d<i>t</i> = <b>p</b> <b>F</b> (7.13) where <b>F</b> is the force on the particle.", 
+"type": "none"
+}, 
+{
+"pre": "<b>7.4</b> <b>LINEAR MOMENTUM OF A SYSTEM OF</b> <b>PARTICLES</b> Let us recall that the linear momentum of a particle is defined as <i>m</i> = <b>p</b> <b>v</b> (7.12) Let us also recall that Newton\u2019s second law written in symbolic form fora single particle is d d<i>t</i> = <b>p</b> <b>F</b> (7.13) where <b>F</b> is the force on the particle.", 
+"post": "<i>m</i>n respectively and velocities 1 2 , ,.......", 
+"main": "Let us consider a system of <i>n</i> particles with masses <i>m</i> 1 , <i>m</i> 2 ,...", 
+"type": "none"
+}, 
+{
+"pre": "Let us consider a system of <i>n</i> particles with masses <i>m</i> 1 , <i>m</i> 2 ,...", 
+"post": "<i>n</i> <b>v v</b> <b>v</b> respectively.", 
+"main": "<i>m</i>n respectively and velocities 1 2 , ,.......", 
+"type": "none"
+}, 
+{
+"pre": "<i>m</i>n respectively and velocities 1 2 , ,.......", 
+"post": "The particles maybe interacting and have external forces acting on them.", 
+"main": "<i>n</i> <b>v v</b> <b>v</b> respectively.", 
+"type": "none"
+}, 
+{
+"pre": "<i>n</i> <b>v v</b> <b>v</b> respectively.", 
+"post": "The linear momentum of the first particle is 1 1 <i>m </i><b>v</b> , of the second particle is 2 2 <i>m </i><b>v</b> and so on.", 
+"main": "The particles maybe interacting and have external forces acting on them.", 
+"type": "none"
+}, 
+{
+"pre": "The particles maybe interacting and have external forces acting on them.", 
+"post": "For the system of <i>n </i>particles, the linear momentum of the system is defined to bethe vector sum of all individual particles of the system, 1 2 ...", 
+"main": "The linear momentum of the first particle is 1 1 <i>m </i><b>v</b> , of the second particle is 2 2 <i>m </i><b>v</b> and so on.", 
+"type": "none"
+}, 
+{
+"pre": "The linear momentum of the first particle is 1 1 <i>m </i><b>v</b> , of the second particle is 2 2 <i>m </i><b>v</b> and so on.", 
+"post": "<i>n</i> = + + + <b>P</b> <b>p</b> <b>p</b> <b>p</b> 1 1 2 2 ...", 
+"main": "For the system of <i>n </i>particles, the linear momentum of the system is defined to bethe vector sum of all individual particles of the system, 1 2 ...", 
+"type": "none"
+}, 
+{
+"pre": "For the system of <i>n </i>particles, the linear momentum of the system is defined to bethe vector sum of all individual particles of the system, 1 2 ...", 
+"post": "<i>n</i> <i>n</i> <i>m</i> <i>m</i> <i>m</i> = + + + <b>v</b> <b>v</b> <b>v</b> <b>(</b>7.14) Comparing this with Eq. (7.8) <i>M</i> = <b>P</b> <b>V</b> (7.15) Thus, <b>the total momentum of a system</b> <b>of particles is equal to the product of the</b> <b>total mass of the system and the velocity of</b> <b>its centre of mass</b><i>.</i> Differentiating Eq. (7.15) with respect to time, d d d d <i>M</i> <i>M</i><i>t</i> <i>t</i> = = <b>P</b> <b>V</b><b>A</b> (7.16) Comparing Eq.(7.16) and Eq. (7.11), d d <i>ext</i> <i>t</i> = <b>P</b> <b>F</b> (7.17) This is the statement of<b> Newton\u2019s second</b> <b>law extended to a system of particles.</b> Suppose now, that the sum of external forces acting on a system of particles is zero.", 
+"main": "<i>n</i> = + + + <b>P</b> <b>p</b> <b>p</b> <b>p</b> 1 1 2 2 ...", 
+"type": "none"
+}, 
+{
+"pre": "<i>n</i> = + + + <b>P</b> <b>p</b> <b>p</b> <b>p</b> 1 1 2 2 ...", 
+"post": "Then from Eq.(7.17) or d 0 d<i>t</i> = <b>P</b> <b>P</b> = Constant (7.18a) Thus, when the total external force acting on a system of particles is zero, the total linear momentum of the system is constant.", 
+"main": "<i>n</i> <i>n</i> <i>m</i> <i>m</i> <i>m</i> = + + + <b>v</b> <b>v</b> <b>v</b> <b>(</b>7.14) Comparing this with Eq. (7.8) <i>M</i> = <b>P</b> <b>V</b> (7.15) Thus, <b>the total momentum of a system</b> <b>of particles is equal to the product of the</b> <b>total mass of the system and the velocity of</b> <b>its centre of mass</b><i>.</i> Differentiating Eq. (7.15) with respect to time, d d d d <i>M</i> <i>M</i><i>t</i> <i>t</i> = = <b>P</b> <b>V</b><b>A</b> (7.16) Comparing Eq.(7.16) and Eq. (7.11), d d <i>ext</i> <i>t</i> = <b>P</b> <b>F</b> (7.17) This is the statement of<b> Newton\u2019s second</b> <b>law extended to a system of particles.</b> Suppose now, that the sum of external forces acting on a system of particles is zero.", 
+"type": "law"
+}, 
+{
+"pre": "<i>n</i> <i>n</i> <i>m</i> <i>m</i> <i>m</i> = + + + <b>v</b> <b>v</b> <b>v</b> <b>(</b>7.14) Comparing this with Eq. (7.8) <i>M</i> = <b>P</b> <b>V</b> (7.15) Thus, <b>the total momentum of a system</b> <b>of particles is equal to the product of the</b> <b>total mass of the system and the velocity of</b> <b>its centre of mass</b><i>.</i> Differentiating Eq. (7.15) with respect to time, d d d d <i>M</i> <i>M</i><i>t</i> <i>t</i> = = <b>P</b> <b>V</b><b>A</b> (7.16) Comparing Eq.(7.16) and Eq. (7.11), d d <i>ext</i> <i>t</i> = <b>P</b> <b>F</b> (7.17) This is the statement of<b> Newton\u2019s second</b> <b>law extended to a system of particles.</b> Suppose now, that the sum of external forces acting on a system of particles is zero.", 
+"post": "This is the law of conservation of the total linear momentum of a system of particles.", 
+"main": "Then from Eq.(7.17) or d 0 d<i>t</i> = <b>P</b> <b>P</b> = Constant (7.18a) Thus, when the total external force acting on a system of particles is zero, the total linear momentum of the system is constant.", 
+"type": "none"
+}, 
+{
+"pre": "Then from Eq.(7.17) or d 0 d<i>t</i> = <b>P</b> <b>P</b> = Constant (7.18a) Thus, when the total external force acting on a system of particles is zero, the total linear momentum of the system is constant.", 
+"post": "Because of Eq. (7.15), this also means that when the total external force on the system is zero the velocity of the centre of mass remains constant.", 
+"main": "This is the law of conservation of the total linear momentum of a system of particles.", 
+"type": "none"
+}, 
+{
+"pre": "This is the law of conservation of the total linear momentum of a system of particles.", 
+"post": "(We assume throughout the discussion on systems of particles in this chapter that the total mass of the system remains constant.) Note that on account of the internal forces, i.e. the forces exerted by the particles on one another, the individual particles may have 2015-16(20/01/2015) 150 PHYSICS complicated trajectories.", 
+"main": "Because of Eq. (7.15), this also means that when the total external force on the system is zero the velocity of the centre of mass remains constant.", 
+"type": "none"
+}, 
+{
+"pre": "Because of Eq. (7.15), this also means that when the total external force on the system is zero the velocity of the centre of mass remains constant.", 
+"post": "Yet, if the total external force acting on the system is zero, the centre of mass moves with <i>a</i> constant velocity, i.e., moves uniformly ina straight line like a free particle.", 
+"main": "(We assume throughout the discussion on systems of particles in this chapter that the total mass of the system remains constant.) Note that on account of the internal forces, i.e. the forces exerted by the particles on one another, the individual particles may have 2015-16(20/01/2015) 150 PHYSICS complicated trajectories.", 
+"type": "none"
+}, 
+{
+"pre": "(We assume throughout the discussion on systems of particles in this chapter that the total mass of the system remains constant.) Note that on account of the internal forces, i.e. the forces exerted by the particles on one another, the individual particles may have 2015-16(20/01/2015) 150 PHYSICS complicated trajectories.", 
+"post": "The vector Eq. (7.18a) is equivalent to three scalar equations, P <i>x</i> = <i>c</i> 1 , P <i>y</i> = <i>c</i> 2 and P <i>z</i> = <i>c</i> 3 (7.18 b) Here P <i>x</i> , P <i>y</i> and P <i>z</i> are the components of the total linear momentum vector <b>P</b> along the <i>x, y </i>and <i>z</i> axes respectively; <i>c</i> 1 , <i>c</i> 2 and <i>c</i> 3 are constants.", 
+"main": "Yet, if the total external force acting on the system is zero, the centre of mass moves with <i>a</i> constant velocity, i.e., moves uniformly ina straight line like a free particle.", 
+"type": "none"
+}, 
+{
+"pre": "Yet, if the total external force acting on the system is zero, the centre of mass moves with <i>a</i> constant velocity, i.e., moves uniformly ina straight line like a free particle.", 
+"post": "<i>(a)</i> <i>(b)</i> <i><b>Fig. 7.13 (a)</b></i> <i>A heavy nucleus (Ra) splits into a</i> <i>lighter nucleus (Rn) and an alpha</i> <i>particle (He).", 
+"main": "The vector Eq. (7.18a) is equivalent to three scalar equations, P <i>x</i> = <i>c</i> 1 , P <i>y</i> = <i>c</i> 2 and P <i>z</i> = <i>c</i> 3 (7.18 b) Here P <i>x</i> , P <i>y</i> and P <i>z</i> are the components of the total linear momentum vector <b>P</b> along the <i>x, y </i>and <i>z</i> axes respectively; <i>c</i> 1 , <i>c</i> 2 and <i>c</i> 3 are constants.", 
+"type": "none"
+}, 
+{
+"pre": "The vector Eq. (7.18a) is equivalent to three scalar equations, P <i>x</i> = <i>c</i> 1 , P <i>y</i> = <i>c</i> 2 and P <i>z</i> = <i>c</i> 3 (7.18 b) Here P <i>x</i> , P <i>y</i> and P <i>z</i> are the components of the total linear momentum vector <b>P</b> along the <i>x, y </i>and <i>z</i> axes respectively; <i>c</i> 1 , <i>c</i> 2 and <i>c</i> 3 are constants.", 
+"post": "The CM of the system is</i> <i>in uniform motion.</i> <i><b>(b)</b></i> <i>The same spliting of the heavy nucleus</i> <i>(Ra) with the centre of mass at rest.</i> <i>The two product particles fly back to</i> <i>back.</i> As an example, let us consider the radioactive decay of a moving unstable particle, like the nucleus of radium.", 
+"main": "<i>(a)</i> <i>(b)</i> <i><b>Fig. 7.13 (a)</b></i> <i>A heavy nucleus (Ra) splits into a</i> <i>lighter nucleus (Rn) and an alpha</i> <i>particle (He).", 
+"type": "none"
+}, 
+{
+"pre": "<i>(a)</i> <i>(b)</i> <i><b>Fig. 7.13 (a)</b></i> <i>A heavy nucleus (Ra) splits into a</i> <i>lighter nucleus (Rn) and an alpha</i> <i>particle (He).", 
+"post": "A radium nucleus disintegrates into a nucleus of radon and an alpha particle.", 
+"main": "The CM of the system is</i> <i>in uniform motion.</i> <i><b>(b)</b></i> <i>The same spliting of the heavy nucleus</i> <i>(Ra) with the centre of mass at rest.</i> <i>The two product particles fly back to</i> <i>back.</i> As an example, let us consider the radioactive decay of a moving unstable particle, like the nucleus of radium.", 
+"type": "none"
+}, 
+{
+"pre": "The CM of the system is</i> <i>in uniform motion.</i> <i><b>(b)</b></i> <i>The same spliting of the heavy nucleus</i> <i>(Ra) with the centre of mass at rest.</i> <i>The two product particles fly back to</i> <i>back.</i> As an example, let us consider the radioactive decay of a moving unstable particle, like the nucleus of radium.", 
+"post": "The forces leading to the decay are internal to the system and the external forces on the system are negligible.", 
+"main": "A radium nucleus disintegrates into a nucleus of radon and an alpha particle.", 
+"type": "none"
+}, 
+{
+"pre": "A radium nucleus disintegrates into a nucleus of radon and an alpha particle.", 
+"post": "So the total linear momentum of the system is the same before and after decay.", 
+"main": "The forces leading to the decay are internal to the system and the external forces on the system are negligible.", 
+"type": "none"
+}, 
+{
+"pre": "The forces leading to the decay are internal to the system and the external forces on the system are negligible.", 
+"post": "The two particles produced in the decay, the radon nucleus and the alpha particle, move indifferent directions in such away that their centre of mass moves along the same path along which the original decaying radium nucleus was moving [Fig. 7.13(a)].", 
+"main": "So the total linear momentum of the system is the same before and after decay.", 
+"type": "none"
+}, 
+{
+"pre": "So the total linear momentum of the system is the same before and after decay.", 
+"post": "If we observe the decay from the frame of reference in which the centre of mass is at rest, the motion of the particles involved in the decay looks particularly simple; the product particles move back to back with their centre of mass remaining at rest as shown in Fig.7.13 (b).", 
+"main": "The two particles produced in the decay, the radon nucleus and the alpha particle, move indifferent directions in such away that their centre of mass moves along the same path along which the original decaying radium nucleus was moving [Fig. 7.13(a)].", 
+"type": "none"
+}, 
+{
+"pre": "The two particles produced in the decay, the radon nucleus and the alpha particle, move indifferent directions in such away that their centre of mass moves along the same path along which the original decaying radium nucleus was moving [Fig. 7.13(a)].", 
+"post": "In many problems on the system of particles as in the above radioactive decay problem, it is convenient to work in the centre of mass frame rather than in the laboratory frame of reference.", 
+"main": "If we observe the decay from the frame of reference in which the centre of mass is at rest, the motion of the particles involved in the decay looks particularly simple; the product particles move back to back with their centre of mass remaining at rest as shown in Fig.7.13 (b).", 
+"type": "none"
+}, 
+{
+"pre": "If we observe the decay from the frame of reference in which the centre of mass is at rest, the motion of the particles involved in the decay looks particularly simple; the product particles move back to back with their centre of mass remaining at rest as shown in Fig.7.13 (b).", 
+"post": "In astronomy, binary (double) stars is a common occurrence.", 
+"main": "In many problems on the system of particles as in the above radioactive decay problem, it is convenient to work in the centre of mass frame rather than in the laboratory frame of reference.", 
+"type": "none"
+}, 
+{
+"pre": "In many problems on the system of particles as in the above radioactive decay problem, it is convenient to work in the centre of mass frame rather than in the laboratory frame of reference.", 
+"post": "If there are no external forces, the centre of mass of a double star moves like a free particle, as shown in Fig.7.14 (a).", 
+"main": "In astronomy, binary (double) stars is a common occurrence.", 
+"type": "none"
+}, 
+{
+"pre": "In astronomy, binary (double) stars is a common occurrence.", 
+"post": "The trajectories of the two stars of equal mass are also shown in the figure; they look complicated.", 
+"main": "If there are no external forces, the centre of mass of a double star moves like a free particle, as shown in Fig.7.14 (a).", 
+"type": "none"
+}, 
+{
+"pre": "If there are no external forces, the centre of mass of a double star moves like a free particle, as shown in Fig.7.14 (a).", 
+"post": "If we go to the centre of mass frame, then we find that there the two stars are moving ina circle, about the centre of mass, which is at rest.", 
+"main": "The trajectories of the two stars of equal mass are also shown in the figure; they look complicated.", 
+"type": "none"
+}, 
+{
+"pre": "The trajectories of the two stars of equal mass are also shown in the figure; they look complicated.", 
+"post": "Note that the position of the stars have to be diametrically opposite to each other [Fig. 7.14(b) ].", 
+"main": "If we go to the centre of mass frame, then we find that there the two stars are moving ina circle, about the centre of mass, which is at rest.", 
+"type": "none"
+}, 
+{
+"pre": "If we go to the centre of mass frame, then we find that there the two stars are moving ina circle, about the centre of mass, which is at rest.", 
+"post": "Thus in our frame of reference, the trajectories of the stars area combination of (i) uniform motion ina straight line of the centre of mass and (ii) circular orbits of the stars about the centre of mass.", 
+"main": "Note that the position of the stars have to be diametrically opposite to each other [Fig. 7.14(b) ].", 
+"type": "none"
+}, 
+{
+"pre": "Note that the position of the stars have to be diametrically opposite to each other [Fig. 7.14(b) ].", 
+"post": "As can be seen from the two examples, <b>separating</b><i> </i>the motion of different parts of a system into motion <b>of the centre of mass and</b> <b>motion about the centre of mass</b><i> </i>is avery useful technique that helps in understanding the motion of the system.", 
+"main": "Thus in our frame of reference, the trajectories of the stars area combination of (i) uniform motion ina straight line of the centre of mass and (ii) circular orbits of the stars about the centre of mass.", 
+"type": "none"
+}, 
+{
+"pre": "Thus in our frame of reference, the trajectories of the stars area combination of (i) uniform motion ina straight line of the centre of mass and (ii) circular orbits of the stars about the centre of mass.", 
+"post": "<b>7.5 </b><b>VECTOR PRODUCT OF TWO VECTORS</b> We are already familiar with vectors and their use in physics.", 
+"main": "As can be seen from the two examples, <b>separating</b><i> </i>the motion of different parts of a system into motion <b>of the centre of mass and</b> <b>motion about the centre of mass</b><i> </i>is avery useful technique that helps in understanding the motion of the system.", 
+"type": "none"
+}, 
+{
+"pre": "As can be seen from the two examples, <b>separating</b><i> </i>the motion of different parts of a system into motion <b>of the centre of mass and</b> <b>motion about the centre of mass</b><i> </i>is avery useful technique that helps in understanding the motion of the system.", 
+"post": "In chapter 6 (Work, Energy, Power) we defined the scalar product of two vectors.", 
+"main": "<b>7.5 </b><b>VECTOR PRODUCT OF TWO VECTORS</b> We are already familiar with vectors and their use in physics.", 
+"type": "none"
+}, 
+{
+"pre": "<b>7.5 </b><b>VECTOR PRODUCT OF TWO VECTORS</b> We are already familiar with vectors and their use in physics.", 
+"post": "An important physical quantity, work, is defined as a scalar product of two vector quantities, force and displacement.", 
+"main": "In chapter 6 (Work, Energy, Power) we defined the scalar product of two vectors.", 
+"type": "none"
+}, 
+{
+"pre": "In chapter 6 (Work, Energy, Power) we defined the scalar product of two vectors.", 
+"post": "<i>(a)</i> <i>(b)</i> <i><b>Fig. 7.14 (a)</b></i> <i>Trajectories of two stars, S</i> <i>1</i> <i> (dotted</i> <i>line) and S</i> <i>2</i> <i> (solid line) forming a</i> <i>binary system with their centre of</i> <i>mass C in uniform motion.</i> <i><b>(b)</b></i> <i>The same binary system, with the</i> <i>centre of mass Cat r est.</i> 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 151 We shall now define another product of two vectors.", 
+"main": "An important physical quantity, work, is defined as a scalar product of two vector quantities, force and displacement.", 
+"type": "none"
+}, 
+{
+"pre": "An important physical quantity, work, is defined as a scalar product of two vector quantities, force and displacement.", 
+"post": "This product is a vector.", 
+"main": "<i>(a)</i> <i>(b)</i> <i><b>Fig. 7.14 (a)</b></i> <i>Trajectories of two stars, S</i> <i>1</i> <i> (dotted</i> <i>line) and S</i> <i>2</i> <i> (solid line) forming a</i> <i>binary system with their centre of</i> <i>mass C in uniform motion.</i> <i><b>(b)</b></i> <i>The same binary system, with the</i> <i>centre of mass Cat r est.</i> 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 151 We shall now define another product of two vectors.", 
+"type": "none"
+}, 
+{
+"pre": "<i>(a)</i> <i>(b)</i> <i><b>Fig. 7.14 (a)</b></i> <i>Trajectories of two stars, S</i> <i>1</i> <i> (dotted</i> <i>line) and S</i> <i>2</i> <i> (solid line) forming a</i> <i>binary system with their centre of</i> <i>mass C in uniform motion.</i> <i><b>(b)</b></i> <i>The same binary system, with the</i> <i>centre of mass Cat r est.</i> 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 151 We shall now define another product of two vectors.", 
+"post": "Two important quantities in the study of rotational motion, namely, moment of a force and angular momentum, are defined as vector products.", 
+"main": "This product is a vector.", 
+"type": "none"
+}, 
+{
+"pre": "This product is a vector.", 
+"post": "<b>Definition of Vector Product</b> A vector product of two vectors <b>a</b> and <b>b</b> is a vector <b>c </b>such that (i) magnitude of <b>c </b>= <i>c</i> sin <i>ab</i> \u03b8 = where a and bare magnitudes of <b>a </b>and <b>b</b>and \u03b8 is the angle between the two vectors.", 
+"main": "Two important quantities in the study of rotational motion, namely, moment of a force and angular momentum, are defined as vector products.", 
+"type": "none"
+}, 
+{
+"pre": "Two important quantities in the study of rotational motion, namely, moment of a force and angular momentum, are defined as vector products.", 
+"post": "(ii) <b>c</b> is perpendicular to the plane containing <b>a</b> and <b>b</b>.", 
+"main": "<b>Definition of Vector Product</b> A vector product of two vectors <b>a</b> and <b>b</b> is a vector <b>c </b>such that (i) magnitude of <b>c </b>= <i>c</i> sin <i>ab</i> \u03b8 = where a and bare magnitudes of <b>a </b>and <b>b</b>and \u03b8 is the angle between the two vectors.", 
+"type": "none"
+}, 
+{
+"pre": "<b>Definition of Vector Product</b> A vector product of two vectors <b>a</b> and <b>b</b> is a vector <b>c </b>such that (i) magnitude of <b>c </b>= <i>c</i> sin <i>ab</i> \u03b8 = where a and bare magnitudes of <b>a </b>and <b>b</b>and \u03b8 is the angle between the two vectors.", 
+"post": "(iii) if we take aright handed screw with its head lying in the plane of <b>a</b> and <b>b</b>and the screw perpendicular to this plane, and if we turn the head in the direction from <b>a</b> to <b>b</b>, then the tip of the screw advances in the direction of <b>c </b>.", 
+"main": "(ii) <b>c</b> is perpendicular to the plane containing <b>a</b> and <b>b</b>.", 
+"type": "none"
+}, 
+{
+"pre": "(ii) <b>c</b> is perpendicular to the plane containing <b>a</b> and <b>b</b>.", 
+"post": "This right handed screw rule is illustrated in Fig. 7.15a.", 
+"main": "(iii) if we take aright handed screw with its head lying in the plane of <b>a</b> and <b>b</b>and the screw perpendicular to this plane, and if we turn the head in the direction from <b>a</b> to <b>b</b>, then the tip of the screw advances in the direction of <b>c </b>.", 
+"type": "none"
+}, 
+{
+"pre": "(iii) if we take aright handed screw with its head lying in the plane of <b>a</b> and <b>b</b>and the screw perpendicular to this plane, and if we turn the head in the direction from <b>a</b> to <b>b</b>, then the tip of the screw advances in the direction of <b>c </b>.", 
+"post": "Alter nately, if one curls up the fingers of right hand around aline perpendicular to the plane of the vectors <b>a</b> and <b>b</b>and if the fingers are curled up in the direction from <b>a</b> to <b>b</b>, then the stretched thumb points in the direction of <b>c</b>, as shown in Fig. 7.15b.", 
+"main": "This right handed screw rule is illustrated in Fig. 7.15a.", 
+"type": "none"
+}, 
+{
+"pre": "This right handed screw rule is illustrated in Fig. 7.15a.", 
+"post": "(a) (b) <i><b>Fig. 7.15 (a)</b></i> <i>Rule of the right handed screw for</i> <i>defining the direction of the vector</i> <i>product of two vectors.</i> <i> </i> <i><b> (b)</b></i> <i>Rule of the right hand for defining the</i> <i>direction of the vector product.</i> A simpler version of the right hand rule is the following : Open up your right hand palm and curl the fingers pointing from <b>a</b> to <b>b</b>.", 
+"main": "Alter nately, if one curls up the fingers of right hand around aline perpendicular to the plane of the vectors <b>a</b> and <b>b</b>and if the fingers are curled up in the direction from <b>a</b> to <b>b</b>, then the stretched thumb points in the direction of <b>c</b>, as shown in Fig. 7.15b.", 
+"type": "none"
+}, 
+{
+"pre": "Alter nately, if one curls up the fingers of right hand around aline perpendicular to the plane of the vectors <b>a</b> and <b>b</b>and if the fingers are curled up in the direction from <b>a</b> to <b>b</b>, then the stretched thumb points in the direction of <b>c</b>, as shown in Fig. 7.15b.", 
+"post": "Your stretched thumb points in the direction of <b>c</b>.", 
+"main": "(a) (b) <i><b>Fig. 7.15 (a)</b></i> <i>Rule of the right handed screw for</i> <i>defining the direction of the vector</i> <i>product of two vectors.</i> <i> </i> <i><b> (b)</b></i> <i>Rule of the right hand for defining the</i> <i>direction of the vector product.</i> A simpler version of the right hand rule is the following : Open up your right hand palm and curl the fingers pointing from <b>a</b> to <b>b</b>.", 
+"type": "none"
+}, 
+{
+"pre": "(a) (b) <i><b>Fig. 7.15 (a)</b></i> <i>Rule of the right handed screw for</i> <i>defining the direction of the vector</i> <i>product of two vectors.</i> <i> </i> <i><b> (b)</b></i> <i>Rule of the right hand for defining the</i> <i>direction of the vector product.</i> A simpler version of the right hand rule is the following : Open up your right hand palm and curl the fingers pointing from <b>a</b> to <b>b</b>.", 
+"post": "It should be remembered that there are two angles between any two vectors <b>a</b> and <b>b</b> .", 
+"main": "Your stretched thumb points in the direction of <b>c</b>.", 
+"type": "none"
+}, 
+{
+"pre": "Your stretched thumb points in the direction of <b>c</b>.", 
+"post": "In Fig. 7.15 (a) or (b) they correspond to \u03b8 (as shown) and (360 0 \u2013 \u03b8).", 
+"main": "It should be remembered that there are two angles between any two vectors <b>a</b> and <b>b</b> .", 
+"type": "none"
+}, 
+{
+"pre": "It should be remembered that there are two angles between any two vectors <b>a</b> and <b>b</b> .", 
+"post": "While applying either of the above rules, the rotation should betaken through the smaller angle (&lt;180 0 ) between <b>a</b> and <b>b</b>.", 
+"main": "In Fig. 7.15 (a) or (b) they correspond to \u03b8 (as shown) and (360 0 \u2013 \u03b8).", 
+"type": "none"
+}, 
+{
+"pre": "In Fig. 7.15 (a) or (b) they correspond to \u03b8 (as shown) and (360 0 \u2013 \u03b8).", 
+"post": "It is \u03b8 her e.", 
+"main": "While applying either of the above rules, the rotation should betaken through the smaller angle (&lt;180 0 ) between <b>a</b> and <b>b</b>.", 
+"type": "none"
+}, 
+{
+"pre": "While applying either of the above rules, the rotation should betaken through the smaller angle (&lt;180 0 ) between <b>a</b> and <b>b</b>.", 
+"post": "Because of the cross used to denote the vector product, it is also referred to as cross product.", 
+"main": "It is \u03b8 her e.", 
+"type": "none"
+}, 
+{
+"pre": "It is \u03b8 her e.", 
+"post": "\u2022 Note that scalar product of two vectors is commutative as said earlier, <b>a</b>.<b>b</b> = <b>b.a</b> The vector pr oduct, however, is not commutative, i.e. <b>a</b> \u00d7 <b>b </b>\u2260 <b>b</b> \u00d7 <b>a</b> The magnitude of both <b>a</b> \u00d7 <b>b</b>and <b>b</b> \u00d7 <b>a</b> is the same ( sin <i>a b</i> \u03b8 ); also, both of them are perpendicular to the plane of <b>a</b> and <b>b</b>.", 
+"main": "Because of the cross used to denote the vector product, it is also referred to as cross product.", 
+"type": "none"
+}, 
+{
+"pre": "Because of the cross used to denote the vector product, it is also referred to as cross product.", 
+"post": "But the rotation of the right-handed screw in case of <b>a</b> \u00d7 <b>b</b> is from <b>a</b> to <b>b</b>, whereas in case of <b>b</b> \u00d7 <b>a </b>it is from <b>b</b> to <b>a</b>.", 
+"main": "\u2022 Note that scalar product of two vectors is commutative as said earlier, <b>a</b>.<b>b</b> = <b>b.a</b> The vector pr oduct, however, is not commutative, i.e. <b>a</b> \u00d7 <b>b </b>\u2260 <b>b</b> \u00d7 <b>a</b> The magnitude of both <b>a</b> \u00d7 <b>b</b>and <b>b</b> \u00d7 <b>a</b> is the same ( sin <i>a b</i> \u03b8 ); also, both of them are perpendicular to the plane of <b>a</b> and <b>b</b>.", 
+"type": "none"
+}, 
+{
+"pre": "\u2022 Note that scalar product of two vectors is commutative as said earlier, <b>a</b>.<b>b</b> = <b>b.a</b> The vector pr oduct, however, is not commutative, i.e. <b>a</b> \u00d7 <b>b </b>\u2260 <b>b</b> \u00d7 <b>a</b> The magnitude of both <b>a</b> \u00d7 <b>b</b>and <b>b</b> \u00d7 <b>a</b> is the same ( sin <i>a b</i> \u03b8 ); also, both of them are perpendicular to the plane of <b>a</b> and <b>b</b>.", 
+"post": "This means the two vectors are in opposite directions.", 
+"main": "But the rotation of the right-handed screw in case of <b>a</b> \u00d7 <b>b</b> is from <b>a</b> to <b>b</b>, whereas in case of <b>b</b> \u00d7 <b>a </b>it is from <b>b</b> to <b>a</b>.", 
+"type": "none"
+}, 
+{
+"pre": "But the rotation of the right-handed screw in case of <b>a</b> \u00d7 <b>b</b> is from <b>a</b> to <b>b</b>, whereas in case of <b>b</b> \u00d7 <b>a </b>it is from <b>b</b> to <b>a</b>.", 
+"post": "We have \u00d7 = \u2212 \u00d7 <b>a b</b> <b>ba</b> \u2022 Another interesting property of a vector product is its behaviour under reflection.", 
+"main": "This means the two vectors are in opposite directions.", 
+"type": "none"
+}, 
+{
+"pre": "This means the two vectors are in opposite directions.", 
+"post": "Under reflection (i.e. on taking the mirror image) we have and , <i>x</i> <i>x y</i> <i>y</i> <i>z</i> <i>z</i> \u2192 \u2212 \u2192 \u2212 \u2192 \u2212 .", 
+"main": "We have \u00d7 = \u2212 \u00d7 <b>a b</b> <b>ba</b> \u2022 Another interesting property of a vector product is its behaviour under reflection.", 
+"type": "none"
+}, 
+{
+"pre": "We have \u00d7 = \u2212 \u00d7 <b>a b</b> <b>ba</b> \u2022 Another interesting property of a vector product is its behaviour under reflection.", 
+"post": "As a result all the components of a vector change sign and thus , <i>a</i> <i>a</i> \u2192 \u2212 <i>b</i> <i>b</i> \u2192 \u2212 .", 
+"main": "Under reflection (i.e. on taking the mirror image) we have and , <i>x</i> <i>x y</i> <i>y</i> <i>z</i> <i>z</i> \u2192 \u2212 \u2192 \u2212 \u2192 \u2212 .", 
+"type": "none"
+}, 
+{
+"pre": "Under reflection (i.e. on taking the mirror image) we have and , <i>x</i> <i>x y</i> <i>y</i> <i>z</i> <i>z</i> \u2192 \u2212 \u2192 \u2212 \u2192 \u2212 .", 
+"post": "What happens to <b>a</b> \u00d7 <b>b </b>under reflection?", 
+"main": "As a result all the components of a vector change sign and thus , <i>a</i> <i>a</i> \u2192 \u2212 <i>b</i> <i>b</i> \u2192 \u2212 .", 
+"type": "none"
+}, 
+{
+"pre": "As a result all the components of a vector change sign and thus , <i>a</i> <i>a</i> \u2192 \u2212 <i>b</i> <i>b</i> \u2192 \u2212 .", 
+"post": "<b>a</b> \u00d7 <b>b</b> ( ) ( ) \u2192 \u2212 \u00d7 \u2212 = \u00d7 <b>a</b> <b>b</b><b>a b</b> Thus, <b>a</b> \u00d7 <b>b </b>does not change sign under reflection.", 
+"main": "What happens to <b>a</b> \u00d7 <b>b </b>under reflection?", 
+"type": "none"
+}, 
+{
+"pre": "What happens to <b>a</b> \u00d7 <b>b </b>under reflection?", 
+"post": "\u2022 Both scalar and vector products are distributive with respect to vector addition.", 
+"main": "<b>a</b> \u00d7 <b>b</b> ( ) ( ) \u2192 \u2212 \u00d7 \u2212 = \u00d7 <b>a</b> <b>b</b><b>a b</b> Thus, <b>a</b> \u00d7 <b>b </b>does not change sign under reflection.", 
+"type": "none"
+}, 
+{
+"pre": "<b>a</b> \u00d7 <b>b</b> ( ) ( ) \u2192 \u2212 \u00d7 \u2212 = \u00d7 <b>a</b> <b>b</b><b>a b</b> Thus, <b>a</b> \u00d7 <b>b </b>does not change sign under reflection.", 
+"post": "Thus, .( ) .", 
+"main": "\u2022 Both scalar and vector products are distributive with respect to vector addition.", 
+"type": "none"
+}, 
+{
+"pre": "\u2022 Both scalar and vector products are distributive with respect to vector addition.", 
+"post": ".", 
+"main": "Thus, .( ) .", 
+"type": "none"
+}, 
+{
+"pre": "Thus, .( ) .", 
+"post": "+ = + <b>a b</b> <b>c</b><b>a b</b><b>a c</b> ( ) \u00d7 + = \u00d7 + \u00d7 <b>a</b> <b>b c</b><b>a b</b><b>a c</b> \u2022 We may write <b>c</b> = <b>a</b> \u00d7 <b>b</b>in the component for m.", 
+"main": ".", 
+"type": "none"
+}, 
+{
+"pre": ".", 
+"post": "For this we first need to obtain some elementary cross products: (i) <b>a</b> \u00d7 <b>a</b> = <b>0</b> (<b>0</b> is a null vector, i.e. a vector with zero magnitude) This follows since magnitude of <b>a</b> \u00d7 <b>a</b> is 2 sin 0 0 <i>a</i> \u00b0 = .", 
+"main": "+ = + <b>a b</b> <b>c</b><b>a b</b><b>a c</b> ( ) \u00d7 + = \u00d7 + \u00d7 <b>a</b> <b>b c</b><b>a b</b><b>a c</b> \u2022 We may write <b>c</b> = <b>a</b> \u00d7 <b>b</b>in the component for m.", 
+"type": "none"
+}, 
+{
+"pre": "+ = + <b>a b</b> <b>c</b><b>a b</b><b>a c</b> ( ) \u00d7 + = \u00d7 + \u00d7 <b>a</b> <b>b c</b><b>a b</b><b>a c</b> \u2022 We may write <b>c</b> = <b>a</b> \u00d7 <b>b</b>in the component for m.", 
+"post": "2015-16(20/01/2015) 152 PHYSICS u From this follow the results \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc , , \u00d7 = \u00d7 = \u00d7 = <b>i i</b> <b>0 j j</b> <b>0 k</b> <b>k</b> <b>0</b> (ii) \u02dc \u02dc \u02dc \u00d7 = <b>i</b> <b>j</b> <b>k</b> Note that the magnitude of \u02dc \u02dc \u00d7 <b>i</b> <b>j</b> is sin90 0 or 1, since \u02dc<b>i</b> and \u02dc<b>j</b> both have unit magnitude and the angle between them is 90 0 .", 
+"main": "For this we first need to obtain some elementary cross products: (i) <b>a</b> \u00d7 <b>a</b> = <b>0</b> (<b>0</b> is a null vector, i.e. a vector with zero magnitude) This follows since magnitude of <b>a</b> \u00d7 <b>a</b> is 2 sin 0 0 <i>a</i> \u00b0 = .", 
+"type": "none"
+}, 
+{
+"pre": "For this we first need to obtain some elementary cross products: (i) <b>a</b> \u00d7 <b>a</b> = <b>0</b> (<b>0</b> is a null vector, i.e. a vector with zero magnitude) This follows since magnitude of <b>a</b> \u00d7 <b>a</b> is 2 sin 0 0 <i>a</i> \u00b0 = .", 
+"post": "Thus, \u02dc \u02dc \u00d7 <b>i</b> <b>j</b> is a unit vector.", 
+"main": "2015-16(20/01/2015) 152 PHYSICS u From this follow the results \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc , , \u00d7 = \u00d7 = \u00d7 = <b>i i</b> <b>0 j j</b> <b>0 k</b> <b>k</b> <b>0</b> (ii) \u02dc \u02dc \u02dc \u00d7 = <b>i</b> <b>j</b> <b>k</b> Note that the magnitude of \u02dc \u02dc \u00d7 <b>i</b> <b>j</b> is sin90 0 or 1, since \u02dc<b>i</b> and \u02dc<b>j</b> both have unit magnitude and the angle between them is 90 0 .", 
+"type": "none"
+}, 
+{
+"pre": "2015-16(20/01/2015) 152 PHYSICS u From this follow the results \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc , , \u00d7 = \u00d7 = \u00d7 = <b>i i</b> <b>0 j j</b> <b>0 k</b> <b>k</b> <b>0</b> (ii) \u02dc \u02dc \u02dc \u00d7 = <b>i</b> <b>j</b> <b>k</b> Note that the magnitude of \u02dc \u02dc \u00d7 <b>i</b> <b>j</b> is sin90 0 or 1, since \u02dc<b>i</b> and \u02dc<b>j</b> both have unit magnitude and the angle between them is 90 0 .", 
+"post": "A unit vector perpendicular to the plane of \u02dc<b>i</b> and \u02dc<b>j</b> and related to them by the right hand screw rule is \u02dc <b>k</b> .", 
+"main": "Thus, \u02dc \u02dc \u00d7 <b>i</b> <b>j</b> is a unit vector.", 
+"type": "none"
+}, 
+{
+"pre": "Thus, \u02dc \u02dc \u00d7 <b>i</b> <b>j</b> is a unit vector.", 
+"post": "Hence, the above result.", 
+"main": "A unit vector perpendicular to the plane of \u02dc<b>i</b> and \u02dc<b>j</b> and related to them by the right hand screw rule is \u02dc <b>k</b> .", 
+"type": "none"
+}, 
+{
+"pre": "A unit vector perpendicular to the plane of \u02dc<b>i</b> and \u02dc<b>j</b> and related to them by the right hand screw rule is \u02dc <b>k</b> .", 
+"post": "You may verify similarly, \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc and \u00d7 = \u00d7 = <b>j</b> <b>k</b> <b>i</b> <b>k</b> <b>i</b> <b>j</b> From the rule for commutation of the cross product, it follows: \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc , , \u00d7 = \u2212 \u00d7 = \u2212 \u00d7 = \u2212 <b>j</b> <b>i</b> <b>k</b> <b>k</b> <b>j</b> <b>i</b> <b>i</b> <b>k</b> <b>j</b> Note if \u02dc \u02dc \u02dc , , <b>i j k</b> occur cyclically in the above vector product relation, the vector product is positive.", 
+"main": "Hence, the above result.", 
+"type": "none"
+}, 
+{
+"pre": "Hence, the above result.", 
+"post": "If \u02dc \u02dc \u02dc , , <b>i j k</b> do not occur in cyclic order, the vector product is negative.", 
+"main": "You may verify similarly, \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc and \u00d7 = \u00d7 = <b>j</b> <b>k</b> <b>i</b> <b>k</b> <b>i</b> <b>j</b> From the rule for commutation of the cross product, it follows: \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc , , \u00d7 = \u2212 \u00d7 = \u2212 \u00d7 = \u2212 <b>j</b> <b>i</b> <b>k</b> <b>k</b> <b>j</b> <b>i</b> <b>i</b> <b>k</b> <b>j</b> Note if \u02dc \u02dc \u02dc , , <b>i j k</b> occur cyclically in the above vector product relation, the vector product is positive.", 
+"type": "none"
+}, 
+{
+"pre": "You may verify similarly, \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc and \u00d7 = \u00d7 = <b>j</b> <b>k</b> <b>i</b> <b>k</b> <b>i</b> <b>j</b> From the rule for commutation of the cross product, it follows: \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc , , \u00d7 = \u2212 \u00d7 = \u2212 \u00d7 = \u2212 <b>j</b> <b>i</b> <b>k</b> <b>k</b> <b>j</b> <b>i</b> <b>i</b> <b>k</b> <b>j</b> Note if \u02dc \u02dc \u02dc , , <b>i j k</b> occur cyclically in the above vector product relation, the vector product is positive.", 
+"post": "Now, \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc ( ) ( ) <i>x</i> <i>y</i> <i>z</i> <i>x</i> <i>y</i> <i>z</i> <i>a</i> <i>a</i> <i>a</i> <i>b</i> <i>b</i> <i>b</i> \u00d7 = + + \u00d7 + + <b>a</b> <b>b</b><b>i</b> <b>j</b> <b>k</b> <b>i</b> <b>j</b> <b>k</b> \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc <i>x</i> <i>y</i> <i>x</i> <i>z</i> <i>y</i> <i>x</i> <i>y</i> <i>z</i> <i>z</i> <i>x</i> <i>z</i> <i>y</i> <i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i> = \u2212 \u2212 + + \u2212 <b>k</b> <b>j</b> <b>k</b> <b>i</b> <b>j</b> <b>i</b> \u02dc \u02dc \u02dc ( ) ( ) ( ) <i>y</i> <i>z</i> <i>z</i> <i>x</i> <i>z</i> <i>x</i> <i>x</i> <i>z</i> <i>x y</i> <i>y</i> <i>x</i> <i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i> = \u2212 + \u2212 + \u2212 <b>i</b> <b>j</b> <b>k</b> We have used the elementary cross products in obtaining the above relation.", 
+"main": "If \u02dc \u02dc \u02dc , , <b>i j k</b> do not occur in cyclic order, the vector product is negative.", 
+"type": "none"
+}, 
+{
+"pre": "If \u02dc \u02dc \u02dc , , <b>i j k</b> do not occur in cyclic order, the vector product is negative.", 
+"post": "The expression for<b>a</b> \u00d7 <b>b</b> can be putin a determinant form which is easy to remember.", 
+"main": "Now, \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc ( ) ( ) <i>x</i> <i>y</i> <i>z</i> <i>x</i> <i>y</i> <i>z</i> <i>a</i> <i>a</i> <i>a</i> <i>b</i> <i>b</i> <i>b</i> \u00d7 = + + \u00d7 + + <b>a</b> <b>b</b><b>i</b> <b>j</b> <b>k</b> <b>i</b> <b>j</b> <b>k</b> \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc <i>x</i> <i>y</i> <i>x</i> <i>z</i> <i>y</i> <i>x</i> <i>y</i> <i>z</i> <i>z</i> <i>x</i> <i>z</i> <i>y</i> <i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i> = \u2212 \u2212 + + \u2212 <b>k</b> <b>j</b> <b>k</b> <b>i</b> <b>j</b> <b>i</b> \u02dc \u02dc \u02dc ( ) ( ) ( ) <i>y</i> <i>z</i> <i>z</i> <i>x</i> <i>z</i> <i>x</i> <i>x</i> <i>z</i> <i>x y</i> <i>y</i> <i>x</i> <i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i> = \u2212 + \u2212 + \u2212 <b>i</b> <b>j</b> <b>k</b> We have used the elementary cross products in obtaining the above relation.", 
+"type": "none"
+}, 
+{
+"pre": "Now, \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc ( ) ( ) <i>x</i> <i>y</i> <i>z</i> <i>x</i> <i>y</i> <i>z</i> <i>a</i> <i>a</i> <i>a</i> <i>b</i> <i>b</i> <i>b</i> \u00d7 = + + \u00d7 + + <b>a</b> <b>b</b><b>i</b> <b>j</b> <b>k</b> <b>i</b> <b>j</b> <b>k</b> \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc <i>x</i> <i>y</i> <i>x</i> <i>z</i> <i>y</i> <i>x</i> <i>y</i> <i>z</i> <i>z</i> <i>x</i> <i>z</i> <i>y</i> <i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i> = \u2212 \u2212 + + \u2212 <b>k</b> <b>j</b> <b>k</b> <b>i</b> <b>j</b> <b>i</b> \u02dc \u02dc \u02dc ( ) ( ) ( ) <i>y</i> <i>z</i> <i>z</i> <i>x</i> <i>z</i> <i>x</i> <i>x</i> <i>z</i> <i>x y</i> <i>y</i> <i>x</i> <i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i><i>a b</i> = \u2212 + \u2212 + \u2212 <b>i</b> <b>j</b> <b>k</b> We have used the elementary cross products in obtaining the above relation.", 
+"post": "\u02dc \u02dc \u02dc <i>x</i> <i>y</i> <i>z</i> <i>x</i> <i>y</i> <i>z</i> <i>a</i> <i>a</i> <i>a</i> <i>b</i> <i>b</i> <i>b</i> \u00d7 = <b>i</b> <b>j</b> <b>k</b> <b>a</b> <b>b</b> <i><b>Example 7.4 </b></i><i>Find the scalar and vector</i> <i>products of two vectors.</i><b> a</b> = (3<b>i</b> <b>\u02c6 </b>\u2013 4<b>j\u02c6 </b>+ 5<b>k</b> <b>\u02c6</b> ) <i>and </i><b>b = (\u2013 2i\u02c6 + j\u02c6 \u2013 3 k</b> <b>\u02c6 )</b> <i><b>Answer</b></i> \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc (3 4 5 ) ( 2 3 ) 6 4 15 25 = \u2212 + \u2212 + \u2212 = \u2212 \u2212 \u2212 = \u2212 <b>a b</b><b>i</b> <b>j</b> <b>k</b> <b>i</b> <b>j</b> <b>k</b> i i \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc 3 4 5 7 5 2 1 3 \u00d7 = \u2212 = \u2212 \u2212 \u2212 \u2212 <b>i</b> <b>j</b> <b>k</b> <b>a</b> <b>b</b><b>i</b> <b>j</b> <b>k</b> Note \u02dc \u02dc \u02dc 7 5 \u00d7 = \u2212 + + <b>b</b><b>a</b> <b>i</b> <b>j</b> <b>k</b> \u22b3 <b>7.6</b> <b>ANGULAR VELOCITY AND ITS</b> <b>RELATION WITH LINEAR VELOCITY</b> In this section we shall study what is angular velocity and its role in rotational motion.", 
+"main": "The expression for<b>a</b> \u00d7 <b>b</b> can be putin a determinant form which is easy to remember.", 
+"type": "none"
+}, 
+{
+"pre": "The expression for<b>a</b> \u00d7 <b>b</b> can be putin a determinant form which is easy to remember.", 
+"post": "We have seen that every particle of a rotating body moves ina circle.", 
+"main": "\u02dc \u02dc \u02dc <i>x</i> <i>y</i> <i>z</i> <i>x</i> <i>y</i> <i>z</i> <i>a</i> <i>a</i> <i>a</i> <i>b</i> <i>b</i> <i>b</i> \u00d7 = <b>i</b> <b>j</b> <b>k</b> <b>a</b> <b>b</b> <i><b>Example 7.4 </b></i><i>Find the scalar and vector</i> <i>products of two vectors.</i><b> a</b> = (3<b>i</b> <b>\u02c6 </b>\u2013 4<b>j\u02c6 </b>+ 5<b>k</b> <b>\u02c6</b> ) <i>and </i><b>b = (\u2013 2i\u02c6 + j\u02c6 \u2013 3 k</b> <b>\u02c6 )</b> <i><b>Answer</b></i> \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc (3 4 5 ) ( 2 3 ) 6 4 15 25 = \u2212 + \u2212 + \u2212 = \u2212 \u2212 \u2212 = \u2212 <b>a b</b><b>i</b> <b>j</b> <b>k</b> <b>i</b> <b>j</b> <b>k</b> i i \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc 3 4 5 7 5 2 1 3 \u00d7 = \u2212 = \u2212 \u2212 \u2212 \u2212 <b>i</b> <b>j</b> <b>k</b> <b>a</b> <b>b</b><b>i</b> <b>j</b> <b>k</b> Note \u02dc \u02dc \u02dc 7 5 \u00d7 = \u2212 + + <b>b</b><b>a</b> <b>i</b> <b>j</b> <b>k</b> \u22b3 <b>7.6</b> <b>ANGULAR VELOCITY AND ITS</b> <b>RELATION WITH LINEAR VELOCITY</b> In this section we shall study what is angular velocity and its role in rotational motion.", 
+"type": "none"
+}, 
+{
+"pre": "\u02dc \u02dc \u02dc <i>x</i> <i>y</i> <i>z</i> <i>x</i> <i>y</i> <i>z</i> <i>a</i> <i>a</i> <i>a</i> <i>b</i> <i>b</i> <i>b</i> \u00d7 = <b>i</b> <b>j</b> <b>k</b> <b>a</b> <b>b</b> <i><b>Example 7.4 </b></i><i>Find the scalar and vector</i> <i>products of two vectors.</i><b> a</b> = (3<b>i</b> <b>\u02c6 </b>\u2013 4<b>j\u02c6 </b>+ 5<b>k</b> <b>\u02c6</b> ) <i>and </i><b>b = (\u2013 2i\u02c6 + j\u02c6 \u2013 3 k</b> <b>\u02c6 )</b> <i><b>Answer</b></i> \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc (3 4 5 ) ( 2 3 ) 6 4 15 25 = \u2212 + \u2212 + \u2212 = \u2212 \u2212 \u2212 = \u2212 <b>a b</b><b>i</b> <b>j</b> <b>k</b> <b>i</b> <b>j</b> <b>k</b> i i \u02dc \u02dc \u02dc \u02dc \u02dc \u02dc 3 4 5 7 5 2 1 3 \u00d7 = \u2212 = \u2212 \u2212 \u2212 \u2212 <b>i</b> <b>j</b> <b>k</b> <b>a</b> <b>b</b><b>i</b> <b>j</b> <b>k</b> Note \u02dc \u02dc \u02dc 7 5 \u00d7 = \u2212 + + <b>b</b><b>a</b> <b>i</b> <b>j</b> <b>k</b> \u22b3 <b>7.6</b> <b>ANGULAR VELOCITY AND ITS</b> <b>RELATION WITH LINEAR VELOCITY</b> In this section we shall study what is angular velocity and its role in rotational motion.", 
+"post": "The linear velocity of the particle is related to the angular velocity.", 
+"main": "We have seen that every particle of a rotating body moves ina circle.", 
+"type": "none"
+}, 
+{
+"pre": "We have seen that every particle of a rotating body moves ina circle.", 
+"post": "The relation between these two quantities involves a vector product which we learnt about in the last section.", 
+"main": "The linear velocity of the particle is related to the angular velocity.", 
+"type": "none"
+}, 
+{
+"pre": "The linear velocity of the particle is related to the angular velocity.", 
+"post": "Let us go back to Fig. 7.4. As said above, in rotational motion of a rigid body about a fixed axis, every particle of the body moves ina circle, <i><b>Fig. 7.16</b></i> <i>Rotation about a fixed axis.", 
+"main": "The relation between these two quantities involves a vector product which we learnt about in the last section.", 
+"type": "none"
+}, 
+{
+"pre": "The relation between these two quantities involves a vector product which we learnt about in the last section.", 
+"post": "(A particle (</i>P<i>)</i> <i>of the rigid body rotating about the fixed</i> <i>(z-) axis moves ina circle with centre (C)</i> <i>on the axis.)</i> which lies ina plane perpendicular to the axis and has its centre on the axis.", 
+"main": "Let us go back to Fig. 7.4. As said above, in rotational motion of a rigid body about a fixed axis, every particle of the body moves ina circle, <i><b>Fig. 7.16</b></i> <i>Rotation about a fixed axis.", 
+"type": "none"
+}, 
+{
+"pre": "Let us go back to Fig. 7.4. As said above, in rotational motion of a rigid body about a fixed axis, every particle of the body moves ina circle, <i><b>Fig. 7.16</b></i> <i>Rotation about a fixed axis.", 
+"post": "In Fig. 7.16 we redraw Fig. 7.4, showing atypical particle (at a point P) of the rigid body rotating about a fixed axis (taken as the <i>z</i>-axis).", 
+"main": "(A particle (</i>P<i>)</i> <i>of the rigid body rotating about the fixed</i> <i>(z-) axis moves ina circle with centre (C)</i> <i>on the axis.)</i> which lies ina plane perpendicular to the axis and has its centre on the axis.", 
+"type": "none"
+}, 
+{
+"pre": "(A particle (</i>P<i>)</i> <i>of the rigid body rotating about the fixed</i> <i>(z-) axis moves ina circle with centre (C)</i> <i>on the axis.)</i> which lies ina plane perpendicular to the axis and has its centre on the axis.", 
+"post": "The particle describes 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 153 a circle with a centre Con the axis.", 
+"main": "In Fig. 7.16 we redraw Fig. 7.4, showing atypical particle (at a point P) of the rigid body rotating about a fixed axis (taken as the <i>z</i>-axis).", 
+"type": "none"
+}, 
+{
+"pre": "In Fig. 7.16 we redraw Fig. 7.4, showing atypical particle (at a point P) of the rigid body rotating about a fixed axis (taken as the <i>z</i>-axis).", 
+"post": "The radius of the circle is <i>r</i>, the perpendicular distance of the point P from the axis.", 
+"main": "The particle describes 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 153 a circle with a centre Con the axis.", 
+"type": "none"
+}, 
+{
+"pre": "The particle describes 2015-16(20/01/2015) SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 153 a circle with a centre Con the axis.", 
+"post": "We also show the linear velocity vector <b>v</b> of the particle at P.", 
+"main": "The radius of the circle is <i>r</i>, the perpendicular distance of the point P from the axis.", 
+"type": "none"
+}, 
+{
+"pre": "The radius of the circle is <i>r</i>, the perpendicular distance of the point P from the axis.", 
+"post": "It is along the tangent at P to the circle.", 
+"main": "We also show the linear velocity vector <b>v</b> of the particle at P.", 
+"type": "none"
+}, 
+{
+"pre": "We also show the linear velocity vector <b>v</b> of the particle at P.", 
+"post": "Let P\u2032 bethe position of the particle after an interval of time \u2206<i>t </i>(Fig. 7.16).", 
+"main": "It is along the tangent at P to the circle.", 
+"type": "none"
+}, 
+{
+"pre": "It is along the tangent at P to the circle.", 
+"post": "The angle PCP\u2032 describes the angular displacement \u2206\u03b8 of the particle in time \u2206<i>t</i>.", 
+"main": "Let P\u2032 bethe position of the particle after an interval of time \u2206<i>t </i>(Fig. 7.16).", 
+"type": "none"
+}, 
+{
+"pre": "Let P\u2032 bethe position of the particle after an interval of time \u2206<i>t </i>(Fig. 7.16).", 
+"post": "The average angular velocity of the particle over the interval \u2206<i>t </i>is \u2206\u03b8/\u2206<i>t.</i> As \u2206<i>t </i>tends to zero (i.e. takes smaller and smaller values), the ratio \u2206\u03b8/\u2206<i>t </i>approaches a limit which is the instantaneous angular velocity d\u03b8/d <i>t</i> of the particle at the position P.", 
+"main": "The angle PCP\u2032 describes the angular displacement \u2206\u03b8 of the particle in time \u2206<i>t</i>.", 
+"type": "none"
+}, 
+{
+"pre": "The angle PCP\u2032 describes the angular displacement \u2206\u03b8 of the particle in time \u2206<i>t</i>.", 
+"post": "We denote the <b>instantaneous angular velocity</b><i> </i>by \u03c9 (the Greek letter omega).", 
+"main": "The average angular velocity of the particle over the interval \u2206<i>t </i>is \u2206\u03b8/\u2206<i>t.</i> As \u2206<i>t </i>tends to zero (i.e. takes smaller and smaller values), the ratio \u2206\u03b8/\u2206<i>t </i>approaches a limit which is the instantaneous angular velocity d\u03b8/d <i>t</i> of the particle at the position P.", 
+"type": "none"
+}, 
+{
+"pre": "The average angular velocity of the particle over the interval \u2206<i>t </i>is \u2206\u03b8/\u2206<i>t.</i> As \u2206<i>t </i>tends to zero (i.e. takes smaller and smaller values), the ratio \u2206\u03b8/\u2206<i>t </i>approaches a limit which is the instantaneous angular velocity d\u03b8/d <i>t</i> of the particle at the position P.", 
+"post": "We know from our study of circular motion that the magnitude of linear velocity <i>v</i> of a particle moving ina circle is related to the angular velocity of the particle \u03c9 by the simple relation <i>r</i> \u03c5 \u03c9 = , where <i>r</i> is the radius of the circle.", 
+"main": "We denote the <b>instantaneous angular velocity</b><i> </i>by \u03c9 (the Greek letter omega).", 
+"type": "none"
+}, 
+{
+"pre": "We denote the <b>instantaneous angular velocity</b><i> </i>by \u03c9 (the Greek letter omega).", 
+"post": "We observe that at any given instant the relation <i>v</i> <i>r</i> \u03c9 = applies to all particles of the rigid body.", 
+"main": "We know from our study of circular motion that the magnitude of linear velocity <i>v</i> of a particle moving ina circle is related to the angular velocity of the particle \u03c9 by the simple relation <i>r</i> \u03c5 \u03c9 = , where <i>r</i> is the radius of the circle.", 
+"type": "none"
+}, 
+{
+"pre": "We know from our study of circular motion that the magnitude of linear velocity <i>v</i> of a particle moving ina circle is related to the angular velocity of the particle \u03c9 by the simple relation <i>r</i> \u03c5 \u03c9 = , where <i>r</i> is the radius of the circle.", 
+"post": "Thus fora particle at a perpendicular distance <i>r</i> <i>i</i> from the fixed axis, the linear velocity at a given instant <i>v</i> <i>i</i> is given by <i>i</i> <i>i</i> <i>v</i> <i>r</i> \u03c9 = (7.19) The index <i>i</i> runs from 1 to <i>n</i>, where <i>n</i> is the total number of particles of the body.", 
+"main": "We observe that at any given instant the relation <i>v</i> <i>r</i> \u03c9 = applies to all particles of the rigid body.", 
+"type": "none"
+}, 
+{
+"pre": "We observe that at any given instant the relation <i>v</i> <i>r</i> \u03c9 = applies to all particles of the rigid body.", 
+"post": "For particles on the axis, 0 = <i>r</i> , and hence <i>v</i> = \u03c9 <i>r </i>= 0.", 
+"main": "Thus fora particle at a perpendicular distance <i>r</i> <i>i</i> from the fixed axis, the linear velocity at a given instant <i>v</i> <i>i</i> is given by <i>i</i> <i>i</i> <i>v</i> <i>r</i> \u03c9 = (7.19) The index <i>i</i> runs from 1 to <i>n</i>, where <i>n</i> is the total number of particles of the body.", 
+"type": "none"
+}, 
+{
+"pre": "Thus fora particle at a perpendicular distance <i>r</i> <i>i</i> from the fixed axis, the linear velocity at a given instant <i>v</i> <i>i</i> is given by <i>i</i> <i>i</i> <i>v</i> <i>r</i> \u03c9 = (7.19) The index <i>i</i> runs from 1 to <i>n</i>, where <i>n</i> is the total number of particles of the body.", 
+"post": "Thus, particles on the axis are stationary.", 
+"main": "For particles on the axis, 0 = <i>r</i> , and hence <i>v</i> = \u03c9 <i>r </i>= 0.", 
+"type": "none"
+}, 
+{
+"pre": "For particles on the axis, 0 = <i>r</i> , and hence <i>v</i> = \u03c9 <i>r </i>= 0.", 
+"post": "This verifies that the axis is <i>fixed</i>.", 
+"main": "Thus, particles on the axis are stationary.", 
+"type": "none"
+}, 
+{
+"pre": "Thus, particles on the axis are stationary.", 
+"post": "Note that we use the same angular velocity \u03c9 for all the particles.", 
+"main": "This verifies that the axis is <i>fixed</i>.", 
+"type": "none"
+}, 
+{
+"pre": "This verifies that the axis is <i>fixed</i>.", 
+"post": "<b>We therefore, refer to </b>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9 <b>as the angular velocity of the whole body</b><i>.</i> <b>We have characterised pure translation of</b> <b>a body by all parts of the body having the same</b> <b>velocity at any instant of time.", 
+"main": "Note that we use the same angular velocity \u03c9 for all the particles.", 
+"type": "none"
+}, 
+{
+"pre": "Note that we use the same angular velocity \u03c9 for all the particles.", 
+"post": "Similarly, we</b> <b>may characterise pure rotation by all parts of</b> <b>the body having the same angular velocity at</b> <b>any instant of time</b><i>.</i> Note that this characterisation of the rotation of a rigid body about a fixed axis is <b>just another way</b> of saying as in Sec.", 
+"main": "<b>We therefore, refer to </b>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9 <b>as the angular velocity of the whole body</b><i>.</i> <b>We have characterised pure translation of</b> <b>a body by all parts of the body having the same</b> <b>velocity at any instant of time.", 
+"type": "none"
+}, 
+{
+"pre": "<b>We therefore, refer to </b>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9 <b>as the angular velocity of the whole body</b><i>.</i> <b>We have characterised pure translation of</b> <b>a body by all parts of the body having the same</b> <b>velocity at any instant of time.", 
+"post": "7.1 that each particle of the body moves ina circle, which lies ina plane perpendicular to the axis and has the centre on the axis.", 
+"main": "Similarly, we</b> <b>may characterise pure rotation by all parts of</b> <b>the body having the same angular velocity at</b> <b>any instant of time</b><i>.</i> Note that this characterisation of the rotation of a rigid body about a fixed axis is <b>just another way</b> of saying as in Sec.", 
+"type": "none"
+}, 
+{
+"pre": "Similarly, we</b> <b>may characterise pure rotation by all parts of</b> <b>the body having the same angular velocity at</b> <b>any instant of time</b><i>.</i> Note that this characterisation of the rotation of a rigid body about a fixed axis is <b>just another way</b> of saying as in Sec.", 
+"post": "In our discussion so far the angular velocity appears to be a scalar.", 
+"main": "7.1 that each particle of the body moves ina circle, which lies ina plane perpendicular to the axis and has the centre on the axis.", 
+"type": "none"
+}, 
+{
+"pre": "7.1 that each particle of the body moves ina circle, which lies ina plane perpendicular to the axis and has the centre on the axis.", 
+"post": "In fact, it is a vector.", 
+"main": "In our discussion so far the angular velocity appears to be a scalar.", 
+"type": "none"
+}, 
+{
+"pre": "In our discussion so far the angular velocity appears to be a scalar.", 
+"post": "We shall not justify this fact, but we shall accept it.", 
+"main": "In fact, it is a vector.", 
+"type": "none"
+}, 
+{
+"pre": "In fact, it is a vector.", 
+"post": "For rotation about a fixed axis, the angular velocity vector lies along the axis of rotation, and points out in the direction in which aright handed screw would advance, if the head of the screw is rotated with the body.", 
+"main": "We shall not justify this fact, but we shall accept it.", 
+"type": "none"
+}, 
+{
+"pre": "We shall not justify this fact, but we shall accept it.", 
+"post": "(See Fig. 7.17a).", 
+"main": "For rotation about a fixed axis, the angular velocity vector lies along the axis of rotation, and points out in the direction in which aright handed screw would advance, if the head of the screw is rotated with the body.", 
+"type": "none"
+}, 
+{
+"pre": "For rotation about a fixed axis, the angular velocity vector lies along the axis of rotation, and points out in the direction in which aright handed screw would advance, if the head of the screw is rotated with the body.", 
+"post": "The magnitude of this vector is <i>d</i> <i>dt</i> \u03c9 \u03b8 = referred as above.", 
+"main": "(See Fig. 7.17a).", 
+"type": "none"
+}, 
+{
+"pre": "(See Fig. 7.17a).", 
+"post": "<i><b>Fig. 7.17 (a)</b></i> <i>If the head of aright handed screw</i> <i>rotates with the body, the screw</i> <i>advances in the direction of the angular</i> <i>velocity </i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9<i>.", 
+"main": "The magnitude of this vector is <i>d</i> <i>dt</i> \u03c9 \u03b8 = referred as above.", 
+"type": "none"
+}, 
+{
+"pre": "The magnitude of this vector is <i>d</i> <i>dt</i> \u03c9 \u03b8 = referred as above.", 
+"post": "If the sense (clockwise or</i> <i>anticlockwise) of rotation of the body</i> <i>changes, so does the direction of </i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9<i>.</i> <i><b>Fig. 7.17 (b)</b></i> <i>The angular velocity vector </i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9<i> is</i> <i>directed along the fixed axis as shown.</i> <i>The linear velocity of the particle at P</i><i>is <b>v </b></i>=<i><b> </b></i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9 <i>\u00d7 <b>r</b></i>.<i> It is perpendicular to both</i> \u03c9 \u03c9 \u03c9 \u03c9 \u03c9 <i>and <b>r</b>and is directed along the</i> <i>tangent to the circle described by the</i> <i>particle.</i> We shall now look at what the vector product \u03c9 \u03c9 \u03c9 \u03c9 \u03c9 \u00d7 <b>r </b>corresponds to.", 
+"main": "<i><b>Fig. 7.17 (a)</b></i> <i>If the head of aright handed screw</i> <i>rotates with the body, the screw</i> <i>advances in the direction of the angular</i> <i>velocity </i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9<i>.", 
+"type": "none"
+}, 
+{
+"pre": "<i><b>Fig. 7.17 (a)</b></i> <i>If the head of aright handed screw</i> <i>rotates with the body, the screw</i> <i>advances in the direction of the angular</i> <i>velocity </i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9<i>.", 
+"post": "Refer to Fig. 7.17(b) which is apart of Fig. 7.16 reproduced to show the path of the particle P.", 
+"main": "If the sense (clockwise or</i> <i>anticlockwise) of rotation of the body</i> <i>changes, so does the direction of </i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9<i>.</i> <i><b>Fig. 7.17 (b)</b></i> <i>The angular velocity vector </i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9<i> is</i> <i>directed along the fixed axis as shown.</i> <i>The linear velocity of the particle at P</i><i>is <b>v </b></i>=<i><b> </b></i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9 <i>\u00d7 <b>r</b></i>.<i> It is perpendicular to both</i> \u03c9 \u03c9 \u03c9 \u03c9 \u03c9 <i>and <b>r</b>and is directed along the</i> <i>tangent to the circle described by the</i> <i>particle.</i> We shall now look at what the vector product \u03c9 \u03c9 \u03c9 \u03c9 \u03c9 \u00d7 <b>r </b>corresponds to.", 
+"type": "none"
+}, 
+{
+"pre": "If the sense (clockwise or</i> <i>anticlockwise) of rotation of the body</i> <i>changes, so does the direction of </i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9<i>.</i> <i><b>Fig. 7.17 (b)</b></i> <i>The angular velocity vector </i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9<i> is</i> <i>directed along the fixed axis as shown.</i> <i>The linear velocity of the particle at P</i><i>is <b>v </b></i>=<i><b> </b></i>\u03c9 \u03c9 \u03c9 \u03c9 \u03c9 <i>\u00d7 <b>r</b></i>.<i> It is perpendicular to both</i> \u03c9 \u03c9 \u03c9 \u03c9 \u03c9 <i>and <b>r</b>and is directed along the</i> <i>tangent to the circle described by the</i> <i>particle.</i> We shall now look at what the vector product \u03c9 \u03c9 \u03c9 \u03c9 \u03c9 \u00d7 <b>r </b>corresponds to.", 
+"post": "The figure shows the vector \u03c9 \u03c9 \u03c9 \u03c9 \u03c9 directed along the fixed (<i>z</i>\u2013) axis and also the position vector <b>r </b>= <b>OP</b> <b></b>of the particle at P of the rigid body with respect to the origin O.", 
+"main": "Refer to Fig. 7.17(b) which is apart of Fig. 7.16 reproduced to show the path of the particle P.", 
+"type": "none"
+}, 
+{
+"pre": "Refer to Fig. 7.17(b) which is apart of Fig. 7.16 reproduced to show the path of the particle P.", 
+"post": "Note that the origin is chosen to be on the axis of r otation.", 
+"main": "The figure shows the vector \u03c9 \u03c9 \u03c9 \u03c9 \u03c9 directed along the fixed (<i>z</i>\u2013) axis and also the position vector <b>r </b>= <b>OP</b> <b></b>of the particle at P of the rigid body with respect to the origin O.", 
+"type": "none"
+}, 
+{
+"pre": "The figure shows the vector \u03c9 \u03c9 \u03c9 \u03c9 \u03c9 directed along the fixed (<i>z</i>\u2013) axis and also the position vector <b>r </b>= <b>OP</b> <b></b>of the particle at P of the rigid body with respect to the origin O.", 
+"post": "2015-16(20/01/2015)", 
+"main": "Note that the origin is chosen to be on the axis of r otation.", 
+"type": "none"
+}, 
+{
+"pre": "Note that the origin is chosen to be on the axis of r otation.", 
+"post": "", 
+"main": "2015-16(20/01/2015)", 
+"type": "none"
+}
+]
