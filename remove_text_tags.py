@@ -6,6 +6,9 @@ from subprocess import call
 
 def get_word(word):
     word = re.sub('<.*?>', '', re.sub('</.*?>', '', word))
+    # punc_to_remove = ['.', ',', '!', '?']
+    # for punc in punc_to_remove:
+    #     word = word.replace(punc, '')
     return word.lower()
 
 # things to remove from XML text

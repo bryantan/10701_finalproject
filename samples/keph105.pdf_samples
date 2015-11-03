@@ -507,7 +507,7 @@
 "pre": "Galileo\u2019s law of inertia was his starting point which he formulated as the <b>first law of motion</b><i>:</i> <b>Everybody continues to be in its state</b> <b>of rest or of uniform motion ina straight</b> <b>line unless compelled by some external</b> <b>force to act otherwise.</b> The state of rest or uniform linear motion both imply zero acceleration.", 
 "post": "Acceleration can be non</b><b>zero only if there is a net external force on</b> <b>the body.</b> Two kinds of situations are encountered in the application of this law in practice.", 
 "main": "The first law of motion can, therefore, be simply expressed as: <b>If the net external force on a body is zero, its</b> <b>acceleration is zero.", 
-"type": law"
+"type": "law"
 }, 
 {
 "pre": "The first law of motion can, therefore, be simply expressed as: <b>If the net external force on a body is zero, its</b> <b>acceleration is zero.", 
