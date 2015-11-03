@@ -48,7 +48,7 @@ new_text = " ".join(new_words)
 
 # add new lines for sentences
 # https://regex101.com/r/nG1gU7/27#python
-new_text = re.sub('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', '\n', new_text)
+new_text = re.sub('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)\s', '\n', new_text)
 new_text = re.sub('Fig.\n', 'Fig. ', new_text)
 
 with open(sys.argv[1] + "_sentences", 'w') as outfile:
