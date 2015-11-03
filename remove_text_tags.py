@@ -34,7 +34,7 @@ words = text.split()
 new_words = []
 i = 1
 while i < len(words):
-    if (get_word(words[i-1]) + get_word(words[i])) in dictionary:
+    if not get_word(words[i-1]) in dictionary and (get_word(words[i-1]) + get_word(words[i])) in dictionary:
         new_words.append(words[i-1] + words[i])
         i = i + 2
         if i == len(words):
@@ -47,6 +47,7 @@ while i < len(words):
 new_text = " ".join(new_words)
 
 # add new lines for sentences
+# https://regex101.com/r/nG1gU7/27#python
 new_text = re.sub('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', '\n', new_text)
 new_text = re.sub('Fig.\n', 'Fig. ', new_text)
 
