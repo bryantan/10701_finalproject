@@ -8,6 +8,39 @@ def get_word(word):
     word = re.sub('<.*?>', '', re.sub('</.*?>', '', word))
     return word.lower()
 
+def add_bold_tags(word, in_bold):
+    if not in_bold:
+        if word == '<b>':
+            return ('', True)
+        elif '<b>' in word and '</b>' in word:
+            return (word, False)
+        elif '<b>' in word:
+            return (word + '</b>', True)
+        else:
+            return (word, False)
+    else:
+        if word == '</b>':
+            return ('', False)
+        elif '</b>' in word:
+            return ('<b>' + word, False)
+        else:
+            return('<b>' + word + '</b>', True)
+
+def combine_words(word1, word2, in_bold):
+    combined_word = word1 + word2
+    if in_bold or '<b>' in word1:
+        combined_word = combined_word.replace('<b>', '')
+        combined_word = combined_word.replace('</b>', '')
+        combined_word = '<b>' + combined_word + '</b>'
+
+    if in_bold and not '</b>' in word2:
+        return (combined_word, True)
+    elif not in_bold and '<b>' in word1:
+        return (combined_word, True)
+    else:
+        return (combined_word, False)
+
+
 # things to remove from XML text
 subs = ['<text.*?>', '</text>', '<fontspec.*?/>', '<page.*?>', '</page>', '<image.*?/>', '<\?.*?\?>', '<!DOCTYPE.*?>', '<pdf2xml.*?>', '</pdf2xml>']
 
@@ -33,22 +66,30 @@ for sub in subs:
 words = text.split()
 new_words = []
 i = 1
+in_bold = False
 while i < len(words):
-    if not get_word(words[i-1]) in dictionary and (get_word(words[i-1]) + get_word(words[i])) in dictionary:
-        new_words.append(words[i-1] + words[i])
+    if (len(get_word(words[i-1])) == 1 and not get_word(words[i]) in dictionary) and \
+       (get_word(words[i-1]) + get_word(words[i])) in dictionary:
+        combined_word, in_bold = combine_words(words[i-1], words[i], in_bold)
+        new_words.append(combined_word)
         i = i + 2
         if i == len(words):
+            words[i-1], in_bold = add_bold_tags(words[i-1], in_bold)
             new_words.append(words[i-1])
     else:
+        words[i-1], in_bold = add_bold_tags(words[i-1], in_bold)
         new_words.append(words[i-1])
         if i == len(words) - 1:
+            words[i], in_bold = add_bold_tags(words[i], in_bold)
             new_words.append(words[i])
         i = i + 1
 new_text = " ".join(new_words)
 
 # add new lines for sentences
 # https://regex101.com/r/nG1gU7/27#python
-new_text = re.sub('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', '\n', new_text)
+new_text = re.sub('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)\s', '\n', new_text)
+# new_text = re.sub('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)</b>\s', '</b>\n', new_text)
+# new_text = re.sub('(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)</i>\s', '</i>\n', new_text)
 new_text = re.sub('Fig.\n', 'Fig. ', new_text)
 
 with open(sys.argv[1] + "_sentences", 'w') as outfile:
