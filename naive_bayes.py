@@ -7,11 +7,12 @@ import math
 KNOWLEDGE = True
 GENERAL = False
 SAMPLES_FOLDER = os.getcwd() + "/samples"
-NUM_TRAINING_FILES = 7
+NUM_TRAINING_FILES = 6
 LAPLACE_SMOOTHING = 0.1
 DICT_FILE = os.getcwd() + "/textbook_dict"
 GENERAL_PROBS_FILE = "general.probs"
 KNOWLEDGE_PROBS_FILE = "knowledge.probs"
+WEIGHT = 10
 
 
 class Sample:
@@ -25,6 +26,8 @@ class Sample:
         words = self.features["main"].split(" ")
         words = map(lambda word: self._remove_formatting(word), words)
         i = 0
+        if '<b>' in self.features['main']:
+            self.main_set.add('is_bold')
         while i < len(words):
             if words[i] in vocabulary:
                 self.main_set.add(words[i])
@@ -50,6 +53,7 @@ class NaiveBayes:
         with open(DICT_FILE, "r") as dict_file:
             dict_raw = dict_file.read()
             self.vocabulary = set(json.loads(dict_raw))
+            self.vocabulary.add("is_bold")
         self.volume = len(self.vocabulary)
 
     def add_samples(self, files=[]):
@@ -126,7 +130,12 @@ class NaiveBayes:
         occurences = 0
         for sample in samples:
             if word in sample.main_set:
-                occurences += 1
+                if word == "called" or word == "defined":
+                    occurences += WEIGHT
+                else:
+                    occurences += 1
+        if word == "is_bold":
+            return float(occurences) / total_size
         return ((float(occurences) + LAPLACE_SMOOTHING) /
                 (total_size + LAPLACE_SMOOTHING * self.volume))
 
