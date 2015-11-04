@@ -7,12 +7,18 @@ import math
 KNOWLEDGE = True
 GENERAL = False
 SAMPLES_FOLDER = os.getcwd() + "/samples"
-NUM_TRAINING_FILES = 7
+TRAINING_SAMPLES_FOLDER = SAMPLES_FOLDER + "/training"
+TESTING_SAMPLES_FOLDER = SAMPLES_FOLDER + "/testing"
 LAPLACE_SMOOTHING = 0.1
 DICT_FILE = os.getcwd() + "/textbook_dict"
 GENERAL_PROBS_FILE = "general.probs"
 KNOWLEDGE_PROBS_FILE = "knowledge.probs"
-WEIGHT = 10
+
+
+# Features
+# - contains a key phrase
+# - contains a bold word
+KEY_PHRASES = ["is defined", "are defined", "is called", "are called"]
 
 
 class Sample:
@@ -21,17 +27,17 @@ class Sample:
         self.features = features
         self.main_set = set()
         self.prediction = GENERAL
+        self.is_bold = False
 
-    def add_features(self, vocabulary):
+    def add_features(self):
         words = self.features["main"].split(" ")
         words = map(lambda word: self._remove_formatting(word), words)
-        i = 0
-        if '<b>' in self.features['main']:
-            self.main_set.add('is_bold')
-        while i < len(words):
-            if words[i] in vocabulary:
-                self.main_set.add(words[i])
-            i += 1
+        self.sentence = " ".join(words)
+        for phrase in KEY_PHRASES:
+            if phrase in self.sentence:
+                self.main_set.add(phrase)
+        if re.search("<b>[a-z, A-Z]*</b>", self.features["main"]) is not None:
+            self.is_bold = True
 
     def _remove_formatting(self, word):
         word = re.sub('<.*?>', '', re.sub('</.*?>', '', word))
@@ -45,16 +51,8 @@ class NaiveBayes:
 
     def __init__(self):
         self.vocabulary = set()
-        self.volume = 0
         self.samples = {KNOWLEDGE: [], GENERAL: []}
         self.probabilities = {KNOWLEDGE: {}, GENERAL: {}}
-
-    def create_vocabulary(self):
-        with open(DICT_FILE, "r") as dict_file:
-            dict_raw = dict_file.read()
-            self.vocabulary = set(json.loads(dict_raw))
-            self.vocabulary.add("is_bold")
-        self.volume = len(self.vocabulary)
 
     def add_samples(self, files=[]):
         for filename in files:
@@ -63,28 +61,33 @@ class NaiveBayes:
                 samples_json = json.loads(samples_raw)
                 for sample_json in samples_json:
                     sample = Sample(features=sample_json)
-                    sample.add_features(self.vocabulary)
+                    sample.add_features()
                     if sample_json['type'] != "none":
                         self.samples[KNOWLEDGE].append(sample)
                     else:
                         self.samples[GENERAL].append(sample)
 
     def learn_parameters(self):
-        for word in self.vocabulary:
-            if word not in self.probabilities[KNOWLEDGE]:
-                self.probabilities[KNOWLEDGE][word] = self._find_probability(
-                    word, self.samples[KNOWLEDGE])
-            if word not in self.probabilities[GENERAL]:
-                self.probabilities[GENERAL][word] = self._find_probability(
-                    word, self.samples[GENERAL])
+        self.probabilities[KNOWLEDGE]["_has_bold_"] = self._find_probability(
+            "_has_bold_", self.samples[KNOWLEDGE])
+        self.probabilities[GENERAL]["_has_bold_"] = self._find_probability(
+            "_has_bold_", self.samples[GENERAL])
+        for phrase in KEY_PHRASES:
+            if phrase not in self.probabilities[KNOWLEDGE]:
+                self.probabilities[KNOWLEDGE][phrase] = self._find_probability(
+                    phrase, self.samples[KNOWLEDGE])
+            if phrase not in self.probabilities[GENERAL]:
+                self.probabilities[GENERAL][phrase] = self._find_probability(
+                    phrase, self.samples[GENERAL])
 
     def output_probabilities(self):
         given_knowledge = sorted(self.probabilities[KNOWLEDGE],
-                                key=lambda x: self.probabilities[KNOWLEDGE][x],
-                                reverse=True)
+                                 key=lambda x: self.probabilities[
+                                     KNOWLEDGE][x],
+                                 reverse=True)
         given_general = sorted(self.probabilities[GENERAL],
-                                key=lambda x: self.probabilities[GENERAL][x],
-                                reverse=True)
+                               key=lambda x: self.probabilities[GENERAL][x],
+                               reverse=True)
         with open(KNOWLEDGE_PROBS_FILE, "w") as file:
             for word in given_knowledge:
                 file.write("%s -> %f\n" %
@@ -102,7 +105,7 @@ class NaiveBayes:
                 samples_json = json.loads(samples_raw)
                 for sample_json in samples_json:
                     sample = Sample(features=sample_json)
-                    sample.add_features(self.vocabulary)
+                    sample.add_features()
                     if self._predict_sample(sample) == GENERAL:
                         general_samples.append(sample)
                     else:
@@ -112,44 +115,40 @@ class NaiveBayes:
 
     def _predict_sample(self, sample):
         total_knowledge_prob, total_general_prob = 1, 1
-        for word in self.vocabulary:
-            if word in sample.main_set:
-                # P(word = 1 | KNOWLEDGE)
-                total_knowledge_prob *= self.probabilities[KNOWLEDGE][word]
-                # P(word = 1 | GENERAL)
-                total_general_prob *= self.probabilities[GENERAL][word]
+        for phrase in KEY_PHRASES:
+            if phrase in sample.main_set:
+                # P(phrase = 1 | KNOWLEDGE)
+                total_knowledge_prob *= self.probabilities[KNOWLEDGE][phrase]
+                # P(phrase = 1 | GENERAL)
+                total_general_prob *= self.probabilities[GENERAL][phrase]
             else:
-                # P(word = 0 | KNOWLEDGE)
-                total_knowledge_prob *= (1 - self.probabilities[KNOWLEDGE][word])
-                # P(word = 0 | GENERAL)
-                total_general_prob *= (1 - self.probabilities[GENERAL][word])
+                # P(phrase = 0 | KNOWLEDGE)
+                total_knowledge_prob *= (1 -
+                                         self.probabilities[KNOWLEDGE][phrase])
+                # P(phrase = 0 | GENERAL)
+                total_general_prob *= (1 - self.probabilities[GENERAL][phrase])
         return KNOWLEDGE if total_knowledge_prob >= total_general_prob else GENERAL
 
-    def _find_probability(self, word, samples):
+    def _find_probability(self, phrase, samples):
         total_size = len(samples)
         occurences = 0
         for sample in samples:
-            if word in sample.main_set:
-                if word == "called" or word == "defined":
-                    occurences += WEIGHT
-                else:
-                    occurences += 1
-        if word == "is_bold":
-            return float(occurences) / total_size
-        return ((float(occurences) + LAPLACE_SMOOTHING) /
-                (total_size + LAPLACE_SMOOTHING * self.volume))
+            if phrase == "_has_bold_" and sample.is_bold:
+                occurences += 1
+            elif phrase in sample.main_set:
+                occurences += 1
+        return float(occurences) / total_size
 
 
 if __name__ == "__main__":
     # Retrieve training and testing splits
     training_data_files = map(lambda filename: os.path.join(
-        SAMPLES_FOLDER, filename), sorted(os.listdir(SAMPLES_FOLDER))[:NUM_TRAINING_FILES])
+        TRAINING_SAMPLES_FOLDER, filename), os.listdir(TRAINING_SAMPLES_FOLDER))
     testing_data_files = map(lambda filename: os.path.join(
-        SAMPLES_FOLDER, filename), sorted(os.listdir(SAMPLES_FOLDER))[NUM_TRAINING_FILES:])
+        TESTING_SAMPLES_FOLDER, filename), os.listdir(TESTING_SAMPLES_FOLDER))
 
     # Create Naive Bayes client
     naive_bayes = NaiveBayes()
-    naive_bayes.create_vocabulary()
     naive_bayes.add_samples(files=training_data_files)
 
     # Learn the parameters of the training split
@@ -157,7 +156,8 @@ if __name__ == "__main__":
     naive_bayes.output_probabilities()
 
     # Classify the testing split and report accuracy
-    knowledge_samples, general_samples = naive_bayes.predict_samples(training_data_files)
+    knowledge_samples, general_samples = naive_bayes.predict_samples(
+        training_data_files)
     knowledge_correct_count, general_correct_count = 0, 0
     total_count = len(knowledge_samples) + len(general_samples)
     for sample in knowledge_samples:
@@ -174,8 +174,8 @@ if __name__ == "__main__":
     print "General: %.2f %%" % (float(general_correct_count) * 100 / len(general_samples))
     print "Correct count: %d, total count: %d" % (correct_count, total_count)
 
-
-    knowledge_samples, general_samples = naive_bayes.predict_samples(testing_data_files)
+    knowledge_samples, general_samples = naive_bayes.predict_samples(
+        testing_data_files)
     knowledge_correct_count, general_correct_count = 0, 0
     total_count = len(knowledge_samples) + len(general_samples)
     for sample in knowledge_samples:
@@ -191,7 +191,6 @@ if __name__ == "__main__":
     print "Knowledge: %.2f %%" % (float(knowledge_correct_count) * 100 / len(knowledge_samples))
     print "General: %.2f %%" % (float(general_correct_count) * 100 / len(general_samples))
     print "Correct count: %d, total count: %d" % (correct_count, total_count)
-
 
     # # Output top 10 positive and negative words
     # print "Top 10 positive words:", sorted(naive_bayes.probabilities[POSITIVE],
