@@ -1,0 +1,2420 @@
+[
+{
+"pre": "",
+"post": "The night sky with its bright celestial objects has fascinated humans since time immemorial.",
+"main": "<b>1.1</b>   <b>WHAT</b> <b>IS</b> <b>PHYSICS</b> <b>?</b> Humans have always been curious about the world around them.",
+"type": "none"
+},
+{
+"pre": "<b>1.1</b>   <b>WHAT</b> <b>IS</b> <b>PHYSICS</b> <b>?</b> Humans have always been curious about the world around them.",
+"post": "The regular repetitions of the day and night, the annual cycle of seasons, the eclipses, the tides, the volcanoes, the rainbow have always been a source of wonder.",
+"main": "The night sky with its bright celestial objects has fascinated humans since time immemorial.",
+"type": "none"
+},
+{
+"pre": "The night sky with its bright celestial objects has fascinated humans since time immemorial.",
+"post": "The world has an astonishing variety of materials and a bewildering diversity of life and behaviour.",
+"main": "The regular repetitions of the day and night, the annual cycle of seasons, the eclipses, the tides, the volcanoes, the rainbow have always been a source of wonder.",
+"type": "none"
+},
+{
+"pre": "The regular repetitions of the day and night, the annual cycle of seasons, the eclipses, the tides, the volcanoes, the rainbow have always been a source of wonder.",
+"post": "The inquiring and imaginative human mind has responded to the wonder and awe of nature in different ways.",
+"main": "The world has an astonishing variety of materials and a bewildering diversity of life and behaviour.",
+"type": "none"
+},
+{
+"pre": "The world has an astonishing variety of materials and a bewildering diversity of life and behaviour.",
+"post": "One kind of response from the earliest times has been to observe the physical environment carefully, look for any meaningful patterns and relations in natural phenomena, and build and use new tools to interact with nature.",
+"main": "The inquiring and imaginative human mind has responded to the wonder and awe of nature in different ways.",
+"type": "none"
+},
+{
+"pre": "The inquiring and imaginative human mind has responded to the wonder and awe of nature in different ways.",
+"post": "This human endeavour led, in course of time, to modern science and technology.",
+"main": "One kind of response from the earliest times has been to observe the physical environment carefully, look for any meaningful patterns and relations in natural phenomena, and build and use new tools to interact with nature.",
+"type": "none"
+},
+{
+"pre": "One kind of response from the earliest times has been to observe the physical environment carefully, look for any meaningful patterns and relations in natural phenomena, and build and use new tools to interact with nature.",
+"post": "The word <b>Science</b> <b></b>originates from the Latin verb <i>Scientia</i> meaning <i>\u2018</i>to know<i>\u2019</i>.",
+"main": "This human endeavour led, in course of time, to modern science and technology.",
+"type": "none"
+},
+{
+"pre": "This human endeavour led, in course of time, to modern science and technology.",
+"post": "The Sanskrit word <i>Vijnan </i>and the Arabic word <i>Ilm</i> convey similar meaning, namely \u2018knowledge\u2019.",
+"main": "The word <b>Science</b> <b></b>originates from the Latin verb <i>Scientia</i> meaning <i>\u2018</i>to know<i>\u2019</i>.",
+"type": "none"
+},
+{
+"pre": "The word <b>Science</b> <b></b>originates from the Latin verb <i>Scientia</i> meaning <i>\u2018</i>to know<i>\u2019</i>.",
+"post": "Science, in a broad sense, is as old as human species.",
+"main": "The Sanskrit word <i>Vijnan </i>and the Arabic word <i>Ilm</i> convey similar meaning, namely \u2018knowledge\u2019.",
+"type": "none"
+},
+{
+"pre": "The Sanskrit word <i>Vijnan </i>and the Arabic word <i>Ilm</i> convey similar meaning, namely \u2018knowledge\u2019.",
+"post": "The early civilisations of Egypt, India, China, Greece, Mesopotamia and many others made vital contributions to its progress.",
+"main": "Science, in a broad sense, is as old as human species.",
+"type": "none"
+},
+{
+"pre": "Science, in a broad sense, is as old as human species.",
+"post": "From the sixteenth century onwards, great strides were made in science in Europe.",
+"main": "The early civilisations of Egypt, India, China, Greece, Mesopotamia and many others made vital contributions to its progress.",
+"type": "none"
+},
+{
+"pre": "The early civilisations of Egypt, India, China, Greece, Mesopotamia and many others made vital contributions to its progress.",
+"post": "By the middle of the twentieth century, science had become a truly international enterprise, with many cultures and countries contributing to its rapid growth.",
+"main": "From the sixteenth century onwards, great strides were made in science in Europe.",
+"type": "none"
+},
+{
+"pre": "From the sixteenth century onwards, great strides were made in science in Europe.",
+"post": "What is Science and what is the so-called <b>Scientific</b> <b>Method</b> <b></b>?",
+"main": "By the middle of the twentieth century, science had become a truly international enterprise, with many cultures and countries contributing to its rapid growth.",
+"type": "none"
+},
+{
+"pre": "By the middle of the twentieth century, science had become a truly international enterprise, with many cultures and countries contributing to its rapid growth.",
+"post": "Science is a systematic attempt to understand natural phenomena in as much detail and depth as possible, and use the knowledge so gained to predict, modify and control phenomena.",
+"main": "What is Science and what is the so-called <b>Scientific</b> <b>Method</b> <b></b>?",
+"type": "none"
+},
+{
+"pre": "What is Science and what is the so-called <b>Scientific</b> <b>Method</b> <b></b>?",
+"post": "Science is exploring, experimenting and predicting from what we see around us.",
+"main": "Science is a systematic attempt to understand natural phenomena in as much detail and depth as possible, and use the knowledge so gained to predict, modify and control phenomena.",
+"type": "definition"
+},
+{
+"pre": "Science is a systematic attempt to understand natural phenomena in as much detail and depth as possible, and use the knowledge so gained to predict, modify and control phenomena.",
+"post": "The curiosity to learn about the world, unravelling the secrets of nature is the first step towards the discovery of science.",
+"main": "Science is exploring, experimenting and predicting from what we see around us.",
+"type": "none"
+},
+{
+"pre": "Science is exploring, experimenting and predicting from what we see around us.",
+"post": "The scientific method involves several interconnected steps : Systematic observations, controlled experiments, qualitative and <b>CHAPTER</b> <b><b></b> <b>O</b> <b>NE</b> <b>PHYSICAL</b> <b><b></b> <b>WORLD</b> <b>1.1</b> What is physics ?",
+"main": "The curiosity to learn about the world, unravelling the secrets of nature is the first step towards the discovery of science.",
+"type": "none"
+},
+{
+"pre": "The curiosity to learn about the world, unravelling the secrets of nature is the first step towards the discovery of science.",
+"post": "<b>1.2</b> Scope and excitement of physics <b>1.3</b> Physics, technology and society <b>1.4</b> Fundamental forces in nature <b>1.5</b> Nature of physical laws Summary Exercises \u00a9 NCERT not to be republished PHYSICS 2 quantitative reasoning, mathematical modelling, prediction and verification or falsification of theories.",
+"main": "The scientific method involves several interconnected steps : Systematic observations, controlled experiments, qualitative and <b>CHAPTER</b> <b><b></b> <b>O</b> <b>NE</b> <b>PHYSICAL</b> <b><b></b> <b>WORLD</b> <b>1.1</b> What is physics ?",
+"type": "none"
+},
+{
+"pre": "The scientific method involves several interconnected steps : Systematic observations, controlled experiments, qualitative and <b>CHAPTER</b> <b><b></b> <b>O</b> <b>NE</b> <b>PHYSICAL</b> <b><b></b> <b>WORLD</b> <b>1.1</b> What is physics ?",
+"post": "Speculation and conjecture also have a place in science; but ultimately, a scientific theory, to be acceptable, must be verified by relevant observations or experiments.",
+"main": "<b>1.2</b> Scope and excitement of physics <b>1.3</b> Physics, technology and society <b>1.4</b> Fundamental forces in nature <b>1.5</b> Nature of physical laws Summary Exercises \u00a9 NCERT not to be republished PHYSICS 2 quantitative reasoning, mathematical modelling, prediction and verification or falsification of theories.",
+"type": "none"
+},
+{
+"pre": "<b>1.2</b> Scope and excitement of physics <b>1.3</b> Physics, technology and society <b>1.4</b> Fundamental forces in nature <b>1.5</b> Nature of physical laws Summary Exercises \u00a9 NCERT not to be republished PHYSICS 2 quantitative reasoning, mathematical modelling, prediction and verification or falsification of theories.",
+"post": "There is much philosophical debate about the nature and method of science that we need not discuss here.",
+"main": "Speculation and conjecture also have a place in science; but ultimately, a scientific theory, to be acceptable, must be verified by relevant observations or experiments.",
+"type": "none"
+},
+{
+"pre": "Speculation and conjecture also have a place in science; but ultimately, a scientific theory, to be acceptable, must be verified by relevant observations or experiments.",
+"post": "The interplay of theory and observation (or experiment) is basic to the progress of science.",
+"main": "There is much philosophical debate about the nature and method of science that we need not discuss here.",
+"type": "none"
+},
+{
+"pre": "There is much philosophical debate about the nature and method of science that we need not discuss here.",
+"post": "Science is ever dynamic.",
+"main": "The interplay of theory and observation (or experiment) is basic to the progress of science.",
+"type": "none"
+},
+{
+"pre": "The interplay of theory and observation (or experiment) is basic to the progress of science.",
+"post": "There is no \u2018final\u2019 theory in science and no unquestioned authority among scientists.",
+"main": "Science is ever dynamic.",
+"type": "none"
+},
+{
+"pre": "Science is ever dynamic.",
+"post": "As observations improve in detail and precision or experiments yield new results, theories must account for them, if necessary, by introducing modifications.",
+"main": "There is no \u2018final\u2019 theory in science and no unquestioned authority among scientists.",
+"type": "none"
+},
+{
+"pre": "There is no \u2018final\u2019 theory in science and no unquestioned authority among scientists.",
+"post": "Sometimes the modifications may not be drastic and may lie within the framework of existing theory.",
+"main": "As observations improve in detail and precision or experiments yield new results, theories must account for them, if necessary, by introducing modifications.",
+"type": "none"
+},
+{
+"pre": "As observations improve in detail and precision or experiments yield new results, theories must account for them, if necessary, by introducing modifications.",
+"post": "For example, when Johannes Kepler (1571-1630) examined the extensive data on planetary motion collected by Tycho Brahe (1546-1601), the planetary circular orbits in heliocentric theory (sun at the centre of the solar system) imagined by Nicolas Copernicus (1473\u20131543) had to be replaced by elliptical orbits to fit the data better.",
+"main": "Sometimes the modifications may not be drastic and may lie within the framework of existing theory.",
+"type": "none"
+},
+{
+"pre": "Sometimes the modifications may not be drastic and may lie within the framework of existing theory.",
+"post": "Occasionally, however, the existing theory is simply unable to explain new observations.",
+"main": "For example, when Johannes Kepler (1571-1630) examined the extensive data on planetary motion collected by Tycho Brahe (1546-1601), the planetary circular orbits in heliocentric theory (sun at the centre of the solar system) imagined by Nicolas Copernicus (1473\u20131543) had to be replaced by elliptical orbits to fit the data better.",
+"type": "none"
+},
+{
+"pre": "For example, when Johannes Kepler (1571-1630) examined the extensive data on planetary motion collected by Tycho Brahe (1546-1601), the planetary circular orbits in heliocentric theory (sun at the centre of the solar system) imagined by Nicolas Copernicus (1473\u20131543) had to be replaced by elliptical orbits to fit the data better.",
+"post": "This causes a major upheaval in science.",
+"main": "Occasionally, however, the existing theory is simply unable to explain new observations.",
+"type": "none"
+},
+{
+"pre": "Occasionally, however, the existing theory is simply unable to explain new observations.",
+"post": "In the beginning of the twentieth century, it was realised that Newtonian mechanics, till then a very successful theory, could not explain some of the most basic features of atomic phenomena.",
+"main": "This causes a major upheaval in science.",
+"type": "none"
+},
+{
+"pre": "This causes a major upheaval in science.",
+"post": "Similarly, the then accepted wave picture of light failed to explain the photoelectric effect properly.",
+"main": "In the beginning of the twentieth century, it was realised that Newtonian mechanics, till then a very successful theory, could not explain some of the most basic features of atomic phenomena.",
+"type": "none"
+},
+{
+"pre": "In the beginning of the twentieth century, it was realised that Newtonian mechanics, till then a very successful theory, could not explain some of the most basic features of atomic phenomena.",
+"post": "This led to the development of a radically new theory (<i>Quantum Mechanics</i>) to deal with atomic and molecular phenomena.",
+"main": "Similarly, the then accepted wave picture of light failed to explain the photoelectric effect properly.",
+"type": "none"
+},
+{
+"pre": "Similarly, the then accepted wave picture of light failed to explain the photoelectric effect properly.",
+"post": "Just as a new experiment may suggest an alternative theoretical model, a theoretical advance may suggest what to look for in some experiments.",
+"main": "This led to the development of a radically new theory (<i>Quantum Mechanics</i>) to deal with atomic and molecular phenomena.",
+"type": "none"
+},
+{
+"pre": "This led to the development of a radically new theory (<i>Quantum Mechanics</i>) to deal with atomic and molecular phenomena.",
+"post": "The result of experiment of scattering of alpha particles by gold foil, in 1911 by Ernest Rutherford (1871\u20131937) established the nuclear model of the atom, which then became the basis of the quantum theory of hydrogen atom given in 1913 by Niels Bohr (1885\u20131962).",
+"main": "Just as a new experiment may suggest an alternative theoretical model, a theoretical advance may suggest what to look for in some experiments.",
+"type": "none"
+},
+{
+"pre": "Just as a new experiment may suggest an alternative theoretical model, a theoretical advance may suggest what to look for in some experiments.",
+"post": "On the other hand, the concept of antiparticle was first introduced theoretically by Paul Dirac (1902\u20131984) in 1930 and confirmed two years later by the experimental discovery of positron (antielectron) by Carl Anderson.",
+"main": "The result of experiment of scattering of alpha particles by gold foil, in 1911 by Ernest Rutherford (1871\u20131937) established the nuclear model of the atom, which then became the basis of the quantum theory of hydrogen atom given in 1913 by Niels Bohr (1885\u20131962).",
+"type": "none"
+},
+{
+"pre": "The result of experiment of scattering of alpha particles by gold foil, in 1911 by Ernest Rutherford (1871\u20131937) established the nuclear model of the atom, which then became the basis of the quantum theory of hydrogen atom given in 1913 by Niels Bohr (1885\u20131962).",
+"post": "Physics is a basic discipline in the category of <b>Natural</b> <b>Sciences</b><i>,</i> which also includes other disciplines like Chemistry and Biology.",
+"main": "On the other hand, the concept of antiparticle was first introduced theoretically by Paul Dirac (1902\u20131984) in 1930 and confirmed two years later by the experimental discovery of positron (antielectron) by Carl Anderson.",
+"type": "none"
+},
+{
+"pre": "On the other hand, the concept of antiparticle was first introduced theoretically by Paul Dirac (1902\u20131984) in 1930 and confirmed two years later by the experimental discovery of positron (antielectron) by Carl Anderson.",
+"post": "The word <b>Physics</b> comes from a Greek word meaning nature.",
+"main": "Physics is a basic discipline in the category of <b>Natural</b> <b>Sciences</b><i>,</i> which also includes other disciplines like Chemistry and Biology.",
+"type": "none"
+},
+{
+"pre": "Physics is a basic discipline in the category of <b>Natural</b> <b>Sciences</b><i>,</i> which also includes other disciplines like Chemistry and Biology.",
+"post": "Its Sanskrit equivalent is <i>Bhautiki</i> that is used to refer to the study of the physical world.",
+"main": "The word <b>Physics</b> comes from a Greek word meaning nature.",
+"type": "none"
+},
+{
+"pre": "The word <b>Physics</b> comes from a Greek word meaning nature.",
+"post": "A precise definition of this discipline is neither possible nor necessary.",
+"main": "Its Sanskrit equivalent is <i>Bhautiki</i> that is used to refer to the study of the physical world.",
+"type": "none"
+},
+{
+"pre": "Its Sanskrit equivalent is <i>Bhautiki</i> that is used to refer to the study of the physical world.",
+"post": "We can broadly describe physics as a study of the basic laws of nature and their manifestation in different natural phenomena.",
+"main": "A precise definition of this discipline is neither possible nor necessary.",
+"type": "none"
+},
+{
+"pre": "A precise definition of this discipline is neither possible nor necessary.",
+"post": "The scope of physics is described briefly in the next section.",
+"main": "We can broadly describe physics as a study of the basic laws of nature and their manifestation in different natural phenomena.",
+"type": "definition"
+},
+{
+"pre": "We can broadly describe physics as a study of the basic laws of nature and their manifestation in different natural phenomena.",
+"post": "Here we remark on two principal thrusts in physics : <b>unification</b> and <b>reduction</b>.",
+"main": "The scope of physics is described briefly in the next section.",
+"type": "none"
+},
+{
+"pre": "The scope of physics is described briefly in the next section.",
+"post": "In Physics, we attempt to explain diverse physical phenomena <i><b>in</b> <b>terms</b> <b>of</b> <b>a</b> <b>few</b> <b>concepts</b></i> <i><b>and</b> <b>laws</b>.</i> The effort is to see the physical world as manifestation of some universal laws in different domains and conditions.",
+"main": "Here we remark on two principal thrusts in physics : <b>unification</b> and <b>reduction</b>.",
+"type": "none"
+},
+{
+"pre": "Here we remark on two principal thrusts in physics : <b>unification</b> and <b>reduction</b>.",
+"post": "For example, the same law of gravitation (given by Newton) describes the fall of an apple to the ground, the motion of the moon around the earth and the motion of planets around the sun.",
+"main": "In Physics, we attempt to explain diverse physical phenomena <i><b>in</b> <b>terms</b> <b>of</b> <b>a</b> <b>few</b> <b>concepts</b></i> <i><b>and</b> <b>laws</b>.</i> The effort is to see the physical world as manifestation of some universal laws in different domains and conditions.",
+"type": "none"
+},
+{
+"pre": "In Physics, we attempt to explain diverse physical phenomena <i><b>in</b> <b>terms</b> <b>of</b> <b>a</b> <b>few</b> <b>concepts</b></i> <i><b>and</b> <b>laws</b>.</i> The effort is to see the physical world as manifestation of some universal laws in different domains and conditions.",
+"post": "Similarly, the basic laws of electromagnetism (Maxwell\u2019s equations) govern all electric and magnetic phenomena.",
+"main": "For example, the same law of gravitation (given by Newton) describes the fall of an apple to the ground, the motion of the moon around the earth and the motion of planets around the sun.",
+"type": "none"
+},
+{
+"pre": "For example, the same law of gravitation (given by Newton) describes the fall of an apple to the ground, the motion of the moon around the earth and the motion of planets around the sun.",
+"post": "The attempts to unify fundamental forces of nature (section 1.4) reflect this same quest for unification.",
+"main": "Similarly, the basic laws of electromagnetism (Maxwell\u2019s equations) govern all electric and magnetic phenomena.",
+"type": "none"
+},
+{
+"pre": "Similarly, the basic laws of electromagnetism (Maxwell\u2019s equations) govern all electric and magnetic phenomena.",
+"post": "A related effort is to derive the properties of a bigger, more complex, system from the properties and interactions of its constituent simpler parts.",
+"main": "The attempts to unify fundamental forces of nature (section 1.4) reflect this same quest for unification.",
+"type": "none"
+},
+{
+"pre": "The attempts to unify fundamental forces of nature (section 1.4) reflect this same quest for unification.",
+"post": "This approach is called <b>reductionism</b> and is at the heart of physics.",
+"main": "A related effort is to derive the properties of a bigger, more complex, system from the properties and interactions of its constituent simpler parts.",
+"type": "none"
+},
+{
+"pre": "A related effort is to derive the properties of a bigger, more complex, system from the properties and interactions of its constituent simpler parts.",
+"post": "For example, the subject of thermodynamics, developed in the nineteenth century, deals with bulk systems in terms of macroscopic quantities such as temperature, internal energy, entropy, etc.",
+"main": "This approach is called <b>reductionism</b> and is at the heart of physics.",
+"type": "definition"
+},
+{
+"pre": "This approach is called <b>reductionism</b> and is at the heart of physics.",
+"post": "Subsequently, the subjects of kinetic theory and statistical mechanics interpreted these quantities in terms of the properties of the molecular constituents of the bulk system.",
+"main": "For example, the subject of thermodynamics, developed in the nineteenth century, deals with bulk systems in terms of macroscopic quantities such as temperature, internal energy, entropy, etc.",
+"type": "none"
+},
+{
+"pre": "For example, the subject of thermodynamics, developed in the nineteenth century, deals with bulk systems in terms of macroscopic quantities such as temperature, internal energy, entropy, etc.",
+"post": "In particular, the temperature was seen to be related to the average kinetic energy of molecules of the system.",
+"main": "Subsequently, the subjects of kinetic theory and statistical mechanics interpreted these quantities in terms of the properties of the molecular constituents of the bulk system.",
+"type": "none"
+},
+{
+"pre": "Subsequently, the subjects of kinetic theory and statistical mechanics interpreted these quantities in terms of the properties of the molecular constituents of the bulk system.",
+"post": "<b>1.2</b>   <b>SCOPE</b> <b>AND</b> <b>EXCITEMENT</b> <b>OF</b> <b>PHYSICS</b> We can get some idea of the scope of physics by looking at its various sub-disciplines.",
+"main": "In particular, the temperature was seen to be related to the average kinetic energy of molecules of the system.",
+"type": "none"
+},
+{
+"pre": "In particular, the temperature was seen to be related to the average kinetic energy of molecules of the system.",
+"post": "Basically, there are two domains of interest : macroscopic and microscopic.",
+"main": "<b>1.2</b>   <b>SCOPE</b> <b>AND</b> <b>EXCITEMENT</b> <b>OF</b> <b>PHYSICS</b> We can get some idea of the scope of physics by looking at its various sub-disciplines.",
+"type": "none"
+},
+{
+"pre": "<b>1.2</b>   <b>SCOPE</b> <b>AND</b> <b>EXCITEMENT</b> <b>OF</b> <b>PHYSICS</b> We can get some idea of the scope of physics by looking at its various sub-disciplines.",
+"post": "The macroscopic domain includes phenomena at the laboratory, terrestrial and astronomical scales.",
+"main": "Basically, there are two domains of interest : macroscopic and microscopic.",
+"type": "none"
+},
+{
+"pre": "Basically, there are two domains of interest : macroscopic and microscopic.",
+"post": "The microscopic domain includes atomic, molecular and nuclear \u00a9 NCERT not to be republished PHYSICAL WORLD 3 Ampere and Faraday, and encapsulated by Maxwell in his famous set of equations.",
+"main": "The macroscopic domain includes phenomena at the laboratory, terrestrial and astronomical scales.",
+"type": "none"
+},
+{
+"pre": "The macroscopic domain includes phenomena at the laboratory, terrestrial and astronomical scales.",
+"post": "The motion of a current-carrying conductor in a magnetic field, the response of a circuit to an ac voltage (signal), the working of an antenna, the propagation of radio waves in the ionosphere, etc., are problems of electrodynamics.",
+"main": "The microscopic domain includes atomic, molecular and nuclear \u00a9 NCERT not to be republished PHYSICAL WORLD 3 Ampere and Faraday, and encapsulated by Maxwell in his famous set of equations.",
+"type": "none"
+},
+{
+"pre": "The microscopic domain includes atomic, molecular and nuclear \u00a9 NCERT not to be republished PHYSICAL WORLD 3 Ampere and Faraday, and encapsulated by Maxwell in his famous set of equations.",
+"post": "Optics deals with the phenomena involving light.",
+"main": "The motion of a current-carrying conductor in a magnetic field, the response of a circuit to an ac voltage (signal), the working of an antenna, the propagation of radio waves in the ionosphere, etc., are problems of electrodynamics.",
+"type": "none"
+},
+{
+"pre": "The motion of a current-carrying conductor in a magnetic field, the response of a circuit to an ac voltage (signal), the working of an antenna, the propagation of radio waves in the ionosphere, etc., are problems of electrodynamics.",
+"post": "The working of telescopes and microscopes, colours exhibited by thin films, etc., are topics in optics.",
+"main": "Optics deals with the phenomena involving light.",
+"type": "none"
+},
+{
+"pre": "Optics deals with the phenomena involving light.",
+"post": "Thermodynamics, in contrast to mechanics, does not deal with the motion of bodies as a whole.",
+"main": "The working of telescopes and microscopes, colours exhibited by thin films, etc., are topics in optics.",
+"type": "none"
+},
+{
+"pre": "The working of telescopes and microscopes, colours exhibited by thin films, etc., are topics in optics.",
+"post": "Rather, it deals with systems in macroscopic equilibrium and is concerned with changes in internal energy, temperature, entropy, etc., of the system through external work and transfer of heat.",
+"main": "Thermodynamics, in contrast to mechanics, does not deal with the motion of bodies as a whole.",
+"type": "none"
+},
+{
+"pre": "Thermodynamics, in contrast to mechanics, does not deal with the motion of bodies as a whole.",
+"post": "The efficiency of heat engines and refrigerators, the direction of a physical or You can now see that the scope of physics is truly vast.",
+"main": "Rather, it deals with systems in macroscopic equilibrium and is concerned with changes in internal energy, temperature, entropy, etc., of the system through external work and transfer of heat.",
+"type": "none"
+},
+{
+"pre": "Rather, it deals with systems in macroscopic equilibrium and is concerned with changes in internal energy, temperature, entropy, etc., of the system through external work and transfer of heat.",
+"post": "It covers a tremendous range of magnitude of physical quantities like length, mass, time, energy, etc.",
+"main": "The efficiency of heat engines and refrigerators, the direction of a physical or You can now see that the scope of physics is truly vast.",
+"type": "none"
+},
+{
+"pre": "The efficiency of heat engines and refrigerators, the direction of a physical or You can now see that the scope of physics is truly vast.",
+"post": "At one end, it studies phenomena at the very small scale of length (10 -14 m or even less) involving electrons, protons, etc.; at the other end, it deals with astronomical phenomena at the scale of galaxies or even the entire universe whose extent is of the order of 10 26 m.",
+"main": "It covers a tremendous range of magnitude of physical quantities like length, mass, time, energy, etc.",
+"type": "none"
+},
+{
+"pre": "It covers a tremendous range of magnitude of physical quantities like length, mass, time, energy, etc.",
+"post": "The two length scales differ by a factor of 10 40 or even more.",
+"main": "At one end, it studies phenomena at the very small scale of length (10 -14 m or even less) involving electrons, protons, etc.; at the other end, it deals with astronomical phenomena at the scale of galaxies or even the entire universe whose extent is of the order of 10 26 m.",
+"type": "none"
+},
+{
+"pre": "At one end, it studies phenomena at the very small scale of length (10 -14 m or even less) involving electrons, protons, etc.; at the other end, it deals with astronomical phenomena at the scale of galaxies or even the entire universe whose extent is of the order of 10 26 m.",
+"post": "The range of time scales can be obtained by dividing the length scales by the speed of light : 10 \u201322 s to 10 18 s.",
+"main": "The two length scales differ by a factor of 10 40 or even more.",
+"type": "none"
+},
+{
+"pre": "The two length scales differ by a factor of 10 40 or even more.",
+"post": "The range of masses goes from, say, 10 \u201330 kg (mass of an electron) to 10 55 kg (mass of known observable universe).",
+"main": "The range of time scales can be obtained by dividing the length scales by the speed of light : 10 \u201322 s to 10 18 s.",
+"type": "none"
+},
+{
+"pre": "The range of time scales can be obtained by dividing the length scales by the speed of light : 10 \u201322 s to 10 18 s.",
+"post": "Terrestrial phenomena lie somewhere in the middle of this range.",
+"main": "The range of masses goes from, say, 10 \u201330 kg (mass of an electron) to 10 55 kg (mass of known observable universe).",
+"type": "none"
+},
+{
+"pre": "The range of masses goes from, say, 10 \u201330 kg (mass of an electron) to 10 55 kg (mass of known observable universe).",
+"post": "<i><b>Fig.</b> <b>1.1</b></i> <i>Theory and experiment go hand in hand in physics and help each other\u2019s progress.",
+"main": "Terrestrial phenomena lie somewhere in the middle of this range.",
+"type": "none"
+},
+{
+"pre": "Terrestrial phenomena lie somewhere in the middle of this range.",
+"post": "The alpha scattering</i> <i>experiments of Rutherford gave the nuclear model of the atom.</i> <b>*</b> <i>Recently, the domain intermediate between the macroscopic and the microscopic (the so-called mesoscopic</i> <i>physics), dealing with a few tens or hundreds of atoms, has emerged as an exciting field of research.</i> phenomena * .",
+"main": "<i><b>Fig.</b> <b>1.1</b></i> <i>Theory and experiment go hand in hand in physics and help each other\u2019s progress.",
+"type": "none"
+},
+{
+"pre": "<i><b>Fig.</b> <b>1.1</b></i> <i>Theory and experiment go hand in hand in physics and help each other\u2019s progress.",
+"post": "<b>Classical</b> <b>Physics</b> deals mainly with macroscopic phenomena and includes subjects like <b>Mechanics</b>, <b>Electrodynamics,</b> <b>Optics</b> and <b>Thermodynamics</b>.",
+"main": "The alpha scattering</i> <i>experiments of Rutherford gave the nuclear model of the atom.</i> <b>*</b> <i>Recently, the domain intermediate between the macroscopic and the microscopic (the so-called mesoscopic</i> <i>physics), dealing with a few tens or hundreds of atoms, has emerged as an exciting field of research.</i> phenomena * .",
+"type": "none"
+},
+{
+"pre": "The alpha scattering</i> <i>experiments of Rutherford gave the nuclear model of the atom.</i> <b>*</b> <i>Recently, the domain intermediate between the macroscopic and the microscopic (the so-called mesoscopic</i> <i>physics), dealing with a few tens or hundreds of atoms, has emerged as an exciting field of research.</i> phenomena * .",
+"post": "Mechanics founded on Newton\u2019s laws of motion and the law of gravitation is concerned with the motion (or equilibrium) of particles, rigid and deformable bodies, and general systems of particles.",
+"main": "<b>Classical</b> <b>Physics</b> deals mainly with macroscopic phenomena and includes subjects like <b>Mechanics</b>, <b>Electrodynamics,</b> <b>Optics</b> and <b>Thermodynamics</b>.",
+"type": "none"
+},
+{
+"pre": "<b>Classical</b> <b>Physics</b> deals mainly with macroscopic phenomena and includes subjects like <b>Mechanics</b>, <b>Electrodynamics,</b> <b>Optics</b> and <b>Thermodynamics</b>.",
+"post": "The propulsion of a rocket by a jet of ejecting gases, propagation of water waves or sound waves in air, the equilibrium of a bent rod under a load, etc., are problems of mechanics.",
+"main": "Mechanics founded on Newton\u2019s laws of motion and the law of gravitation is concerned with the motion (or equilibrium) of particles, rigid and deformable bodies, and general systems of particles.",
+"type": "none"
+},
+{
+"pre": "Mechanics founded on Newton\u2019s laws of motion and the law of gravitation is concerned with the motion (or equilibrium) of particles, rigid and deformable bodies, and general systems of particles.",
+"post": "Electrodynamics deals with electric and magnetic phenomena associated with charged and magnetic bodies.",
+"main": "The propulsion of a rocket by a jet of ejecting gases, propagation of water waves or sound waves in air, the equilibrium of a bent rod under a load, etc., are problems of mechanics.",
+"type": "none"
+},
+{
+"pre": "The propulsion of a rocket by a jet of ejecting gases, propagation of water waves or sound waves in air, the equilibrium of a bent rod under a load, etc., are problems of mechanics.",
+"post": "Its basic laws were given by Coulomb, Oersted, chemical process, etc., are problems of interest in thermodynamics.",
+"main": "Electrodynamics deals with electric and magnetic phenomena associated with charged and magnetic bodies.",
+"type": "none"
+},
+{
+"pre": "Electrodynamics deals with electric and magnetic phenomena associated with charged and magnetic bodies.",
+"post": "The microscopic domain of physics deals with the constitution and structure of matter at the minute scales of atoms and nuclei (and even lower scales of length) and their interaction with different probes such as electrons, photons and other elementary particles.",
+"main": "Its basic laws were given by Coulomb, Oersted, chemical process, etc., are problems of interest in thermodynamics.",
+"type": "none"
+},
+{
+"pre": "Its basic laws were given by Coulomb, Oersted, chemical process, etc., are problems of interest in thermodynamics.",
+"post": "Classical physics is inadequate to handle this domain and Quantum Theory is currently accepted as the proper framework for explaining microscopic phenomena.",
+"main": "The microscopic domain of physics deals with the constitution and structure of matter at the minute scales of atoms and nuclei (and even lower scales of length) and their interaction with different probes such as electrons, photons and other elementary particles.",
+"type": "none"
+},
+{
+"pre": "The microscopic domain of physics deals with the constitution and structure of matter at the minute scales of atoms and nuclei (and even lower scales of length) and their interaction with different probes such as electrons, photons and other elementary particles.",
+"post": "Overall, the edifice of physics is beautiful and imposing and you will appreciate it more as you pursue the subject.",
+"main": "Classical physics is inadequate to handle this domain and Quantum Theory is currently accepted as the proper framework for explaining microscopic phenomena.",
+"type": "none"
+},
+{
+"pre": "Classical physics is inadequate to handle this domain and Quantum Theory is currently accepted as the proper framework for explaining microscopic phenomena.",
+"post": "\u00a9 NCERT not to be republished PHYSICS 4 Physics is exciting in many ways.",
+"main": "Overall, the edifice of physics is beautiful and imposing and you will appreciate it more as you pursue the subject.",
+"type": "none"
+},
+{
+"pre": "Overall, the edifice of physics is beautiful and imposing and you will appreciate it more as you pursue the subject.",
+"post": "To some people the excitement comes from the elegance and universality of its basic theories, from the fact that a few basic concepts and laws can explain phenomena covering a large range of magnitude of physical quantities.",
+"main": "\u00a9 NCERT not to be republished PHYSICS 4 Physics is exciting in many ways.",
+"type": "none"
+},
+{
+"pre": "\u00a9 NCERT not to be republished PHYSICS 4 Physics is exciting in many ways.",
+"post": "To some others, the challenge in carrying out imaginative new experiments to unlock the secrets of nature, to verify or refute theories, is thrilling.",
+"main": "To some people the excitement comes from the elegance and universality of its basic theories, from the fact that a few basic concepts and laws can explain phenomena covering a large range of magnitude of physical quantities.",
+"type": "none"
+},
+{
+"pre": "To some people the excitement comes from the elegance and universality of its basic theories, from the fact that a few basic concepts and laws can explain phenomena covering a large range of magnitude of physical quantities.",
+"post": "Applied physics is equally demanding.",
+"main": "To some others, the challenge in carrying out imaginative new experiments to unlock the secrets of nature, to verify or refute theories, is thrilling.",
+"type": "none"
+},
+{
+"pre": "To some others, the challenge in carrying out imaginative new experiments to unlock the secrets of nature, to verify or refute theories, is thrilling.",
+"post": "Application and exploitation of physical laws to make useful devices is the most interesting and exciting part and requires great ingenuity and persistence of effort.",
+"main": "Applied physics is equally demanding.",
+"type": "none"
+},
+{
+"pre": "Applied physics is equally demanding.",
+"post": "What lies behind the phenomenal progress of physics in the last few centuries?",
+"main": "Application and exploitation of physical laws to make useful devices is the most interesting and exciting part and requires great ingenuity and persistence of effort.",
+"type": "none"
+},
+{
+"pre": "Application and exploitation of physical laws to make useful devices is the most interesting and exciting part and requires great ingenuity and persistence of effort.",
+"post": "Great progress usually accompanies changes in our basic perceptions.",
+"main": "What lies behind the phenomenal progress of physics in the last few centuries?",
+"type": "none"
+},
+{
+"pre": "What lies behind the phenomenal progress of physics in the last few centuries?",
+"post": "First, it was realised that for scientific progress, only qualitative thinking, though no doubt important, is not enough.",
+"main": "Great progress usually accompanies changes in our basic perceptions.",
+"type": "none"
+},
+{
+"pre": "Great progress usually accompanies changes in our basic perceptions.",
+"post": "Quantitative measurement is central to the growth of science, especially physics, because the laws of nature happen to be expressible in precise mathematical equations.",
+"main": "First, it was realised that for scientific progress, only qualitative thinking, though no doubt important, is not enough.",
+"type": "none"
+},
+{
+"pre": "First, it was realised that for scientific progress, only qualitative thinking, though no doubt important, is not enough.",
+"post": "The second most important insight was that the basic laws of physics are universal \u2014 the same laws apply in widely different contexts.",
+"main": "Quantitative measurement is central to the growth of science, especially physics, because the laws of nature happen to be expressible in precise mathematical equations.",
+"type": "none"
+},
+{
+"pre": "Quantitative measurement is central to the growth of science, especially physics, because the laws of nature happen to be expressible in precise mathematical equations.",
+"post": "Lastly, the strategy of approximation turned out to be very successful.",
+"main": "The second most important insight was that the basic laws of physics are universal \u2014 the same laws apply in widely different contexts.",
+"type": "none"
+},
+{
+"pre": "The second most important insight was that the basic laws of physics are universal \u2014 the same laws apply in widely different contexts.",
+"post": "Most observed phenomena in daily life are rather complicated manifestations of the basic laws.",
+"main": "Lastly, the strategy of approximation turned out to be very successful.",
+"type": "none"
+},
+{
+"pre": "Lastly, the strategy of approximation turned out to be very successful.",
+"post": "Scientists recognised the importance of extracting the essential features of a phenomenon from its less significant aspects.",
+"main": "Most observed phenomena in daily life are rather complicated manifestations of the basic laws.",
+"type": "none"
+},
+{
+"pre": "Most observed phenomena in daily life are rather complicated manifestations of the basic laws.",
+"post": "It is not practical to take into account all the complexities of a phenomenon in one go.",
+"main": "Scientists recognised the importance of extracting the essential features of a phenomenon from its less significant aspects.",
+"type": "none"
+},
+{
+"pre": "Scientists recognised the importance of extracting the essential features of a phenomenon from its less significant aspects.",
+"post": "A good strategy is to focus first on the essential features, discover the basic principles and then introduce corrections to build a more refined theory of the phenomenon.",
+"main": "It is not practical to take into account all the complexities of a phenomenon in one go.",
+"type": "none"
+},
+{
+"pre": "It is not practical to take into account all the complexities of a phenomenon in one go.",
+"post": "For example, a stone and a feather dropped from the same height do not reach the ground at the same time.",
+"main": "A good strategy is to focus first on the essential features, discover the basic principles and then introduce corrections to build a more refined theory of the phenomenon.",
+"type": "none"
+},
+{
+"pre": "A good strategy is to focus first on the essential features, discover the basic principles and then introduce corrections to build a more refined theory of the phenomenon.",
+"post": "The reason is that the essential aspect of the phenomenon, namely free fall under gravity, is complicated by the presence of air resistance.",
+"main": "For example, a stone and a feather dropped from the same height do not reach the ground at the same time.",
+"type": "none"
+},
+{
+"pre": "For example, a stone and a feather dropped from the same height do not reach the ground at the same time.",
+"post": "To get the law of free fall under gravity, it is better to create a situation wherein the air resistance is negligible.",
+"main": "The reason is that the essential aspect of the phenomenon, namely free fall under gravity, is complicated by the presence of air resistance.",
+"type": "none"
+},
+{
+"pre": "The reason is that the essential aspect of the phenomenon, namely free fall under gravity, is complicated by the presence of air resistance.",
+"post": "We can, for example, let the stone and the feather fall through a long evacuated tube.",
+"main": "To get the law of free fall under gravity, it is better to create a situation wherein the air resistance is negligible.",
+"type": "none"
+},
+{
+"pre": "To get the law of free fall under gravity, it is better to create a situation wherein the air resistance is negligible.",
+"post": "In that case, the two objects will fall almost at the same rate, giving the basic law that acceleration due to gravity is independent of the mass of the object.",
+"main": "We can, for example, let the stone and the feather fall through a long evacuated tube.",
+"type": "none"
+},
+{
+"pre": "We can, for example, let the stone and the feather fall through a long evacuated tube.",
+"post": "With the basic law thus found, we can go back to the feather, introduce corrections due to air resistance, modify the existing theory and try to build a more realistic <b>Hypothesis,</b> <b>axioms</b> <b>and</b> <b>models</b> One should not think that everything can be proved with physics and mathematics.",
+"main": "In that case, the two objects will fall almost at the same rate, giving the basic law that acceleration due to gravity is independent of the mass of the object.",
+"type": "none"
+},
+{
+"pre": "In that case, the two objects will fall almost at the same rate, giving the basic law that acceleration due to gravity is independent of the mass of the object.",
+"post": "All physics, and also mathematics, is based on assumptions, each of which is variously called a hypothesis or axiom or postulate, etc.",
+"main": "With the basic law thus found, we can go back to the feather, introduce corrections due to air resistance, modify the existing theory and try to build a more realistic <b>Hypothesis,</b> <b>axioms</b> <b>and</b> <b>models</b> One should not think that everything can be proved with physics and mathematics.",
+"type": "none"
+},
+{
+"pre": "With the basic law thus found, we can go back to the feather, introduce corrections due to air resistance, modify the existing theory and try to build a more realistic <b>Hypothesis,</b> <b>axioms</b> <b>and</b> <b>models</b> One should not think that everything can be proved with physics and mathematics.",
+"post": "For example, the universal law of gravitation proposed by Newton is an assumption or hypothesis, which he proposed out of his ingenuity.",
+"main": "All physics, and also mathematics, is based on assumptions, each of which is variously called a hypothesis or axiom or postulate, etc.",
+"type": "none"
+},
+{
+"pre": "All physics, and also mathematics, is based on assumptions, each of which is variously called a hypothesis or axiom or postulate, etc.",
+"post": "Before him, there were several observations, experiments and data, on the motion of planets around the sun, motion of the moon around the earth, pendulums, bodies falling towards the earth etc.",
+"main": "For example, the universal law of gravitation proposed by Newton is an assumption or hypothesis, which he proposed out of his ingenuity.",
+"type": "none"
+},
+{
+"pre": "For example, the universal law of gravitation proposed by Newton is an assumption or hypothesis, which he proposed out of his ingenuity.",
+"post": "Each of these required a separate explanation, which was more or less qualitative.",
+"main": "Before him, there were several observations, experiments and data, on the motion of planets around the sun, motion of the moon around the earth, pendulums, bodies falling towards the earth etc.",
+"type": "none"
+},
+{
+"pre": "Before him, there were several observations, experiments and data, on the motion of planets around the sun, motion of the moon around the earth, pendulums, bodies falling towards the earth etc.",
+"post": "What the universal law of gravitation says is that, <i>if we assume</i> that any two bodies in the universe attract each other with a force proportional to the product of their masses and inversely proportional to the square of the distance between them, then we can explain all these observations in one stroke.",
+"main": "Each of these required a separate explanation, which was more or less qualitative.",
+"type": "none"
+},
+{
+"pre": "Each of these required a separate explanation, which was more or less qualitative.",
+"post": "It not only explains these phenomena, it also allows us to predict the results of future experiments.",
+"main": "What the universal law of gravitation says is that, <i>if we assume</i> that any two bodies in the universe attract each other with a force proportional to the product of their masses and inversely proportional to the square of the distance between them, then we can explain all these observations in one stroke.",
+"type": "none"
+},
+{
+"pre": "What the universal law of gravitation says is that, <i>if we assume</i> that any two bodies in the universe attract each other with a force proportional to the product of their masses and inversely proportional to the square of the distance between them, then we can explain all these observations in one stroke.",
+"post": "A hypothesis is a supposition without assuming that it is true.",
+"main": "It not only explains these phenomena, it also allows us to predict the results of future experiments.",
+"type": "none"
+},
+{
+"pre": "It not only explains these phenomena, it also allows us to predict the results of future experiments.",
+"post": "It would not be fair to ask anybody to prove the universal law of gravitation, because it cannot be proved.",
+"main": "A hypothesis is a supposition without assuming that it is true.",
+"type": "none"
+},
+{
+"pre": "A hypothesis is a supposition without assuming that it is true.",
+"post": "It can be verified and substantiated by experiments and observations.",
+"main": "It would not be fair to ask anybody to prove the universal law of gravitation, because it cannot be proved.",
+"type": "none"
+},
+{
+"pre": "It would not be fair to ask anybody to prove the universal law of gravitation, because it cannot be proved.",
+"post": "An axiom is a self-evident truth while a model is a theory proposed to explain observed phenomena.",
+"main": "It can be verified and substantiated by experiments and observations.",
+"type": "none"
+},
+{
+"pre": "It can be verified and substantiated by experiments and observations.",
+"post": "But you need not worry at this stage about the nuances in using these words.",
+"main": "An axiom is a self-evident truth while a model is a theory proposed to explain observed phenomena.",
+"type": "none"
+},
+{
+"pre": "An axiom is a self-evident truth while a model is a theory proposed to explain observed phenomena.",
+"post": "For example, next year you will learn about Bohr\u2019s model of hydrogen atom, in which Bohr assumed that an electron in the hydrogen atom follows certain rules (postutates).",
+"main": "But you need not worry at this stage about the nuances in using these words.",
+"type": "none"
+},
+{
+"pre": "But you need not worry at this stage about the nuances in using these words.",
+"post": "Why did he do that?",
+"main": "For example, next year you will learn about Bohr\u2019s model of hydrogen atom, in which Bohr assumed that an electron in the hydrogen atom follows certain rules (postutates).",
+"type": "none"
+},
+{
+"pre": "For example, next year you will learn about Bohr\u2019s model of hydrogen atom, in which Bohr assumed that an electron in the hydrogen atom follows certain rules (postutates).",
+"post": "There was a large amount of spectroscopic data before him which no other theory could explain.",
+"main": "Why did he do that?",
+"type": "none"
+},
+{
+"pre": "Why did he do that?",
+"post": "So Bohr said that if we assume that an atom behaves in such a manner, we can explain all these things at once.",
+"main": "There was a large amount of spectroscopic data before him which no other theory could explain.",
+"type": "none"
+},
+{
+"pre": "There was a large amount of spectroscopic data before him which no other theory could explain.",
+"post": "Einstein\u2019s special theory of relativity is also based on two postulates, the constancy of the speed of electromagnetic radiation and the validity of physical laws in all inertial frame of reference.",
+"main": "So Bohr said that if we assume that an atom behaves in such a manner, we can explain all these things at once.",
+"type": "none"
+},
+{
+"pre": "So Bohr said that if we assume that an atom behaves in such a manner, we can explain all these things at once.",
+"post": "It would not be wise to ask somebody to prove that the speed of light in vacuum is constant, independent of the source or observer.",
+"main": "Einstein\u2019s special theory of relativity is also based on two postulates, the constancy of the speed of electromagnetic radiation and the validity of physical laws in all inertial frame of reference.",
+"type": "none"
+},
+{
+"pre": "Einstein\u2019s special theory of relativity is also based on two postulates, the constancy of the speed of electromagnetic radiation and the validity of physical laws in all inertial frame of reference.",
+"post": "In mathematics too, we need axioms and hypotheses at every stage.",
+"main": "It would not be wise to ask somebody to prove that the speed of light in vacuum is constant, independent of the source or observer.",
+"type": "none"
+},
+{
+"pre": "It would not be wise to ask somebody to prove that the speed of light in vacuum is constant, independent of the source or observer.",
+"post": "Euclid\u2019s statement that parallel lines never meet, is a hypothesis.",
+"main": "In mathematics too, we need axioms and hypotheses at every stage.",
+"type": "none"
+},
+{
+"pre": "In mathematics too, we need axioms and hypotheses at every stage.",
+"post": "This means that if we assume this statement, we can explain several properties of straight lines and two or three dimensional figures made out of them.",
+"main": "Euclid\u2019s statement that parallel lines never meet, is a hypothesis.",
+"type": "none"
+},
+{
+"pre": "Euclid\u2019s statement that parallel lines never meet, is a hypothesis.",
+"post": "But if you don\u2019t assume it, you are free to use a different axiom and get a new geometry, as has indeed happened in the past few centuries and decades.",
+"main": "This means that if we assume this statement, we can explain several properties of straight lines and two or three dimensional figures made out of them.",
+"type": "none"
+},
+{
+"pre": "This means that if we assume this statement, we can explain several properties of straight lines and two or three dimensional figures made out of them.",
+"post": "\u00a9 NCERT not to be republished PHYSICAL WORLD 5 <b>Table</b> <b>1.1</b>  <b>Some</b> <b>physicists</b> <b>from</b> <b>different</b> <b>countries</b> <b>of</b> <b>the</b> <b>world</b> <b>and</b> <b>their</b> <b>major</b> <b>contributions</b> theory of objects falling to the earth under gravity.",
+"main": "But if you don\u2019t assume it, you are free to use a different axiom and get a new geometry, as has indeed happened in the past few centuries and decades.",
+"type": "none"
+},
+{
+"pre": "But if you don\u2019t assume it, you are free to use a different axiom and get a new geometry, as has indeed happened in the past few centuries and decades.",
+"post": "<b>1.3</b>  <b>PHYSICS,</b> <b>TECHNOLOGY</b> <b>AND</b> <b>SOCIETY</b> The connection between physics, technology and society can be seen in many examples.",
+"main": "\u00a9 NCERT not to be republished PHYSICAL WORLD 5 <b>Table</b> <b>1.1</b>  <b>Some</b> <b>physicists</b> <b>from</b> <b>different</b> <b>countries</b> <b>of</b> <b>the</b> <b>world</b> <b>and</b> <b>their</b> <b>major</b> <b>contributions</b> theory of objects falling to the earth under gravity.",
+"type": "none"
+},
+{
+"pre": "\u00a9 NCERT not to be republished PHYSICAL WORLD 5 <b>Table</b> <b>1.1</b>  <b>Some</b> <b>physicists</b> <b>from</b> <b>different</b> <b>countries</b> <b>of</b> <b>the</b> <b>world</b> <b>and</b> <b>their</b> <b>major</b> <b>contributions</b> theory of objects falling to the earth under gravity.",
+"post": "The discipline of thermodynamics arose from the need to understand and improve the working of heat engines.",
+"main": "<b>1.3</b>  <b>PHYSICS,</b> <b>TECHNOLOGY</b> <b>AND</b> <b>SOCIETY</b> The connection between physics, technology and society can be seen in many examples.",
+"type": "none"
+},
+{
+"pre": "<b>1.3</b>  <b>PHYSICS,</b> <b>TECHNOLOGY</b> <b>AND</b> <b>SOCIETY</b> The connection between physics, technology and society can be seen in many examples.",
+"post": "The steam engine, as we know, is inseparable from the Industrial Revolution in England in the eighteenth century, which had great impact on the course of human civilisation.",
+"main": "The discipline of thermodynamics arose from the need to understand and improve the working of heat engines.",
+"type": "none"
+},
+{
+"pre": "The discipline of thermodynamics arose from the need to understand and improve the working of heat engines.",
+"post": "Sometimes technology gives rise to new physics; at other times physics generates new technology.",
+"main": "The steam engine, as we know, is inseparable from the Industrial Revolution in England in the eighteenth century, which had great impact on the course of human civilisation.",
+"type": "none"
+},
+{
+"pre": "The steam engine, as we know, is inseparable from the Industrial Revolution in England in the eighteenth century, which had great impact on the course of human civilisation.",
+"post": "An example of the latter is the wireless communication technology that followed the discovery of the basic laws of electricity and magnetism in the nineteenth century.",
+"main": "Sometimes technology gives rise to new physics; at other times physics generates new technology.",
+"type": "none"
+},
+{
+"pre": "Sometimes technology gives rise to new physics; at other times physics generates new technology.",
+"post": "The applications of physics are not always easy to foresee.",
+"main": "An example of the latter is the wireless communication technology that followed the discovery of the basic laws of electricity and magnetism in the nineteenth century.",
+"type": "none"
+},
+{
+"pre": "An example of the latter is the wireless communication technology that followed the discovery of the basic laws of electricity and magnetism in the nineteenth century.",
+"post": "As late as 1933, the great physicist Ernest Rutherford had dismissed the possibility of tapping energy from atoms.",
+"main": "The applications of physics are not always easy to foresee.",
+"type": "none"
+},
+{
+"pre": "The applications of physics are not always easy to foresee.",
+"post": "But only a few years later, in 1938, Hahn and Meitner discovered the phenomenon of neutron-induced fission of uranium, which would serve as the basis of nuclear power reactors and nuclear weapons.",
+"main": "As late as 1933, the great physicist Ernest Rutherford had dismissed the possibility of tapping energy from atoms.",
+"type": "none"
+},
+{
+"pre": "As late as 1933, the great physicist Ernest Rutherford had dismissed the possibility of tapping energy from atoms.",
+"post": "Yet another important example of physics giving rise to technology is the silicon \u2018chip\u2019 that triggered the computer revolution in the last three decades of the twentieth century.",
+"main": "But only a few years later, in 1938, Hahn and Meitner discovered the phenomenon of neutron-induced fission of uranium, which would serve as the basis of nuclear power reactors and nuclear weapons.",
+"type": "none"
+},
+{
+"pre": "But only a few years later, in 1938, Hahn and Meitner discovered the phenomenon of neutron-induced fission of uranium, which would serve as the basis of nuclear power reactors and nuclear weapons.",
+"post": "A most significant area to which physics has and will contribute is the development of alternative energy resources.",
+"main": "Yet another important example of physics giving rise to technology is the silicon \u2018chip\u2019 that triggered the computer revolution in the last three decades of the twentieth century.",
+"type": "none"
+},
+{
+"pre": "Yet another important example of physics giving rise to technology is the silicon \u2018chip\u2019 that triggered the computer revolution in the last three decades of the twentieth century.",
+"post": "The fossil fuels of the planet are dwindling fast and there is an urgent need to discover new and affordable sources of energy.",
+"main": "A most significant area to which physics has and will contribute is the development of alternative energy resources.",
+"type": "none"
+},
+{
+"pre": "A most significant area to which physics has and will contribute is the development of alternative energy resources.",
+"post": "Considerable progress has already been made in this direction (for example, in conversion of solar energy, geothermal energy, etc., into electricity), but much more is still to be accomplished.",
+"main": "The fossil fuels of the planet are dwindling fast and there is an urgent need to discover new and affordable sources of energy.",
+"type": "none"
+},
+{
+"pre": "The fossil fuels of the planet are dwindling fast and there is an urgent need to discover new and affordable sources of energy.",
+"post": "Table1.1 lists some of the great physicists, their major contribution and the country of origin.",
+"main": "Considerable progress has already been made in this direction (for example, in conversion of solar energy, geothermal energy, etc., into electricity), but much more is still to be accomplished.",
+"type": "none"
+},
+{
+"pre": "Considerable progress has already been made in this direction (for example, in conversion of solar energy, geothermal energy, etc., into electricity), but much more is still to be accomplished.",
+"post": "You will appreciate from this table the multi-cultural, international character of the scientific endeavour.",
+"main": "Table1.1 lists some of the great physicists, their major contribution and the country of origin.",
+"type": "none"
+},
+{
+"pre": "Table1.1 lists some of the great physicists, their major contribution and the country of origin.",
+"post": "Table 1.2 lists some important technologies and the principles of physics they are based on.",
+"main": "You will appreciate from this table the multi-cultural, international character of the scientific endeavour.",
+"type": "none"
+},
+{
+"pre": "You will appreciate from this table the multi-cultural, international character of the scientific endeavour.",
+"post": "Obviously, these tables are not exhaustive.",
+"main": "Table 1.2 lists some important technologies and the principles of physics they are based on.",
+"type": "none"
+},
+{
+"pre": "Table 1.2 lists some important technologies and the principles of physics they are based on.",
+"post": "We urge you to try to add many names and items to these tables with the help of your teachers, good books and websites on science.",
+"main": "Obviously, these tables are not exhaustive.",
+"type": "none"
+},
+{
+"pre": "Obviously, these tables are not exhaustive.",
+"post": "You will find that this exercise is very educative and also great fun.",
+"main": "We urge you to try to add many names and items to these tables with the help of your teachers, good books and websites on science.",
+"type": "none"
+},
+{
+"pre": "We urge you to try to add many names and items to these tables with the help of your teachers, good books and websites on science.",
+"post": "And, assuredly, it will never end.",
+"main": "You will find that this exercise is very educative and also great fun.",
+"type": "none"
+},
+{
+"pre": "You will find that this exercise is very educative and also great fun.",
+"post": "The progress of science is unstoppable!",
+"main": "And, assuredly, it will never end.",
+"type": "none"
+},
+{
+"pre": "And, assuredly, it will never end.",
+"post": "Physics is the study of nature and natural phenomena.",
+"main": "The progress of science is unstoppable!",
+"type": "none"
+},
+{
+"pre": "The progress of science is unstoppable!",
+"post": "Physicists try to discover the rules that are operating in nature, on the basis of observations, experimentation and analysis.",
+"main": "Physics is the study of nature and natural phenomena.",
+"type": "none"
+},
+{
+"pre": "Physics is the study of nature and natural phenomena.",
+"post": "Physics deals with certain basic rules/laws governing the natural world.",
+"main": "Physicists try to discover the rules that are operating in nature, on the basis of observations, experimentation and analysis.",
+"type": "none"
+},
+{
+"pre": "Physicists try to discover the rules that are operating in nature, on the basis of observations, experimentation and analysis.",
+"post": "What is the nature <b>Name</b> <b>Major</b> <b>contribution/discovery</b> <b>Country</b> <b>of</b> <b>Origin</b> Archimedes Principle of buoyancy; Principle of the lever Greece Galileo Galilei Law of inertia Italy Christiaan Huygens Wave theory of light Holland Isaac Newton Universal law of gravitation; Laws of motion; U.K. Reflecting telescope Michael Faraday Laws of electromagnetic induction U.K. James Clerk Maxwell Electromagnetic theory; Light-an U.K. electromagnetic wave Heinrich Rudolf Hertz Generation of electromagnetic waves Germany J.C. Bose Ultra short radio waves India W.K. Roentgen X-rays Germany J.J. Thomson Electron U.K. Marie Sklodowska Curie Discovery of radium and polonium; Studies on Poland natural radioactivity Albert Einstein Explanation of photoelectric effect; Germany Theory of relativity \u00a9 NCERT not to be republished PHYSICS 6 <b>*</b> <i>Sections 1.4 and 1.5 contain several ideas that you may not grasp fully in your first reading.",
+"main": "Physics deals with certain basic rules/laws governing the natural world.",
+"type": "none"
+},
+{
+"pre": "Physics deals with certain basic rules/laws governing the natural world.",
+"post": "However, we</i> <i>advise you to read them carefully to develop a feel for some basic aspects of physics.",
+"main": "What is the nature <b>Name</b> <b>Major</b> <b>contribution/discovery</b> <b>Country</b> <b>of</b> <b>Origin</b> Archimedes Principle of buoyancy; Principle of the lever Greece Galileo Galilei Law of inertia Italy Christiaan Huygens Wave theory of light Holland Isaac Newton Universal law of gravitation; Laws of motion; U.K. Reflecting telescope Michael Faraday Laws of electromagnetic induction U.K. James Clerk Maxwell Electromagnetic theory; Light-an U.K. electromagnetic wave Heinrich Rudolf Hertz Generation of electromagnetic waves Germany J.C. Bose Ultra short radio waves India W.K. Roentgen X-rays Germany J.J. Thomson Electron U.K. Marie Sklodowska Curie Discovery of radium and polonium; Studies on Poland natural radioactivity Albert Einstein Explanation of photoelectric effect; Germany Theory of relativity \u00a9 NCERT not to be republished PHYSICS 6 <b>*</b> <i>Sections 1.4 and 1.5 contain several ideas that you may not grasp fully in your first reading.",
+"type": "none"
+},
+{
+"pre": "What is the nature <b>Name</b> <b>Major</b> <b>contribution/discovery</b> <b>Country</b> <b>of</b> <b>Origin</b> Archimedes Principle of buoyancy; Principle of the lever Greece Galileo Galilei Law of inertia Italy Christiaan Huygens Wave theory of light Holland Isaac Newton Universal law of gravitation; Laws of motion; U.K. Reflecting telescope Michael Faraday Laws of electromagnetic induction U.K. James Clerk Maxwell Electromagnetic theory; Light-an U.K. electromagnetic wave Heinrich Rudolf Hertz Generation of electromagnetic waves Germany J.C. Bose Ultra short radio waves India W.K. Roentgen X-rays Germany J.J. Thomson Electron U.K. Marie Sklodowska Curie Discovery of radium and polonium; Studies on Poland natural radioactivity Albert Einstein Explanation of photoelectric effect; Germany Theory of relativity \u00a9 NCERT not to be republished PHYSICS 6 <b>*</b> <i>Sections 1.4 and 1.5 contain several ideas that you may not grasp fully in your first reading.",
+"post": "These are some of the</i> <i>areas which continue to occupy the physicists today.</i> of physical laws?",
+"main": "However, we</i> <i>advise you to read them carefully to develop a feel for some basic aspects of physics.",
+"type": "none"
+},
+{
+"pre": "However, we</i> <i>advise you to read them carefully to develop a feel for some basic aspects of physics.",
+"post": "We shall now discuss the nature of fundamental forces and the laws that govern the diverse phenomena of the physical world.",
+"main": "These are some of the</i> <i>areas which continue to occupy the physicists today.</i> of physical laws?",
+"type": "none"
+},
+{
+"pre": "These are some of the</i> <i>areas which continue to occupy the physicists today.</i> of physical laws?",
+"post": "<b>1.4</b>  <b>FUNDAMENTAL</b> <b>FORCES</b> <b>IN</b> <b>NATURE*</b> We all have an intuitive notion of force.",
+"main": "We shall now discuss the nature of fundamental forces and the laws that govern the diverse phenomena of the physical world.",
+"type": "none"
+},
+{
+"pre": "We shall now discuss the nature of fundamental forces and the laws that govern the diverse phenomena of the physical world.",
+"post": "In our experience, force is needed to push, carry or throw objects, deform or break them.",
+"main": "<b>1.4</b>  <b>FUNDAMENTAL</b> <b>FORCES</b> <b>IN</b> <b>NATURE*</b> We all have an intuitive notion of force.",
+"type": "none"
+},
+{
+"pre": "<b>1.4</b>  <b>FUNDAMENTAL</b> <b>FORCES</b> <b>IN</b> <b>NATURE*</b> We all have an intuitive notion of force.",
+"post": "We also experience the impact of forces on us, like when a moving object hits us or we are in a merry-go- round.",
+"main": "In our experience, force is needed to push, carry or throw objects, deform or break them.",
+"type": "none"
+},
+{
+"pre": "In our experience, force is needed to push, carry or throw objects, deform or break them.",
+"post": "Going from this intuitive notion to the proper scientific concept of force is not a trivial matter.",
+"main": "We also experience the impact of forces on us, like when a moving object hits us or we are in a merry-go- round.",
+"type": "none"
+},
+{
+"pre": "We also experience the impact of forces on us, like when a moving object hits us or we are in a merry-go- round.",
+"post": "Early thinkers like Aristotle had wrong ideas about it.",
+"main": "Going from this intuitive notion to the proper scientific concept of force is not a trivial matter.",
+"type": "none"
+},
+{
+"pre": "Going from this intuitive notion to the proper scientific concept of force is not a trivial matter.",
+"post": "The correct notion of force was arrived at by Isaac Newton in his famous laws of motion.",
+"main": "Early thinkers like Aristotle had wrong ideas about it.",
+"type": "none"
+},
+{
+"pre": "Early thinkers like Aristotle had wrong ideas about it.",
+"post": "He also gave an explicit form for the force for gravitational attraction between two bodies.",
+"main": "The correct notion of force was arrived at by Isaac Newton in his famous laws of motion.",
+"type": "none"
+},
+{
+"pre": "The correct notion of force was arrived at by Isaac Newton in his famous laws of motion.",
+"post": "We shall learn these matters in subsequent chapters.",
+"main": "He also gave an explicit form for the force for gravitational attraction between two bodies.",
+"type": "none"
+},
+{
+"pre": "He also gave an explicit form for the force for gravitational attraction between two bodies.",
+"post": "In the macroscopic world, besides the gravitational force, we encounter several kinds of forces: muscular force, contact forces between bodies, friction (which is also a contact force parallel to the surfaces in contact), the forces exerted by compressed or elongated springs and taut strings and ropes (tension), the force of buoyancy and viscous force when solids are in Victor Francis Hess Cosmic radiation Austria R.A. Millikan Measurement of electronic charge U.S.A. Ernest Rutherford Nuclear model of atom New Zealand Niels Bohr Quantum model of hydrogen atom Denmark C.V. Raman Inelastic scattering of light by molecules India Louis Victor de Borglie Wave nature of matter France M.N. Saha Thermal ionisation India S.N. Bose Quantum statistics India Wolfgang Pauli Exclusion principle Austria Enrico Fermi Controlled nuclear fission Italy Werner Heisenberg Quantum mechanics; Uncertainty principle Germany Paul Dirac Relativistic theory of electron; U.K. Quantum statistics Edwin Hubble Expanding universe U.S.A. Ernest Orlando Lawrence Cyclotron U.S.A. James Chadwick Neutron U.K. Hideki Yukawa Theory of nuclear forces Japan Homi Jehangir Bhabha Cascade process of cosmic radiation India Lev Davidovich Landau Theory of condensed matter; Liquid helium Russia S.",
+"main": "We shall learn these matters in subsequent chapters.",
+"type": "none"
+},
+{
+"pre": "We shall learn these matters in subsequent chapters.",
+"post": "Chandrasekhar Chandrasekhar limit, structure and evolution India of stars John Bardeen Transistors; Theory of super conductivity U.S.A. C.H. Townes Maser; Laser U.S.A. Abdus Salam Unification of weak and electromagnetic Pakistan interactions <b>Name</b> <b>Major</b> <b>contribution/discovery</b> <b>Country</b> <b>of</b> <b>Origin</b> \u00a9 NCERT not to be republished PHYSICAL WORLD 7 contact with fluids, the force due to pressure of a fluid, the force due to surface tension of a liquid, and so on.",
+"main": "In the macroscopic world, besides the gravitational force, we encounter several kinds of forces: muscular force, contact forces between bodies, friction (which is also a contact force parallel to the surfaces in contact), the forces exerted by compressed or elongated springs and taut strings and ropes (tension), the force of buoyancy and viscous force when solids are in Victor Francis Hess Cosmic radiation Austria R.A. Millikan Measurement of electronic charge U.S.A. Ernest Rutherford Nuclear model of atom New Zealand Niels Bohr Quantum model of hydrogen atom Denmark C.V. Raman Inelastic scattering of light by molecules India Louis Victor de Borglie Wave nature of matter France M.N. Saha Thermal ionisation India S.N. Bose Quantum statistics India Wolfgang Pauli Exclusion principle Austria Enrico Fermi Controlled nuclear fission Italy Werner Heisenberg Quantum mechanics; Uncertainty principle Germany Paul Dirac Relativistic theory of electron; U.K. Quantum statistics Edwin Hubble Expanding universe U.S.A. Ernest Orlando Lawrence Cyclotron U.S.A. James Chadwick Neutron U.K. Hideki Yukawa Theory of nuclear forces Japan Homi Jehangir Bhabha Cascade process of cosmic radiation India Lev Davidovich Landau Theory of condensed matter; Liquid helium Russia S.",
+"type": "none"
+},
+{
+"pre": "In the macroscopic world, besides the gravitational force, we encounter several kinds of forces: muscular force, contact forces between bodies, friction (which is also a contact force parallel to the surfaces in contact), the forces exerted by compressed or elongated springs and taut strings and ropes (tension), the force of buoyancy and viscous force when solids are in Victor Francis Hess Cosmic radiation Austria R.A. Millikan Measurement of electronic charge U.S.A. Ernest Rutherford Nuclear model of atom New Zealand Niels Bohr Quantum model of hydrogen atom Denmark C.V. Raman Inelastic scattering of light by molecules India Louis Victor de Borglie Wave nature of matter France M.N. Saha Thermal ionisation India S.N. Bose Quantum statistics India Wolfgang Pauli Exclusion principle Austria Enrico Fermi Controlled nuclear fission Italy Werner Heisenberg Quantum mechanics; Uncertainty principle Germany Paul Dirac Relativistic theory of electron; U.K. Quantum statistics Edwin Hubble Expanding universe U.S.A. Ernest Orlando Lawrence Cyclotron U.S.A. James Chadwick Neutron U.K. Hideki Yukawa Theory of nuclear forces Japan Homi Jehangir Bhabha Cascade process of cosmic radiation India Lev Davidovich Landau Theory of condensed matter; Liquid helium Russia S.",
+"post": "There are also forces involving charged and magnetic bodies.",
+"main": "Chandrasekhar Chandrasekhar limit, structure and evolution India of stars John Bardeen Transistors; Theory of super conductivity U.S.A. C.H. Townes Maser; Laser U.S.A. Abdus Salam Unification of weak and electromagnetic Pakistan interactions <b>Name</b> <b>Major</b> <b>contribution/discovery</b> <b>Country</b> <b>of</b> <b>Origin</b> \u00a9 NCERT not to be republished PHYSICAL WORLD 7 contact with fluids, the force due to pressure of a fluid, the force due to surface tension of a liquid, and so on.",
+"type": "none"
+},
+{
+"pre": "Chandrasekhar Chandrasekhar limit, structure and evolution India of stars John Bardeen Transistors; Theory of super conductivity U.S.A. C.H. Townes Maser; Laser U.S.A. Abdus Salam Unification of weak and electromagnetic Pakistan interactions <b>Name</b> <b>Major</b> <b>contribution/discovery</b> <b>Country</b> <b>of</b> <b>Origin</b> \u00a9 NCERT not to be republished PHYSICAL WORLD 7 contact with fluids, the force due to pressure of a fluid, the force due to surface tension of a liquid, and so on.",
+"post": "In the microscopic domain again, we have electric and magnetic forces, nuclear forces involving protons and neutrons, interatomic and intermolecular forces, etc.",
+"main": "There are also forces involving charged and magnetic bodies.",
+"type": "none"
+},
+{
+"pre": "There are also forces involving charged and magnetic bodies.",
+"post": "We shall get familiar with some of these forces in later parts of this course.",
+"main": "In the microscopic domain again, we have electric and magnetic forces, nuclear forces involving protons and neutrons, interatomic and intermolecular forces, etc.",
+"type": "none"
+},
+{
+"pre": "In the microscopic domain again, we have electric and magnetic forces, nuclear forces involving protons and neutrons, interatomic and intermolecular forces, etc.",
+"post": "A great insight of the twentieth century physics is that these different forces occurring in different contexts actually arise from only a small number of fundamental forces in nature.",
+"main": "We shall get familiar with some of these forces in later parts of this course.",
+"type": "none"
+},
+{
+"pre": "We shall get familiar with some of these forces in later parts of this course.",
+"post": "For example, the elastic spring force arises due to the net attraction/repulsion between the neighbouring atoms of the spring when the spring is elongated/compressed.",
+"main": "A great insight of the twentieth century physics is that these different forces occurring in different contexts actually arise from only a small number of fundamental forces in nature.",
+"type": "none"
+},
+{
+"pre": "A great insight of the twentieth century physics is that these different forces occurring in different contexts actually arise from only a small number of fundamental forces in nature.",
+"post": "This net attraction/repulsion can be traced to the (unbalanced) sum of electric forces between the charged constituents of the atoms.",
+"main": "For example, the elastic spring force arises due to the net attraction/repulsion between the neighbouring atoms of the spring when the spring is elongated/compressed.",
+"type": "none"
+},
+{
+"pre": "For example, the elastic spring force arises due to the net attraction/repulsion between the neighbouring atoms of the spring when the spring is elongated/compressed.",
+"post": "In principle, this means that the laws for \u2018derived\u2019 forces (such as spring force, friction) are not independent of the laws of fundamental forces in nature.",
+"main": "This net attraction/repulsion can be traced to the (unbalanced) sum of electric forces between the charged constituents of the atoms.",
+"type": "none"
+},
+{
+"pre": "This net attraction/repulsion can be traced to the (unbalanced) sum of electric forces between the charged constituents of the atoms.",
+"post": "The origin of these derived forces is, however, very complex.",
+"main": "In principle, this means that the laws for \u2018derived\u2019 forces (such as spring force, friction) are not independent of the laws of fundamental forces in nature.",
+"type": "none"
+},
+{
+"pre": "In principle, this means that the laws for \u2018derived\u2019 forces (such as spring force, friction) are not independent of the laws of fundamental forces in nature.",
+"post": "At the present stage of our understanding, we know of four fundamental forces in nature, which are described in brief here : <b>Table</b> <b>1.2</b>  <b>Link</b> <b>between</b> <b>technology</b> <b>and</b> <b>physics</b> <b>Technology</b> <b>Scientific</b> <b>principle(s)</b> Steam engine Laws of thermodynamics Nuclear reactor Controlled nuclear fission Radio and Television Generation, propagation and detection of electromagnetic waves Computers Digital logic Lasers Light amplification by stimulated emission of radiation Production of ultra high magnetic Superconductivity fields Rocket propulsion Newton\u2019s laws of motion Electric generator Faraday\u2019s laws of electromagnetic induction Hydroelectric power Conversion of gravitational potential energy into electrical energy Aeroplane Bernoulli\u2019s principle in fluid dynamics Particle accelerators Motion of charged particles in electromagnetic fields Sonar Reflection of ultrasonic waves Optical fibres Total internal reflection of light Non-reflecting coatings Thin film optical interference Electron microscope Wave nature of electrons Photocell Photoelectric effect Fusion test reactor (Tokamak) Magnetic confinement of plasma Giant Metrewave Radio Detection of cosmic radio waves Telescope (GMRT) Bose-Einstein condensate Trapping and cooling of atoms by laser beams and magnetic fields.",
+"main": "The origin of these derived forces is, however, very complex.",
+"type": "none"
+},
+{
+"pre": "The origin of these derived forces is, however, very complex.",
+"post": "\u00a9 NCERT not to be republished PHYSICS 8 <b>1.4.1</b> <b>Gravitational</b> <b>Force</b> The gravitational force is the force of mutual attraction between any two objects by virtue of their masses.",
+"main": "At the present stage of our understanding, we know of four fundamental forces in nature, which are described in brief here : <b>Table</b> <b>1.2</b>  <b>Link</b> <b>between</b> <b>technology</b> <b>and</b> <b>physics</b> <b>Technology</b> <b>Scientific</b> <b>principle(s)</b> Steam engine Laws of thermodynamics Nuclear reactor Controlled nuclear fission Radio and Television Generation, propagation and detection of electromagnetic waves Computers Digital logic Lasers Light amplification by stimulated emission of radiation Production of ultra high magnetic Superconductivity fields Rocket propulsion Newton\u2019s laws of motion Electric generator Faraday\u2019s laws of electromagnetic induction Hydroelectric power Conversion of gravitational potential energy into electrical energy Aeroplane Bernoulli\u2019s principle in fluid dynamics Particle accelerators Motion of charged particles in electromagnetic fields Sonar Reflection of ultrasonic waves Optical fibres Total internal reflection of light Non-reflecting coatings Thin film optical interference Electron microscope Wave nature of electrons Photocell Photoelectric effect Fusion test reactor (Tokamak) Magnetic confinement of plasma Giant Metrewave Radio Detection of cosmic radio waves Telescope (GMRT) Bose-Einstein condensate Trapping and cooling of atoms by laser beams and magnetic fields.",
+"type": "none"
+},
+{
+"pre": "At the present stage of our understanding, we know of four fundamental forces in nature, which are described in brief here : <b>Table</b> <b>1.2</b>  <b>Link</b> <b>between</b> <b>technology</b> <b>and</b> <b>physics</b> <b>Technology</b> <b>Scientific</b> <b>principle(s)</b> Steam engine Laws of thermodynamics Nuclear reactor Controlled nuclear fission Radio and Television Generation, propagation and detection of electromagnetic waves Computers Digital logic Lasers Light amplification by stimulated emission of radiation Production of ultra high magnetic Superconductivity fields Rocket propulsion Newton\u2019s laws of motion Electric generator Faraday\u2019s laws of electromagnetic induction Hydroelectric power Conversion of gravitational potential energy into electrical energy Aeroplane Bernoulli\u2019s principle in fluid dynamics Particle accelerators Motion of charged particles in electromagnetic fields Sonar Reflection of ultrasonic waves Optical fibres Total internal reflection of light Non-reflecting coatings Thin film optical interference Electron microscope Wave nature of electrons Photocell Photoelectric effect Fusion test reactor (Tokamak) Magnetic confinement of plasma Giant Metrewave Radio Detection of cosmic radio waves Telescope (GMRT) Bose-Einstein condensate Trapping and cooling of atoms by laser beams and magnetic fields.",
+"post": "It is a universal force.",
+"main": "\u00a9 NCERT not to be republished PHYSICS 8 <b>1.4.1</b> <b>Gravitational</b> <b>Force</b> The gravitational force is the force of mutual attraction between any two objects by virtue of their masses.",
+"type": "definition"
+},
+{
+"pre": "\u00a9 NCERT not to be republished PHYSICS 8 <b>1.4.1</b> <b>Gravitational</b> <b>Force</b> The gravitational force is the force of mutual attraction between any two objects by virtue of their masses.",
+"post": "Every object experiences this force due to every other object in the universe.",
+"main": "It is a universal force.",
+"type": "none"
+},
+{
+"pre": "It is a universal force.",
+"post": "All objects on the earth, for example, experience the force of gravity due to the earth.",
+"main": "Every object experiences this force due to every other object in the universe.",
+"type": "none"
+},
+{
+"pre": "Every object experiences this force due to every other object in the universe.",
+"post": "In particular, gravity governs the motion of the moon and artificial satellites around the earth, motion of the earth and planets around the sun, and, of course, the motion of bodies falling to the earth.",
+"main": "All objects on the earth, for example, experience the force of gravity due to the earth.",
+"type": "none"
+},
+{
+"pre": "All objects on the earth, for example, experience the force of gravity due to the earth.",
+"post": "It plays a key role in the large-scale phenomena of the universe, such as formation and evolution of stars, galaxies and galactic clusters.",
+"main": "In particular, gravity governs the motion of the moon and artificial satellites around the earth, motion of the earth and planets around the sun, and, of course, the motion of bodies falling to the earth.",
+"type": "none"
+},
+{
+"pre": "In particular, gravity governs the motion of the moon and artificial satellites around the earth, motion of the earth and planets around the sun, and, of course, the motion of bodies falling to the earth.",
+"post": "<b>1.4.2</b>  <b>Electromagnetic</b> <b>Force</b> Electromagnetic force is the force between charged particles.",
+"main": "It plays a key role in the large-scale phenomena of the universe, such as formation and evolution of stars, galaxies and galactic clusters.",
+"type": "none"
+},
+{
+"pre": "It plays a key role in the large-scale phenomena of the universe, such as formation and evolution of stars, galaxies and galactic clusters.",
+"post": "In the simpler case when charges are at rest, the force is given by Coulomb\u2019s law : attractive for unlike charges and repulsive for like charges.",
+"main": "<b>1.4.2</b>  <b>Electromagnetic</b> <b>Force</b> Electromagnetic force is the force between charged particles.",
+"type": "definition"
+},
+{
+"pre": "<b>1.4.2</b>  <b>Electromagnetic</b> <b>Force</b> Electromagnetic force is the force between charged particles.",
+"post": "Charges in motion produce magnetic effects and a magnetic field gives rise to a force on a moving charge.",
+"main": "In the simpler case when charges are at rest, the force is given by Coulomb\u2019s law : attractive for unlike charges and repulsive for like charges.",
+"type": "none"
+},
+{
+"pre": "In the simpler case when charges are at rest, the force is given by Coulomb\u2019s law : attractive for unlike charges and repulsive for like charges.",
+"post": "Electric and magnetic effects are, in general, inseparable \u2013 hence the name electromagnetic force.",
+"main": "Charges in motion produce magnetic effects and a magnetic field gives rise to a force on a moving charge.",
+"type": "none"
+},
+{
+"pre": "Charges in motion produce magnetic effects and a magnetic field gives rise to a force on a moving charge.",
+"post": "Like the gravitational force, electromagnetic force acts over large distances and does not need any intervening medium.",
+"main": "Electric and magnetic effects are, in general, inseparable \u2013 hence the name electromagnetic force.",
+"type": "none"
+},
+{
+"pre": "Electric and magnetic effects are, in general, inseparable \u2013 hence the name electromagnetic force.",
+"post": "It is enormously strong compared to gravity.",
+"main": "Like the gravitational force, electromagnetic force acts over large distances and does not need any intervening medium.",
+"type": "none"
+},
+{
+"pre": "Like the gravitational force, electromagnetic force acts over large distances and does not need any intervening medium.",
+"post": "The electric force between two protons, for example, is 10 36 times the gravitational force between them, for any fixed distance.",
+"main": "It is enormously strong compared to gravity.",
+"type": "none"
+},
+{
+"pre": "It is enormously strong compared to gravity.",
+"post": "Matter, as we know, consists of elementary charged constituents like electrons and protons.",
+"main": "The electric force between two protons, for example, is 10 36 times the gravitational force between them, for any fixed distance.",
+"type": "none"
+},
+{
+"pre": "The electric force between two protons, for example, is 10 36 times the gravitational force between them, for any fixed distance.",
+"post": "Since the electromagnetic force is so much stronger than the gravitational force, it dominates all phenomena at atomic and molecular scales.",
+"main": "Matter, as we know, consists of elementary charged constituents like electrons and protons.",
+"type": "none"
+},
+{
+"pre": "Matter, as we know, consists of elementary charged constituents like electrons and protons.",
+"post": "(The other two forces, as we shall see, operate only at nuclear scales.) Thus it is mainly the electromagnetic force that governs the structure of atoms and molecules, the dynamics of chemical reactions and the mechanical, thermal and other properties of materials.",
+"main": "Since the electromagnetic force is so much stronger than the gravitational force, it dominates all phenomena at atomic and molecular scales.",
+"type": "none"
+},
+{
+"pre": "Since the electromagnetic force is so much stronger than the gravitational force, it dominates all phenomena at atomic and molecular scales.",
+"post": "It underlies the macroscopic forces like \u2018tension\u2019, \u2018friction\u2019, \u2018normal force\u2019, \u2018spring force\u2019, etc.",
+"main": "(The other two forces, as we shall see, operate only at nuclear scales.) Thus it is mainly the electromagnetic force that governs the structure of atoms and molecules, the dynamics of chemical reactions and the mechanical, thermal and other properties of materials.",
+"type": "none"
+},
+{
+"pre": "(The other two forces, as we shall see, operate only at nuclear scales.) Thus it is mainly the electromagnetic force that governs the structure of atoms and molecules, the dynamics of chemical reactions and the mechanical, thermal and other properties of materials.",
+"post": "Gravity is always attractive, while electromagnetic force can be attractive or repulsive.",
+"main": "It underlies the macroscopic forces like \u2018tension\u2019, \u2018friction\u2019, \u2018normal force\u2019, \u2018spring force\u2019, etc.",
+"type": "none"
+},
+{
+"pre": "It underlies the macroscopic forces like \u2018tension\u2019, \u2018friction\u2019, \u2018normal force\u2019, \u2018spring force\u2019, etc.",
+"post": "Another way of putting it is that mass comes only in one variety (there is no negative mass), but charge comes in two varieties : positive and negative charge.",
+"main": "Gravity is always attractive, while electromagnetic force can be attractive or repulsive.",
+"type": "none"
+},
+{
+"pre": "Gravity is always attractive, while electromagnetic force can be attractive or repulsive.",
+"post": "This is what makes all the difference.",
+"main": "Another way of putting it is that mass comes only in one variety (there is no negative mass), but charge comes in two varieties : positive and negative charge.",
+"type": "none"
+},
+{
+"pre": "Another way of putting it is that mass comes only in one variety (there is no negative mass), but charge comes in two varieties : positive and negative charge.",
+"post": "Matter is mostly electrically neutral (net charge is zero).",
+"main": "This is what makes all the difference.",
+"type": "none"
+},
+{
+"pre": "This is what makes all the difference.",
+"post": "Thus, electric force is largely zero and gravitational force dominates terrestrial phenomena.",
+"main": "Matter is mostly electrically neutral (net charge is zero).",
+"type": "none"
+},
+{
+"pre": "Matter is mostly electrically neutral (net charge is zero).",
+"post": "Electric force manifests itself in atmosphere where the atoms are ionised and that leads to lightning.",
+"main": "Thus, electric force is largely zero and gravitational force dominates terrestrial phenomena.",
+"type": "none"
+},
+{
+"pre": "Thus, electric force is largely zero and gravitational force dominates terrestrial phenomena.",
+"post": "<i><b>Albert</b> <b>Einstein</b> <b>(1879-1955)</b></i> Albert Einstein, born in Ulm, Germany in 1879, is universally regarded as one of the greatest physicists of all time.",
+"main": "Electric force manifests itself in atmosphere where the atoms are ionised and that leads to lightning.",
+"type": "none"
+},
+{
+"pre": "Electric force manifests itself in atmosphere where the atoms are ionised and that leads to lightning.",
+"post": "His astonishing scientific career began with the publication of three path-breaking papers in 1905.",
+"main": "<i><b>Albert</b> <b>Einstein</b> <b>(1879-1955)</b></i> Albert Einstein, born in Ulm, Germany in 1879, is universally regarded as one of the greatest physicists of all time.",
+"type": "none"
+},
+{
+"pre": "<i><b>Albert</b> <b>Einstein</b> <b>(1879-1955)</b></i> Albert Einstein, born in Ulm, Germany in 1879, is universally regarded as one of the greatest physicists of all time.",
+"post": "In the first paper, he introduced the notion of light quanta (now called photons) and used it to explain the features of photoelectric effect that the classical wave theory of radiation could not account for.",
+"main": "His astonishing scientific career began with the publication of three path-breaking papers in 1905.",
+"type": "none"
+},
+{
+"pre": "His astonishing scientific career began with the publication of three path-breaking papers in 1905.",
+"post": "In the second paper, he developed a theory of Brownian motion that was confirmed experimentally a few years later and provided a convincing evidence of the atomic picture of matter.",
+"main": "In the first paper, he introduced the notion of light quanta (now called photons) and used it to explain the features of photoelectric effect that the classical wave theory of radiation could not account for.",
+"type": "none"
+},
+{
+"pre": "In the first paper, he introduced the notion of light quanta (now called photons) and used it to explain the features of photoelectric effect that the classical wave theory of radiation could not account for.",
+"post": "The third paper gave birth to the special theory of relativity that made Einstein a legend in his own life time.",
+"main": "In the second paper, he developed a theory of Brownian motion that was confirmed experimentally a few years later and provided a convincing evidence of the atomic picture of matter.",
+"type": "none"
+},
+{
+"pre": "In the second paper, he developed a theory of Brownian motion that was confirmed experimentally a few years later and provided a convincing evidence of the atomic picture of matter.",
+"post": "In the next decade, he explored the consequences of his new theory which included, among other things, the mass-energy equivalence enshrined in his famous equation E = mc 2 .",
+"main": "The third paper gave birth to the special theory of relativity that made Einstein a legend in his own life time.",
+"type": "none"
+},
+{
+"pre": "The third paper gave birth to the special theory of relativity that made Einstein a legend in his own life time.",
+"post": "He also created the general version of relativity (The General Theory of Relativity), which is the modern theory of gravitation.",
+"main": "In the next decade, he explored the consequences of his new theory which included, among other things, the mass-energy equivalence enshrined in his famous equation E = mc 2 .",
+"type": "none"
+},
+{
+"pre": "In the next decade, he explored the consequences of his new theory which included, among other things, the mass-energy equivalence enshrined in his famous equation E = mc 2 .",
+"post": "Some of Einstein\u2019s most significant later contributions are: the notion of stimulated emission introduced in an alternative derivation of Planck\u2019s blackbody radiation law, static model of the universe which started modern cosmology, quantum statistics of a gas of massive bosons, and a critical analysis of the foundations of quantum mechanics.",
+"main": "He also created the general version of relativity (The General Theory of Relativity), which is the modern theory of gravitation.",
+"type": "none"
+},
+{
+"pre": "He also created the general version of relativity (The General Theory of Relativity), which is the modern theory of gravitation.",
+"post": "The year 2005 was declared as International Year of Physics, in recognition of Einstein\u2019s monumental contribution to physics, in year 1905, describing revolutionary scientific ideas that have since influenced all of modern physics.",
+"main": "Some of Einstein\u2019s most significant later contributions are: the notion of stimulated emission introduced in an alternative derivation of Planck\u2019s blackbody radiation law, static model of the universe which started modern cosmology, quantum statistics of a gas of massive bosons, and a critical analysis of the foundations of quantum mechanics.",
+"type": "none"
+},
+{
+"pre": "Some of Einstein\u2019s most significant later contributions are: the notion of stimulated emission introduced in an alternative derivation of Planck\u2019s blackbody radiation law, static model of the universe which started modern cosmology, quantum statistics of a gas of massive bosons, and a critical analysis of the foundations of quantum mechanics.",
+"post": "\u00a9 NCERT not to be republished PHYSICAL WORLD 9 If we reflect a little, the enormous strength of the electromagnetic force compared to gravity is evident in our daily life.",
+"main": "The year 2005 was declared as International Year of Physics, in recognition of Einstein\u2019s monumental contribution to physics, in year 1905, describing revolutionary scientific ideas that have since influenced all of modern physics.",
+"type": "none"
+},
+{
+"pre": "The year 2005 was declared as International Year of Physics, in recognition of Einstein\u2019s monumental contribution to physics, in year 1905, describing revolutionary scientific ideas that have since influenced all of modern physics.",
+"post": "When we hold a book in our hand, we are balancing the gravitational force on the book due to the huge mass of the earth by the \u2018normal force\u2019 provided by our hand.",
+"main": "\u00a9 NCERT not to be republished PHYSICAL WORLD 9 If we reflect a little, the enormous strength of the electromagnetic force compared to gravity is evident in our daily life.",
+"type": "none"
+},
+{
+"pre": "\u00a9 NCERT not to be republished PHYSICAL WORLD 9 If we reflect a little, the enormous strength of the electromagnetic force compared to gravity is evident in our daily life.",
+"post": "The latter is nothing but the net electromagnetic force between the charged constituents of our hand and the book, at the surface in contact.",
+"main": "When we hold a book in our hand, we are balancing the gravitational force on the book due to the huge mass of the earth by the \u2018normal force\u2019 provided by our hand.",
+"type": "none"
+},
+{
+"pre": "When we hold a book in our hand, we are balancing the gravitational force on the book due to the huge mass of the earth by the \u2018normal force\u2019 provided by our hand.",
+"post": "If electromagnetic force were not intrinsically so much stronger than gravity, the hand of the strongest man would crumble under the weight of a feather !",
+"main": "The latter is nothing but the net electromagnetic force between the charged constituents of our hand and the book, at the surface in contact.",
+"type": "none"
+},
+{
+"pre": "The latter is nothing but the net electromagnetic force between the charged constituents of our hand and the book, at the surface in contact.",
+"post": "Indeed, to be consistent, in that circumstance, we ourselves would crumble under our own weight !",
+"main": "If electromagnetic force were not intrinsically so much stronger than gravity, the hand of the strongest man would crumble under the weight of a feather !",
+"type": "none"
+},
+{
+"pre": "If electromagnetic force were not intrinsically so much stronger than gravity, the hand of the strongest man would crumble under the weight of a feather !",
+"post": "<b>1.4.3</b>  <b>Strong</b> <b>Nuclear</b> <b>Force</b> The strong nuclear force binds protons and neutrons in a nucleus.",
+"main": "Indeed, to be consistent, in that circumstance, we ourselves would crumble under our own weight !",
+"type": "none"
+},
+{
+"pre": "Indeed, to be consistent, in that circumstance, we ourselves would crumble under our own weight !",
+"post": "It is evident that without some attractive force, a nucleus will be unstable due to the electric repulsion between its protons.",
+"main": "<b>1.4.3</b>  <b>Strong</b> <b>Nuclear</b> <b>Force</b> The strong nuclear force binds protons and neutrons in a nucleus.",
+"type": "definition"
+},
+{
+"pre": "<b>1.4.3</b>  <b>Strong</b> <b>Nuclear</b> <b>Force</b> The strong nuclear force binds protons and neutrons in a nucleus.",
+"post": "This attractive force cannot be gravitational since force of gravity is negligible compared to the electric force.",
+"main": "It is evident that without some attractive force, a nucleus will be unstable due to the electric repulsion between its protons.",
+"type": "none"
+},
+{
+"pre": "It is evident that without some attractive force, a nucleus will be unstable due to the electric repulsion between its protons.",
+"post": "A new basic force must, therefore, be invoked.",
+"main": "This attractive force cannot be gravitational since force of gravity is negligible compared to the electric force.",
+"type": "none"
+},
+{
+"pre": "This attractive force cannot be gravitational since force of gravity is negligible compared to the electric force.",
+"post": "The strong nuclear force is the strongest of all fundamental forces, about 100 times the electromagnetic force in strength.",
+"main": "A new basic force must, therefore, be invoked.",
+"type": "none"
+},
+{
+"pre": "A new basic force must, therefore, be invoked.",
+"post": "It is charge-independent and acts equally between a proton and a proton, a neutron and a neutron, and a proton and a neutron.",
+"main": "The strong nuclear force is the strongest of all fundamental forces, about 100 times the electromagnetic force in strength.",
+"type": "none"
+},
+{
+"pre": "The strong nuclear force is the strongest of all fundamental forces, about 100 times the electromagnetic force in strength.",
+"post": "Its range is, however, extremely small, of about nuclear dimensions (10 \u201315 m).",
+"main": "It is charge-independent and acts equally between a proton and a proton, a neutron and a neutron, and a proton and a neutron.",
+"type": "none"
+},
+{
+"pre": "It is charge-independent and acts equally between a proton and a proton, a neutron and a neutron, and a proton and a neutron.",
+"post": "It is responsible for the stability of nuclei.",
+"main": "Its range is, however, extremely small, of about nuclear dimensions (10 \u201315 m).",
+"type": "none"
+},
+{
+"pre": "Its range is, however, extremely small, of about nuclear dimensions (10 \u201315 m).",
+"post": "The electron, it must be noted, does not experience this force.",
+"main": "It is responsible for the stability of nuclei.",
+"type": "none"
+},
+{
+"pre": "It is responsible for the stability of nuclei.",
+"post": "Recent developments have, however, indicated that protons and neutrons are built out of still more elementary constituents called quarks.",
+"main": "The electron, it must be noted, does not experience this force.",
+"type": "none"
+},
+{
+"pre": "The electron, it must be noted, does not experience this force.",
+"post": "<b>1.4.4</b>  <b>Weak</b> <b>Nuclear</b> <b>Force</b> The weak nuclear force appears only in certain nuclear processes such as the \u03b2-decay of a nucleus.",
+"main": "Recent developments have, however, indicated that protons and neutrons are built out of still more elementary constituents called quarks.",
+"type": "none"
+},
+{
+"pre": "Recent developments have, however, indicated that protons and neutrons are built out of still more elementary constituents called quarks.",
+"post": "In \u03b2-decay, the nucleus emits an electron and an uncharged particle called neutrino.",
+"main": "<b>1.4.4</b>  <b>Weak</b> <b>Nuclear</b> <b>Force</b> The weak nuclear force appears only in certain nuclear processes such as the \u03b2-decay of a nucleus.",
+"type": "definition"
+},
+{
+"pre": "<b>1.4.4</b>  <b>Weak</b> <b>Nuclear</b> <b>Force</b> The weak nuclear force appears only in certain nuclear processes such as the \u03b2-decay of a nucleus.",
+"post": "The weak nuclear force is not as weak as the gravitational force, but much weaker than the strong nuclear and electromagnetic forces.",
+"main": "In \u03b2-decay, the nucleus emits an electron and an uncharged particle called neutrino.",
+"type": "none"
+},
+{
+"pre": "In \u03b2-decay, the nucleus emits an electron and an uncharged particle called neutrino.",
+"post": "The range of weak nuclear force is exceedingly small, of the order of 10 -16 m.",
+"main": "The weak nuclear force is not as weak as the gravitational force, but much weaker than the strong nuclear and electromagnetic forces.",
+"type": "none"
+},
+{
+"pre": "The weak nuclear force is not as weak as the gravitational force, but much weaker than the strong nuclear and electromagnetic forces.",
+"post": "<b>1.4.5</b>  <b>Towards</b> <b>Unification</b> <b>of</b> <b>Forces</b> We remarked in section 1.1 that unification is a basic quest in physics.",
+"main": "The range of weak nuclear force is exceedingly small, of the order of 10 -16 m.",
+"type": "none"
+},
+{
+"pre": "The range of weak nuclear force is exceedingly small, of the order of 10 -16 m.",
+"post": "Great advances in physics often amount to unification of different <i><b>Satyendranath</b> <b>Bose</b> <b>(1894-1974)</b></i> Satyendranath Bose, born in Calcutta in 1894, is among the great Indian physicists who made a fundamental contribution to the advance of science in the twentieth century.",
+"main": "<b>1.4.5</b>  <b>Towards</b> <b>Unification</b> <b>of</b> <b>Forces</b> We remarked in section 1.1 that unification is a basic quest in physics.",
+"type": "none"
+},
+{
+"pre": "<b>1.4.5</b>  <b>Towards</b> <b>Unification</b> <b>of</b> <b>Forces</b> We remarked in section 1.1 that unification is a basic quest in physics.",
+"post": "An outstanding student throughout, Bose started his career in 1916 as a lecturer in physics in Calcutta University; five years later he joined Dacca University.",
+"main": "Great advances in physics often amount to unification of different <i><b>Satyendranath</b> <b>Bose</b> <b>(1894-1974)</b></i> Satyendranath Bose, born in Calcutta in 1894, is among the great Indian physicists who made a fundamental contribution to the advance of science in the twentieth century.",
+"type": "none"
+},
+{
+"pre": "Great advances in physics often amount to unification of different <i><b>Satyendranath</b> <b>Bose</b> <b>(1894-1974)</b></i> Satyendranath Bose, born in Calcutta in 1894, is among the great Indian physicists who made a fundamental contribution to the advance of science in the twentieth century.",
+"post": "Here in 1924, in a brilliant flash of insight, Bose gave a new derivation of Planck\u2019s law, treating radiation as a gas of photons and employing new statistical methods of counting of photon states.",
+"main": "An outstanding student throughout, Bose started his career in 1916 as a lecturer in physics in Calcutta University; five years later he joined Dacca University.",
+"type": "none"
+},
+{
+"pre": "An outstanding student throughout, Bose started his career in 1916 as a lecturer in physics in Calcutta University; five years later he joined Dacca University.",
+"post": "He wrote a short paper on the subject and sent it to Einstein who immediately recognised its great significance, translated it in German and forwarded it for publication.",
+"main": "Here in 1924, in a brilliant flash of insight, Bose gave a new derivation of Planck\u2019s law, treating radiation as a gas of photons and employing new statistical methods of counting of photon states.",
+"type": "none"
+},
+{
+"pre": "Here in 1924, in a brilliant flash of insight, Bose gave a new derivation of Planck\u2019s law, treating radiation as a gas of photons and employing new statistical methods of counting of photon states.",
+"post": "Einstein then applied the same method to a gas of molecules.",
+"main": "He wrote a short paper on the subject and sent it to Einstein who immediately recognised its great significance, translated it in German and forwarded it for publication.",
+"type": "none"
+},
+{
+"pre": "He wrote a short paper on the subject and sent it to Einstein who immediately recognised its great significance, translated it in German and forwarded it for publication.",
+"post": "The key new conceptual ingredient in Bose\u2019s work was that the particles were regarded as indistinguishable, a radical departure from the assumption that underlies the classical Maxwell- Boltzmann statistics.",
+"main": "Einstein then applied the same method to a gas of molecules.",
+"type": "none"
+},
+{
+"pre": "Einstein then applied the same method to a gas of molecules.",
+"post": "It was soon realised that the new Bose-Einstein statistics was applicable to particles with integers spins, and a new quantum statistics (Fermi -Dirac statistics) was needed for particles with half integers spins satisfying Pauli\u2019s exclusion principle.",
+"main": "The key new conceptual ingredient in Bose\u2019s work was that the particles were regarded as indistinguishable, a radical departure from the assumption that underlies the classical Maxwell- Boltzmann statistics.",
+"type": "none"
+},
+{
+"pre": "The key new conceptual ingredient in Bose\u2019s work was that the particles were regarded as indistinguishable, a radical departure from the assumption that underlies the classical Maxwell- Boltzmann statistics.",
+"post": "Particles with integers spins are now known as bosons in honour of Bose.",
+"main": "It was soon realised that the new Bose-Einstein statistics was applicable to particles with integers spins, and a new quantum statistics (Fermi -Dirac statistics) was needed for particles with half integers spins satisfying Pauli\u2019s exclusion principle.",
+"type": "none"
+},
+{
+"pre": "It was soon realised that the new Bose-Einstein statistics was applicable to particles with integers spins, and a new quantum statistics (Fermi -Dirac statistics) was needed for particles with half integers spins satisfying Pauli\u2019s exclusion principle.",
+"post": "An important consequence of Bose-Einstein statistics is that a gas of molecules below a certain temperature will undergo a phase transition to a state where a large fraction of atoms populate the same lowest energy state.",
+"main": "Particles with integers spins are now known as bosons in honour of Bose.",
+"type": "none"
+},
+{
+"pre": "Particles with integers spins are now known as bosons in honour of Bose.",
+"post": "Some seventy years were to pass before the pioneering ideas of Bose, developed further by Einstein, were dramatically confirmed in the observation of a new state of matter in a dilute gas of ultra cold alkali atoms - the Bose-Eintein condensate.",
+"main": "An important consequence of Bose-Einstein statistics is that a gas of molecules below a certain temperature will undergo a phase transition to a state where a large fraction of atoms populate the same lowest energy state.",
+"type": "none"
+},
+{
+"pre": "An important consequence of Bose-Einstein statistics is that a gas of molecules below a certain temperature will undergo a phase transition to a state where a large fraction of atoms populate the same lowest energy state.",
+"post": "\u00a9 NCERT not to be republished PHYSICS 10 theories and domains.",
+"main": "Some seventy years were to pass before the pioneering ideas of Bose, developed further by Einstein, were dramatically confirmed in the observation of a new state of matter in a dilute gas of ultra cold alkali atoms - the Bose-Eintein condensate.",
+"type": "none"
+},
+{
+"pre": "Some seventy years were to pass before the pioneering ideas of Bose, developed further by Einstein, were dramatically confirmed in the observation of a new state of matter in a dilute gas of ultra cold alkali atoms - the Bose-Eintein condensate.",
+"post": "Newton unified terrestrial and celestial domains under a common law of gravitation.",
+"main": "\u00a9 NCERT not to be republished PHYSICS 10 theories and domains.",
+"type": "none"
+},
+{
+"pre": "\u00a9 NCERT not to be republished PHYSICS 10 theories and domains.",
+"post": "The experimental discoveries of Oersted and Faraday showed that electric and magnetic phenomena are in general inseparable.",
+"main": "Newton unified terrestrial and celestial domains under a common law of gravitation.",
+"type": "none"
+},
+{
+"pre": "Newton unified terrestrial and celestial domains under a common law of gravitation.",
+"post": "Maxwell unified electromagnetism and optics with the discovery that light is an electromagnetic wave.",
+"main": "The experimental discoveries of Oersted and Faraday showed that electric and magnetic phenomena are in general inseparable.",
+"type": "none"
+},
+{
+"pre": "The experimental discoveries of Oersted and Faraday showed that electric and magnetic phenomena are in general inseparable.",
+"post": "Einstein attempted to unify gravity and electromagnetism but could not succeed in this venture.",
+"main": "Maxwell unified electromagnetism and optics with the discovery that light is an electromagnetic wave.",
+"type": "none"
+},
+{
+"pre": "Maxwell unified electromagnetism and optics with the discovery that light is an electromagnetic wave.",
+"post": "But this did not deter physicists from zealously pursuing the goal of unification of forces.",
+"main": "Einstein attempted to unify gravity and electromagnetism but could not succeed in this venture.",
+"type": "none"
+},
+{
+"pre": "Einstein attempted to unify gravity and electromagnetism but could not succeed in this venture.",
+"post": "Recent decades have seen much progress on this front.",
+"main": "But this did not deter physicists from zealously pursuing the goal of unification of forces.",
+"type": "none"
+},
+{
+"pre": "But this did not deter physicists from zealously pursuing the goal of unification of forces.",
+"post": "The electromagnetic and the weak nuclear force have now been unified and are seen as aspects of a single \u2018electro-weak\u2019 force.",
+"main": "Recent decades have seen much progress on this front.",
+"type": "none"
+},
+{
+"pre": "Recent decades have seen much progress on this front.",
+"post": "What this unification actually means cannot be explained here.",
+"main": "The electromagnetic and the weak nuclear force have now been unified and are seen as aspects of a single \u2018electro-weak\u2019 force.",
+"type": "none"
+},
+{
+"pre": "The electromagnetic and the weak nuclear force have now been unified and are seen as aspects of a single \u2018electro-weak\u2019 force.",
+"post": "Attempts have been (and are being) made to unify the electro-weak and the strong force and even to unify the gravitational force with the rest of the fundamental forces.",
+"main": "What this unification actually means cannot be explained here.",
+"type": "none"
+},
+{
+"pre": "What this unification actually means cannot be explained here.",
+"post": "Many of these ideas are still speculative and inconclusive.",
+"main": "Attempts have been (and are being) made to unify the electro-weak and the strong force and even to unify the gravitational force with the rest of the fundamental forces.",
+"type": "none"
+},
+{
+"pre": "Attempts have been (and are being) made to unify the electro-weak and the strong force and even to unify the gravitational force with the rest of the fundamental forces.",
+"post": "Table 1.4 summarises some of the milestones in the progress towards unification of forces in nature.",
+"main": "Many of these ideas are still speculative and inconclusive.",
+"type": "none"
+},
+{
+"pre": "Many of these ideas are still speculative and inconclusive.",
+"post": "<b>1.5</b>  <b>NATURE</b> <b>OF</b> <b>PHYSICAL</b> <b>LAWS</b> Physicists explore the universe.",
+"main": "Table 1.4 summarises some of the milestones in the progress towards unification of forces in nature.",
+"type": "none"
+},
+{
+"pre": "Table 1.4 summarises some of the milestones in the progress towards unification of forces in nature.",
+"post": "Their investigations, based on scientific processes, range from particles that are smaller than atoms in size to stars that are very far away.",
+"main": "<b>1.5</b>  <b>NATURE</b> <b>OF</b> <b>PHYSICAL</b> <b>LAWS</b> Physicists explore the universe.",
+"type": "none"
+},
+{
+"pre": "<b>1.5</b>  <b>NATURE</b> <b>OF</b> <b>PHYSICAL</b> <b>LAWS</b> Physicists explore the universe.",
+"post": "In addition to finding the facts by observation and experimentation, physicists attempt to discover the laws that summarise (often as mathematical equations) these facts.",
+"main": "Their investigations, based on scientific processes, range from particles that are smaller than atoms in size to stars that are very far away.",
+"type": "none"
+},
+{
+"pre": "Their investigations, based on scientific processes, range from particles that are smaller than atoms in size to stars that are very far away.",
+"post": "In any physical phenomenon governed by different forces, several quantities may change with time.",
+"main": "In addition to finding the facts by observation and experimentation, physicists attempt to discover the laws that summarise (often as mathematical equations) these facts.",
+"type": "none"
+},
+{
+"pre": "In addition to finding the facts by observation and experimentation, physicists attempt to discover the laws that summarise (often as mathematical equations) these facts.",
+"post": "A remarkable fact is that some special physical quantities, however, remain constant in time.",
+"main": "In any physical phenomenon governed by different forces, several quantities may change with time.",
+"type": "none"
+},
+{
+"pre": "In any physical phenomenon governed by different forces, several quantities may change with time.",
+"post": "They are the conserved quantities of nature.",
+"main": "A remarkable fact is that some special physical quantities, however, remain constant in time.",
+"type": "none"
+},
+{
+"pre": "A remarkable fact is that some special physical quantities, however, remain constant in time.",
+"post": "Understanding these conservation principles is very important to describe the observed phenomena quantitatively.",
+"main": "They are the conserved quantities of nature.",
+"type": "none"
+},
+{
+"pre": "They are the conserved quantities of nature.",
+"post": "For motion under an external conservative force, the total mechanical energy i.e. the sum of kinetic and potential energy of a body is a constant.",
+"main": "Understanding these conservation principles is very important to describe the observed phenomena quantitatively.",
+"type": "none"
+},
+{
+"pre": "Understanding these conservation principles is very important to describe the observed phenomena quantitatively.",
+"post": "The familiar example is the free fall of an object under gravity.",
+"main": "For motion under an external conservative force, the total mechanical energy i.e. the sum of kinetic and potential energy of a body is a constant.",
+"type": "none"
+},
+{
+"pre": "For motion under an external conservative force, the total mechanical energy i.e. the sum of kinetic and potential energy of a body is a constant.",
+"post": "Both the kinetic energy of the object and its potential energy change continuously with time, but the sum remains fixed.",
+"main": "The familiar example is the free fall of an object under gravity.",
+"type": "none"
+},
+{
+"pre": "The familiar example is the free fall of an object under gravity.",
+"post": "If the object is released from rest, the initial <b>Table</b> <b>1.4</b>  <b>Progress</b> <b>in</b> <b>unification</b> <b>of</b> <b>different</b> <b>forces/domains</b> <b>in</b> <b>nature</b> <b>Table</b> <b>1.3</b>   <b>Fundamental</b> <b>forces</b> <b>of</b> <b>nature</b> <b>Name</b> <b>Relative</b> <b>Range</b> <b>Operates</b> <b>among</b> <b>strength</b> Gravitational force 10 \u201339 Infinite All objects in the universe Weak nuclear force 10 \u201313 Very short, Sub-nuclear Some elementary particles, size ( \u223c10 \u201316 m) particularly electron and neutrino Electromagnetic force 10 \u20132 Infinite Charged particles Strong nuclear force 1 Short, nuclear Nucleons, heavier size ( \u223c10 \u201315 m) elementary particles \u00a9 NCERT not to be republished PHYSICAL WORLD 11 potential energy is completely converted into the kinetic energy of the object just before it hits the ground.",
+"main": "Both the kinetic energy of the object and its potential energy change continuously with time, but the sum remains fixed.",
+"type": "law"
+},
+{
+"pre": "Both the kinetic energy of the object and its potential energy change continuously with time, but the sum remains fixed.",
+"post": "This law restricted for a conservative force should not be confused with the general law of conservation of energy of an isolated system (which is the basis of the First Law of Thermodynamics).",
+"main": "If the object is released from rest, the initial <b>Table</b> <b>1.4</b>  <b>Progress</b> <b>in</b> <b>unification</b> <b>of</b> <b>different</b> <b>forces/domains</b> <b>in</b> <b>nature</b> <b>Table</b> <b>1.3</b>   <b>Fundamental</b> <b>forces</b> <b>of</b> <b>nature</b> <b>Name</b> <b>Relative</b> <b>Range</b> <b>Operates</b> <b>among</b> <b>strength</b> Gravitational force 10 \u201339 Infinite All objects in the universe Weak nuclear force 10 \u201313 Very short, Sub-nuclear Some elementary particles, size ( \u223c10 \u201316 m) particularly electron and neutrino Electromagnetic force 10 \u20132 Infinite Charged particles Strong nuclear force 1 Short, nuclear Nucleons, heavier size ( \u223c10 \u201315 m) elementary particles \u00a9 NCERT not to be republished PHYSICAL WORLD 11 potential energy is completely converted into the kinetic energy of the object just before it hits the ground.",
+"type": "law"
+},
+{
+"pre": "If the object is released from rest, the initial <b>Table</b> <b>1.4</b>  <b>Progress</b> <b>in</b> <b>unification</b> <b>of</b> <b>different</b> <b>forces/domains</b> <b>in</b> <b>nature</b> <b>Table</b> <b>1.3</b>   <b>Fundamental</b> <b>forces</b> <b>of</b> <b>nature</b> <b>Name</b> <b>Relative</b> <b>Range</b> <b>Operates</b> <b>among</b> <b>strength</b> Gravitational force 10 \u201339 Infinite All objects in the universe Weak nuclear force 10 \u201313 Very short, Sub-nuclear Some elementary particles, size ( \u223c10 \u201316 m) particularly electron and neutrino Electromagnetic force 10 \u20132 Infinite Charged particles Strong nuclear force 1 Short, nuclear Nucleons, heavier size ( \u223c10 \u201315 m) elementary particles \u00a9 NCERT not to be republished PHYSICAL WORLD 11 potential energy is completely converted into the kinetic energy of the object just before it hits the ground.",
+"post": "The concept of energy is central to physics and the expressions for energy can be written for every physical system.",
+"main": "This law restricted for a conservative force should not be confused with the general law of conservation of energy of an isolated system (which is the basis of the First Law of Thermodynamics).",
+"type": "none"
+},
+{
+"pre": "This law restricted for a conservative force should not be confused with the general law of conservation of energy of an isolated system (which is the basis of the First Law of Thermodynamics).",
+"post": "When all forms of energy e.g., heat, mechanical energy, electrical energy etc., are counted, it turns out that energy is conserved.",
+"main": "The concept of energy is central to physics and the expressions for energy can be written for every physical system.",
+"type": "none"
+},
+{
+"pre": "The concept of energy is central to physics and the expressions for energy can be written for every physical system.",
+"post": "The general law of conservation of energy is true for all forces and for any kind of transformation between different forms of energy.",
+"main": "When all forms of energy e.g., heat, mechanical energy, electrical energy etc., are counted, it turns out that energy is conserved.",
+"type": "none"
+},
+{
+"pre": "When all forms of energy e.g., heat, mechanical energy, electrical energy etc., are counted, it turns out that energy is conserved.",
+"post": "In the falling object example, if you include the effect of air resistance during the fall and see the situation after the object hits the ground and stays there, the total mechanical energy is obviously not conserved.",
+"main": "The general law of conservation of energy is true for all forces and for any kind of transformation between different forms of energy.",
+"type": "law"
+},
+{
+"pre": "The general law of conservation of energy is true for all forces and for any kind of transformation between different forms of energy.",
+"post": "The general law of energy conservation, however, is still applicable.",
+"main": "In the falling object example, if you include the effect of air resistance during the fall and see the situation after the object hits the ground and stays there, the total mechanical energy is obviously not conserved.",
+"type": "none"
+},
+{
+"pre": "In the falling object example, if you include the effect of air resistance during the fall and see the situation after the object hits the ground and stays there, the total mechanical energy is obviously not conserved.",
+"post": "The initial potential energy of the stone gets transformed into other forms of energy : heat and sound.",
+"main": "The general law of energy conservation, however, is still applicable.",
+"type": "none"
+},
+{
+"pre": "The general law of energy conservation, however, is still applicable.",
+"post": "(Ultimately, sound after it is absorbed becomes heat.) The total energy of the system (stone plus the surroundings) remains unchanged.",
+"main": "The initial potential energy of the stone gets transformed into other forms of energy : heat and sound.",
+"type": "none"
+},
+{
+"pre": "The initial potential energy of the stone gets transformed into other forms of energy : heat and sound.",
+"post": "The law of conservation of energy is thought to be valid across all domains of nature, from the microscopic to the macroscopic.",
+"main": "(Ultimately, sound after it is absorbed becomes heat.) The total energy of the system (stone plus the surroundings) remains unchanged.",
+"type": "none"
+},
+{
+"pre": "(Ultimately, sound after it is absorbed becomes heat.) The total energy of the system (stone plus the surroundings) remains unchanged.",
+"post": "It is routinely applied in the analysis of atomic, nuclear and elementary particle processes.",
+"main": "The law of conservation of energy is thought to be valid across all domains of nature, from the microscopic to the macroscopic.",
+"type": "none"
+},
+{
+"pre": "The law of conservation of energy is thought to be valid across all domains of nature, from the microscopic to the macroscopic.",
+"post": "At the other end, all kinds of violent phenomena occur in the universe all the time.",
+"main": "It is routinely applied in the analysis of atomic, nuclear and elementary particle processes.",
+"type": "none"
+},
+{
+"pre": "It is routinely applied in the analysis of atomic, nuclear and elementary particle processes.",
+"post": "Yet the total energy of the universe (the most ideal isolated system possible !) is believed to remain unchanged.",
+"main": "At the other end, all kinds of violent phenomena occur in the universe all the time.",
+"type": "none"
+},
+{
+"pre": "At the other end, all kinds of violent phenomena occur in the universe all the time.",
+"post": "Until the advent of Einstein\u2019s theory of relativity, the law of conservation of mass was regarded as another basic conservation law of nature, since matter was thought to be indestructible.",
+"main": "Yet the total energy of the universe (the most ideal isolated system possible !) is believed to remain unchanged.",
+"type": "none"
+},
+{
+"pre": "Yet the total energy of the universe (the most ideal isolated system possible !) is believed to remain unchanged.",
+"post": "It was (and still is) an important principle used, for example, in the analysis of chemical reactions.",
+"main": "Until the advent of Einstein\u2019s theory of relativity, the law of conservation of mass was regarded as another basic conservation law of nature, since matter was thought to be indestructible.",
+"type": "none"
+},
+{
+"pre": "Until the advent of Einstein\u2019s theory of relativity, the law of conservation of mass was regarded as another basic conservation law of nature, since matter was thought to be indestructible.",
+"post": "A chemical reaction is basically a rearrangement of atoms among different molecules.",
+"main": "It was (and still is) an important principle used, for example, in the analysis of chemical reactions.",
+"type": "none"
+},
+{
+"pre": "It was (and still is) an important principle used, for example, in the analysis of chemical reactions.",
+"post": "If the total binding energy of the reacting molecules is less than the total binding energy of the product molecules, the difference appears as heat and the reaction is exothermic.",
+"main": "A chemical reaction is basically a rearrangement of atoms among different molecules.",
+"type": "none"
+},
+{
+"pre": "A chemical reaction is basically a rearrangement of atoms among different molecules.",
+"post": "The opposite is true for energy absorbing (endothermic) reactions.",
+"main": "If the total binding energy of the reacting molecules is less than the total binding energy of the product molecules, the difference appears as heat and the reaction is exothermic.",
+"type": "none"
+},
+{
+"pre": "If the total binding energy of the reacting molecules is less than the total binding energy of the product molecules, the difference appears as heat and the reaction is exothermic.",
+"post": "However, since the atoms are merely rearranged but not destroyed, the total mass of the reactants is the same as the total mass of the products in a chemical reaction.",
+"main": "The opposite is true for energy absorbing (endothermic) reactions.",
+"type": "none"
+},
+{
+"pre": "The opposite is true for energy absorbing (endothermic) reactions.",
+"post": "The changes in the binding energy are too small to be measured as changes in mass.",
+"main": "However, since the atoms are merely rearranged but not destroyed, the total mass of the reactants is the same as the total mass of the products in a chemical reaction.",
+"type": "none"
+},
+{
+"pre": "However, since the atoms are merely rearranged but not destroyed, the total mass of the reactants is the same as the total mass of the products in a chemical reaction.",
+"post": "According to Einstein\u2019s theory, mass m is equivalent to energy E given by the relation E= mc 2 , where c is speed of light in vacuum.",
+"main": "The changes in the binding energy are too small to be measured as changes in mass.",
+"type": "none"
+},
+{
+"pre": "The changes in the binding energy are too small to be measured as changes in mass.",
+"post": "In a nuclear process mass gets converted to energy (or vice-versa).",
+"main": "According to Einstein\u2019s theory, mass m is equivalent to energy E given by the relation E= mc 2 , where c is speed of light in vacuum.",
+"type": "law"
+},
+{
+"pre": "According to Einstein\u2019s theory, mass m is equivalent to energy E given by the relation E= mc 2 , where c is speed of light in vacuum.",
+"post": "This is the energy which is released in a nuclear power generation and nuclear explosions.",
+"main": "In a nuclear process mass gets converted to energy (or vice-versa).",
+"type": "none"
+},
+{
+"pre": "In a nuclear process mass gets converted to energy (or vice-versa).",
+"post": "<i><b>Sir</b> <b>C.V.</b> <b>Raman</b> <b>(1888-1970)</b></i> Chandrashekhara Venkata Raman was born on 07 Nov 1888 in Thiruvanaikkaval.",
+"main": "This is the energy which is released in a nuclear power generation and nuclear explosions.",
+"type": "none"
+},
+{
+"pre": "This is the energy which is released in a nuclear power generation and nuclear explosions.",
+"post": "He finished his schooling by the age of eleven.",
+"main": "<i><b>Sir</b> <b>C.V.</b> <b>Raman</b> <b>(1888-1970)</b></i> Chandrashekhara Venkata Raman was born on 07 Nov 1888 in Thiruvanaikkaval.",
+"type": "none"
+},
+{
+"pre": "<i><b>Sir</b> <b>C.V.</b> <b>Raman</b> <b>(1888-1970)</b></i> Chandrashekhara Venkata Raman was born on 07 Nov 1888 in Thiruvanaikkaval.",
+"post": "He graduated from Presidency College, Madras.",
+"main": "He finished his schooling by the age of eleven.",
+"type": "none"
+},
+{
+"pre": "He finished his schooling by the age of eleven.",
+"post": "After finishing his education he joined financial services of the Indian Government.",
+"main": "He graduated from Presidency College, Madras.",
+"type": "none"
+},
+{
+"pre": "He graduated from Presidency College, Madras.",
+"post": "While in Kolkata, he started working on his area of interest at Indian Asso- ciation for Cultivation of Science founded by Dr. Mahendra Lal Sirkar, during his evening hours.",
+"main": "After finishing his education he joined financial services of the Indian Government.",
+"type": "none"
+},
+{
+"pre": "After finishing his education he joined financial services of the Indian Government.",
+"post": "His area of interest included vibrations, variety of musical instru- ments, ultrasonics, diffraction and so on.",
+"main": "While in Kolkata, he started working on his area of interest at Indian Asso- ciation for Cultivation of Science founded by Dr. Mahendra Lal Sirkar, during his evening hours.",
+"type": "none"
+},
+{
+"pre": "While in Kolkata, he started working on his area of interest at Indian Asso- ciation for Cultivation of Science founded by Dr. Mahendra Lal Sirkar, during his evening hours.",
+"post": "In 1917 he was offered Professorship at Calcutta University.",
+"main": "His area of interest included vibrations, variety of musical instru- ments, ultrasonics, diffraction and so on.",
+"type": "none"
+},
+{
+"pre": "His area of interest included vibrations, variety of musical instru- ments, ultrasonics, diffraction and so on.",
+"post": "In 1924 he was elected \u2018Fellow\u2019 of the Royal Society of London and received Nobel prize in Physics in 1930 for his discovery, now known as Raman Effect.",
+"main": "In 1917 he was offered Professorship at Calcutta University.",
+"type": "none"
+},
+{
+"pre": "In 1917 he was offered Professorship at Calcutta University.",
+"post": "The <b>Raman</b> <b>Effect</b> deals with scattering of light by molecules of a medium when they are excited to vibrational energy levels.",
+"main": "In 1924 he was elected \u2018Fellow\u2019 of the Royal Society of London and received Nobel prize in Physics in 1930 for his discovery, now known as Raman Effect.",
+"type": "none"
+},
+{
+"pre": "In 1924 he was elected \u2018Fellow\u2019 of the Royal Society of London and received Nobel prize in Physics in 1930 for his discovery, now known as Raman Effect.",
+"post": "This work opened totally new avenues for research for years to come.",
+"main": "The <b>Raman</b> <b>Effect</b> deals with scattering of light by molecules of a medium when they are excited to vibrational energy levels.",
+"type": "none"
+},
+{
+"pre": "The <b>Raman</b> <b>Effect</b> deals with scattering of light by molecules of a medium when they are excited to vibrational energy levels.",
+"post": "He spent his later years at Bangalore, first at Indian Institute of Science and then at Raman Re- search Institute.",
+"main": "This work opened totally new avenues for research for years to come.",
+"type": "none"
+},
+{
+"pre": "This work opened totally new avenues for research for years to come.",
+"post": "His work has inspired generation of young students.",
+"main": "He spent his later years at Bangalore, first at Indian Institute of Science and then at Raman Re- search Institute.",
+"type": "none"
+},
+{
+"pre": "He spent his later years at Bangalore, first at Indian Institute of Science and then at Raman Re- search Institute.",
+"post": "\u00a9 NCERT not to be republished PHYSICS 12 Energy is a scalar quantity.",
+"main": "His work has inspired generation of young students.",
+"type": "none"
+},
+{
+"pre": "His work has inspired generation of young students.",
+"post": "But all conserved quantities are not necessarily scalars.",
+"main": "\u00a9 NCERT not to be republished PHYSICS 12 Energy is a scalar quantity.",
+"type": "none"
+},
+{
+"pre": "\u00a9 NCERT not to be republished PHYSICS 12 Energy is a scalar quantity.",
+"post": "The total linear momentum and the total angular momentum (both vectors) of an isolated system are also conserved quantities.",
+"main": "But all conserved quantities are not necessarily scalars.",
+"type": "none"
+},
+{
+"pre": "But all conserved quantities are not necessarily scalars.",
+"post": "These laws can be derived from Newton\u2019s laws of motion in mechanics.",
+"main": "The total linear momentum and the total angular momentum (both vectors) of an isolated system are also conserved quantities.",
+"type": "law"
+},
+{
+"pre": "The total linear momentum and the total angular momentum (both vectors) of an isolated system are also conserved quantities.",
+"post": "But their validity goes beyond mechanics.",
+"main": "These laws can be derived from Newton\u2019s laws of motion in mechanics.",
+"type": "none"
+},
+{
+"pre": "These laws can be derived from Newton\u2019s laws of motion in mechanics.",
+"post": "They are the basic conservation laws of nature in all domains, even in those where Newton\u2019s laws may not be valid.",
+"main": "But their validity goes beyond mechanics.",
+"type": "none"
+},
+{
+"pre": "But their validity goes beyond mechanics.",
+"post": "Besides their great simplicity and generality, the conservation laws of nature are very useful in practice too.",
+"main": "They are the basic conservation laws of nature in all domains, even in those where Newton\u2019s laws may not be valid.",
+"type": "none"
+},
+{
+"pre": "They are the basic conservation laws of nature in all domains, even in those where Newton\u2019s laws may not be valid.",
+"post": "It often happens that we cannot solve the full dynamics of a complex problem involving different particles and forces.",
+"main": "Besides their great simplicity and generality, the conservation laws of nature are very useful in practice too.",
+"type": "none"
+},
+{
+"pre": "Besides their great simplicity and generality, the conservation laws of nature are very useful in practice too.",
+"post": "The conservation laws can still provide useful results.",
+"main": "It often happens that we cannot solve the full dynamics of a complex problem involving different particles and forces.",
+"type": "none"
+},
+{
+"pre": "It often happens that we cannot solve the full dynamics of a complex problem involving different particles and forces.",
+"post": "For example, we may not know the complicated forces that act during a collision of two automobiles; yet momentum conservation law enables us to bypass the complications and predict or rule out possible outcomes of the collision.",
+"main": "The conservation laws can still provide useful results.",
+"type": "none"
+},
+{
+"pre": "The conservation laws can still provide useful results.",
+"post": "In nuclear and elementary particle phenomena also, the conservation laws are important tools of analysis.",
+"main": "For example, we may not know the complicated forces that act during a collision of two automobiles; yet momentum conservation law enables us to bypass the complications and predict or rule out possible outcomes of the collision.",
+"type": "none"
+},
+{
+"pre": "For example, we may not know the complicated forces that act during a collision of two automobiles; yet momentum conservation law enables us to bypass the complications and predict or rule out possible outcomes of the collision.",
+"post": "Indeed, using the conservation laws of energy and momentum for \u03b2-decay, Wolfgang Pauli (1900 -1958) correctly predicted in 1931 the existence of a new particle (now called neutrino) emitted in \u03b2-decay along with the electron.",
+"main": "In nuclear and elementary particle phenomena also, the conservation laws are important tools of analysis.",
+"type": "none"
+},
+{
+"pre": "In nuclear and elementary particle phenomena also, the conservation laws are important tools of analysis.",
+"post": "Conservation laws have a deep connection with symmetries of nature that you will explore in more advanced courses in physics.",
+"main": "Indeed, using the conservation laws of energy and momentum for \u03b2-decay, Wolfgang Pauli (1900 -1958) correctly predicted in 1931 the existence of a new particle (now called neutrino) emitted in \u03b2-decay along with the electron.",
+"type": "none"
+},
+{
+"pre": "Indeed, using the conservation laws of energy and momentum for \u03b2-decay, Wolfgang Pauli (1900 -1958) correctly predicted in 1931 the existence of a new particle (now called neutrino) emitted in \u03b2-decay along with the electron.",
+"post": "For example, an important observation is that the laws of nature do not change with time!",
+"main": "Conservation laws have a deep connection with symmetries of nature that you will explore in more advanced courses in physics.",
+"type": "none"
+},
+{
+"pre": "Conservation laws have a deep connection with symmetries of nature that you will explore in more advanced courses in physics.",
+"post": "If you perform an experiment in your laboratory today and repeat the same experiment (on the same objects under identical conditions) after a year, the results are bound to be the same.",
+"main": "For example, an important observation is that the laws of nature do not change with time!",
+"type": "none"
+},
+{
+"pre": "For example, an important observation is that the laws of nature do not change with time!",
+"post": "It turns out that this symmetry of nature with respect to translation (i.e. displacement) in time is equivalent to the law of conservation of energy.",
+"main": "If you perform an experiment in your laboratory today and repeat the same experiment (on the same objects under identical conditions) after a year, the results are bound to be the same.",
+"type": "none"
+},
+{
+"pre": "If you perform an experiment in your laboratory today and repeat the same experiment (on the same objects under identical conditions) after a year, the results are bound to be the same.",
+"post": "Likewise, space is homogeneous and there is no (intrinsically) preferred location in the universe.",
+"main": "It turns out that this symmetry of nature with respect to translation (i.e. displacement) in time is equivalent to the law of conservation of energy.",
+"type": "none"
+},
+{
+"pre": "It turns out that this symmetry of nature with respect to translation (i.e. displacement) in time is equivalent to the law of conservation of energy.",
+"post": "To put it more clearly, the laws of nature are the same everywhere in the universe.",
+"main": "Likewise, space is homogeneous and there is no (intrinsically) preferred location in the universe.",
+"type": "none"
+},
+{
+"pre": "Likewise, space is homogeneous and there is no (intrinsically) preferred location in the universe.",
+"post": "(Caution : the phenomena may differ from place to place because of differing conditions at different locations.",
+"main": "To put it more clearly, the laws of nature are the same everywhere in the universe.",
+"type": "none"
+},
+{
+"pre": "To put it more clearly, the laws of nature are the same everywhere in the universe.",
+"post": "For example, the acceleration due to gravity at the moon is one-sixth that at the earth, but the <b>law</b> <b>of</b> <b>gravitation</b> is the same both on the moon and the earth.) This symmetry of the laws of nature with respect to translation in space gives rise to conservation of linear momentum.",
+"main": "(Caution : the phenomena may differ from place to place because of differing conditions at different locations.",
+"type": "none"
+},
+{
+"pre": "(Caution : the phenomena may differ from place to place because of differing conditions at different locations.",
+"post": "In the same way isotropy of space (no intrinsically preferred direction in space) underlies the law of conservation of angular momentum <b>*</b> .",
+"main": "For example, the acceleration due to gravity at the moon is one-sixth that at the earth, but the <b>law</b> <b>of</b> <b>gravitation</b> is the same both on the moon and the earth.) This symmetry of the laws of nature with respect to translation in space gives rise to conservation of linear momentum.",
+"type": "none"
+},
+{
+"pre": "For example, the acceleration due to gravity at the moon is one-sixth that at the earth, but the <b>law</b> <b>of</b> <b>gravitation</b> is the same both on the moon and the earth.) This symmetry of the laws of nature with respect to translation in space gives rise to conservation of linear momentum.",
+"post": "The conservation laws of charge and other attributes of elementary particles can also be related to certain abstract symmetries.",
+"main": "In the same way isotropy of space (no intrinsically preferred direction in space) underlies the law of conservation of angular momentum <b>*</b> .",
+"type": "none"
+},
+{
+"pre": "In the same way isotropy of space (no intrinsically preferred direction in space) underlies the law of conservation of angular momentum <b>*</b> .",
+"post": "Symmetries of space and time and other abstract symmetries play a central role in modern theories of fundamental forces in nature.",
+"main": "The conservation laws of charge and other attributes of elementary particles can also be related to certain abstract symmetries.",
+"type": "none"
+},
+{
+"pre": "The conservation laws of charge and other attributes of elementary particles can also be related to certain abstract symmetries.",
+"post": "<b>*</b> <i>See Chapter 7</i> <b>Conservation</b> <b>laws</b> <b>in</b> <b>physics</b> Conservation of energy, momentum, angular momentum, charge, etc are considered to be fundamental laws in physics.",
+"main": "Symmetries of space and time and other abstract symmetries play a central role in modern theories of fundamental forces in nature.",
+"type": "none"
+},
+{
+"pre": "Symmetries of space and time and other abstract symmetries play a central role in modern theories of fundamental forces in nature.",
+"post": "At this moment, there are many such conservation laws.",
+"main": "<b>*</b> <i>See Chapter 7</i> <b>Conservation</b> <b>laws</b> <b>in</b> <b>physics</b> Conservation of energy, momentum, angular momentum, charge, etc are considered to be fundamental laws in physics.",
+"type": "none"
+},
+{
+"pre": "<b>*</b> <i>See Chapter 7</i> <b>Conservation</b> <b>laws</b> <b>in</b> <b>physics</b> Conservation of energy, momentum, angular momentum, charge, etc are considered to be fundamental laws in physics.",
+"post": "Apart from the above four, there are others which mostly deal with quantities which have been introduced in nuclear and particle physics.",
+"main": "At this moment, there are many such conservation laws.",
+"type": "none"
+},
+{
+"pre": "At this moment, there are many such conservation laws.",
+"post": "Some of the conserved quantities are called spin, baryon number, strangeness, hypercharge, etc, but you need not worry about them.",
+"main": "Apart from the above four, there are others which mostly deal with quantities which have been introduced in nuclear and particle physics.",
+"type": "none"
+},
+{
+"pre": "Apart from the above four, there are others which mostly deal with quantities which have been introduced in nuclear and particle physics.",
+"post": "A conservation law is a hypothesis, based on observations and experiments.",
+"main": "Some of the conserved quantities are called spin, baryon number, strangeness, hypercharge, etc, but you need not worry about them.",
+"type": "none"
+},
+{
+"pre": "Some of the conserved quantities are called spin, baryon number, strangeness, hypercharge, etc, but you need not worry about them.",
+"post": "It is important to remember that a conservation law cannot be proved.",
+"main": "A conservation law is a hypothesis, based on observations and experiments.",
+"type": "none"
+},
+{
+"pre": "A conservation law is a hypothesis, based on observations and experiments.",
+"post": "It can be verified, or disproved, by experiments.",
+"main": "It is important to remember that a conservation law cannot be proved.",
+"type": "none"
+},
+{
+"pre": "It is important to remember that a conservation law cannot be proved.",
+"post": "An experiment whose result is in conformity with the law verifies or substantiates the law; it does not prove the law.",
+"main": "It can be verified, or disproved, by experiments.",
+"type": "none"
+},
+{
+"pre": "It can be verified, or disproved, by experiments.",
+"post": "On the other hand, a single experiment whose result goes against the law is enough to disprove it.",
+"main": "An experiment whose result is in conformity with the law verifies or substantiates the law; it does not prove the law.",
+"type": "none"
+},
+{
+"pre": "An experiment whose result is in conformity with the law verifies or substantiates the law; it does not prove the law.",
+"post": "It would be wrong to ask somebody to prove the law of conservation of energy.",
+"main": "On the other hand, a single experiment whose result goes against the law is enough to disprove it.",
+"type": "none"
+},
+{
+"pre": "On the other hand, a single experiment whose result goes against the law is enough to disprove it.",
+"post": "This law is an outcome of our experience over several centuries, and it has been found to be valid in all experiments, in mechanics, thermodynamics, electromagnetism, optics, atomic and nuclear physics, or any other area.",
+"main": "It would be wrong to ask somebody to prove the law of conservation of energy.",
+"type": "none"
+},
+{
+"pre": "It would be wrong to ask somebody to prove the law of conservation of energy.",
+"post": "Some students feel that they can prove the conservation of mechanical energy from a body falling under gravity, by adding the kinetic and potential energies at a point and showing that it turns out to be constant.",
+"main": "This law is an outcome of our experience over several centuries, and it has been found to be valid in all experiments, in mechanics, thermodynamics, electromagnetism, optics, atomic and nuclear physics, or any other area.",
+"type": "none"
+},
+{
+"pre": "This law is an outcome of our experience over several centuries, and it has been found to be valid in all experiments, in mechanics, thermodynamics, electromagnetism, optics, atomic and nuclear physics, or any other area.",
+"post": "As pointed out above, this is only a verification of the law, not its proof.",
+"main": "Some students feel that they can prove the conservation of mechanical energy from a body falling under gravity, by adding the kinetic and potential energies at a point and showing that it turns out to be constant.",
+"type": "none"
+},
+{
+"pre": "Some students feel that they can prove the conservation of mechanical energy from a body falling under gravity, by adding the kinetic and potential energies at a point and showing that it turns out to be constant.",
+"post": "\u00a9 NCERT not to be republished PHYSICAL WORLD 13 <b>SUMMARY</b> 1.",
+"main": "As pointed out above, this is only a verification of the law, not its proof.",
+"type": "none"
+},
+{
+"pre": "As pointed out above, this is only a verification of the law, not its proof.",
+"post": "Physics deals with the study of the basic laws of nature and their manifestation in different phenomena.",
+"main": "\u00a9 NCERT not to be republished PHYSICAL WORLD 13 <b>SUMMARY</b> 1.",
+"type": "none"
+},
+{
+"pre": "\u00a9 NCERT not to be republished PHYSICAL WORLD 13 <b>SUMMARY</b> 1.",
+"post": "The basic laws of physics are universal and apply in widely different contexts and conditions.",
+"main": "Physics deals with the study of the basic laws of nature and their manifestation in different phenomena.",
+"type": "none"
+},
+{
+"pre": "Physics deals with the study of the basic laws of nature and their manifestation in different phenomena.",
+"post": "2.",
+"main": "The basic laws of physics are universal and apply in widely different contexts and conditions.",
+"type": "none"
+},
+{
+"pre": "The basic laws of physics are universal and apply in widely different contexts and conditions.",
+"post": "The scope of physics is wide, covering a tremendous range of magnitude of physical quantities.",
+"main": "2.",
+"type": "none"
+},
+{
+"pre": "2.",
+"post": "3.",
+"main": "The scope of physics is wide, covering a tremendous range of magnitude of physical quantities.",
+"type": "none"
+},
+{
+"pre": "The scope of physics is wide, covering a tremendous range of magnitude of physical quantities.",
+"post": "Physics and technology are related to each other.",
+"main": "3.",
+"type": "none"
+},
+{
+"pre": "3.",
+"post": "Sometimes technology gives rise to new physics; at other times physics generates new technology.",
+"main": "Physics and technology are related to each other.",
+"type": "none"
+},
+{
+"pre": "Physics and technology are related to each other.",
+"post": "Both have direct impact on society.",
+"main": "Sometimes technology gives rise to new physics; at other times physics generates new technology.",
+"type": "none"
+},
+{
+"pre": "Sometimes technology gives rise to new physics; at other times physics generates new technology.",
+"post": "4.",
+"main": "Both have direct impact on society.",
+"type": "none"
+},
+{
+"pre": "Both have direct impact on society.",
+"post": "There are four fundamental forces in nature that govern the diverse phenomena of the macroscopic and the microscopic world.",
+"main": "4.",
+"type": "none"
+},
+{
+"pre": "4.",
+"post": "These are the \u2018gravitational force\u2019, the \u2018electromagnetic force\u2019, the \u2018strong nuclear force\u2019, and the \u2018weak nuclear force\u2019.",
+"main": "There are four fundamental forces in nature that govern the diverse phenomena of the macroscopic and the microscopic world.",
+"type": "none"
+},
+{
+"pre": "There are four fundamental forces in nature that govern the diverse phenomena of the macroscopic and the microscopic world.",
+"post": "Unification of different forces/domains in nature is a basic quest in physics.",
+"main": "These are the \u2018gravitational force\u2019, the \u2018electromagnetic force\u2019, the \u2018strong nuclear force\u2019, and the \u2018weak nuclear force\u2019.",
+"type": "none"
+},
+{
+"pre": "These are the \u2018gravitational force\u2019, the \u2018electromagnetic force\u2019, the \u2018strong nuclear force\u2019, and the \u2018weak nuclear force\u2019.",
+"post": "5.",
+"main": "Unification of different forces/domains in nature is a basic quest in physics.",
+"type": "none"
+},
+{
+"pre": "Unification of different forces/domains in nature is a basic quest in physics.",
+"post": "The physical quantities that remain unchanged in a process are called conserved quantities.",
+"main": "5.",
+"type": "none"
+},
+{
+"pre": "5.",
+"post": "Some of the general conservation laws in nature include the laws of conservation of mass, energy, linear momentum, angular momentum, charge, parity, etc.",
+"main": "The physical quantities that remain unchanged in a process are called conserved quantities.",
+"type": "definition"
+},
+{
+"pre": "The physical quantities that remain unchanged in a process are called conserved quantities.",
+"post": "Some conservation laws are true for one fundamental force but not for the other.",
+"main": "Some of the general conservation laws in nature include the laws of conservation of mass, energy, linear momentum, angular momentum, charge, parity, etc.",
+"type": "none"
+},
+{
+"pre": "Some of the general conservation laws in nature include the laws of conservation of mass, energy, linear momentum, angular momentum, charge, parity, etc.",
+"post": "6.",
+"main": "Some conservation laws are true for one fundamental force but not for the other.",
+"type": "none"
+},
+{
+"pre": "Some conservation laws are true for one fundamental force but not for the other.",
+"post": "Conservation laws have a deep connection with symmetries of nature.",
+"main": "6.",
+"type": "none"
+},
+{
+"pre": "6.",
+"post": "Symmetries of space and time, and other types of symmetries play a central role in modern theories of fundamental forces in nature.",
+"main": "Conservation laws have a deep connection with symmetries of nature.",
+"type": "none"
+},
+{
+"pre": "Conservation laws have a deep connection with symmetries of nature.",
+"post": "<b>EXERCISES</b> <i><b>Note</b> <b>for</b> <b>the</b> <b>student</b></i> The exercises given here are meant to enhance your awareness about the issues surrounding science, technology and society and to encourage you to think and formulate your views about them.",
+"main": "Symmetries of space and time, and other types of symmetries play a central role in modern theories of fundamental forces in nature.",
+"type": "none"
+},
+{
+"pre": "Symmetries of space and time, and other types of symmetries play a central role in modern theories of fundamental forces in nature.",
+"post": "The questions may not have clear-cut \u2018objective\u2019 answers.",
+"main": "<b>EXERCISES</b> <i><b>Note</b> <b>for</b> <b>the</b> <b>student</b></i> The exercises given here are meant to enhance your awareness about the issues surrounding science, technology and society and to encourage you to think and formulate your views about them.",
+"type": "none"
+},
+{
+"pre": "<b>EXERCISES</b> <i><b>Note</b> <b>for</b> <b>the</b> <b>student</b></i> The exercises given here are meant to enhance your awareness about the issues surrounding science, technology and society and to encourage you to think and formulate your views about them.",
+"post": "<i><b>Note</b> <b>for</b> <b>the</b> <b>teacher</b></i> The exercises given here are not for the purpose of a formal examination.",
+"main": "The questions may not have clear-cut \u2018objective\u2019 answers.",
+"type": "none"
+},
+{
+"pre": "The questions may not have clear-cut \u2018objective\u2019 answers.",
+"post": "<b>1.1</b> Some of the most profound statements on the nature of science have come from Albert Einstein, one of the greatest scientists of all time.",
+"main": "<i><b>Note</b> <b>for</b> <b>the</b> <b>teacher</b></i> The exercises given here are not for the purpose of a formal examination.",
+"type": "none"
+},
+{
+"pre": "<i><b>Note</b> <b>for</b> <b>the</b> <b>teacher</b></i> The exercises given here are not for the purpose of a formal examination.",
+"post": "What do you think did Einstein mean when he said : \u201cThe most incomprehensible thing about the world is that it is comprehensible\u201d?",
+"main": "<b>1.1</b> Some of the most profound statements on the nature of science have come from Albert Einstein, one of the greatest scientists of all time.",
+"type": "none"
+},
+{
+"pre": "<b>1.1</b> Some of the most profound statements on the nature of science have come from Albert Einstein, one of the greatest scientists of all time.",
+"post": "<b>1.2</b> \u201cEvery great physical theory starts as a heresy and ends as a dogma\u201d.",
+"main": "What do you think did Einstein mean when he said : \u201cThe most incomprehensible thing about the world is that it is comprehensible\u201d?",
+"type": "none"
+},
+{
+"pre": "What do you think did Einstein mean when he said : \u201cThe most incomprehensible thing about the world is that it is comprehensible\u201d?",
+"post": "Give some examples from the history of science of the validity of this incisive remark.",
+"main": "<b>1.2</b> \u201cEvery great physical theory starts as a heresy and ends as a dogma\u201d.",
+"type": "none"
+},
+{
+"pre": "<b>1.2</b> \u201cEvery great physical theory starts as a heresy and ends as a dogma\u201d.",
+"post": "<b>1.3</b> \u201cPolitics is the art of the possible\u201d.",
+"main": "Give some examples from the history of science of the validity of this incisive remark.",
+"type": "none"
+},
+{
+"pre": "Give some examples from the history of science of the validity of this incisive remark.",
+"post": "Similarly, \u201cScience is the art of the soluble\u201d.",
+"main": "<b>1.3</b> \u201cPolitics is the art of the possible\u201d.",
+"type": "none"
+},
+{
+"pre": "<b>1.3</b> \u201cPolitics is the art of the possible\u201d.",
+"post": "Explain this beautiful aphorism on the nature and practice of science.",
+"main": "Similarly, \u201cScience is the art of the soluble\u201d.",
+"type": "none"
+},
+{
+"pre": "Similarly, \u201cScience is the art of the soluble\u201d.",
+"post": "<b>1.4</b> Though India now has a large base in science and technology, which is fast expanding, it is still a long way from realising its potential of becoming a world leader in science.",
+"main": "Explain this beautiful aphorism on the nature and practice of science.",
+"type": "none"
+},
+{
+"pre": "Explain this beautiful aphorism on the nature and practice of science.",
+"post": "Name some important factors, which in your view have hindered the advancement of science in India.",
+"main": "<b>1.4</b> Though India now has a large base in science and technology, which is fast expanding, it is still a long way from realising its potential of becoming a world leader in science.",
+"type": "none"
+},
+{
+"pre": "<b>1.4</b> Though India now has a large base in science and technology, which is fast expanding, it is still a long way from realising its potential of becoming a world leader in science.",
+"post": "<b>1.5</b> No physicist has ever \u201cseen\u201d an electron.",
+"main": "Name some important factors, which in your view have hindered the advancement of science in India.",
+"type": "none"
+},
+{
+"pre": "Name some important factors, which in your view have hindered the advancement of science in India.",
+"post": "Yet, all physicists believe in the existence of electrons.",
+"main": "<b>1.5</b> No physicist has ever \u201cseen\u201d an electron.",
+"type": "none"
+},
+{
+"pre": "<b>1.5</b> No physicist has ever \u201cseen\u201d an electron.",
+"post": "An intelligent but superstitious man advances this analogy to argue that \u2018ghosts\u2019 exist even though no one has \u2018seen\u2019 one.",
+"main": "Yet, all physicists believe in the existence of electrons.",
+"type": "none"
+},
+{
+"pre": "Yet, all physicists believe in the existence of electrons.",
+"post": "How will you refute his argument ?",
+"main": "An intelligent but superstitious man advances this analogy to argue that \u2018ghosts\u2019 exist even though no one has \u2018seen\u2019 one.",
+"type": "none"
+},
+{
+"pre": "An intelligent but superstitious man advances this analogy to argue that \u2018ghosts\u2019 exist even though no one has \u2018seen\u2019 one.",
+"post": "<b>1.6</b> The shells of crabs found around a particular coastal location in Japan seem mostly to resemble the legendary face of a Samurai.",
+"main": "How will you refute his argument ?",
+"type": "none"
+},
+{
+"pre": "How will you refute his argument ?",
+"post": "Given below are two explanations of this observed fact.",
+"main": "<b>1.6</b> The shells of crabs found around a particular coastal location in Japan seem mostly to resemble the legendary face of a Samurai.",
+"type": "none"
+},
+{
+"pre": "<b>1.6</b> The shells of crabs found around a particular coastal location in Japan seem mostly to resemble the legendary face of a Samurai.",
+"post": "Which of these strikes you as a scientific explanation ?",
+"main": "Given below are two explanations of this observed fact.",
+"type": "none"
+},
+{
+"pre": "Given below are two explanations of this observed fact.",
+"post": "(a) A tragic sea accident several centuries ago drowned a young Samurai.",
+"main": "Which of these strikes you as a scientific explanation ?",
+"type": "none"
+},
+{
+"pre": "Which of these strikes you as a scientific explanation ?",
+"post": "As a tribute to his bravery, nature through its inscrutable ways immortalised his face by imprinting it on the crab shells in that area.",
+"main": "(a) A tragic sea accident several centuries ago drowned a young Samurai.",
+"type": "none"
+},
+{
+"pre": "(a) A tragic sea accident several centuries ago drowned a young Samurai.",
+"post": "\u00a9 NCERT not to be republished PHYSICS 14 (b) After the sea tragedy, fishermen in that area, in a gesture of honour to their dead hero, let free any crab shell caught by them which accidentally had a shape resembling the face of a Samurai.",
+"main": "As a tribute to his bravery, nature through its inscrutable ways immortalised his face by imprinting it on the crab shells in that area.",
+"type": "none"
+},
+{
+"pre": "As a tribute to his bravery, nature through its inscrutable ways immortalised his face by imprinting it on the crab shells in that area.",
+"post": "Consequently, the particular shape of the crab shell survived longer and therefore in course of time the shape was genetically propagated.",
+"main": "\u00a9 NCERT not to be republished PHYSICS 14 (b) After the sea tragedy, fishermen in that area, in a gesture of honour to their dead hero, let free any crab shell caught by them which accidentally had a shape resembling the face of a Samurai.",
+"type": "none"
+},
+{
+"pre": "\u00a9 NCERT not to be republished PHYSICS 14 (b) After the sea tragedy, fishermen in that area, in a gesture of honour to their dead hero, let free any crab shell caught by them which accidentally had a shape resembling the face of a Samurai.",
+"post": "This is an example of evolution by artificial selection.",
+"main": "Consequently, the particular shape of the crab shell survived longer and therefore in course of time the shape was genetically propagated.",
+"type": "none"
+},
+{
+"pre": "Consequently, the particular shape of the crab shell survived longer and therefore in course of time the shape was genetically propagated.",
+"post": "[Note : This interesting illustration taken from Carl Sagan\u2019s \u2018The Cosmos\u2019 highlights the fact that often strange and inexplicable facts which on the first sight appear \u2018supernatural\u2019 actually turn out to have simple scientific explanations.",
+"main": "This is an example of evolution by artificial selection.",
+"type": "none"
+},
+{
+"pre": "This is an example of evolution by artificial selection.",
+"post": "Try to think out other examples of this kind].",
+"main": "[Note : This interesting illustration taken from Carl Sagan\u2019s \u2018The Cosmos\u2019 highlights the fact that often strange and inexplicable facts which on the first sight appear \u2018supernatural\u2019 actually turn out to have simple scientific explanations.",
+"type": "none"
+},
+{
+"pre": "[Note : This interesting illustration taken from Carl Sagan\u2019s \u2018The Cosmos\u2019 highlights the fact that often strange and inexplicable facts which on the first sight appear \u2018supernatural\u2019 actually turn out to have simple scientific explanations.",
+"post": "<b>1.7</b> The industrial revolution in England and Western Europe more than two centuries ago was triggered by some key scientific and technological advances.",
+"main": "Try to think out other examples of this kind].",
+"type": "none"
+},
+{
+"pre": "Try to think out other examples of this kind].",
+"post": "What were these advances ?",
+"main": "<b>1.7</b> The industrial revolution in England and Western Europe more than two centuries ago was triggered by some key scientific and technological advances.",
+"type": "none"
+},
+{
+"pre": "<b>1.7</b> The industrial revolution in England and Western Europe more than two centuries ago was triggered by some key scientific and technological advances.",
+"post": "<b>1.8</b> It is often said that the world is witnessing now a second industrial revolution, which will transform the society as radically as did the first.",
+"main": "What were these advances ?",
+"type": "none"
+},
+{
+"pre": "What were these advances ?",
+"post": "List some key contemporary areas of science and technology, which are responsible for this revolution.",
+"main": "<b>1.8</b> It is often said that the world is witnessing now a second industrial revolution, which will transform the society as radically as did the first.",
+"type": "none"
+},
+{
+"pre": "<b>1.8</b> It is often said that the world is witnessing now a second industrial revolution, which will transform the society as radically as did the first.",
+"post": "<b>1.9</b> Write in about 1000 words a fiction piece based on your speculation on the science and technology of the twenty-second century.",
+"main": "List some key contemporary areas of science and technology, which are responsible for this revolution.",
+"type": "none"
+},
+{
+"pre": "List some key contemporary areas of science and technology, which are responsible for this revolution.",
+"post": "<b>1.10</b> Attempt to formulate your \u2018moral\u2019 views on the practice of science.",
+"main": "<b>1.9</b> Write in about 1000 words a fiction piece based on your speculation on the science and technology of the twenty-second century.",
+"type": "none"
+},
+{
+"pre": "<b>1.9</b> Write in about 1000 words a fiction piece based on your speculation on the science and technology of the twenty-second century.",
+"post": "Imagine yourself stumbling upon a discovery, which has great academic interest but is certain to have nothing but dangerous consequences for the human society.",
+"main": "<b>1.10</b> Attempt to formulate your \u2018moral\u2019 views on the practice of science.",
+"type": "none"
+},
+{
+"pre": "<b>1.10</b> Attempt to formulate your \u2018moral\u2019 views on the practice of science.",
+"post": "How, if at all, will you resolve your dilemma ?",
+"main": "Imagine yourself stumbling upon a discovery, which has great academic interest but is certain to have nothing but dangerous consequences for the human society.",
+"type": "none"
+},
+{
+"pre": "Imagine yourself stumbling upon a discovery, which has great academic interest but is certain to have nothing but dangerous consequences for the human society.",
+"post": "<b>1.11</b> Science, like any knowledge, can be put to good or bad use, depending on the user.",
+"main": "How, if at all, will you resolve your dilemma ?",
+"type": "none"
+},
+{
+"pre": "How, if at all, will you resolve your dilemma ?",
+"post": "Given below are some of the applications of science.",
+"main": "<b>1.11</b> Science, like any knowledge, can be put to good or bad use, depending on the user.",
+"type": "none"
+},
+{
+"pre": "<b>1.11</b> Science, like any knowledge, can be put to good or bad use, depending on the user.",
+"post": "Formulate your views on whether the particular application is good, bad or something that cannot be so clearly categorised : (a) Mass vaccination against small pox to curb and finally eradicate this disease from the population.",
+"main": "Given below are some of the applications of science.",
+"type": "none"
+},
+{
+"pre": "Given below are some of the applications of science.",
+"post": "(This has already been successfully done in India).",
+"main": "Formulate your views on whether the particular application is good, bad or something that cannot be so clearly categorised : (a) Mass vaccination against small pox to curb and finally eradicate this disease from the population.",
+"type": "none"
+},
+{
+"pre": "Formulate your views on whether the particular application is good, bad or something that cannot be so clearly categorised : (a) Mass vaccination against small pox to curb and finally eradicate this disease from the population.",
+"post": "(b) Television for eradication of illiteracy and for mass communication of news and ideas.",
+"main": "(This has already been successfully done in India).",
+"type": "none"
+},
+{
+"pre": "(This has already been successfully done in India).",
+"post": "(c) Prenatal sex determination (d) Computers for increase in work efficiency (e) Putting artificial satellites into orbits around the Earth (f ) Development of nuclear weapons (g) Development of new and powerful techniques of chemical and biological warfare).",
+"main": "(b) Television for eradication of illiteracy and for mass communication of news and ideas.",
+"type": "none"
+},
+{
+"pre": "(b) Television for eradication of illiteracy and for mass communication of news and ideas.",
+"post": "(h) Purification of water for drinking (i) Plastic surgery (j ) Cloning <b>1.12</b> India has had a long and unbroken tradition of great scholarship \u2014 in mathematics, astronomy, linguistics, logic and ethics.",
+"main": "(c) Prenatal sex determination (d) Computers for increase in work efficiency (e) Putting artificial satellites into orbits around the Earth (f ) Development of nuclear weapons (g) Development of new and powerful techniques of chemical and biological warfare).",
+"type": "none"
+},
+{
+"pre": "(c) Prenatal sex determination (d) Computers for increase in work efficiency (e) Putting artificial satellites into orbits around the Earth (f ) Development of nuclear weapons (g) Development of new and powerful techniques of chemical and biological warfare).",
+"post": "Yet, in parallel with this, several superstitious and obscurantistic attitudes and practices flourished in our society and unfortunately continue even today \u2014 among many educated people too.",
+"main": "(h) Purification of water for drinking (i) Plastic surgery (j ) Cloning <b>1.12</b> India has had a long and unbroken tradition of great scholarship \u2014 in mathematics, astronomy, linguistics, logic and ethics.",
+"type": "none"
+},
+{
+"pre": "(h) Purification of water for drinking (i) Plastic surgery (j ) Cloning <b>1.12</b> India has had a long and unbroken tradition of great scholarship \u2014 in mathematics, astronomy, linguistics, logic and ethics.",
+"post": "How will you use your knowledge of science to develop strategies to counter these attitudes ?",
+"main": "Yet, in parallel with this, several superstitious and obscurantistic attitudes and practices flourished in our society and unfortunately continue even today \u2014 among many educated people too.",
+"type": "none"
+},
+{
+"pre": "Yet, in parallel with this, several superstitious and obscurantistic attitudes and practices flourished in our society and unfortunately continue even today \u2014 among many educated people too.",
+"post": "<b>1.13</b> Though the law gives women equal status in India, many people hold unscientific views on a woman\u2019s innate nature, capacity and intelligence, and in practice give them a secondary status and role.",
+"main": "How will you use your knowledge of science to develop strategies to counter these attitudes ?",
+"type": "none"
+},
+{
+"pre": "How will you use your knowledge of science to develop strategies to counter these attitudes ?",
+"post": "Demolish this view using scientific arguments, and by quoting examples of great women in science and other spheres; and persuade yourself and others that, given equal opportunity, women are on par with men.",
+"main": "<b>1.13</b> Though the law gives women equal status in India, many people hold unscientific views on a woman\u2019s innate nature, capacity and intelligence, and in practice give them a secondary status and role.",
+"type": "none"
+},
+{
+"pre": "<b>1.13</b> Though the law gives women equal status in India, many people hold unscientific views on a woman\u2019s innate nature, capacity and intelligence, and in practice give them a secondary status and role.",
+"post": "<b>1.14</b> \u201cIt is more important to have beauty in the equations of physics than to have them agree with experiments\u201d.",
+"main": "Demolish this view using scientific arguments, and by quoting examples of great women in science and other spheres; and persuade yourself and others that, given equal opportunity, women are on par with men.",
+"type": "none"
+},
+{
+"pre": "Demolish this view using scientific arguments, and by quoting examples of great women in science and other spheres; and persuade yourself and others that, given equal opportunity, women are on par with men.",
+"post": "The great British physicist P.",
+"main": "<b>1.14</b> \u201cIt is more important to have beauty in the equations of physics than to have them agree with experiments\u201d.",
+"type": "none"
+},
+{
+"pre": "<b>1.14</b> \u201cIt is more important to have beauty in the equations of physics than to have them agree with experiments\u201d.",
+"post": "A.",
+"main": "The great British physicist P.",
+"type": "none"
+},
+{
+"pre": "The great British physicist P.",
+"post": "M.",
+"main": "A.",
+"type": "none"
+},
+{
+"pre": "A.",
+"post": "Dirac held this view.",
+"main": "M.",
+"type": "none"
+},
+{
+"pre": "M.",
+"post": "Criticize this statement.",
+"main": "Dirac held this view.",
+"type": "none"
+},
+{
+"pre": "Dirac held this view.",
+"post": "Look out for some equations and results in this book which strike you as beautiful.",
+"main": "Criticize this statement.",
+"type": "none"
+},
+{
+"pre": "Criticize this statement.",
+"post": "<b>1.15</b> Though the statement quoted above may be disputed, most physicists do have a feeling that the great laws of physics are at once simple and beautiful.",
+"main": "Look out for some equations and results in this book which strike you as beautiful.",
+"type": "none"
+},
+{
+"pre": "Look out for some equations and results in this book which strike you as beautiful.",
+"post": "Some of the notable physicists, besides Dirac, who have articulated this feeling, are : Einstein, Bohr, Heisenberg, Chandrasekhar and Feynman.",
+"main": "<b>1.15</b> Though the statement quoted above may be disputed, most physicists do have a feeling that the great laws of physics are at once simple and beautiful.",
+"type": "none"
+},
+{
+"pre": "<b>1.15</b> Though the statement quoted above may be disputed, most physicists do have a feeling that the great laws of physics are at once simple and beautiful.",
+"post": "You are urged to make special efforts to get \u00a9 NCERT not to be republished PHYSICAL WORLD 15 access to the general books and writings by these and other great masters of physics.",
+"main": "Some of the notable physicists, besides Dirac, who have articulated this feeling, are : Einstein, Bohr, Heisenberg, Chandrasekhar and Feynman.",
+"type": "none"
+},
+{
+"pre": "Some of the notable physicists, besides Dirac, who have articulated this feeling, are : Einstein, Bohr, Heisenberg, Chandrasekhar and Feynman.",
+"post": "(See the Bibliography at the end of this book.) Their writings are truly inspiring !",
+"main": "You are urged to make special efforts to get \u00a9 NCERT not to be republished PHYSICAL WORLD 15 access to the general books and writings by these and other great masters of physics.",
+"type": "none"
+},
+{
+"pre": "You are urged to make special efforts to get \u00a9 NCERT not to be republished PHYSICAL WORLD 15 access to the general books and writings by these and other great masters of physics.",
+"post": "<b>1.16</b> Textbooks on science may give you a wrong impression that studying science is dry and all too serious and that scientists are absent-minded introverts who never laugh or grin.",
+"main": "(See the Bibliography at the end of this book.) Their writings are truly inspiring !",
+"type": "none"
+},
+{
+"pre": "(See the Bibliography at the end of this book.) Their writings are truly inspiring !",
+"post": "This image of science and scientists is patently false.",
+"main": "<b>1.16</b> Textbooks on science may give you a wrong impression that studying science is dry and all too serious and that scientists are absent-minded introverts who never laugh or grin.",
+"type": "none"
+},
+{
+"pre": "<b>1.16</b> Textbooks on science may give you a wrong impression that studying science is dry and all too serious and that scientists are absent-minded introverts who never laugh or grin.",
+"post": "Scientists, like any other group of humans, have their share of humorists, and many have led their lives with a great sense of fun and adventure, even as they seriously pursued their scientific work.",
+"main": "This image of science and scientists is patently false.",
+"type": "none"
+},
+{
+"pre": "This image of science and scientists is patently false.",
+"post": "Two great physicists of this genre are Gamow and Feynman.",
+"main": "Scientists, like any other group of humans, have their share of humorists, and many have led their lives with a great sense of fun and adventure, even as they seriously pursued their scientific work.",
+"type": "none"
+},
+{
+"pre": "Scientists, like any other group of humans, have their share of humorists, and many have led their lives with a great sense of fun and adventure, even as they seriously pursued their scientific work.",
+"post": "You will enjoy reading their books listed in the Bibliography.",
+"main": "Two great physicists of this genre are Gamow and Feynman.",
+"type": "none"
+},
+{
+"pre": "Two great physicists of this genre are Gamow and Feynman.",
+"post": "\u00a9 NCERT not to be republished",
+"main": "You will enjoy reading their books listed in the Bibliography.",
+"type": "none"
+},
+{
+"pre": "You will enjoy reading their books listed in the Bibliography.",
+"post": "",
+"main": "\u00a9 NCERT not to be republished",
+"type": "none"
+}
+]
