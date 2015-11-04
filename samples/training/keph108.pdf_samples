@@ -129,7 +129,7 @@
 "pre": "<b>8.2</b>  <b>KEPLER\u2019S</b> <b>LAWS</b> The three laws of Kepler can be stated as follows: <b>1.</b>", 
 "post": "<b>8.1(a)</b></i> <i>An ellipse traced out by a planet around</i> <i>the sun.", 
 "main": "<b>Law</b> <b>of</b> <b>orbits</b> <b>:</b> All planets move in elliptical orbits with the Sun situated at one of the foci <i><b>Fig.</b>", 
-"type": law"
+"type": "law"
 }, 
 {
 "pre": "<b>Law</b> <b>of</b> <b>orbits</b> <b>:</b> All planets move in elliptical orbits with the Sun situated at one of the foci <i><b>Fig.</b>", 
