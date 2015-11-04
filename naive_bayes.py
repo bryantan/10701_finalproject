@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import math
 
@@ -6,25 +7,33 @@ import math
 KNOWLEDGE = True
 GENERAL = False
 SAMPLES_FOLDER = os.getcwd() + "/samples"
-NUM_TRAINING_FILES = 4
+NUM_TRAINING_FILES = 3
 LAPLACE_SMOOTHING = 0.1
 DICT_FILE = os.getcwd() + "/textbook_dict"
 
 
 class Sample:
 
-    def __init(self, features=None):
-        self.features = {}
+    def __init__(self, features=None):
+        self.features = features
         self.main_set = set()
         self.prediction = GENERAL
 
     def add_features(self, vocabulary):
         words = self.features["main"].split(" ")
+        words = map(lambda word: self._remove_formatting(word), words)
         i = 0
         while i < len(words):
             if words[i] in vocabulary:
                 self.main_set.add(words[i])
             i += 1
+
+    def _remove_formatting(self, word):
+        word = re.sub('<.*?>', '', re.sub('</.*?>', '', word))
+        punc_to_remove = ['.', ',', '!', '?', '(', ')', ';']
+        for punc in punc_to_remove:
+            word = word.replace(punc, '')
+        return word.lower()
 
 
 class NaiveBayes:
@@ -124,9 +133,9 @@ class NaiveBayes:
 if __name__ == "__main__":
     # Retrieve training and testing splits
     training_data_files = map(lambda filename: os.path.join(
-        SAMPLES_FOLDER, filename), sorted(os.listdir(SAMPLES_FOLDER))[:NUM_TRAINING_FILES+1])
+        SAMPLES_FOLDER, filename), sorted(os.listdir(SAMPLES_FOLDER))[:NUM_TRAINING_FILES])
     testing_data_files = map(lambda filename: os.path.join(
-        SAMPLES_FOLDER, filename), sorted(os.listdir(SAMPLES_FOLDER))[NUM_TRAINING_FILES+1:])
+        SAMPLES_FOLDER, filename), sorted(os.listdir(SAMPLES_FOLDER))[NUM_TRAINING_FILES:])
 
     # Create Naive Bayes client
     naive_bayes = NaiveBayes()
@@ -141,27 +150,30 @@ if __name__ == "__main__":
     correct_count = 0
     total_count = len(knowledge_samples) + len(general_samples)
     for sample in knowledge_samples:
-        if sample.prediction == KNOWLEDGE && sample.features['type'] != "none":
+        if sample.features['type'] != "none":
             correct_count = correct_count + 1
     for sample in general_samples:
-        if sample.prediction == GENERAL && sample.features['type'] == "none":
+        if sample.features['type'] == "none":
             correct_count = correct_count + 1
 
     print "Training data accuracy:"
-    print "%.2f %%" % (float(correct_count) * 100 / len(total_count))
+    print "%.2f %%" % (float(correct_count) * 100 / total_count)
+    print "Correct count: %d, total count: %d" % (correct_count, total_count)
 
 
     knowledge_samples, general_samples = naive_bayes.predict_samples(testing_data_files)
     correct_count = 0
     total_count = len(knowledge_samples) + len(general_samples)
     for sample in knowledge_samples:
-        if sample.prediction == KNOWLEDGE && sample.features['type'] != "none":
+        if sample.prediction == KNOWLEDGE and sample.features['type'] != "none":
             correct_count = correct_count + 1
     for sample in general_samples:
-        if sample.prediction == GENERAL && sample.features['type'] == "none":
+        if sample.prediction == GENERAL and sample.features['type'] == "none":
             correct_count = correct_count + 1
     print "Testing data accuracy:"
-    print "%.2f %%" % (float(correct_count) * 100 / len(total_count))
+    print "%.2f %%" % (float(correct_count) * 100 / total_count)
+    print "Correct count: %d, total count: %d" % (correct_count, total_count)
+
 
     # # Output top 10 positive and negative words
     # print "Top 10 positive words:", sorted(naive_bayes.probabilities[POSITIVE],
