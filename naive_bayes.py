@@ -13,6 +13,7 @@ LAPLACE_SMOOTHING = 0.1
 DICT_FILE = os.getcwd() + "/textbook_dict"
 GENERAL_PROBS_FILE = "general.probs"
 KNOWLEDGE_PROBS_FILE = "knowledge.probs"
+HAS_BOLD = "_has_bold_"
 
 
 # Features
@@ -36,7 +37,7 @@ class Sample:
         for phrase in KEY_PHRASES:
             if phrase in self.sentence:
                 self.main_set.add(phrase)
-        if re.search("<b>[a-z, A-Z]*</b>", self.features["main"]) is not None:
+        if re.search("<b>[a-z, A-Z]{2,}</b>", self.features["main"]) is not None:
             self.is_bold = True
 
     def _remove_formatting(self, word):
@@ -68,10 +69,10 @@ class NaiveBayes:
                         self.samples[GENERAL].append(sample)
 
     def learn_parameters(self):
-        self.probabilities[KNOWLEDGE]["_has_bold_"] = self._find_probability(
-            "_has_bold_", self.samples[KNOWLEDGE])
-        self.probabilities[GENERAL]["_has_bold_"] = self._find_probability(
-            "_has_bold_", self.samples[GENERAL])
+        self.probabilities[KNOWLEDGE][HAS_BOLD] = self._find_probability(
+            HAS_BOLD, self.samples[KNOWLEDGE])
+        self.probabilities[GENERAL][HAS_BOLD] = self._find_probability(
+            HAS_BOLD, self.samples[GENERAL])
         for phrase in KEY_PHRASES:
             if phrase not in self.probabilities[KNOWLEDGE]:
                 self.probabilities[KNOWLEDGE][phrase] = self._find_probability(
@@ -133,7 +134,7 @@ class NaiveBayes:
         total_size = len(samples)
         occurences = 0
         for sample in samples:
-            if phrase == "_has_bold_" and sample.is_bold:
+            if phrase == HAS_BOLD and sample.is_bold:
                 occurences += 1
             elif phrase in sample.main_set:
                 occurences += 1
