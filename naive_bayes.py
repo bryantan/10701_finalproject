@@ -7,9 +7,11 @@ import math
 KNOWLEDGE = True
 GENERAL = False
 SAMPLES_FOLDER = os.getcwd() + "/samples"
-NUM_TRAINING_FILES = 3
+NUM_TRAINING_FILES = 7
 LAPLACE_SMOOTHING = 0.1
 DICT_FILE = os.getcwd() + "/textbook_dict"
+GENERAL_PROBS_FILE = "general.probs"
+KNOWLEDGE_PROBS_FILE = "knowledge.probs"
 
 
 class Sample:
@@ -57,6 +59,7 @@ class NaiveBayes:
                 samples_json = json.loads(samples_raw)
                 for sample_json in samples_json:
                     sample = Sample(features=sample_json)
+                    sample.add_features(self.vocabulary)
                     if sample_json['type'] != "none":
                         self.samples[KNOWLEDGE].append(sample)
                     else:
@@ -71,23 +74,21 @@ class NaiveBayes:
                 self.probabilities[GENERAL][word] = self._find_probability(
                     word, self.samples[GENERAL])
 
-    # def output_probabilities(self):
-    #     given_positive = sorted(self.probabilities[POSITIVE],
-    #                             key=lambda x: self.probabilities[
-    #         POSITIVE][x],
-    #         reverse=True)
-    #     given_negative = sorted(self.probabilities[NEGATIVE],
-    #                             key=lambda x: self.probabilities[
-    #         NEGATIVE][x],
-    #         reverse=True)
-    #     with open(POSITIVE_PROBS_FILE, "w") as file:
-    #         for word in given_positive:
-    #             file.write("%s -> %f\n" %
-    #                        (word, self.probabilities[POSITIVE][word]))
-    #     with open(NEGATIVE_PROBS_FILE, "w") as file:
-    #         for word in given_negative:
-    #             file.write("%s -> %f\n" %
-    #                        (word, self.probabilities[NEGATIVE][word]))
+    def output_probabilities(self):
+        given_knowledge = sorted(self.probabilities[KNOWLEDGE],
+                                key=lambda x: self.probabilities[KNOWLEDGE][x],
+                                reverse=True)
+        given_general = sorted(self.probabilities[GENERAL],
+                                key=lambda x: self.probabilities[GENERAL][x],
+                                reverse=True)
+        with open(KNOWLEDGE_PROBS_FILE, "w") as file:
+            for word in given_knowledge:
+                file.write("%s -> %f\n" %
+                           (word, self.probabilities[KNOWLEDGE][word]))
+        with open(GENERAL_PROBS_FILE, "w") as file:
+            for word in given_general:
+                file.write("%s -> %f\n" %
+                           (word, self.probabilities[GENERAL][word]))
 
     def predict_samples(self, files):
         knowledge_samples, general_samples = [], []
@@ -144,34 +145,42 @@ if __name__ == "__main__":
 
     # Learn the parameters of the training split
     naive_bayes.learn_parameters()
+    naive_bayes.output_probabilities()
 
     # Classify the testing split and report accuracy
     knowledge_samples, general_samples = naive_bayes.predict_samples(training_data_files)
-    correct_count = 0
+    knowledge_correct_count, general_correct_count = 0, 0
     total_count = len(knowledge_samples) + len(general_samples)
     for sample in knowledge_samples:
         if sample.features['type'] != "none":
-            correct_count = correct_count + 1
+            knowledge_correct_count = knowledge_correct_count + 1
     for sample in general_samples:
         if sample.features['type'] == "none":
-            correct_count = correct_count + 1
+            general_correct_count = general_correct_count + 1
 
+    correct_count = knowledge_correct_count + general_correct_count
     print "Training data accuracy:"
-    print "%.2f %%" % (float(correct_count) * 100 / total_count)
+    print "Total: %.2f %%" % (float(correct_count) * 100 / total_count)
+    print "Knowledge: %.2f %%" % (float(knowledge_correct_count) * 100 / len(knowledge_samples))
+    print "General: %.2f %%" % (float(general_correct_count) * 100 / len(general_samples))
     print "Correct count: %d, total count: %d" % (correct_count, total_count)
 
 
     knowledge_samples, general_samples = naive_bayes.predict_samples(testing_data_files)
-    correct_count = 0
+    knowledge_correct_count, general_correct_count = 0, 0
     total_count = len(knowledge_samples) + len(general_samples)
     for sample in knowledge_samples:
-        if sample.prediction == KNOWLEDGE and sample.features['type'] != "none":
-            correct_count = correct_count + 1
+        if sample.features['type'] != "none":
+            knowledge_correct_count = knowledge_correct_count + 1
     for sample in general_samples:
-        if sample.prediction == GENERAL and sample.features['type'] == "none":
-            correct_count = correct_count + 1
+        if sample.features['type'] == "none":
+            general_correct_count = general_correct_count + 1
+
+    correct_count = knowledge_correct_count + general_correct_count
     print "Testing data accuracy:"
-    print "%.2f %%" % (float(correct_count) * 100 / total_count)
+    print "Total: %.2f %%" % (float(correct_count) * 100 / total_count)
+    print "Knowledge: %.2f %%" % (float(knowledge_correct_count) * 100 / len(knowledge_samples))
+    print "General: %.2f %%" % (float(general_correct_count) * 100 / len(general_samples))
     print "Correct count: %d, total count: %d" % (correct_count, total_count)
 
 
