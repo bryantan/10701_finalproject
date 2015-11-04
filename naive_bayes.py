@@ -7,7 +7,7 @@ import math
 KNOWLEDGE = True
 GENERAL = False
 SAMPLES_FOLDER = os.getcwd() + "/samples"
-NUM_TRAINING_FILES = 6
+NUM_TRAINING_FILES = 7
 LAPLACE_SMOOTHING = 0.1
 DICT_FILE = os.getcwd() + "/textbook_dict"
 GENERAL_PROBS_FILE = "general.probs"
