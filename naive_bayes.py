@@ -1,50 +1,30 @@
 import os
+import json
 import math
 
 # Constants
-POSITIVE = True
-NEGATIVE = False
-POSITIVE_REVIEWS_FOLDER = "txt_sentoken/pos"
-NEGATIVE_REVIEWS_FOLDER = "txt_sentoken/neg"
-POSITIVE_WORDS = "vocabulary/positive-words.txt"
-NEGATIVE_WORDS = "vocabulary/negative-words.txt"
-TOTAL_DATA_SIZE = 1000
-TRAINING_DATA_SIZE = 800
+KNOWLEDGE = True
+GENERAL = False
+SAMPLES_FOLDER = os.getcwd() + "/samples"
+NUM_TRAINING_FILES = 4
 LAPLACE_SMOOTHING = 0.1
-POSITIVE_PROBS_FILE = "pos_probs.txt"
-NEGATIVE_PROBS_FILE = "neg_probs.txt"
-ADVERBS = ["extremely", "quite", "just", "almost", "very", "too", "enough"]
+DICT_FILE = os.getcwd() + "/textbook_dict"
 
 
-class Review:
+class Sample:
 
-    def __init__(self, filename=None):
-        self.filename = filename
-        self.features = set()
-
-    def __repr__(self):
-        return "%r" % self.filename
+    def __init(self, features=None):
+        self.features = {}
+        self.main_set = set()
+        self.prediction = GENERAL
 
     def add_features(self, vocabulary):
-        with open(self.filename) as file:
-            text = file.read()
-            words = text.replace("\n", "").split(" ")
-            i = 0
-            while i < len(words):
-                # Negation handling
-                if ((words[i] == "not" or words[i].endswith("n't"))
-                        and words[i + 1] in vocabulary):
-                    self.features.add("not_" + words[i + 1])
-                    i += 2
-                # Including bi-grams
-                elif words[i] in ADVERBS and words[i + 1] in vocabulary:
-                    self.features.add(words[i] + "_" + words[i + 1])
-                    i += 1
-                elif words[i] in vocabulary:
-                    self.features.add(words[i])
-                    i += 1
-                else:
-                    i += 1
+        words = self.features["main"].split(" ")
+        i = 0
+        while i < len(words):
+            if words[i] in vocabulary:
+                self.main_set.add(words[i])
+            i += 1
 
 
 class NaiveBayes:
@@ -52,143 +32,143 @@ class NaiveBayes:
     def __init__(self):
         self.vocabulary = set()
         self.volume = 0
-        self.reviews = {POSITIVE: [], NEGATIVE: []}
-        self.probabilities = {POSITIVE: {}, NEGATIVE: {}}
+        self.samples = {KNOWLEDGE: [], GENERAL: []}
+        self.probabilities = {KNOWLEDGE: {}, GENERAL: {}}
 
     def create_vocabulary(self):
-        self._add_words_to_vocabulary(POSITIVE_WORDS)
-        self._add_words_to_vocabulary(NEGATIVE_WORDS)
+        with open(DICT_FILE, "r") as dict_file:
+            dict_raw = dict_file.read()
+            self.vocabulary = set(json.loads(dict_raw))
+        self.volume = len(self.vocabulary)
 
-    def create_reviews(self, files=[], positive=False):
+    def add_samples(self, files=[]):
         for filename in files:
-            review = Review(filename=filename)
-            review.add_features(self.vocabulary)
-            if positive:
-                self.reviews[POSITIVE].append(review)
-            else:
-                self.reviews[NEGATIVE].append(review)
+            with open(filename, "r") as sample_file:
+                samples_raw = sample_file.read()
+                samples_json = json.loads(samples_raw)
+                for sample_json in samples_json:
+                    sample = Sample(features=sample_json)
+                    if sample_json['type'] != "none":
+                        self.samples[KNOWLEDGE].append(sample)
+                    else:
+                        self.samples[GENERAL].append(sample)
 
     def learn_parameters(self):
         for word in self.vocabulary:
-            if word not in self.probabilities[POSITIVE]:
-                self.probabilities[POSITIVE][word] = self._find_probability(
-                    word, self.reviews[POSITIVE])
-            if word not in self.probabilities[NEGATIVE]:
-                self.probabilities[NEGATIVE][word] = self._find_probability(
-                    word, self.reviews[NEGATIVE])
+            if word not in self.probabilities[KNOWLEDGE]:
+                self.probabilities[KNOWLEDGE][word] = self._find_probability(
+                    word, self.samples[KNOWLEDGE])
+            if word not in self.probabilities[GENERAL]:
+                self.probabilities[GENERAL][word] = self._find_probability(
+                    word, self.samples[GENERAL])
 
-    def output_probabilities(self):
-        given_positive = sorted(self.probabilities[POSITIVE],
-                                key=lambda x: self.probabilities[
-            POSITIVE][x],
-            reverse=True)
-        given_negative = sorted(self.probabilities[NEGATIVE],
-                                key=lambda x: self.probabilities[
-            NEGATIVE][x],
-            reverse=True)
-        with open(POSITIVE_PROBS_FILE, "w") as file:
-            for word in given_positive:
-                file.write("%s -> %f\n" %
-                           (word, self.probabilities[POSITIVE][word]))
-        with open(NEGATIVE_PROBS_FILE, "w") as file:
-            for word in given_negative:
-                file.write("%s -> %f\n" %
-                           (word, self.probabilities[NEGATIVE][word]))
+    # def output_probabilities(self):
+    #     given_positive = sorted(self.probabilities[POSITIVE],
+    #                             key=lambda x: self.probabilities[
+    #         POSITIVE][x],
+    #         reverse=True)
+    #     given_negative = sorted(self.probabilities[NEGATIVE],
+    #                             key=lambda x: self.probabilities[
+    #         NEGATIVE][x],
+    #         reverse=True)
+    #     with open(POSITIVE_PROBS_FILE, "w") as file:
+    #         for word in given_positive:
+    #             file.write("%s -> %f\n" %
+    #                        (word, self.probabilities[POSITIVE][word]))
+    #     with open(NEGATIVE_PROBS_FILE, "w") as file:
+    #         for word in given_negative:
+    #             file.write("%s -> %f\n" %
+    #                        (word, self.probabilities[NEGATIVE][word]))
 
-    def predict_reviews(self, files):
-        negative, positive = 0, 0
+    def predict_samples(self, files):
+        knowledge_samples, general_samples = [], []
         for filename in files:
-            if self._predict_review(filename) == NEGATIVE:
-                negative += 1
-            else:
-                positive += 1
-        return (negative, positive)
+            with open(filename, "r") as sample_file:
+                samples_raw = sample_file.read()
+                samples_json = json.loads(samples_raw)
+                for sample_json in samples_json:
+                    sample = Sample(features=sample_json)
+                    sample.add_features(self.vocabulary)
+                    if self._predict_sample(sample) == GENERAL:
+                        general_samples.append(sample)
+                    else:
+                        sample.prediction = KNOWLEDGE
+                        knowledge_samples.append(sample)
+        return (knowledge_samples, general_samples)
 
-    def _predict_review(self, filename):
-        review = Review(filename=filename)
-        review.add_features(self.vocabulary)
-        total_pos_prob, total_neg_prob = 1, 1
+    def _predict_sample(self, sample):
+        total_knowledge_prob, total_general_prob = 1, 1
         for word in self.vocabulary:
-            if word in review.features:
-                # P(word = 1 | POSITIVE)
-                total_pos_prob *= self.probabilities[POSITIVE][word]
-                # P(word = 1 | NEGATIVE)
-                total_neg_prob *= self.probabilities[NEGATIVE][word]
+            if word in sample.main_set:
+                # P(word = 1 | KNOWLEDGE)
+                total_knowledge_prob *= self.probabilities[KNOWLEDGE][word]
+                # P(word = 1 | GENERAL)
+                total_general_prob *= self.probabilities[GENERAL][word]
             else:
-                # P(word = 0 | POSITIVE)
-                total_pos_prob *= (1 - self.probabilities[POSITIVE][word])
-                # P(word = 0 | NEGATIVE)
-                total_neg_prob *= (1 - self.probabilities[NEGATIVE][word])
-        return POSITIVE if total_pos_prob >= total_neg_prob else NEGATIVE
+                # P(word = 0 | KNOWLEDGE)
+                total_knowledge_prob *= (1 - self.probabilities[KNOWLEDGE][word])
+                # P(word = 0 | GENERAL)
+                total_general_prob *= (1 - self.probabilities[GENERAL][word])
+        return KNOWLEDGE if total_knowledge_prob >= total_general_prob else GENERAL
 
-    def _add_words_to_vocabulary(self, filename):
-        with open(filename) as file:
-            for line in file:
-                word = line.strip()
-                if word and not word.startswith(";"):
-                    self.vocabulary.add(word)
-                    self.volume += 1
-                    # Negation handling
-                    self.vocabulary.add("not_" + word)
-                    # Including bi-grams
-                    for adverb in ADVERBS:
-                        self.vocabulary.add(adverb + "_" + word)
-
-    def _find_probability(self, word, reviews):
-        total_size = len(reviews)
+    def _find_probability(self, word, samples):
+        total_size = len(samples)
         occurences = 0
-        for review in reviews:
-            if word in review.features:
+        for sample in samples:
+            if word in sample.main_set:
                 occurences += 1
-            if "_" not in word:
-                for adverb in ADVERBS:
-                    if adverb + "_" + word in review.features:
-                        occurences += 1
         return ((float(occurences) + LAPLACE_SMOOTHING) /
                 (total_size + LAPLACE_SMOOTHING * self.volume))
 
 
 if __name__ == "__main__":
-    # Retrieve training and testing split
-    positive_data_points = map(lambda filename: os.path.join(
-        POSITIVE_REVIEWS_FOLDER, filename), os.listdir(POSITIVE_REVIEWS_FOLDER))
-    negative_data_points = map(lambda filename: os.path.join(
-        NEGATIVE_REVIEWS_FOLDER, filename), os.listdir(NEGATIVE_REVIEWS_FOLDER))
-    positive_testing_split = sorted(
-        positive_data_points)[TRAINING_DATA_SIZE - TOTAL_DATA_SIZE:]
-    negative_testing_split = sorted(
-        negative_data_points)[TRAINING_DATA_SIZE - TOTAL_DATA_SIZE:]
-    positive_training_split = sorted(positive_data_points)[:TRAINING_DATA_SIZE]
-    negative_training_split = sorted(negative_data_points)[:TRAINING_DATA_SIZE]
+    # Retrieve training and testing splits
+    training_data_files = map(lambda filename: os.path.join(
+        SAMPLES_FOLDER, filename), sorted(os.listdir(SAMPLES_FOLDER))[:NUM_TRAINING_FILES+1])
+    testing_data_files = map(lambda filename: os.path.join(
+        SAMPLES_FOLDER, filename), sorted(os.listdir(SAMPLES_FOLDER))[NUM_TRAINING_FILES+1:])
 
     # Create Naive Bayes client
     naive_bayes = NaiveBayes()
     naive_bayes.create_vocabulary()
-    naive_bayes.create_reviews(files=positive_training_split, positive=True)
-    naive_bayes.create_reviews(files=negative_training_split, positive=False)
+    naive_bayes.add_samples(files=training_data_files)
 
     # Learn the parameters of the training split
     naive_bayes.learn_parameters()
 
     # Classify the testing split and report accuracy
+    knowledge_samples, general_samples = naive_bayes.predict_samples(training_data_files)
+    correct_count = 0
+    total_count = len(knowledge_samples) + len(general_samples)
+    for sample in knowledge_samples:
+        if sample.prediction == KNOWLEDGE && sample.features['type'] != "none":
+            correct_count = correct_count + 1
+    for sample in general_samples:
+        if sample.prediction == GENERAL && sample.features['type'] == "none":
+            correct_count = correct_count + 1
+
     print "Training data accuracy:"
-    _, positive = naive_bayes.predict_reviews(positive_training_split)
-    print "%.2f %%" % (float(positive) * 100 / len(positive_training_split))
-    negative, _ = naive_bayes.predict_reviews(negative_training_split)
-    print "%.2f %%" % (float(negative) * 100 / len(negative_training_split))
+    print "%.2f %%" % (float(correct_count) * 100 / len(total_count))
 
+
+    knowledge_samples, general_samples = naive_bayes.predict_samples(testing_data_files)
+    correct_count = 0
+    total_count = len(knowledge_samples) + len(general_samples)
+    for sample in knowledge_samples:
+        if sample.prediction == KNOWLEDGE && sample.features['type'] != "none":
+            correct_count = correct_count + 1
+    for sample in general_samples:
+        if sample.prediction == GENERAL && sample.features['type'] == "none":
+            correct_count = correct_count + 1
     print "Testing data accuracy:"
-    _, positive = naive_bayes.predict_reviews(positive_testing_split)
-    print "%.2f %%" % (float(positive) * 100 / len(positive_testing_split))
-    negative, _ = naive_bayes.predict_reviews(negative_testing_split)
-    print "%.2f %%" % (float(negative) * 100 / len(negative_testing_split))
+    print "%.2f %%" % (float(correct_count) * 100 / len(total_count))
 
-    # Output top 10 positive and negative words
-    print "Top 10 positive words:", sorted(naive_bayes.probabilities[POSITIVE],
-                                           key=lambda x: naive_bayes.probabilities[
-                                               POSITIVE][x],
-                                           reverse=True)[:10]
-    print "Top 10 negative words:", sorted(naive_bayes.probabilities[NEGATIVE],
-                                           key=lambda x: naive_bayes.probabilities[
-                                               NEGATIVE][x],
-                                           reverse=True)[:10]
+    # # Output top 10 positive and negative words
+    # print "Top 10 positive words:", sorted(naive_bayes.probabilities[POSITIVE],
+    #                                        key=lambda x: naive_bayes.probabilities[
+    #                                            POSITIVE][x],
+    #                                        reverse=True)[:10]
+    # print "Top 10 negative words:", sorted(naive_bayes.probabilities[NEGATIVE],
+    #                                        key=lambda x: naive_bayes.probabilities[
+    #                                            NEGATIVE][x],
+    #                                        reverse=True)[:10]
