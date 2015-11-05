@@ -1605,7 +1605,7 @@
 "pre": "This law was established by Galileo Galilei (1564-1642) who was the first to make quantitative studies of free fall.",
 "post": "It is an important factor for road safety and depends on the initial velocity (<i>v</i> 0 ) and the braking capacity, or deceleration, \u2013<i>a</i> that is caused by the braking.",
 "main": "# <i><b>Example</b> <b>3.7</b> <b></b></i> <b>Stopping</b> <b>distance</b> <b>of</b> <b>vehicles</b> <b>:</b> <b></b>When brakes are applied to a moving vehicle, the distance it travels before stopping is called stopping distance.",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "# <i><b>Example</b> <b>3.7</b> <b></b></i> <b>Stopping</b> <b>distance</b> <b>of</b> <b>vehicles</b> <b>:</b> <b></b>When brakes are applied to a moving vehicle, the distance it travels before stopping is called stopping distance.",
@@ -2559,7 +2559,7 @@
 "pre": "<b>3.13</b> Explain clearly, with examples, the distinction between : (a) magnitude of displacement (sometimes called distance) over an interval of time, and the total length of path covered by a particle over the same interval; (b) magnitude of average velocity over an interval of time, and the average speed over the same interval.",
 "post": "Show in both (a) and (b) that the second quantity is either greater than or equal to the first.",
 "main": "[Average speed of a particle over an interval of time is defined as the total path length divided by the time interval].",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "[Average speed of a particle over an interval of time is defined as the total path length divided by the time interval].",
@@ -2997,7 +2997,7 @@
 "pre": "You can see that this line becomes a<i> </i>tangent to the curve at point P<i> </i>as shown in Fig. 3.30(b).",
 "post": "It represents the slope of the tangent line to the curve <i>y = f </i>(<i>x</i>)<i> </i>at the point<i> </i>(<i>x, y</i>)<i>.</i>",
 "main": "This means that tan \u03b8 approaches the slope of the tangent at P, denoted by <i>m</i>: x 0 0 ( ) lim lim <i>x</i> <i>y</i> <i>y</i> <i>y</i> <i>y</i> <i>m</i> <i>x</i> <i>x</i> (3) <i>The limit of the ratio </i> \u0394<i>y/</i>\u0394<i>x as </i>\u0394<i>x approaches zero is called the derivative of y with respect to x</i> and is written as d<i>y/</i>d<i>x</i>.",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "This means that tan \u03b8 approaches the slope of the tangent at P, denoted by <i>m</i>: x 0 0 ( ) lim lim <i>x</i> <i>y</i> <i>y</i> <i>y</i> <i>y</i> <i>m</i> <i>x</i> <i>x</i> (3) <i>The limit of the ratio </i> \u0394<i>y/</i>\u0394<i>x as </i>\u0394<i>x approaches zero is called the derivative of y with respect to x</i> and is written as d<i>y/</i>d<i>x</i>.",

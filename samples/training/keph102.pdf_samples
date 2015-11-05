@@ -1119,7 +1119,7 @@
 "pre": "For example, when the same person repeats the same observation, it is very likely that he may get different readings everytime.",
 "post": "All the readings or measured values are good only up to this value.",
 "main": "<i><b>Least</b> <b>count</b> <b>error</b></i> The smallest value that can be measured by the measuring instrument is called its <b>least</b> <b>count</b>.",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "<i><b>Least</b> <b>count</b> <b>error</b></i> The smallest value that can be measured by the measuring instrument is called its <b>least</b> <b>count</b>.",
@@ -2013,7 +2013,7 @@
 "pre": "In order to get an approximate idea of the number, we may round off the number <i>a</i> to 1 (for <i>a</i> \u2264 5) and to 10 (for 5&lt;<i>a</i> \u2264 10).",
 "post": "When only an estimate is required, the quantity is of the order of 10 b .",
 "main": "Then the number can be expressed approximately as 10 b in which the exponent (or power) b of 10 is called <b>order</b> <b>of</b> <b>magnitude</b> of the physical quantity.",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "Then the number can be expressed approximately as 10 b in which the exponent (or power) b of 10 is called <b>order</b> <b>of</b> <b>magnitude</b> of the physical quantity.",
@@ -2565,7 +2565,7 @@
 "pre": "Since all these quantities can be expressed as length/time, their dimensions are [L]/[T] or [L T \u20131 ].",
 "post": "For example, the dimensional formula of the volume is [M\u00b0 L 3 T\u00b0], and that of speed or velocity is [M\u00b0 L T -1 ].",
 "main": "<b>2.9</b> <b>DIMENSIONAL</b> <b>FORMULAE</b> <b>AND</b> <b>DIMENSIONAL</b> <b>EQUATIONS</b> The expression which shows how and which of the base quantities represent the dimensions of a physical quantity is called the <i>dimensional</i> <i>formula</i> of the given physical quantity.",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "<b>2.9</b> <b>DIMENSIONAL</b> <b>FORMULAE</b> <b>AND</b> <b>DIMENSIONAL</b> <b>EQUATIONS</b> The expression which shows how and which of the base quantities represent the dimensions of a physical quantity is called the <i>dimensional</i> <i>formula</i> of the given physical quantity.",
@@ -2583,7 +2583,7 @@
 "pre": "Similarly, [M\u00b0 L T \u20132 ] is the dimensional formula of acceleration and [M L \u20133 T\u00b0] that of mass density.",
 "post": "Thus, the dimensional equations are the equations, which represent the dimensions of a physical quantity in terms of the base quantities.",
 "main": "An equation obtained by equating a physical quantity with its dimensional formula is called the <b>dimensional</b> <b>equation</b> of the physical \u00a9 NCERT not to be republished PHYSICS 32 quantity.",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "An equation obtained by equating a physical quantity with its dimensional formula is called the <b>dimensional</b> <b>equation</b> of the physical \u00a9 NCERT not to be republished PHYSICS 32 quantity.",
@@ -2913,7 +2913,7 @@
 "pre": "2.",
 "post": "The units for the fundamental or base quantities are called fundamental or base units.",
 "main": "Each base quantity is defined in terms of a certain basic, arbitrarily chosen but properly standardised reference standard called unit (such as metre, kilogram, second, ampere, kelvin, mole and candela).",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "Each base quantity is defined in terms of a certain basic, arbitrarily chosen but properly standardised reference standard called unit (such as metre, kilogram, second, ampere, kelvin, mole and candela).",

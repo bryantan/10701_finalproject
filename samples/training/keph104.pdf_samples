@@ -381,7 +381,7 @@
 "pre": "So displacing a vector parallel to itself leaves the vector</i> <i>unchanged.",
 "post": "<i>However, in some physical applications, location or line of</i> <i>application of a vector is important.",
 "main": "Such vectors are called f</i>ree vectors.",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "Such vectors are called f</i>ree vectors.",
@@ -393,7 +393,7 @@
 "pre": "<i>However, in some physical applications, location or line of</i> <i>application of a vector is important.",
 "post": "\u00a9 NCERT not to be republished MOTION IN A PLANE 67 as <b>A</b> = <b>B</b>.",
 "main": "Such vectors are called </i>localised vectors.",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "Such vectors are called </i>localised vectors.",
@@ -2367,7 +2367,7 @@
 "pre": "We define the angular speed \u03c9 (Greek letter omega) as the time rate of change of angular displacement : \u03c9 \u03b8 = \u0394 \u0394<i>t</i> (4.45) Now, if the distance travelled by the object during the time \u0394<i>t</i> is \u0394s, i.e. <i>PP</i> \u2032 is \u0394<i>s</i>, then : <i>v</i> <i>s</i> <i>t</i> = \u0394 \u0394 but \u0394<i>s</i> = <i>R </i>\u0394 \u03b8.",
 "post": "However, during this time the distance moved by the object is <i>s </i>= 2 \u03c0<i>R</i>.",
 "main": "Therefore : <i>v</i> <i>R</i> <i>t</i> = = \u0394 \u0394 \u03b8 \u03c9 R<i></i> <i>v = R</i> \u03c9 (4.46) We can express centripetal acceleration <i>a</i> <i>c</i> in terms of angular speed : <i>a</i> <i>v</i> <i>R</i> <i>R</i> <i>R</i> <i>R</i> <i>c</i> = = = 2 2 2 \u03c9 \u03c9 2 <i>a</i> <i>R</i> <i>c</i> = \u03c9 2 (4.47) The time taken by an object to make one revolution is known as its time period <i>T </i>and the number of revolution made in one second is called its frequency \u03bd (=1/<i>T</i>).",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "Therefore : <i>v</i> <i>R</i> <i>t</i> = = \u0394 \u0394 \u03b8 \u03c9 R<i></i> <i>v = R</i> \u03c9 (4.46) We can express centripetal acceleration <i>a</i> <i>c</i> in terms of angular speed : <i>a</i> <i>v</i> <i>R</i> <i>R</i> <i>R</i> <i>R</i> <i>c</i> = = = 2 2 2 \u03c9 \u03c9 2 <i>a</i> <i>R</i> <i>c</i> = \u03c9 2 (4.47) The time taken by an object to make one revolution is known as its time period <i>T </i>and the number of revolution made in one second is called its frequency \u03bd (=1/<i>T</i>).",
@@ -2643,7 +2643,7 @@
 "pre": "An object that is in flight after being projected is called a <i>projectile</i>.",
 "post": "It is : 2 sin 2 <i>o</i> <i>o</i> <i>v</i> <i>R</i> <i>g</i> 17.",
 "main": "If an object is projected with initial velocity <b>v</b> <b>o</b> making an angle \u03b8 o with <i>x-</i>axis and if we assume its initial position to coincide with the origin of the coordinate system, then the position and velocity of the projectile at time <i>t</i> are given by : <i>x </i>= (<i>v</i> <i>o</i> cos \u03b8 o ) <i>t</i> <i>y </i>= (<i>v</i> <i>o</i> sin \u03b8 o ) <i>t</i> \u2212 (1/2) <i>g</i> <i>t</i> 2 <i>v</i> <i>x</i> = <i>v</i> <i>ox</i> = <i>v</i> <i>o</i> cos \u03b8 o <i>v</i> <i>y</i> = <i>v</i> <i>o</i> sin \u03b8 o \u2212 <i>g</i> <i>t</i> The path of a projectile is <i>parabolic </i>and is given by : 2 0 2 tan cos <i>o</i> <i>o</i> <i>gx</i> <i>y</i> <i>x \u2013</i> <i>2 v</i> The <i>maximum height </i>that a projectile attains is : <i>lim</i> lim \u00a9 NCERT not to be republished PHYSICS 84 ( ) 2 sin <i>o</i> <i>o</i> <i>m</i> <i>v</i> <i>h</i> <i>2g</i> <i>q</i> = The <i>time</i> taken to reach this height is : <i>g</i> <i>v</i> <i>t</i> <i>o</i> <i>o</i> <i>m</i> \u03b8 sin = The horizontal distance travelled by a projectile from its initial position to the position it passes <i>y</i> = 0 during its fall is called the <i>range</i>, <i>R </i>of the projectile.",
-"type": "none"
+"type": "definition"
 },
 {
 "pre": "If an object is projected with initial velocity <b>v</b> <b>o</b> making an angle \u03b8 o with <i>x-</i>axis and if we assume its initial position to coincide with the origin of the coordinate system, then the position and velocity of the projectile at time <i>t</i> are given by : <i>x </i>= (<i>v</i> <i>o</i> cos \u03b8 o ) <i>t</i> <i>y </i>= (<i>v</i> <i>o</i> sin \u03b8 o ) <i>t</i> \u2212 (1/2) <i>g</i> <i>t</i> 2 <i>v</i> <i>x</i> = <i>v</i> <i>ox</i> = <i>v</i> <i>o</i> cos \u03b8 o <i>v</i> <i>y</i> = <i>v</i> <i>o</i> sin \u03b8 o \u2212 <i>g</i> <i>t</i> The path of a projectile is <i>parabolic </i>and is given by : 2 0 2 tan cos <i>o</i> <i>o</i> <i>gx</i> <i>y</i> <i>x \u2013</i> <i>2 v</i> The <i>maximum height </i>that a projectile attains is : <i>lim</i> lim \u00a9 NCERT not to be republished PHYSICS 84 ( ) 2 sin <i>o</i> <i>o</i> <i>m</i> <i>v</i> <i>h</i> <i>2g</i> <i>q</i> = The <i>time</i> taken to reach this height is : <i>g</i> <i>v</i> <i>t</i> <i>o</i> <i>o</i> <i>m</i> \u03b8 sin = The horizontal distance travelled by a projectile from its initial position to the position it passes <i>y</i> = 0 during its fall is called the <i>range</i>, <i>R </i>of the projectile.",
