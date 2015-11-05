@@ -37,12 +37,12 @@ ECE MS '15 \\
 
 
 \begin{abstract}
-The goal of this project is to build a classifier that is able to extract physics knowledge from textbooks. Information extraction of textbooks is a useful problem to tackle because of the many applications that the extracted information could be used for. In the course of this project, textbooks in the PDF will be converted to a text format, and classifiers of different complexity will be tested for accuracy. Training data sets will be created by extracting laws, theorems, definitions, and other knowledge in the text format textbook, and attaching any relevant material, such as context or metadata.
+The goal of this project is to build a classifier that is able to extract physics knowledge from textbooks. Information extraction of textbooks is a useful problem to tackle because of the many applications that the extracted information could be used for. In the course of this project, textbooks in the PDF will be converted to a text format, classifiers of different complexity will be tested for accuracy of determining sentences containing physics knowledge, and information will be extracted and formatted from these sentences. Training data sets will be created by extracting laws, theorems, definitions, and other knowledge in the text format textbook, and attaching any relevant material, such as context or metadata.
 \end{abstract}
 
 \section{Introduction}
 
-As more and more information is becoming digitalized, the importance of information extraction through machine learning methods has increased. The goal of this project is to extend machine learning methods to extract physics knowledge from textbooks. In particular, this project will focus on extracting theorems, laws, and definitions relevant to newtonian physics within a textbook. The resulting knowledge will be presented as a glossary, corresponding words and phrases with their respective definitions.
+As more and more information is becoming digitalized, the importance of information extraction through machine learning methods has increased. The goal of this project is to extend machine learning methods to extract physics knowledge from textbooks. In particular, this project will focus on extracting theorems, laws, and definitions relevant to newtonian physics within a textbook. The resulting knowledge will be presented as a glossary, corresponding words and phrases with their respective definitions, formulas, or statements.
 
 Information extraction from textbooks has a number of practical applications. For one, a problem from a textbook can be analyzed, and the relevant laws, theorems, and equations can be determined by using the knowledge extracted from textbooks, and potentially even a step by step solution for the problem could be provided. The extracted physics knowledge from a given textbook can also show a quick summary of the material covered in the textbook and allow for a classification of the textbook based on depth and breadth of material covered. Even more advanced would to be build a customized textbook through extracted information based on personalized needs.
 
@@ -84,11 +84,13 @@ Determining the start and end of each sentence is a difficult problem, and often
 
 This project will begin with implementing a simple Naive Bayes classifier and compare the accuracy by gradually increasing the number of features the classifier considers. Specifically, a classifier implementing a bag-of-words model which only looks at the words used in the sentence will be created. After the completion of the simple classifier, the implementation will be modified to account for the sentence metadata as well. The final Naive Bayes implementation will take into account all features of a sentence in order to classify it. Multiple iterations will be made to identify important features for use in future implementations.
 
-\subsection{AdaBoost Implementation}
+\subsection{Classifier Selection with Machine Learning Toolkit}
 
-After creating multiple Naive Bayes implementations and identifying important features, an AdaBoost implementation will be created. The implementation will incorporate important features and integrate more weak classifiers beyond Naive Bayes. Once a reasonable set of weak classifiers has been determined, the weights of each classifier can then be optimized and determined.
+After creating multiple Naive Bayes implementations and identifying important features, a machine learning toolkit will be used to further determine features, process data, and select and refine a classifier that will be used to extract sentences containing physics knowledge. Various tools in the machine learning toolkit, such as undersampling and oversampling, automatic feature selection, and boosting will be employed to arrive at a final classifier.
 
-\subsection{??? Implementation}
+\subsection{Information Extraction from Relevant Sentences}
+
+Using the final classifier obtained in the previous step, testing data will be processed to determine sentences relevant to physics knowledge. A second classifier will be used to extract information from these sentences. Information will be formatted and presented in a consistent manner, so as to provide future research with a useful interface for viewing the physics knowledge found in a textbook. In specific, HMMs will be explored for this goal of information extraction.
 
 \section{Preliminary Results}
 
