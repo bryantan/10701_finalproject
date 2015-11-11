@@ -141,7 +141,7 @@
 "pre": "<b>8.1(a)</b></i> <i>An ellipse traced out by a planet around</i> <i>the sun.",
 "post": "The</i> <i>semimajor axis is half the distance AP.</i>",
 "main": "The closest point is P and the</i> <i>farthest point is A, P is called the</i> <i>perihelion and A the aphelion.",
-"type": "definitionfell"
+"type": "definition"
 },
 {
 "pre": "The closest point is P and the</i> <i>farthest point is A, P is called the</i> <i>perihelion and A the aphelion.",
@@ -2007,7 +2007,7 @@
 "pre": "which is much larger than <i>R</i> <i>E</i> .",
 "post": "Clearly, since the earth rotates with the same period, the satellite would appear fixed from any point on earth.",
 "main": "Satellites in a circular orbits around the earth in the GRAVITATION 197 equatorial plane with <i>T</i> = 24 hours are called Geostationery Satellites.",
-"type": "called geostationery satellites"
+"type": "definition"
 },
 {
 "pre": "Satellites in a circular orbits around the earth in the GRAVITATION 197 equatorial plane with <i>T</i> = 24 hours are called Geostationery Satellites.",
