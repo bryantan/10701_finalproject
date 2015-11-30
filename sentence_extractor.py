@@ -1,9 +1,13 @@
+# From scikit-learn website
+# http://scikit-learn.org/stable/auto_examples/text/document_classification_20newsgroups.html
+
 import os
 import json
 import numpy as np
 from naive_bayes import Sample
 from time import time
 import matplotlib.pyplot as plt
+from scipy import sparse
 
 
 from sklearn.feature_extraction.text import HashingVectorizer
@@ -19,19 +23,25 @@ from sklearn.naive_bayes import BernoulliNB, MultinomialNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neighbors import NearestCentroid
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import AdaBoostClassifier
 from sklearn.utils.extmath import density
 from sklearn import metrics
+
+from unbalanced_dataset import UnbalancedDataset
+from over_sampling import OverSampler
+from over_sampling import SMOTE
+
 
 SAMPLES_FOLDER = os.getcwd() + "/samples"
 TRAINING_SAMPLES_FOLDER = SAMPLES_FOLDER + "/training"
 TESTING_SAMPLES_FOLDER = SAMPLES_FOLDER + "/testing"
-USE_HASHING = False
-USE_CHI2 = False
+USE_HASHING = True
+USE_CHI2 = True
 SELECT_CHI2 = 10
-PRINT_TOP10 = False
+PRINT_TOP10 = True
 N_FEATURES = 2 ** 16
 
-categories = ['none', 'definition', 'law']
+categories = ['definition', 'law', 'none']
 
 def get_samples(files=[]):
     samples = []
@@ -58,24 +68,40 @@ testing_data_files = map(lambda filename: os.path.join(
 training_data, y_train = get_samples(training_data_files)
 testing_data, y_test = get_samples(testing_data_files)
 
+# Remove incorrect labels
 new_ytrain = [x for x in y_train if x != "none"]
 new_ytrain = [x for x in new_ytrain if x != "definition"]
 new_ytrain = [x for x in new_ytrain if x != "law"]
 print new_ytrain
+
+# Change "law" labels to "definition"
+y_train = [x if x != "law" else "definition" for x in y_train]
+y_test = [x if x != "law" else "definition" for x in y_test]
 print len(training_data), len(y_train), y_train.count("none"), y_train.count("definition"), y_train.count("law")
 print len(testing_data), len(y_test), y_test.count("none"), y_test.count("definition"), y_test.count("law")
 
 # Extract features using sparse vectorizer
 if USE_HASHING:
     vectorizer = HashingVectorizer(stop_words='english', non_negative=True,
-                                   n_features=N_FEATURES)
+                                   n_features=N_FEATURES, ngram_range=(1, 2))
     X_train = vectorizer.transform(training_data)
 else:
     vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5,
-                                 stop_words='english')
+                                 stop_words='english', ngram_range=(1, 2))
     X_train = vectorizer.fit_transform(training_data)
 
 X_test = vectorizer.transform(testing_data)
+
+# Oversampling
+y_train_new = [0 if x == "definition" else 1 for x in y_train]
+# print y_train_new
+sm = SMOTE(kind='regular', verbose=True, ratio=10)
+X_train, y_train = sm.fit_transform(X_train.toarray(), np.asarray(y_train_new))
+# OS = OverSampler(verbose=True, ratio=10)
+# X_train, y_train = OS.fit_transform(X_train.toarray(), np.asarray(y_train_new))
+X_train = sparse.csr_matrix(X_train)
+y_train = y_train.tolist()
+y_train = ["definition" if x == 0 else "none" for x in y_train]
 
 # mapping from integer feature name to original token string
 if USE_HASHING:
@@ -95,6 +121,11 @@ if USE_CHI2:
 
 if feature_names:
     feature_names = np.asarray(feature_names)
+
+
+def trim(s):
+    """Trim string to fit on terminal (assuming 80-column display)"""
+    return s if len(s) <= 80 else s[:77] + "..."
 
 
 ###############################################################################
@@ -141,11 +172,11 @@ def benchmark(clf):
 
 results = []
 for clf, name in (
-        (RidgeClassifier(tol=1e-2, solver="lsqr"), "Ridge Classifier"),
-        (Perceptron(n_iter=50), "Perceptron"),
-        (PassiveAggressiveClassifier(n_iter=50), "Passive-Aggressive"),
+        (RidgeClassifier(tol=1e-2, class_weight='balanced', solver="lsqr"), "Ridge Classifier"),
+        (Perceptron(n_iter=50, class_weight='balanced'), "Perceptron"),
+        (PassiveAggressiveClassifier(n_iter=50, class_weight='balanced'), "Passive-Aggressive"),
         (KNeighborsClassifier(n_neighbors=10), "kNN"),
-        (RandomForestClassifier(n_estimators=100), "Random forest")):
+        (RandomForestClassifier(n_estimators=100, class_weight='balanced'), "Random forest")):
     print('=' * 80)
     print(name)
     results.append(benchmark(clf))
@@ -155,17 +186,20 @@ for penalty in ["l2", "l1"]:
     print("%s penalty" % penalty.upper())
     # Train Liblinear model
     results.append(benchmark(LinearSVC(loss='l2', penalty=penalty,
+                                            class_weight='balanced',
                                             dual=False, tol=1e-3)))
 
     # Train SGD model
     results.append(benchmark(SGDClassifier(alpha=.0001, n_iter=50,
-                                           penalty=penalty)))
+                                           penalty=penalty,
+                                           class_weight='balanced')))
 
 # Train SGD with Elastic Net penalty
 print('=' * 80)
 print("Elastic-Net penalty")
 results.append(benchmark(SGDClassifier(alpha=.0001, n_iter=50,
-                                       penalty="elasticnet")))
+                                       penalty="elasticnet",
+                                       class_weight='balanced')))
 
 # Train NearestCentroid without threshold
 print('=' * 80)
@@ -183,9 +217,15 @@ print("LinearSVC with L1-based feature selection")
 # The smaller C, the stronger the regularization.
 # The more regularization, the more sparsity.
 results.append(benchmark(Pipeline([
-  ('feature_selection', LinearSVC(penalty="l1", dual=False, tol=1e-3)),
+  ('feature_selection', LinearSVC(penalty="l1", dual=False,
+                                  class_weight='balanced', tol=1e-3)),
   ('classification', LinearSVC())
 ])))
+
+# Train Ensemble classifiers
+print('=' * 80)
+print("Ensemble")
+results.append(benchmark(AdaBoostClassifier(n_estimators=100)))
 
 # make some plots
 
