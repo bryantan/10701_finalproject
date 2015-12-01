@@ -1,2209 +1,2006 @@
-science	NN
-is	VBZ
-a	DT
-systematic	JJ
-attempt	NN
-to	TO
-understand	VB
-natural	JJ
-phenomena	NNS
-in	IN
-as	RB
-much	JJ
-detail	NN
-and	CC
-depth	NN
-as	IN
-possible	JJ
-and	CC
-use	VBP
-the	DT
-knowledge	NN
-so	RB
-gained	VBD
-to	TO
-predict	VB
-modify	VB
-and	CC
-control	VB
-phenomena	NNS
-.	.
-
-we	PRP
-can	MD
-broadly	RB
-describe	VB
-physics	NNS
-as	IN
-a	DT
-study	NN
-of	IN
-the	DT
-basic	JJ
-laws	NNS
-of	IN
-nature	NN
-and	CC
-their	PRP$
-manifestation	NN
-in	IN
-different	JJ
-natural	JJ
-phenomena	NNS
-.	.
-
-this	DT
-approach	NN
-is	VBZ
-called	VBN
-reductionism	NN
-and	CC
-is	VBZ
-at	IN
-the	DT
-heart	NN
-of	IN
-physics	NNS
-.	.
-
-©	FW
-ncert	FW
-not	RB
-to	TO
-be	VB
-republished	VBN
-physics	NNS
-8	CD
-141	CD
-gravitational	JJ
-force	NN
-the	DT
-gravitational	JJ
-force	NN
-is	VBZ
-the	DT
-force	NN
-of	IN
-mutual	JJ
-attraction	NN
-between	IN
-any	DT
-two	CD
-objects	NNS
-by	IN
-virtue	NN
-of	IN
-their	PRP$
-masses	NNS
-.	.
-
-142	CD
-electromagnetic	JJ
-force	NN
-electromagnetic	JJ
-force	NN
-is	VBZ
-the	DT
-force	NN
-between	IN
-charged	JJ
-particles	NNS
-.	.
-
-143	CD
-strong	JJ
-nuclear	JJ
-force	NN
-the	DT
-strong	JJ
-nuclear	JJ
-force	NN
-binds	VBZ
-protons	NNS
-and	CC
-neutrons	NNS
-in	IN
-a	DT
-nucleus	NN
-.	.
-
-144	CD
-weak	JJ
-nuclear	JJ
-force	NN
-the	DT
-weak	JJ
-nuclear	JJ
-force	NN
-appears	VBZ
-only	RB
-in	IN
-certain	JJ
-nuclear	JJ
-processes	NNS
-such	JJ
-as	IN
-the	DT
-β-decay	NN
-of	IN
-a	DT
-nucleus	NN
-.	.
-
-both	CC
-the	DT
-kinetic	JJ
-energy	NN
-of	IN
-the	DT
-object	NN
-and	CC
-its	PRP$
-potential	JJ
-energy	NN
-change	NN
-continuously	RB
-with	IN
-time	NN
-but	CC
-the	DT
-sum	NN
-remains	VBZ
-fixed	JJ
-.	.
-
-if	IN
-the	DT
-object	NN
-is	VBZ
-released	VBN
-from	IN
-rest	NN
-the	DT
-initial	JJ
-table	NN
-14	CD
-progress	NN
-in	IN
-unification	NN
-of	IN
-different	JJ
-forces/domains	NNS
-in	IN
-nature	NN
-table	NN
-13	CD
-fundamental	JJ
-forces	NNS
-of	IN
-nature	NN
-name	NN
-relative	JJ
-range	NN
-operates	VBZ
-among	IN
-strength	NN
-gravitational	JJ
-force	NN
-10	CD
-–39	CD
-infinite	NN
-all	DT
-objects	NNS
-in	IN
-the	DT
-universe	NN
-weak	JJ
-nuclear	JJ
-force	NN
-10	CD
-–13	CD
-very	RB
-short	JJ
-sub-nuclear	JJ
-some	DT
-elementary	JJ
-particles	NNS
-size	VBP
-∼10	CD
-–16	CD
-m	NN
-particularly	RB
-electron	NN
-and	CC
-neutrino	NN
-electromagnetic	JJ
-force	NN
-10	CD
-–2	CD
-infinite	JJ
-charged	JJ
-particles	NNS
-strong	JJ
-nuclear	JJ
-force	NN
-1	CD
-short	JJ
-nuclear	JJ
-nucleons	NNS
-heavier	JJR
-size	NN
-∼10	CD
-–15	CD
-m	NN
-elementary	JJ
-particles	NNS
-©	FW
-ncert	FW
-not	RB
-to	TO
-be	VB
-republished	VBN
-physical	JJ
-world	NN
-11	CD
-potential	JJ
-energy	NN
-is	VBZ
-completely	RB
-converted	VBN
-into	IN
-the	DT
-kinetic	JJ
-energy	NN
-of	IN
-the	DT
-object	NN
-just	RB
-before	IN
-it	PRP
-hits	VBZ
-the	DT
-ground	NN
-.	.
-
-the	DT
-general	JJ
-law	NN
-of	IN
-conservation	NN
-of	IN
-energy	NN
-is	VBZ
-true	JJ
-for	IN
-all	DT
-forces	NNS
-and	CC
-for	IN
-any	DT
-kind	NN
-of	IN
-transformation	NN
-between	IN
-different	JJ
-forms	NNS
-of	IN
-energy	NN
-.	.
-
-according	VBG
-to	TO
-einstein’s	JJ
-theory	NN
-mass	NN
-m	NN
-is	VBZ
-equivalent	JJ
-to	TO
-energy	NN
-e	SYM
-given	VBN
-by	IN
-the	DT
-relation	NN
-e=	FW
-mc	FW
-2	CD
-where	WRB
-c	NN
-is	VBZ
-speed	NN
-of	IN
-light	NN
-in	IN
-vacuum	NN
-.	.
-
-the	DT
-total	JJ
-linear	JJ
-momentum	NN
-and	CC
-the	DT
-total	JJ
-angular	JJ
-momentum	NN
-both	DT
-vectors	NNS
-of	IN
-an	DT
-isolated	VBN
-system	NN
-are	VBP
-also	RB
-conserved	VBN
-quantities	NNS
-.	.
-
-the	DT
-physical	JJ
-quantities	NNS
-that	WDT
-remain	VBP
-unchanged	JJ
-in	IN
-a	DT
-process	NN
-are	VBP
-called	VBN
-conserved	JJ
-quantities	NNS
-.	.
-
-chapter	NN
-two	CD
-u	NN
-nits	NNS
-and	CC
-measurement	NN
-21	CD
-introduction	NN
-measurement	NN
-of	IN
-any	DT
-physical	JJ
-quantity	NN
-involves	VBZ
-comparison	NN
-with	IN
-a	DT
-certain	JJ
-basic	NN
-arbitrarily	RB
-chosen	VBD
-internationally	RB
-accepted	VBN
-reference	NN
-standard	NN
-called	VBN
-unit	NN
-.	.
-
-the	DT
-units	NNS
-for	IN
-the	DT
-fundamental	JJ
-or	CC
-base	NN
-quantities	NNS
-are	VBP
-called	VBN
-fundamental	JJ
-or	CC
-base	NN
-units	NNS
-.	.
-
-such	JJ
-units	NNS
-obtained	VBN
-for	IN
-the	DT
-derived	VBN
-quantities	NNS
-are	VBP
-called	VBN
-derived	VBN
-units	NNS
-.	.
-
-a	DT
-complete	JJ
-set	NN
-of	IN
-these	DT
-units	NNS
-both	CC
-the	DT
-base	NN
-units	NNS
-and	CC
-derived	VBN
-units	NNS
-is	VBZ
-known	VBN
-as	IN
-the	DT
-system	NN
-of	IN
-units	NNS
-.	.
-
-base	NN
-si	IN
-units	NNS
-quantity	NN
-name	NN
-symbol	NN
-definition	NN
-length	NN
-metre	NN
-m	NN
-the	DT
-metre	NN
-is	VBZ
-the	DT
-length	NN
-of	IN
-the	DT
-path	NN
-travelled	VBN
-by	IN
-light	NN
-in	IN
-vacuum	NN
-during	IN
-a	DT
-time	NN
-interval	NN
-of	IN
-1/299792458	CD
-of	IN
-a	DT
-second	NN
-.	.
-
-1983	CD
-mass	NN
-kilogram	FW
-kg	FW
-the	DT
-kilogram	NN
-is	VBZ
-equal	JJ
-to	TO
-the	DT
-mass	NN
-of	IN
-the	DT
-international	JJ
-prototype	NN
-of	IN
-the	DT
-kilogram	NN
-a	DT
-platinum-iridium	JJ
-alloy	NN
-cylinder	NN
-kept	VBD
-at	IN
-international	JJ
-bureau	NN
-of	IN
-weights	NNS
-and	CC
-measures	NNS
-at	IN
-sevres	NNS
-near	IN
-paris	FW
-france	FW
-.	.
-
-1889	CD
-time	NN
-second	JJ
-s	NN
-the	DT
-second	JJ
-is	VBZ
-the	DT
-duration	NN
-of	IN
-9192631770	CD
-periods	NNS
-of	IN
-the	DT
-radiation	NN
-corresponding	VBG
-to	TO
-the	DT
-transition	NN
-between	IN
-the	DT
-two	CD
-hyperfine	NN
-levels	NNS
-of	IN
-the	DT
-ground	NN
-state	NN
-of	IN
-the	DT
-cesium-133	NN
-atom	NN
-.	.
-
-1967	CD
-electric	JJ
-ampere	NN
-a	DT
-the	DT
-ampere	NN
-is	VBZ
-that	IN
-constant	JJ
-current	NN
-which	WDT
-if	IN
-maintained	VBN
-in	IN
-current	JJ
-two	CD
-straight	JJ
-parallel	JJ
-conductors	NNS
-of	IN
-infinite	JJ
-length	NN
-of	IN
-negligible	JJ
-circular	JJ
-cross-section	NN
-and	CC
-placed	VBD
-1	CD
-metre	NN
-apart	RB
-in	IN
-vacuum	NN
-would	MD
-produce	VB
-between	IN
-these	DT
-conductors	NNS
-a	DT
-force	NN
-equal	JJ
-to	TO
-210	CD
-–7	CD
-newton	NN
-per	IN
-metre	NN
-of	IN
-length	NN
-.	.
-
-1948	CD
-thermo	FW
-kelvin	FW
-k	NN
-the	DT
-kelvin	NN
-is	VBZ
-the	DT
-fraction	NN
-1/27316	CD
-of	IN
-the	DT
-thermodynamic	JJ
-dynamic	JJ
-temperature	NN
-of	IN
-the	DT
-triple	JJ
-point	NN
-of	IN
-water	NN
-.	.
-
-1967	CD
-temperature	NN
-amount	NN
-of	IN
-mole	NN
-mol	NN
-the	DT
-mole	NN
-is	VBZ
-the	DT
-amount	NN
-of	IN
-substance	NN
-of	IN
-a	DT
-system	NN
-which	WDT
-contains	VBZ
-substance	NN
-as	IN
-many	JJ
-elementary	JJ
-entities	NNS
-as	IN
-there	EX
-are	VBP
-atoms	NNS
-in	IN
-0012	CD
-kilogram	NN
-of	IN
-carbon	NN
--	:
-12	CD
-.	.
-
-1971	CD
-luminous	JJ
-candela	NN
-cd	IN
-the	DT
-candela	NN
-is	VBZ
-the	DT
-luminous	JJ
-intensity	NN
-in	IN
-a	DT
-given	VBN
-intensity	NN
-direction	NN
-of	IN
-a	DT
-source	NN
-that	WDT
-emits	VBZ
-monochromatic	JJ
-radiation	NN
-of	IN
-frequency	NN
-54010	CD
-12	CD
-hertz	NN
-and	CC
-that	DT
-has	VBZ
-a	DT
-radiant	JJ
-intensity	NN
-in	IN
-that	DT
-direction	NN
-of	IN
-1/683	CD
-watt	NN
-per	IN
-steradian	NN
-.	.
-
-this	DT
-is	VBZ
-called	VBN
-parallax	NN
-.	.
-
-the	DT
-distance	NN
-between	IN
-the	DT
-two	CD
-points	NNS
-of	IN
-observation	NN
-is	VBZ
-called	VBN
-the	DT
-basis	NN
-.	.
-
-the	DT
-∠asb	NN
-in	IN
-fig	NN
-22	CD
-represented	VBN
-by	IN
-symbol	NN
-θ	NN
-is	VBZ
-called	VBN
-the	DT
-parallax	NN
-angle	NN
-or	CC
-parallactic	JJ
-angle	NN
-.	.
-
-these	DT
-are	VBP
-1	CD
-fermi	NN
-=	JJ
-1	CD
-f	LS
-=	JJ
-10	CD
-–15	CD
-m	NN
-1	CD
-angstrom	NN
-=	JJ
-1	CD
-å	NN
-=	JJ
-10	CD
-–10	CD
-m	NN
-1	CD
-astronomical	JJ
-unit	NN
-=	JJ
-1	CD
-au	IN
-average	JJ
-distance	NN
-of	IN
-the	DT
-sun	NN
-from	IN
-the	DT
-earth	NN
-=	JJ
-1496	CD
-×	CD
-10	CD
-11	CD
-m	NN
-1	CD
-light	JJ
-year	NN
-=	JJ
-1	CD
-ly=	NN
-946	CD
-×	CD
-10	CD
-15	CD
-m	NN
-distance	NN
-that	IN
-light	JJ
-travels	NNS
-with	IN
-velocity	NN
-of	IN
-3	CD
-×	CD
-10	CD
-8	CD
-m	NN
-s	NN
-–1	CD
-in	IN
-1	CD
-year	NN
-1	CD
-parsec	NN
-=	JJ
-308	CD
-×	CD
-10	CD
-16	CD
-m	NN
-parsec	NN
-is	VBZ
-the	DT
-distance	NN
-at	IN
-which	WDT
-average	JJ
-radius	NN
-of	IN
-earth’s	JJ
-orbit	NN
-subtends	NNS
-an	DT
-angle	NN
-of	IN
-1	CD
-arc	NN
-second	JJ
-24	CD
-measurement	NN
-of	IN
-mass	NN
-mass	NN
-is	VBZ
-a	DT
-basic	JJ
-property	NN
-of	IN
-matter	NN
-.	.
-
-in	IN
-this	DT
-case	NN
-there	EX
-is	VBZ
-an	DT
-important	JJ
-standard	JJ
-unit	NN
-of	IN
-mass	NN
-called	VBN
-the	DT
-unified	JJ
-atomic	JJ
-mass	NN
-unit	NN
-u	NN
-which	WDT
-has	VBZ
-been	VBN
-established	VBN
-for	IN
-expressing	VBG
-the	DT
-mass	NN
-of	IN
-atoms	NNS
-as	IN
-1	CD
-unified	JJ
-atomic	JJ
-mass	NN
-unit	NN
-=	JJ
-1u	NN
-=	JJ
-1/12	CD
-of	IN
-the	DT
-mass	NN
-of	IN
-an	DT
-atom	NN
-of	IN
-carbon-12	NN
-isotope	NN
-6	CD
-12	CD
-c	NN
-including	VBG
-the	DT
-mass	NN
-of	IN
-electrons	NNS
-=	JJ
-166	CD
-10	CD
-–27	CD
-kg	NN
-mass	NN
-of	IN
-commonly	RB
-available	JJ
-objects	NNS
-can	MD
-be	VB
-determined	VBN
-by	IN
-a	DT
-common	JJ
-balance	NN
-like	IN
-the	DT
-one	CD
-used	VBN
-in	IN
-a	DT
-grocery	NN
-shop	NN
-.	.
-
-this	DT
-uncertainty	NN
-is	VBZ
-called	VBN
-error	NN
-.	.
-
-the	DT
-accuracy	NN
-of	IN
-a	DT
-measurement	NN
-is	VBZ
-a	DT
-measure	NN
-of	IN
-how	WRB
-close	JJ
-the	DT
-measured	VBN
-value	NN
-is	VBZ
-to	TO
-the	DT
-true	JJ
-value	NN
-of	IN
-the	DT
-quantity	NN
-.	.
-
-precision	NN
-tells	VBZ
-us	PRP
-to	TO
-what	WP
-resolution	NN
-or	CC
-limit	VB
-the	DT
-quantity	NN
-is	VBZ
-measured	VBN
-.	.
-
-systematic	JJ
-errors	NNS
-the	DT
-systematic	JJ
-errors	NNS
-are	VBP
-those	DT
-errors	NNS
-that	WDT
-tend	VBP
-to	TO
-be	VB
-in	IN
-one	CD
-direction	NN
-either	CC
-positive	JJ
-or	CC
-negative	JJ
-.	.
-
-random	JJ
-errors	NNS
-the	DT
-random	JJ
-errors	NNS
-are	VBP
-those	DT
-errors	NNS
-which	WDT
-occur	VBP
-irregularly	RB
-and	CC
-hence	RB
-are	VBP
-random	JJ
-with	IN
-respect	NN
-table	NN
-25	CD
-range	NN
-and	CC
-order	NN
-of	IN
-time	NN
-intervals	NNS
-©	FW
-ncert	FW
-not	RB
-to	TO
-be	VB
-republished	VBN
-physics	NNS
-24	CD
-to	TO
-sign	VB
-and	CC
-size	VB
-.	.
-
-least	JJS
-count	NN
-error	NN
-the	DT
-smallest	JJS
-value	NN
-that	WDT
-can	MD
-be	VB
-measured	VBN
-by	IN
-the	DT
-measuring	NN
-instrument	NN
-is	VBZ
-called	VBN
-its	PRP$
-least	JJS
-count	NN
-.	.
-
-the	DT
-least	JJS
-count	NN
-error	NN
-is	VBZ
-the	DT
-error	NN
-associated	VBN
-with	IN
-the	DT
-resolution	NN
-of	IN
-the	DT
-instrument	NN
-.	.
-
-the	DT
-magnitude	NN
-of	IN
-the	DT
-difference	NN
-between	IN
-the	DT
-individual	JJ
-measurement	NN
-and	CC
-the	DT
-true	JJ
-value	NN
-of	IN
-the	DT
-quantity	NN
-is	VBZ
-called	VBN
-the	DT
-absolute	JJ
-error	NN
-of	IN
-the	DT
-measurement	NN
-.	.
-
-b	NN
-the	DT
-arithmetic	NN
-mean	NN
-of	IN
-all	PDT
-the	DT
-absolute	JJ
-errors	NNS
-is	VBZ
-taken	VBN
-as	IN
-the	DT
-final	JJ
-or	CC
-mean	VB
-absolute	JJ
-error	NN
-of	IN
-the	DT
-value	NN
-of	IN
-the	DT
-physical	JJ
-quantity	NN
-a	DT
-.	.
-
-c	NN
-instead	RB
-of	IN
-the	DT
-absolute	JJ
-error	NN
-we	PRP
-often	RB
-use	VBP
-the	DT
-relative	JJ
-error	NN
-or	CC
-the	DT
-percentage	NN
-error	NN
-δ	NN
-a	DT
-the	DT
-relative	JJ
-error	NN
-is	VBZ
-the	DT
-ratio	NN
-of	IN
-the	DT
-mean	JJ
-absolute	JJ
-error	NN
-δδδδδ	VBD
-a	DT
-mean	NN
-to	TO
-the	DT
-mean	NN
-value	NN
-a	DT
-mean	NN
-of	IN
-the	DT
-quantity	NN
-measured	VBN
-©	FW
-ncert	FW
-not	RB
-to	TO
-be	VB
-republished	VBN
-units	NNS
-and	CC
-measurement	NN
-25	CD
-.	.
-
-relative	JJ
-error	NN
-=	JJ
-δ	NN
-a	DT
-mean	NN
-/	:
-a	DT
-mean	NN
-29	CD
-when	WRB
-the	DT
-relative	JJ
-error	NN
-is	VBZ
-expressed	VBN
-in	IN
-per	IN
-cent	NN
-it	PRP
-is	VBZ
-called	VBN
-the	DT
-percentage	NN
-error	NN
-δ	NN
-a	DT
-.	.
-
-hence	RB
-the	DT
-rule	NN
-:	:
-when	WRB
-two	CD
-quantities	NNS
-are	VBP
-added	VBN
-or	CC
-subtracted	VBN
-the	DT
-absolute	JJ
-error	NN
-in	IN
-the	DT
-final	JJ
-result	NN
-is	VBZ
-the	DT
-sum	NN
-of	IN
-the	DT
-absolute	JJ
-errors	NNS
-in	IN
-the	DT
-individual	JJ
-quantities	NNS
-.	.
-
-hence	RB
-the	DT
-rule	NN
-:	:
-when	WRB
-two	CD
-quantities	NNS
-are	VBP
-multiplied	VBN
-or	CC
-divided	VBN
-the	DT
-relative	JJ
-error	NN
-in	IN
-the	DT
-result	NN
-is	VBZ
-the	DT
-sum	NN
-of	IN
-the	DT
-relative	JJ
-errors	NNS
-in	IN
-the	DT
-multipliers	NNS
-.	.
-
-hence	RB
-the	DT
-rule	NN
-:	:
-the	DT
-relative	JJ
-error	NN
-in	IN
-a	DT
-physical	JJ
-quantity	NN
-raised	VBN
-to	TO
-the	DT
-power	NN
-k	NN
-is	VBZ
-the	DT
-k	NN
-times	NNS
-the	DT
-relative	JJ
-error	NN
-in	IN
-the	DT
-individual	JJ
-quantity	NN
-.	.
-
-then	RB
-the	DT
-number	NN
-can	MD
-be	VB
-expressed	VBN
-approximately	RB
-as	IN
-10	CD
-b	NN
-in	IN
-which	WDT
-the	DT
-exponent	NN
-or	CC
-power	NN
-b	NN
-of	IN
-10	CD
-is	VBZ
-called	VBN
-order	NN
-of	IN
-magnitude	NN
-of	IN
-the	DT
-physical	JJ
-quantity	NN
-.	.
-
-the	DT
-rule	NN
-by	IN
-convention	NN
-is	VBZ
-that	IN
-the	DT
-preceding	JJ
-digit	NN
-is	VBZ
-raised	VBN
-by	IN
-1	CD
-if	IN
-the	DT
-©	FW
-ncert	FW
-not	RB
-to	TO
-be	VB
-republished	VBN
-physics	NN
-30	CD
-.	.
-
-29	CD
-dimensional	JJ
-formulae	NN
-and	CC
-dimensional	JJ
-equations	NNS
-the	DT
-expression	NN
-which	WDT
-shows	VBZ
-how	WRB
-and	CC
-which	WDT
-of	IN
-the	DT
-base	NN
-quantities	NNS
-represent	VBP
-the	DT
-dimensions	NNS
-of	IN
-a	DT
-physical	JJ
-quantity	NN
-is	VBZ
-called	VBN
-the	DT
-dimensional	JJ
-formula	NN
-of	IN
-the	DT
-given	VBN
-physical	JJ
-quantity	NN
-.	.
-
-an	DT
-equation	NN
-obtained	VBN
-by	IN
-equating	VBG
-a	DT
-physical	JJ
-quantity	NN
-with	IN
-its	PRP$
-dimensional	JJ
-formula	NN
-is	VBZ
-called	VBN
-the	DT
-dimensional	JJ
-equation	NN
-of	IN
-the	DT
-physical	JJ
-©	NN
-ncert	NN
-not	RB
-to	TO
-be	VB
-republished	VBN
-physics	NN
-32	CD
-quantity	NN
-.	.
-
-this	DT
-simple	JJ
-principle	NN
-called	VBN
-the	DT
-principle	NN
-of	IN
-homogeneity	NN
-of	IN
-dimensions	NNS
-in	IN
-an	DT
-equation	NN
-is	VBZ
-extremely	RB
-useful	JJ
-in	IN
-checking	VBG
-the	DT
-correctness	NN
-of	IN
-an	DT
-equation	NN
-.	.
-
-physics	NN
-is	VBZ
-a	DT
-quantitative	JJ
-science	NN
-based	VBN
-on	IN
-measurement	NN
-of	IN
-physical	JJ
-quantities	NNS
-.	.
-
-each	DT
-base	NN
-quantity	NN
-is	VBZ
-defined	VBN
-in	IN
-terms	NNS
-of	IN
-a	DT
-certain	JJ
-basic	NN
-arbitrarily	RB
-chosen	VBN
-but	CC
-properly	RB
-standardised	VBN
-reference	NN
-standard	NN
-called	VBD
-unit	NN
-such	JJ
-as	IN
-metre	FW
-kilogram	FW
-second	JJ
-ampere	FW
-kelvin	FW
-mole	NN
-and	CC
-candela	NN
-.	.
-
-the	DT
-units	NNS
-for	IN
-the	DT
-fundamental	JJ
-or	CC
-base	NN
-quantities	NNS
-are	VBP
-called	VBN
-fundamental	JJ
-or	CC
-base	NN
-units	NNS
-.	.
-
-other	JJ
-physical	JJ
-quantities	NNS
-derived	VBN
-from	IN
-the	DT
-base	NN
-quantities	NNS
-can	MD
-be	VB
-expressed	VBN
-as	IN
-a	DT
-combination	NN
-of	IN
-the	DT
-base	NN
-units	NNS
-and	CC
-are	VBP
-called	VBN
-derived	VBN
-units	NNS
-.	.
-
-a	DT
-complete	JJ
-set	NN
-of	IN
-units	NNS
-both	CC
-fundamental	JJ
-and	CC
-derived	VBN
-is	VBZ
-called	VBN
-a	DT
-system	NN
-of	IN
-units	NNS
-.	.
-
-the	DT
-international	JJ
-system	NN
-of	IN
-units	NNS
-si	IN
-based	VBN
-on	IN
-seven	CD
-base	NN
-units	NNS
-is	VBZ
-at	IN
-present	JJ
-internationally	RB
-accepted	VBN
-unit	NN
-system	NN
-and	CC
-is	VBZ
-widely	RB
-used	VBN
-throughout	IN
-the	DT
-world	NN
-.	.
-
-motion	NN
-is	VBZ
-change	NN
-in	IN
-position	NN
-of	IN
-an	DT
-object	NN
-with	IN
-time	NN
-.	.
-
-we	PRP
-shall	MD
-confine	VB
-ourselves	PRP
-to	TO
-the	DT
-study	NN
-of	IN
-motion	NN
-of	IN
-objects	NNS
-along	IN
-a	DT
-straight	JJ
-line	NN
-also	RB
-known	VBN
-as	IN
-rectilinear	JJ
-motion	NN
-.	.
-
-32	CD
-position	NN
-path	NN
-length	NN
-and	CC
-displacement	NN
-earlier	RB
-you	PRP
-learnt	VBD
-that	IN
-motion	NN
-is	VBZ
-change	NN
-in	IN
-position	NN
-of	IN
-an	DT
-object	NN
-with	IN
-time	NN
-.	.
-
-this	DT
-distance	NN
-is	VBZ
-called	VBN
-the	DT
-path	NN
-length	NN
-traversed	VBN
-by	IN
-the	DT
-car	NN
-.	.
-
-then	RB
-its	PRP$
-displacement	NN
-denoted	VBN
-by	IN
-δx	NN
-in	IN
-time	NN
-δt	NN
-=	JJ
-t	NN
-2	CD
--	:
-t	NN
-1	CD
-is	VBZ
-given	VBN
-by	IN
-the	DT
-difference	NN
-between	IN
-the	DT
-final	JJ
-and	CC
-initial	JJ
-positions	NNS
-:	:
-δx	NN
-=	JJ
-x	NN
-2	CD
-–	NN
-x	NN
-1	CD
-we	PRP
-use	VBP
-the	DT
-greek	JJ
-letter	NN
-delta	NN
-δ	NN
-to	TO
-denote	VB
-a	DT
-change	NN
-in	IN
-a	DT
-quantity	NN
-if	IN
-x	NN
-2	CD
-&gt	NN
-x	NN
-1	CD
-δx	NN
-is	VBZ
-positive	JJ
-and	CC
-if	IN
-x	NN
-2	CD
-&lt	NN
-x	NN
-1	CD
-δx	NN
-is	VBZ
-negative	JJ
-.	.
-
-the	DT
-point	NN
-of	IN
-intersection	NN
-of	IN
-these	DT
-three	CD
-axes	NNS
-is	VBZ
-called	VBN
-origin	NN
-o	NN
-and	CC
-serves	VBZ
-as	IN
-the	DT
-reference	NN
-point	NN
-.	.
-
-this	DT
-coordinate	JJ
-system	NN
-along	IN
-with	IN
-a	DT
-clock	NN
-constitutes	VBZ
-a	DT
-frame	NN
-of	IN
-reference	NN
-.	.
-
-the	DT
-magnitude	NN
-of	IN
-displacement	NN
-may	MD
-or	CC
-may	MD
-not	RB
-be	VB
-equal	JJ
-to	TO
-the	DT
-path	NN
-length	NN
-traversed	VBN
-by	IN
-an	DT
-object	NN
-for	IN
-example	NN
-for	IN
-motion	NN
-of	IN
-the	DT
-car	NN
-from	IN
-o	NN
-to	TO
-p	NN
-the	DT
-path	NN
-length	NN
-is	VBZ
-+360	CD
-m	NN
-and	CC
-the	DT
-displacement	NN
-is	VBZ
-+360	CD
-m	NN
-.	.
-
-if	IN
-an	DT
-object	NN
-moving	VBG
-along	IN
-the	DT
-straight	JJ
-line	NN
-covers	VBZ
-equal	JJ
-distances	NNS
-in	IN
-equal	JJ
-intervals	NNS
-of	IN
-time	NN
-it	PRP
-is	VBZ
-said	VBN
-to	TO
-be	VB
-in	IN
-uniform	JJ
-motion	NN
-along	IN
-a	DT
-straight	JJ
-line	NN
-.	.
-
-average	JJ
-velocity	NN
-is	VBZ
-defined	VBN
-as	IN
-the	DT
-change	NN
-in	IN
-position	NN
-or	CC
-displacement	NN
-δx	NN
-divided	VBN
-by	IN
-the	DT
-time	NN
-intervals	NNS
-δt	VBP
-in	IN
-which	WDT
-the	DT
-displacement	NN
-occurs	VBZ
-:	:
-v	LS
-x	NN
-x	NN
-t	NN
-t	NN
-x	NN
-t	NN
-2	CD
-1	CD
-2	CD
-1	CD
-=	JJ
-−	FW
-−	FW
-=	JJ
-δ	NN
-δ	NN
-31	CD
-where	WRB
-x	NN
-2	CD
-and	CC
-x	NN
-1	CD
-are	VBP
-the	DT
-positions	NNS
-of	IN
-the	DT
-object	NN
-at	IN
-time	NN
-t	NN
-2	CD
-and	CC
-t	NN
-1	CD
-respectively	RB
-.	.
-
-like	IN
-displacement	NN
-average	JJ
-velocity	NN
-is	VBZ
-also	RB
-a	DT
-vector	NN
-quantity	NN
-.	.
-
-average	JJ
-speed	NN
-is	VBZ
-defined	VBN
-as	IN
-the	DT
-total	JJ
-path	NN
-length	NN
-travelled	VBD
-divided	VBN
-by	IN
-the	DT
-total	JJ
-time	NN
-interval	NN
-during	IN
-which	WDT
-the	DT
-motion	NN
-has	VBZ
-taken	VBN
-place	NN
-:	:
-averag	VB
-e	LS
-speed	NN
-total	JJ
-path	NN
-lengt	NN
-h	NN
-total	JJ
-time	NN
-interval	NN
-=	JJ
-32	CD
-average	JJ
-speed	NN
-has	VBZ
-obviously	RB
-the	DT
-same	JJ
-unit	NN
-m	NN
-s	NN
-–1	NN
-as	IN
-that	DT
-of	IN
-velocity	NN
-.	.
-
-if	IN
-the	DT
-motion	NN
-of	IN
-an	DT
-object	NN
-is	VBZ
-along	IN
-a	DT
-straight	JJ
-line	NN
-and	CC
-in	IN
-the	DT
-same	JJ
-direction	NN
-the	DT
-magnitude	NN
-of	IN
-displacement	NN
-is	VBZ
-equal	JJ
-to	TO
-the	DT
-total	JJ
-path	NN
-length	NN
-.	.
-
-the	DT
-velocity	NN
-at	IN
-an	DT
-instant	NN
-is	VBZ
-defined	VBN
-as	IN
-the	DT
-limit	NN
-of	IN
-the	DT
-average	JJ
-velocity	NN
-as	IN
-the	DT
-time	NN
-interval	FW
-δt	FW
-becomes	VBZ
-infinitesimally	RB
-small	JJ
-.	.
-
-note	NN
-that	IN
-for	IN
-uniform	JJ
-motion	NN
-velocity	NN
-is	VBZ
-the	DT
-same	JJ
-as	IN
-the	DT
-average	JJ
-velocity	NN
-at	IN
-all	DT
-instants	NNS
-.	.
-
-instantaneous	JJ
-speed	NN
-or	CC
-simply	RB
-speed	NN
-is	VBZ
-the	DT
-magnitude	NN
-of	IN
-velocity	NN
-.	.
-
-the	DT
-average	JJ
-acceleration	NN
-a	DT
-over	IN
-a	DT
-time	NN
-interval	NN
-is	VBZ
-defined	VBN
-as	IN
-the	DT
-change	NN
-of	IN
-velocity	NN
-divided	VBN
-by	IN
-the	DT
-time	NN
-interval	NN
-:	:
-2	CD
-1	CD
-2	CD
-1	CD
-–	FW
-–	FW
-v	LS
-v	LS
-v	LS
-a	DT
-t	NN
-t	NN
-t	NN
-34	CD
-where	WRB
-v	LS
-2	CD
-and	CC
-v	LS
-1	CD
-are	VBP
-the	DT
-instantaneous	JJ
-velocities	NNS
-or	CC
-simply	RB
-velocities	NNS
-at	IN
-time	NN
-t	NN
-2	CD
-and	CC
-t	NN
-1	CD
-.	.
-
-an	DT
-interesting	JJ
-feature	NN
-of	IN
-a	DT
-velocity-time	JJ
-graph	NN
-for	IN
-any	DT
-moving	JJ
-object	NN
-is	VBZ
-that	IN
-the	DT
-area	NN
-under	IN
-the	DT
-curve	NN
-represents	VBZ
-the	DT
-displacement	NN
-over	IN
-a	DT
-given	VBN
-time	NN
-interval	NN
-a	DT
-general	JJ
-proof	NN
-of	IN
-this	DT
-fig	NN
-.	.
-
-#	#
-example	NN
-37	CD
-stopping	VBG
-distance	NN
-of	IN
-vehicles	NNS
-:	:
-when	WRB
-brakes	NNS
-are	VBP
-applied	VBN
-to	TO
-a	DT
-moving	VBG
-vehicle	NN
-the	DT
-distance	NN
-it	PRP
-travels	VBZ
-before	IN
-stopping	VBG
-is	VBZ
-called	VBN
-stopping	VBG
-distance	NN
-.	.
-
-an	DT
-object	NN
-is	VBZ
-said	VBN
-to	TO
-be	VB
-in	IN
-motion	NN
-if	IN
-its	PRP$
-position	NN
-changes	NNS
-with	IN
-time	NN
-.	.
-
-path	NN
-length	NN
-is	VBZ
-defined	VBN
-as	IN
-the	DT
-total	JJ
-length	NN
-of	IN
-the	DT
-path	NN
-traversed	VBN
-by	IN
-an	DT
-object	NN
-.	.
-
-displacement	NN
-is	VBZ
-the	DT
-change	NN
-in	IN
-position	NN
-:	:
-δx	NN
-=	JJ
-x	NN
-2	CD
-–	NN
-x	NN
-1	CD
-.	.
+science NN  B_KEY_PHRASE
+is  VBZ B_EQUAL
+a   DT  B_DEFINITION
+systematic  JJ  I_DEFINITION
+attempt NN  I_DEFINITION
+to  TO  I_DEFINITION
+understand  VB  I_DEFINITION
+natural JJ  I_DEFINITION
+phenomena   NNS I_DEFINITION
+in  IN  I_DEFINITION
+as  RB  I_DEFINITION
+much    JJ  I_DEFINITION
+detail  NN  I_DEFINITION
+and CC  I_DEFINITION
+depth   NN  I_DEFINITION
+as  IN  I_DEFINITION
+possible    JJ  I_DEFINITION
+and CC  I_DEFINITION
+use VBP I_DEFINITION
+the DT  I_DEFINITION
+knowledge   NN  I_DEFINITION
+so  RB  I_DEFINITION
+gained  VBD I_DEFINITION
+to  TO  I_DEFINITION
+predict VB  I_DEFINITION
+modify  VB  I_DEFINITION
+and CC  I_DEFINITION
+control VB  I_DEFINITION
+phenomena   NNS I_DEFINITION
+.   .   O
+
+we  PRP O
+can MD  O
+broadly RB  O
+describe    VB  O
+physics NNS B_KEY_PHRASE
+as  IN  B_EQUAL
+a   DT  B_DEFINITION
+study   NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+basic   JJ  I_DEFINITION
+laws    NNS I_DEFINITION
+of  IN  I_DEFINITION
+nature  NN  I_DEFINITION
+and CC  I_DEFINITION
+their   PRP$    I_DEFINITION
+manifestation   NN  I_DEFINITION
+in  IN  I_DEFINITION
+different   JJ  I_DEFINITION
+natural JJ  I_DEFINITION
+phenomena   NNS I_DEFINITION
+.   .   O
+
+this    DT  B_DEFINITION
+approach    NN  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+reductionism    NN  B_KEY_PHRASE
+and CC  O
+is  VBZ O
+at  IN  O
+the DT  I_DEFINITION
+heart   NN  O
+of  IN  O
+physics NNS O
+.   .   O
+
+©   FW  O
+ncert   FW  O
+not RB  O
+to  TO  O
+be  VB  O
+republished VBN O
+physics NNS O
+8   CD  O
+141 CD  O
+gravitational   JJ  O
+force   NN  O
+the DT  B_KEY_PHRASE
+gravitational   JJ  I_KEY_PHRASE
+force   NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+force   NN  I_DEFINITION
+of  IN  I_DEFINITION
+mutual  JJ  I_DEFINITION
+attraction  NN  I_DEFINITION
+between IN  I_DEFINITION
+any DT  I_DEFINITION
+two CD  I_DEFINITION
+objects NNS I_DEFINITION
+by  IN  I_DEFINITION
+virtue  NN  I_DEFINITION
+of  IN  I_DEFINITION
+their   PRP$    I_DEFINITION
+masses  NNS I_DEFINITION
+.   .   O
+
+142 CD  O
+electromagnetic JJ  O
+force   NN  O
+electromagnetic JJ  B_KEY_PHRASE
+force   NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+force   NN  I_DEFINITION
+between IN  I_DEFINITION
+charged JJ  I_DEFINITION
+particles   NNS I_DEFINITION
+.   .   O
+
+143 CD  O
+strong  JJ  O
+nuclear JJ  O
+force   NN  O
+the DT  B_KEY_PHRASE
+strong  JJ  I_KEY_PHRASE
+nuclear JJ  I_KEY_PHRASE
+force   NN  I_KEY_PHRASE
+binds   VBZ I_DEFINITION
+protons NNS I_DEFINITION
+and CC  I_DEFINITION
+neutrons    NNS I_DEFINITION
+in  IN  I_DEFINITION
+a   DT  I_DEFINITION
+nucleus NN  I_DEFINITION
+.   .   O
+
+144 CD  O
+weak    JJ  O
+nuclear JJ  O
+force   NN  O
+the DT  B_KEY_PHRASE
+weak    JJ  I_KEY_PHRASE
+nuclear JJ  I_KEY_PHRASE
+force   NN  I_KEY_PHRASE
+appears VBZ I_DEFINITION
+only    RB  I_DEFINITION
+in  IN  I_DEFINITION
+certain JJ  I_DEFINITION
+nuclear JJ  I_DEFINITION
+processes   NNS I_DEFINITION
+such    JJ  I_DEFINITION
+as  IN  I_DEFINITION
+the DT  I_DEFINITION
+β-decay NN  I_DEFINITION
+of  IN  I_DEFINITION
+a   DT  I_DEFINITION
+nucleus NN  I_DEFINITION
+.   .   O
+
+both    CC  O
+the DT  O
+kinetic JJ  O
+energy  NN  O
+of  IN  O
+the DT  O
+object  NN  O
+and CC  O
+its PRP$    O
+potential   JJ  O
+energy  NN  O
+change  NN  O
+continuously    RB  O
+with    IN  O
+time    NN  O
+but CC  O
+the DT  O
+sum NN  O
+remains VBZ O
+fixed   JJ  O
+.   .   O
+
+if  IN  O
+the DT  O
+object  NN  O
+is  VBZ O
+released    VBN O
+from    IN  O
+rest    NN  O
+the DT  O
+initial JJ  O
+table   NN  O
+14  CD  O
+progress    NN  O
+in  IN  O
+unification NN  O
+of  IN  O
+different   JJ  O
+forces/domains  NNS O
+in  IN  O
+nature  NN  O
+table   NN  O
+13  CD  O
+fundamental JJ  O
+forces  NNS O
+of  IN  O
+nature  NN  O
+name    NN  O
+relative    JJ  O
+range   NN  O
+operates    VBZ O
+among   IN  O
+strength    NN  O
+gravitational   JJ  O
+force   NN  O
+10  CD  O
+–39 CD  O
+infinite    NN  O
+all DT  O
+objects NNS O
+in  IN  O
+the DT  O
+universe    NN  O
+weak    JJ  O
+nuclear JJ  O
+force   NN  O
+10  CD  O
+–13 CD  O
+very    RB  O
+short   JJ  O
+sub-nuclear JJ  O
+some    DT  O
+elementary  JJ  O
+particles   NNS O
+size    VBP O
+∼10 CD  O
+–16 CD  O
+m   NN  O
+particularly    RB  O
+electron    NN  O
+and CC  O
+neutrino    NN  O
+electromagnetic JJ  O
+force   NN  O
+10  CD  O
+–2  CD  O
+infinite    JJ  O
+charged JJ  O
+particles   NNS O
+strong  JJ  O
+nuclear JJ  O
+force   NN  O
+1   CD  O
+short   JJ  O
+nuclear JJ  O
+nucleons    NNS O
+heavier JJR O
+size    NN  O
+∼10 CD  O
+–15 CD  O
+m   NN  O
+elementary  JJ  O
+particles   NNS O
+©   FW  O
+ncert   FW  O
+not RB  O
+to  TO  O
+be  VB  O
+republished VBN O
+physical    JJ  O
+world   NN  O
+11  CD  O
+potential   JJ  O
+energy  NN  O
+is  VBZ O
+completely  RB  O
+converted   VBN O
+into    IN  O
+the DT  O
+kinetic JJ  O
+energy  NN  O
+of  IN  O
+the DT  O
+object  NN  O
+just    RB  O
+before  IN  O
+it  PRP O
+hits    VBZ O
+the DT  O
+ground  NN  O
+.   .   O
+
+the DT  B_LAW
+general JJ  I_LAW
+law NN  I_LAW
+of  IN  I_LAW
+conservation    NN  I_LAW
+of  IN  I_LAW
+energy  NN  I_LAW
+is  VBZ O
+true    JJ  O
+for IN  O
+all DT  O
+forces  NNS O
+and CC  O
+for IN  O
+any DT  O
+kind    NN  O
+of  IN  O
+transformation  NN  O
+between IN  O
+different   JJ  O
+forms   NNS O
+of  IN  O
+energy  NN  O
+.   .   O
+
+according   VBG O
+to  TO  O
+einstein’s  JJ  B_LAW
+theory  NN  I_LAW
+mass    NN  B_KEY_PHRASE
+m   NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+equivalent  JJ  I_EQUAL
+to  TO  I_EQUAL
+energy  NN  B_DEFINITION
+e   SYM I_DEFINITION
+given   VBN I_DEFINITION
+by  IN  I_DEFINITION
+the DT  I_DEFINITION
+relation    NN  I_DEFINITION
+e=  FW  I_DEFINITION
+mc  FW  I_DEFINITION
+2   CD  I_DEFINITION
+where   WRB I_DEFINITION
+c   NN  I_DEFINITION
+is  VBZ I_DEFINITION
+speed   NN  I_DEFINITION
+of  IN  I_DEFINITION
+light   NN  I_DEFINITION
+in  IN  I_DEFINITION
+vacuum  NN  I_DEFINITION
+.   .   O
+
+the DT  O
+total   JJ  O
+linear  JJ  O
+momentum    NN  O
+and CC  O
+the DT  O
+total   JJ  O
+angular JJ  O
+momentum    NN  O
+both    DT  O
+vectors NNS O
+of  IN  O
+an  DT  O
+isolated    VBN O
+system  NN  O
+are VBP O
+also    RB  O
+conserved   VBN O
+quantities  NNS O
+.   .   O
+
+the DT  B_DEFINITION
+physical    JJ  I_DEFINITION
+quantities  NNS I_DEFINITION
+that    WDT I_DEFINITION
+remain  VBP I_DEFINITION
+unchanged   JJ  I_DEFINITION
+in  IN  I_DEFINITION
+a   DT  I_DEFINITION
+process NN  I_DEFINITION
+are VBP B_EQUAL
+called  VBN I_EQUAL
+conserved   JJ  B_KEY_PHRASE
+quantities  NNS I_KEY_PHRASE
+.   .   O
+
+chapter NN  O
+two CD  O
+u   NN  O
+nits    NNS O
+and CC  O
+measurement NN  O
+21  CD  O
+introduction    NN  O
+measurement NN  O
+of  IN  O
+any DT  O
+physical    JJ  O
+quantity    NN  O
+involves    VBZ O
+comparison  NN  O
+with    IN  O
+a   DT  B_DEFINITION
+certain JJ  I_DEFINITION
+basic   NN  I_DEFINITION
+arbitrarily RB  I_DEFINITION
+chosen  VBD I_DEFINITION
+internationally RB  I_DEFINITION
+accepted    VBN I_DEFINITION
+reference   NN  I_DEFINITION
+standard    NN  I_DEFINITION
+called  VBN B_EQUAL
+unit    NN  B_KEY_PHRASE
+.   .   O
+
+the DT  B_DEFINITION
+units   NNS I_DEFINITION
+for IN  I_DEFINITION
+the DT  I_DEFINITION
+fundamental JJ  I_DEFINITION
+or  CC  I_DEFINITION
+base    NN  I_DEFINITION
+quantities  NNS I_DEFINITION
+are VBP B_EQUAL
+called  VBN I_EQUAL
+fundamental JJ  B_KEY_PHRASE
+or  CC  I_KEY_PHRASE
+base    NN  I_KEY_PHRASE
+units   NNS I_KEY_PHRASE
+.   .   O
+
+such    JJ  B_DEFINITION
+units   NNS I_DEFINITION
+obtained    VBN I_DEFINITION
+for IN  I_DEFINITION
+the DT  I_DEFINITION
+derived VBN I_DEFINITION
+quantities  NNS I_DEFINITION
+are VBP B_EQUAL
+called  VBN I_EQUAL
+derived VBN B_KEY_PHRASE
+units   NNS I_KEY_PHRASE
+.   .   O
+
+a   DT  B_DEFINITION
+complete    JJ  I_DEFINITION
+set NN  I_DEFINITION
+of  IN  I_DEFINITION
+these   DT  I_DEFINITION
+units   NNS I_DEFINITION
+both    CC  I_DEFINITION
+the DT  I_DEFINITION
+base    NN  I_DEFINITION
+units   NNS I_DEFINITION
+and CC  I_DEFINITION
+derived VBN I_DEFINITION
+units   NNS I_DEFINITION
+is  VBZ B_EQUAL
+known   VBN I_EQUAL
+as  IN  I_EQUAL
+the DT  B_KEY_PHRASE
+system  NN  I_KEY_PHRASE
+of  IN  I_KEY_PHRASE
+units   NNS I_KEY_PHRASE
+.   .   O
+
+base    NN  O
+si  IN  O
+units   NNS O
+quantity    NN  O
+name    NN  O
+symbol  NN  O
+definition  NN  O
+length  NN  O
+metre   NN  O
+m   NN  O
+the DT  B_KEY_PHRASE
+metre   NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+length  NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+path    NN  I_DEFINITION
+travelled   VBN I_DEFINITION
+by  IN  I_DEFINITION
+light   NN  I_DEFINITION
+in  IN  I_DEFINITION
+vacuum  NN  I_DEFINITION
+during  IN  I_DEFINITION
+a   DT  I_DEFINITION
+time    NN  I_DEFINITION
+interval    NN  I_DEFINITION
+of  IN  I_DEFINITION
+1/299792458 CD  I_DEFINITION
+of  IN  I_DEFINITION
+a   DT  I_DEFINITION
+second  NN  I_DEFINITION
+.   .   O
+
+1983    CD  O
+mass    NN  O
+kilogram    FW  O
+kg  FW  O
+the DT  B_KEY_PHRASE
+kilogram    NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+equal   JJ  I_EQUAL
+to  TO  I_EQUAL
+the DT  B_DEFINITION
+mass    NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+international   JJ  I_DEFINITION
+prototype   NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+kilogram    NN  I_DEFINITION
+a   DT  I_DEFINITION
+platinum-iridium    JJ  I_DEFINITION
+alloy   NN  I_DEFINITION
+cylinder    NN  I_DEFINITION
+kept    VBD I_DEFINITION
+at  IN  I_DEFINITION
+international   JJ  I_DEFINITION
+bureau  NN  I_DEFINITION
+of  IN  I_DEFINITION
+weights NNS I_DEFINITION
+and CC  I_DEFINITION
+measures    NNS I_DEFINITION
+at  IN  I_DEFINITION
+sevres  NNS I_DEFINITION
+near    IN  I_DEFINITION
+paris   FW  I_DEFINITION
+france  FW  I_DEFINITION
+.   .   O
+
+1889    CD  O
+time    NN  O
+second  JJ  O
+s   NN  O
+the DT  B_KEY_PHRASE
+second  JJ  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+duration    NN  I_DEFINITION
+of  IN  I_DEFINITION
+9192631770  CD  I_DEFINITION
+periods NNS I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+radiation   NN  I_DEFINITION
+corresponding   VBG I_DEFINITION
+to  TO  I_DEFINITION
+the DT  I_DEFINITION
+transition  NN  I_DEFINITION
+between IN  I_DEFINITION
+the DT  I_DEFINITION
+two CD  I_DEFINITION
+hyperfine   NN  I_DEFINITION
+levels  NNS I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+ground  NN  I_DEFINITION
+state   NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+cesium-133  NN  I_DEFINITION
+atom    NN  I_DEFINITION
+.   .   O
+
+1967    CD  O
+electric    JJ  O
+ampere  NN  O
+a   DT  O
+the DT  B_KEY_PHRASE
+ampere  NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+that    IN  B_DEFINITION
+constant    JJ  I_DEFINITION
+current NN  I_DEFINITION
+which   WDT I_DEFINITION
+if  IN  I_DEFINITION
+maintained  VBN I_DEFINITION
+in  IN  I_DEFINITION
+current JJ  I_DEFINITION
+two CD  I_DEFINITION
+straight    JJ  I_DEFINITION
+parallel    JJ  I_DEFINITION
+conductors  NNS I_DEFINITION
+of  IN  I_DEFINITION
+infinite    JJ  I_DEFINITION
+length  NN  I_DEFINITION
+of  IN  I_DEFINITION
+negligible  JJ  I_DEFINITION
+circular    JJ  I_DEFINITION
+cross-section   NN  I_DEFINITION
+and CC  I_DEFINITION
+placed  VBD I_DEFINITION
+1   CD  I_DEFINITION
+metre   NN  I_DEFINITION
+apart   RB  I_DEFINITION
+in  IN  I_DEFINITION
+vacuum  NN  I_DEFINITION
+would   MD  I_DEFINITION
+produce VB  I_DEFINITION
+between IN  I_DEFINITION
+these   DT  I_DEFINITION
+conductors  NNS I_DEFINITION
+a   DT  I_DEFINITION
+force   NN  I_DEFINITION
+equal   JJ  I_DEFINITION
+to  TO  I_DEFINITION
+210 CD  I_DEFINITION
+–7  CD  I_DEFINITION
+newton  NN  I_DEFINITION
+per IN  I_DEFINITION
+metre   NN  I_DEFINITION
+of  IN  I_DEFINITION
+length  NN  I_DEFINITION
+.   .   O
+
+1948    CD  O
+thermo  FW  O
+kelvin  FW  O
+k   NN  O
+the DT  B_KEY_PHRASE
+kelvin  NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+fraction    NN  I_DEFINITION
+1/27316 CD  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+thermodynamic   JJ  I_DEFINITION
+dynamic JJ  I_DEFINITION
+temperature NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+triple  JJ  I_DEFINITION
+point   NN  I_DEFINITION
+of  IN  I_DEFINITION
+water   NN  I_DEFINITION
+.   .   O
+
+1967    CD  O
+temperature NN  O
+amount  NN  O
+of  IN  O
+mole    NN  O
+mol NN  O
+the DT  B_KEY_PHRASE
+mole    NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+amount  NN  I_DEFINITION
+of  IN  I_DEFINITION
+substance   NN  I_DEFINITION
+of  IN  I_DEFINITION
+a   DT  I_DEFINITION
+system  NN  I_DEFINITION
+which   WDT I_DEFINITION
+contains    VBZ I_DEFINITION
+substance   NN  I_DEFINITION
+as  IN  I_DEFINITION
+many    JJ  I_DEFINITION
+elementary  JJ  I_DEFINITION
+entities    NNS I_DEFINITION
+as  IN  I_DEFINITION
+there   EX  I_DEFINITION
+are VBP I_DEFINITION
+atoms   NNS I_DEFINITION
+in  IN  I_DEFINITION
+0012    CD  I_DEFINITION
+kilogram    NN  I_DEFINITION
+of  IN  I_DEFINITION
+carbon  NN  I_DEFINITION
+-   :   O
+12  CD  O
+.   .   O
+
+1971    CD  O
+luminous    JJ  O
+candela NN  O
+cd  IN  O
+the DT  B_KEY_PHRASE
+candela NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+luminous    JJ  I_DEFINITION
+intensity   NN  I_DEFINITION
+in  IN  I_DEFINITION
+a   DT  I_DEFINITION
+given   VBN I_DEFINITION
+intensity   NN  I_DEFINITION
+direction   NN  I_DEFINITION
+of  IN  I_DEFINITION
+a   DT  I_DEFINITION
+source  NN  I_DEFINITION
+that    WDT I_DEFINITION
+emits   VBZ I_DEFINITION
+monochromatic   JJ  I_DEFINITION
+radiation   NN  I_DEFINITION
+of  IN  I_DEFINITION
+frequency   NN  I_DEFINITION
+54010   CD  I_DEFINITION
+12  CD  I_DEFINITION
+hertz   NN  I_DEFINITION
+and CC  I_DEFINITION
+that    DT  I_DEFINITION
+has VBZ I_DEFINITION
+a   DT  I_DEFINITION
+radiant JJ  I_DEFINITION
+intensity   NN  I_DEFINITION
+in  IN  I_DEFINITION
+that    DT  I_DEFINITION
+direction   NN  I_DEFINITION
+of  IN  I_DEFINITION
+1/683   CD  I_DEFINITION
+watt    NN  I_DEFINITION
+per IN  I_DEFINITION
+steradian   NN  I_DEFINITION
+.   .   O
+
+this    DT  B_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+parallax    NN  B_KEY_PHRASE
+.   .   O
+
+the DT  B_DEFINITION
+distance    NN  I_DEFINITION
+between IN  I_DEFINITION
+the DT  I_DEFINITION
+two CD  I_DEFINITION
+points  NNS I_DEFINITION
+of  IN  I_DEFINITION
+observation NN  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+the DT  B_KEY_PHRASE
+basis   NN  I_KEY_PHRASE
+.   .   O
+
+the DT  B_DEFINITION
+∠asb    NN  I_DEFINITION
+in  IN  I_DEFINITION
+fig NN  I_DEFINITION
+22  CD  I_DEFINITION
+represented VBN I_DEFINITION
+by  IN  I_DEFINITION
+symbol  NN  I_DEFINITION
+θ   NN  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+the DT  B_KEY_PHRASE
+parallax    NN  I_KEY_PHRASE
+angle   NN  I_KEY_PHRASE
+or  CC  I_KEY_PHRASE
+parallactic JJ  I_KEY_PHRASE
+angle   NN  I_KEY_PHRASE
+.   .   O
+
+these   DT  O
+are VBP O
+1   CD  O
+fermi   NN  O
+=   JJ  O
+1   CD  O
+f   LS  O
+=   JJ  O
+10  CD  O
+–15 CD  O
+m   NN  O
+1   CD  O
+angstrom    NN  O
+=   JJ  O
+1   CD  O
+å   NN  O
+=   JJ  O
+10  CD  O
+–10 CD  O
+m   NN  O
+1   CD  O
+astronomical    JJ  O
+unit    NN  O
+=   JJ  O
+1   CD  O
+au  IN  O
+average JJ  O
+distance    NN  O
+of  IN  O
+the DT  O
+sun NN  O
+from    IN  O
+the DT  O
+earth   NN  O
+=   JJ  O
+1496    CD  O
+×   CD  O
+10  CD  O
+11  CD  O
+m   NN  O
+1   CD  O
+light   JJ  O
+year    NN  O
+=   JJ  O
+1   CD  O
+ly= NN  O
+946 CD  O
+×   CD  O
+10  CD  O
+15  CD  O
+m   NN  O
+distance    NN  O
+that    IN  O
+light   JJ  O
+travels NNS O
+with    IN  O
+velocity    NN  O
+of  IN  O
+3   CD  O
+×   CD  O
+10  CD  O
+8   CD  O
+m   NN  O
+s   NN  O
+–1  CD  O
+in  IN  O
+1   CD  O
+year    NN  O
+1   CD  O
+parsec  NN  O
+=   JJ  O
+308 CD  O
+×   CD  O
+10  CD  O
+16  CD  O
+m   NN  O
+parsec  NN  O
+is  VBZ O
+the DT  O
+distance    NN  O
+at  IN  O
+which   WDT O
+average JJ  O
+radius  NN  O
+of  IN  O
+earth’s JJ  O
+orbit   NN  O
+subtends    NNS O
+an  DT  O
+angle   NN  O
+of  IN  O
+1   CD  O
+arc NN  O
+second  JJ  O
+24  CD  O
+measurement NN  O
+of  IN  O
+mass    NN  O
+mass    NN  O
+is  VBZ O
+a   DT  O
+basic   JJ  O
+property    NN  O
+of  IN  O
+matter  NN  O
+.   .   O
+
+in  IN  O
+this    DT  O
+case    NN  O
+there   EX  O
+is  VBZ O
+an  DT  B_DEFINITION
+important   JJ  I_DEFINITION
+standard    JJ  I_DEFINITION
+unit    NN  I_DEFINITION
+of  IN  I_DEFINITION
+mass    NN  I_DEFINITION
+called  VBN B_EQUAL
+the DT  B_KEY_PHRASE
+unified JJ  B_KEY_PHRASE
+atomic  JJ  I_KEY_PHRASE
+mass    NN  I_KEY_PHRASE
+unit    NN  I_KEY_PHRASE
+u   NN  I_KEY_PHRASE
+which   WDT O
+has VBZ O
+been    VBN O
+established VBN O
+for IN  O
+expressing  VBG O
+the DT  O
+mass    NN  O
+of  IN  O
+atoms   NNS O
+as  IN  O
+1   CD  O
+unified JJ  O
+atomic  JJ  O
+mass    NN  O
+unit    NN  O
+=   JJ  O
+1u  NN  O
+=   JJ  O
+1/12    CD  O
+of  IN  O
+the DT  O
+mass    NN  O
+of  IN  O
+an  DT  O
+atom    NN  O
+of  IN  O
+carbon-12   NN  O
+isotope NN  O
+6   CD  O
+12  CD  O
+c   NN  O
+including   VBG O
+the DT  O
+mass    NN  O
+of  IN  O
+electrons   NNS O
+=   JJ  O
+166 CD  O
+10  CD  O
+–27 CD  O
+kg  NN  O
+mass    NN  O
+of  IN  O
+commonly    RB  O
+available   JJ  O
+objects NNS O
+can MD  O
+be  VB  O
+determined  VBN O
+by  IN  O
+a   DT  O
+common  JJ  O
+balance NN  O
+like    IN  O
+the DT  O
+one CD  O
+used    VBN O
+in  IN  O
+a   DT  O
+grocery NN  O
+shop    NN  O
+.   .   O
+
+this    DT  B_DEFINITION
+uncertainty NN  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+error   NN  B_KEY_PHRASE
+.   .   O
+
+the DT  B_KEY_PHRASE
+accuracy    NN  I_KEY_PHRASE
+of  IN  I_KEY_PHRASE
+a   DT  I_KEY_PHRASE
+measurement NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+a   DT  B_DEFINITION
+measure NN  I_DEFINITION
+of  IN  I_DEFINITION
+how WRB I_DEFINITION
+close   JJ  I_DEFINITION
+the DT  I_DEFINITION
+measured    VBN I_DEFINITION
+value   NN  I_DEFINITION
+is  VBZ I_DEFINITION
+to  TO  I_DEFINITION
+the DT  I_DEFINITION
+true    JJ  I_DEFINITION
+value   NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+quantity    NN  I_DEFINITION
+.   .   O
+
+precision   NN  B_KEY_PHRASE
+tells   VBZ B_EQUAL
+us  PRP I_EQUAL
+to  TO  B_DEFINITION
+what    WP  I_DEFINITION
+resolution  NN  I_DEFINITION
+or  CC  I_DEFINITION
+limit   VB  I_DEFINITION
+the DT  I_DEFINITION
+quantity    NN  I_DEFINITION
+is  VBZ I_DEFINITION
+measured    VBN I_DEFINITION
+.   .   O
+
+systematic  JJ  O
+errors  NNS O
+the DT  B_KEY_PHRASE
+systematic  JJ  I_KEY_PHRASE
+errors  NNS I_KEY_PHRASE
+are VBP B_EQUAL
+those   DT  B_DEFINITION
+errors  NNS I_DEFINITION
+that    WDT I_DEFINITION
+tend    VBP I_DEFINITION
+to  TO  I_DEFINITION
+be  VB  I_DEFINITION
+in  IN  I_DEFINITION
+one CD  I_DEFINITION
+direction   NN  I_DEFINITION
+either  CC  I_DEFINITION
+positive    JJ  I_DEFINITION
+or  CC  I_DEFINITION
+negative    JJ  I_DEFINITION
+.   .   O
+
+random  JJ  O
+errors  NNS O
+the DT  B_KEY_PHRASE
+random  JJ  I_KEY_PHRASE
+errors  NNS I_KEY_PHRASE
+are VBP B_EQUAL
+those   DT  B_DEFINITION
+errors  NNS I_DEFINITION
+which   WDT I_DEFINITION
+occur   VBP I_DEFINITION
+irregularly RB  I_DEFINITION
+and CC  I_DEFINITION
+hence   RB  I_DEFINITION
+are VBP I_DEFINITION
+random  JJ  I_DEFINITION
+with    IN  I_DEFINITION
+respect NN  I_DEFINITION
+table   NN  I_DEFINITION
+25  CD  O
+range   NN  I_DEFINITION
+and CC  I_DEFINITION
+order   NN  I_DEFINITION
+of  IN  I_DEFINITION
+time    NN  I_DEFINITION
+intervals   NNS I_DEFINITION
+©   FW  O
+ncert   FW  O
+not RB  O
+to  TO  O
+be  VB  O
+republished VBN O
+physics NNS O
+24  CD  O
+to  TO  O
+sign    VB  O
+and CC  O
+size    VB  O
+.   .   O
+
+least   JJS O
+count   NN  O
+error   NN  O
+the DT  B_DEFINITION
+smallest    JJS I_DEFINITION
+value   NN  I_DEFINITION
+that    WDT I_DEFINITION
+can MD  I_DEFINITION
+be  VB  I_DEFINITION
+measured    VBN I_DEFINITION
+by  IN  I_DEFINITION
+the DT  I_DEFINITION
+measuring   NN  I_DEFINITION
+instrument  NN  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+its PRP$    B_KEY_PHRASE
+least   JJS I_KEY_PHRASE
+count   NN  I_KEY_PHRASE
+.   .   O
+
+the DT  B_KEY_PHRASE
+least   JJS I_KEY_PHRASE
+count   NN  I_KEY_PHRASE
+error   NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+error   NN  I_DEFINITION
+associated  VBN I_DEFINITION
+with    IN  I_DEFINITION
+the DT  I_DEFINITION
+resolution  NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+instrument  NN  I_DEFINITION
+.   .   O
+
+the DT  B_DEFINITION
+magnitude   NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+difference  NN  I_DEFINITION
+between IN  I_DEFINITION
+the DT  I_DEFINITION
+individual  JJ  I_DEFINITION
+measurement NN  I_DEFINITION
+and CC  I_DEFINITION
+the DT  I_DEFINITION
+true    JJ  I_DEFINITION
+value   NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+quantity    NN  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+the DT  B_KEY_PHRASE
+absolute    JJ  I_KEY_PHRASE
+error   NN  I_KEY_PHRASE
+of  IN  I_KEY_PHRASE
+the DT  I_KEY_PHRASE
+measurement NN  I_KEY_PHRASE
+.   .   O
+
+b   NN  O
+the DT  O
+arithmetic  NN  O
+mean    NN  O
+of  IN  O
+all PDT O
+the DT  O
+absolute    JJ  O
+errors  NNS O
+is  VBZ O
+taken   VBN O
+as  IN  O
+the DT  O
+final   JJ  O
+or  CC  O
+mean    VB  O
+absolute    JJ  O
+error   NN  O
+of  IN  O
+the DT  O
+value   NN  O
+of  IN  O
+the DT  O
+physical    JJ  O
+quantity    NN  O
+a   DT  O
+.   .   O
+
+c   NN  O
+instead RB  O
+of  IN  O
+the DT  O
+absolute    JJ  O
+error   NN  O
+we  PRP O
+often   RB  O
+use VBP O
+the DT  O
+relative    JJ  O
+error   NN  O
+or  CC  O
+the DT  O
+percentage  NN  O
+error   NN  O
+δ   NN  O
+a   DT  O
+the DT  B_KEY_PHRASE
+relative    JJ  I_KEY_PHRASE
+error   NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+ratio   NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+mean    JJ  I_DEFINITION
+absolute    JJ  I_DEFINITION
+error   NN  I_DEFINITION
+δδδδδ   VBD I_DEFINITION
+a   DT  I_DEFINITION
+mean    NN  I_DEFINITION
+to  TO  I_DEFINITION
+the DT  I_DEFINITION
+mean    NN  I_DEFINITION
+value   NN  I_DEFINITION
+a   DT  I_DEFINITION
+mean    NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+quantity    NN  I_DEFINITION
+measured    VBN I_DEFINITION
+©   FW  O
+ncert   FW  O
+not RB  O
+to  TO  O
+be  VB  O
+republished VBN O
+units   NNS O
+and CC  O
+measurement NN  O
+25  CD  O
+.   .   O
+
+relative    JJ  B_KEY_PHRASE
+error   NN  I_KEY_PHRASE
+=   JJ  B_EQUAL
+δ   NN  B_DEFINITION
+a   DT  I_DEFINITION
+mean    NN  I_DEFINITION
+/   :   I_DEFINITION
+a   DT  I_DEFINITION
+mean    NN  I_DEFINITION
+29  CD  I_DEFINITION
+when    WRB I_DEFINITION
+the DT  I_DEFINITION
+relative    JJ  I_DEFINITION
+error   NN  I_DEFINITION
+is  VBZ I_DEFINITION
+expressed   VBN I_DEFINITION
+in  IN  I_DEFINITION
+per IN  I_DEFINITION
+cent    NN  I_DEFINITION
+it  PRP I_DEFINITION
+is  VBZ I_DEFINITION
+called  VBN I_DEFINITION
+the DT  I_DEFINITION
+percentage  NN  I_DEFINITION
+error   NN  I_DEFINITION
+δ   NN  I_DEFINITION
+a   DT  I_DEFINITION
+.   .   O
+
+hence   RB  O
+the DT  O
+rule    NN  O
+:   :   O
+when    WRB O
+two CD  O
+quantities  NNS O
+are VBP O
+added   VBN O
+or  CC  O
+subtracted  VBN O
+the DT  O
+absolute    JJ  O
+error   NN  O
+in  IN  O
+the DT  O
+final   JJ  O
+result  NN  O
+is  VBZ O
+the DT  O
+sum NN  O
+of  IN  O
+the DT  O
+absolute    JJ  O
+errors  NNS O
+in  IN  O
+the DT  O
+individual  JJ  O
+quantities  NNS O
+.   .   O
+
+hence   RB  O
+the DT  O
+rule    NN  O
+:   :   O
+when    WRB O
+two CD  O
+quantities  NNS O
+are VBP O
+multiplied  VBN O
+or  CC  O
+divided VBN O
+the DT  O
+relative    JJ  O
+error   NN  O
+in  IN  O
+the DT  O
+result  NN  O
+is  VBZ O
+the DT  O
+sum NN  O
+of  IN  O
+the DT  O
+relative    JJ  O
+errors  NNS O
+in  IN  O
+the DT  O
+multipliers NNS O
+.   .   O
+
+hence   RB  O
+the DT  O
+rule    NN  O
+:   :   O
+the DT  O
+relative    JJ  O
+error   NN  O
+in  IN  O
+a   DT  O
+physical    JJ  O
+quantity    NN  O
+raised  VBN O
+to  TO  O
+the DT  O
+power   NN  O
+k   NN  O
+is  VBZ O
+the DT  O
+k   NN  O
+times   NNS O
+the DT  O
+relative    JJ  O
+error   NN  O
+in  IN  O
+the DT  O
+individual  JJ  O
+quantity    NN  O
+.   .   O
+
+then    RB  O
+the DT  O
+number  NN  O
+can MD  O
+be  VB  O
+expressed   VBN O
+approximately   RB  O
+as  IN  O
+10  CD  O
+b   NN  O
+in  IN  O
+which   WDT O
+the DT  B_DEFINITION
+exponent    NN  I_DEFINITION
+or  CC  I_DEFINITION
+power   NN  I_DEFINITION
+b   NN  I_DEFINITION
+of  IN  I_DEFINITION
+10  CD  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+order   NN  B_KEY_PHRASE
+of  IN  I_KEY_PHRASE
+magnitude   NN  I_KEY_PHRASE
+of  IN  I_KEY_PHRASE
+the DT  I_KEY_PHRASE
+physical    JJ  I_KEY_PHRASE
+quantity    NN  I_KEY_PHRASE
+.   .   O
+
+the DT  O
+rule    NN  O
+by  IN  O
+convention  NN  O
+is  VBZ O
+that    IN  O
+the DT  O
+preceding   JJ  O
+digit   NN  O
+is  VBZ O
+raised  VBN O
+by  IN  O
+1   CD  O
+if  IN  O
+the DT  O
+©   FW  O
+ncert   FW  O
+not RB  O
+to  TO  O
+be  VB  O
+republished VBN O
+physics NN  O
+30  CD  O
+.   .   O
+
+29  CD  O
+dimensional JJ  O
+formulae    NN  O
+and CC  O
+dimensional JJ  O
+equations   NNS O
+the DT  B_DEFINITION
+expression  NN  I_DEFINITION
+which   WDT I_DEFINITION
+shows   VBZ I_DEFINITION
+how WRB I_DEFINITION
+and CC  I_DEFINITION
+which   WDT I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+base    NN  I_DEFINITION
+quantities  NNS I_DEFINITION
+represent   VBP I_DEFINITION
+the DT  I_DEFINITION
+dimensions  NNS I_DEFINITION
+of  IN  I_DEFINITION
+a   DT  I_DEFINITION
+physical    JJ  I_DEFINITION
+quantity    NN  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+the DT  B_KEY_PHRASE
+dimensional JJ  I_KEY_PHRASE
+formula NN  I_KEY_PHRASE
+of  IN  I_KEY_PHRASE
+the DT  I_KEY_PHRASE
+given   VBN I_KEY_PHRASE
+physical    JJ  I_KEY_PHRASE
+quantity    NN  I_KEY_PHRASE
+.   .   O
+
+an  DT  B_DEFINITION
+equation    NN  I_DEFINITION
+obtained    VBN I_DEFINITION
+by  IN  I_DEFINITION
+equating    VBG I_DEFINITION
+a   DT  I_DEFINITION
+physical    JJ  I_DEFINITION
+quantity    NN  I_DEFINITION
+with    IN  I_DEFINITION
+its PRP$    I_DEFINITION
+dimensional JJ  I_DEFINITION
+formula NN  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+the DT  B_KEY_PHRASE
+dimensional JJ  I_KEY_PHRASE
+equation    NN  I_KEY_PHRASE
+of  IN  I_KEY_PHRASE
+the DT  I_KEY_PHRASE
+physical    JJ  I_KEY_PHRASE
+©   NN  O
+ncert   NN  O
+not RB  O
+to  TO  O
+be  VB  O
+republished VBN O
+physics NN  O
+32  CD  O
+quantity    NN  I_KEY_PHRASE
+.   .   O
+
+this    DT  B_DEFINITION
+simple  JJ  I_DEFINITION
+principle   NN  I_DEFINITION
+called  VBN B_EQUAL
+the DT  B_KEY_PHRASE
+principle   NN  I_KEY_PHRASE
+of  IN  I_KEY_PHRASE
+homogeneity NN  I_KEY_PHRASE
+of  IN  I_KEY_PHRASE
+dimensions  NNS I_DEFINITION
+in  IN  I_KEY_PHRASE
+an  DT  I_KEY_PHRASE
+equation    NN  I_KEY_PHRASE
+is  VBZ O
+extremely   RB  O
+useful  JJ  O
+in  IN  O
+checking    VBG O
+the DT  O
+correctness NN  O
+of  IN  O
+an  DT  O
+equation    NN  O
+.   .   O
+
+physics NN  B_KEY_PHRASE
+is  VBZ B_EQUAL
+a   DT  B_DEFINITION
+quantitative    JJ  I_DEFINITION
+science NN  I_DEFINITION
+based   VBN I_DEFINITION
+on  IN  I_DEFINITION
+measurement NN  I_DEFINITION
+of  IN  I_DEFINITION
+physical    JJ  I_DEFINITION
+quantities  NNS I_DEFINITION
+.   .   O
+
+motion  NN  B_KEY_PHRASE
+is  VBZ B_EQUAL
+change  NN  B_DEFINITION
+in  IN  I_DEFINITION
+position    NN  I_DEFINITION
+of  IN  I_DEFINITION
+an  DT  I_DEFINITION
+object  NN  I_DEFINITION
+with    IN  I_DEFINITION
+time    NN  I_DEFINITION
+.   .   O
+
+we  PRP O
+shall   MD  O
+confine VB  O
+ourselves   PRP O
+to  TO  O
+the DT  O
+study   NN  O
+of  IN  O
+motion  NN  B_DEFINITION
+of  IN  I_DEFINITION
+objects NNS I_DEFINITION
+along   IN  I_DEFINITION
+a   DT  I_DEFINITION
+straight    JJ  I_DEFINITION
+line    NN  I_DEFINITION
+also    RB  B_EQUAL
+known   VBN I_EQUAL
+as  IN  I_EQUAL
+rectilinear JJ  B_KEY_PHRASE
+motion  NN  I_KEY_PHRASE
+.   .   O
+
+32  CD  O
+position    NN  O
+path    NN  O
+length  NN  O
+and CC  O
+displacement    NN  O
+earlier RB  O
+you PRP O
+learnt  VBD O
+that    IN  O
+motion  NN  B_KEY_PHRASE
+is  VBZ B_EQIAL
+change  NN  B_DEFINITION
+in  IN  I_DEFINITION
+position    NN  I_DEFINITION
+of  IN  I_DEFINITION
+an  DT  I_DEFINITION
+object  NN  I_DEFINITION
+with    IN  I_DEFINITION
+time    NN  I_DEFINITION
+.   .   O
+
+this    DT  B_DEFINITION
+distance    NN  I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+the DT  B_KEY_PHRASE
+path    NN  I_KEY_PHRASE
+length  NN  I_KEY_PHRASE
+traversed   VBN O
+by  IN  O
+the DT  O
+car NN  O
+.   .   O
+
+then    RB  O
+its PRP$    O
+displacement    NN  O
+denoted VBN O
+by  IN  O
+δx  NN  O
+in  IN  O
+time    NN  O
+δt  NN  B_EQUATION
+=   JJ  I_EQUATION
+t   NN  I_EQUATION
+2   CD  I_EQUATION
+-   :   I_EQUATION
+t   NN  I_EQUATION
+1   CD  I_EQUATION
+is  VBZ B_EQUAL
+given   VBN I_EQUAL
+by  IN  I_EQUAL
+the DT  O
+difference  NN  O
+between IN  O
+the DT  O
+final   JJ  O
+and CC  O
+initial JJ  O
+positions   NNS O
+:   :   O
+δx  NN  B_EQUATION
+=   JJ  I_EQUATION
+x   NN  I_EQUATION
+2   CD  I_EQUATION
+–   NN  I_EQUATION
+x   NN  I_EQUATION
+1   CD  I_EQUATION
+we  PRP O
+use VBP O
+the DT  O
+greek   JJ  O
+letter  NN  O
+delta   NN  O
+δ   NN  O
+to  TO  O
+denote  VB  O
+a   DT  O
+change  NN  O
+in  IN  O
+a   DT  O
+quantity    NN  O
+if  IN  O
+x   NN  O
+2   CD  O
+&gt NN  O
+x   NN  O
+1   CD  O
+δx  NN  O
+is  VBZ O
+positive    JJ  O
+and CC  O
+if  IN  O
+x   NN  O
+2   CD  O
+&lt NN  O
+x   NN  O
+1   CD  O
+δx  NN  O
+is  VBZ O
+negative    JJ  O
+.   .   O
+
+the DT  B_DEFINITION
+point   NN  I_DEFINITION
+of  IN  I_DEFINITION
+intersection    NN  I_DEFINITION
+of  IN  I_DEFINITION
+these   DT  I_DEFINITION
+three   CD  I_DEFINITION
+axes    NNS I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+origin  NN  B_KEY_PHRASE
+o   NN  I_KEY_PHRASE
+and CC  O
+serves  VBZ O
+as  IN  O
+the DT  O
+reference   NN  O
+point   NN  O
+.   .   O
+
+if  IN  B_DEFINITION
+an  DT  I_DEFINITION
+object  NN  I_DEFINITION
+moving  VBG I_DEFINITION
+along   IN  I_DEFINITION
+the DT  I_DEFINITION
+straight    JJ  I_DEFINITION
+line    NN  I_DEFINITION
+covers  VBZ I_DEFINITION
+equal   JJ  I_DEFINITION
+distances   NNS I_DEFINITION
+in  IN  I_DEFINITION
+equal   JJ  I_DEFINITION
+intervals   NNS I_DEFINITION
+of  IN  I_DEFINITION
+time    NN  I_DEFINITION
+it  PRP O
+is  VBZ B_EQUAL
+said    VBN I_EQUAL
+to  TO  B_KEY_PHRASE
+be  VB  I_KEY_PHRASE
+in  IN  I_KEY_PHRASE
+uniform JJ  I_KEY_PHRASE
+motion  NN  I_KEY_PHRASE
+along   IN  I_KEY_PHRASE
+a   DT  I_KEY_PHRASE
+straight    JJ  I_KEY_PHRASE
+line    NN  I_KEY_PHRASE
+.   .   O
+
+average JJ  B_KEY_PHRASE
+velocity    NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+defined VBN I_EQUAL
+as  IN  I_EQUAL
+the DT  B_DEFINITION
+change  NN  I_DEFINITION
+in  IN  I_DEFINITION
+position    NN  I_DEFINITION
+or  CC  I_DEFINITION
+displacement    NN  I_DEFINITION
+δx  NN  I_DEFINITION
+divided VBN I_DEFINITION
+by  IN  I_DEFINITION
+the DT  I_DEFINITION
+time    NN  I_DEFINITION
+intervals   NNS I_DEFINITION
+δt  VBP I_DEFINITION
+in  IN  I_DEFINITION
+which   WDT I_DEFINITION
+the DT  I_DEFINITION
+displacement    NN  I_DEFINITION
+occurs  VBZ I_DEFINITION
+:   :   O
+v   LS  B_EQUATION
+x   NN  I_EQUATION
+x   NN  I_EQUATION
+t   NN  I_EQUATION
+t   NN  I_EQUATION
+x   NN  I_EQUATION
+t   NN  I_EQUATION
+2   CD  I_EQUATION
+1   CD  I_EQUATION
+2   CD  I_EQUATION
+1   CD  I_EQUATION
+=   JJ  I_EQUATION
+−   FW  I_EQUATION
+−   FW  I_EQUATION
+=   JJ  I_EQUATION
+δ   NN  I_EQUATION
+δ   NN  I_EQUATION
+31  CD  I_EQUATION
+where   WRB I_EQUATION
+x   NN  I_EQUATION
+2   CD  I_EQUATION
+and CC  I_EQUATION
+x   NN  I_EQUATION
+1   CD  I_EQUATION
+are VBP O
+the DT  O
+positions   NNS O
+of  IN  O
+the DT  O
+object  NN  O
+at  IN  O
+time    NN  O
+t   NN  O
+2   CD  O
+and CC  O
+t   NN  O
+1   CD  O
+respectively    RB  O
+.   .   O
+
+average JJ  B_KEY_PHRASE
+speed   NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+defined VBN I_EQUAL
+as  IN  I_EQUAL
+the DT  B_DEFINITION
+total   JJ  I_DEFINITION
+path    NN  I_DEFINITION
+length  NN  I_DEFINITION
+travelled   VBD I_DEFINITION
+divided VBN I_DEFINITION
+by  IN  I_DEFINITION
+the DT  I_DEFINITION
+total   JJ  I_DEFINITION
+time    NN  I_DEFINITION
+interval    NN  I_DEFINITION
+during  IN  I_DEFINITION
+which   WDT I_DEFINITION
+the DT  I_DEFINITION
+motion  NN  I_DEFINITION
+has VBZ I_DEFINITION
+taken   VBN I_DEFINITION
+place   NN  I_DEFINITION
+:   :   I_DEFINITION
+averag  VB  O
+e   LS  O
+speed   NN  O
+total   JJ  O
+path    NN  O
+lengt   NN  O
+h   NN  O
+total   JJ  O
+time    NN  O
+interval    NN  O
+=   JJ  O
+32  CD  O
+average JJ  O
+speed   NN  O
+has VBZ O
+obviously   RB  O
+the DT  O
+same    JJ  O
+unit    NN  O
+m   NN  O
+s   NN  O
+–1  NN  O
+as  IN  O
+that    DT  O
+of  IN  O
+velocity    NN  O
+.   .   O
+
+if  IN  B_DEFINITION
+the DT  I_DEFINITION
+motion  NN  I_DEFINITION
+of  IN  I_DEFINITION
+an  DT  I_DEFINITION
+object  NN  I_DEFINITION
+is  VBZ I_DEFINITION
+along   IN  I_DEFINITION
+a   DT  I_DEFINITION
+straight    JJ  I_DEFINITION
+line    NN  I_DEFINITION
+and CC  I_DEFINITION
+in  IN  I_DEFINITION
+the DT  I_DEFINITION
+same    JJ  I_DEFINITION
+direction   NN  I_DEFINITION
+the DT  I_DEFINITION
+magnitude   NN  I_DEFINITION
+of  IN  I_DEFINITION
+displacement    NN  I_DEFINITION
+is  VBZ B_EQUAL
+equal   JJ  I_EQUAL
+to  TO  I_EQUAL
+the DT  B_KEY_PHRASE
+total   JJ  I_KEY_PHRASE
+path    NN  I_KEY_PHRASE
+length  NN  I_KEY_PHRASE
+.   .   O
+
+the DT  B_KEY_PHRASE
+velocity    NN  I_KEY_PHRASE
+at  IN  I_KEY_PHRASE
+an  DT  I_KEY_PHRASE
+instant NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+defined VBN I_EQUAL
+as  IN  I_EQUAL
+the DT  B_DEFINITION
+limit   NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+average JJ  I_DEFINITION
+velocity    NN  I_DEFINITION
+as  IN  I_DEFINITION
+the DT  I_DEFINITION
+time    NN  I_DEFINITION
+interval    FW  I_DEFINITION
+δt  FW  I_DEFINITION
+becomes VBZ I_DEFINITION
+infinitesimally RB  I_DEFINITION
+small   JJ  I_DEFINITION
+.   .   O
+
+instantaneous   JJ  B_KEY_PHRASE
+speed   NN  I_KEY_PHRASE
+or  CC  I_KEY_PHRASE
+simply  RB  I_KEY_PHRASE
+speed   NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+magnitude   NN  I_DEFINITION
+of  IN  I_DEFINITION
+velocity    NN  I_DEFINITION
+.   .   O
+
+the DT  B_KEY_PHRASE
+average JJ  I_KEY_PHRASE
+acceleration    NN  I_KEY_PHRASE
+a   DT  I_KEY_PHRASE
+over    IN  I_KEY_PHRASE
+a   DT  I_KEY_PHRASE
+time    NN  I_KEY_PHRASE
+interval    NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+defined VBN I_EQUAL
+as  IN  I_EQUAL
+the DT  B_DEFINITION
+change  NN  I_DEFINITION
+of  IN  I_DEFINITION
+velocity    NN  I_DEFINITION
+divided VBN I_DEFINITION
+by  IN  I_DEFINITION
+the DT  I_DEFINITION
+time    NN  I_DEFINITION
+interval    NN  I_DEFINITION
+:   :   O
+2   CD  B_EQUATION
+1   CD  I_EQUATION
+2   CD  I_EQUATION
+1   CD  I_EQUATION
+–   FW  I_EQUATION
+–   FW  I_EQUATION
+v   LS  I_EQUATION
+v   LS  I_EQUATION
+v   LS  I_EQUATION
+a   DT  I_EQUATION
+t   NN  I_EQUATION
+t   NN  I_EQUATION
+t   NN  I_EQUATION
+34  CD  I_EQUATION
+where   WRB I_EQUATION
+v   LS  I_EQUATION
+2   CD  I_EQUATION
+and CC  I_EQUATION
+v   LS  I_EQUATION
+1   CD  I_EQUATION
+are VBP O
+the DT  O
+instantaneous   JJ  O
+velocities  NNS O
+or  CC  O
+simply  RB  O
+velocities  NNS O
+at  IN  O
+time    NN  O
+t   NN  O
+2   CD  O
+and CC  O
+t   NN  O
+1   CD  O
+.   .   O
+
+an  DT  O
+interesting JJ  O
+feature NN  O
+of  IN  O
+a   DT  O
+velocity-time   JJ  O
+graph   NN  O
+for IN  O
+any DT  O
+moving  JJ  O
+object  NN  O
+is  VBZ O
+that    IN  O
+the DT  B_DEFINITION
+area    NN  I_DEFINITION
+under   IN  I_DEFINITION
+the DT  I_DEFINITION
+curve   NN  I_DEFINITION
+represents  VBZ B_EQUAL
+the DT  B_KEY_PHRASE
+displacement    NN  I_KEY_PHRASE
+over    IN  I_KEY_PHRASE
+a   DT  I_KEY_PHRASE
+given   VBN I_KEY_PHRASE
+time    NN  I_KEY_PHRASE
+interval    NN  I_KEY_PHRASE
+a   DT  O
+general JJ  O
+proof   NN  O
+of  IN  O
+this    DT  O
+fig NN  O
+.   .   O
+
+#   #   O
+example NN  O
+37  CD  O
+stopping    VBG O
+distance    NN  O
+of  IN  O
+vehicles    NNS O
+:   :   O
+when    WRB O
+brakes  NNS O
+are VBP O
+applied VBN O
+to  TO  O
+a   DT  O
+moving  VBG O
+vehicle NN  O
+the DT  B_DEFINITION
+distance    NN  I_DEFINITION
+it  PRP I_DEFINITION
+travels VBZ I_DEFINITION
+before  IN  I_DEFINITION
+stopping    VBG I_DEFINITION
+is  VBZ B_EQUAL
+called  VBN I_EQUAL
+stopping    VBG B_KEY_PHRASE
+distance    NN  I_KEY_PHRASE
+.   .   O
+
+an  DT  B_DEFINITION
+object  NN  I_DEFINITION
+is  VBZ B_EQUAL
+said    VBN I_EQUAL
+to  TO  B_KEY_PHRASE
+be  VB  I_KEY_PHRASE
+in  IN  I_KEY_PHRASE
+motion  NN  I_KEY_PHRASE
+if  IN  I_DEFINITION
+its PRP$    I_DEFINITION
+position    NN  I_DEFINITION
+changes NNS I_DEFINITION
+with    IN  I_DEFINITION
+time    NN  I_DEFINITION
+.   .   O
+
+path    NN  B_KEY_PHRASE
+length  NN  I_KEY_PHRASE
+is  VBZ B_EQUAL
+defined VBN I_EQUAL
+as  IN  I_EQUAL
+the DT  B_DEFINITION
+total   JJ  I_DEFINITION
+length  NN  I_DEFINITION
+of  IN  I_DEFINITION
+the DT  I_DEFINITION
+path    NN  I_DEFINITION
+traversed   VBN I_DEFINITION
+by  IN  I_DEFINITION
+an  DT  I_DEFINITION
+object  NN  I_DEFINITION
+.   .   O
+
+displacement    NN  B_KEY_PHRASE
+is  VBZ B_EQUAL
+the DT  B_DEFINITION
+change  NN  I_DEFINITION
+in  IN  I_DEFINITION
+position    NN  I_DEFINITION
+:   :   O
+δx  NN  B_EQUATION
+=   JJ  I_EQUATION
+x   NN  I_EQUATION
+2   CD  I_EQUATION
+–   NN  I_EQUATION
+x   NN  I_EQUATION
+1   CD  I_EQUATION
+.   .   O
 
 an	DT
 object	NN
