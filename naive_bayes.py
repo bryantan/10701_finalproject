@@ -2,6 +2,7 @@ import os
 import re
 import json
 import math
+from nltk.tag import StanfordPOSTagger
 
 # Constants
 KNOWLEDGE = True
@@ -14,6 +15,13 @@ DICT_FILE = os.getcwd() + "/textbook_dict"
 GENERAL_PROBS_FILE = "general.probs"
 KNOWLEDGE_PROBS_FILE = "knowledge.probs"
 HAS_BOLD = "_has_bold_"
+
+# Stanford POS Tagger
+TAGGER_PATH = "/media/bolat/DATA/10-701/project/crf++/stanford-postagger" + \
+    "-2015-04-20/models/english-bidirectional-distsim.tagger"
+MODEL_PATH = "/home/bolat/data/10-701/project/crf++/stanford-postagger" + \
+    "-2015-04-20/stanford-postagger.jar"
+OUTPUT_FILE = "train.txt"
 
 
 # Features
@@ -141,6 +149,25 @@ class NaiveBayes:
         return float(occurences) / total_size
 
 
+class POSTagger:
+
+    def __init__(self, tagger_path, model_path, output_filename):
+        self.st = StanfordPOSTagger(tagger_path, model_path)
+        self.output_filename = output_filename
+        try:
+            os.remove(self.output_filename)
+        except OSError:
+            pass
+
+    def output_knowledge(self, sentence):
+        sentence += " ."
+        s = ""
+        with open(self.output_filename, "a") as file:
+            for word, pos_tag in self.st.tag(sentence.split()):
+                file.write(("%s\t%s\n" % (word, pos_tag)).encode("utf-8"))
+            file.write("\n")
+
+
 if __name__ == "__main__":
     # Retrieve training and testing splits
     training_data_files = map(lambda filename: os.path.join(
@@ -151,6 +178,12 @@ if __name__ == "__main__":
     # Create Naive Bayes client
     naive_bayes = NaiveBayes()
     naive_bayes.add_samples(files=training_data_files)
+
+    # Create POSTagger client
+    pos_tagger = POSTagger(TAGGER_PATH, MODEL_PATH, OUTPUT_FILE)
+    # Create trainning data file for CRF++ with POS tags
+    for sample in naive_bayes.samples[KNOWLEDGE]:
+        pos_tagger.output_knowledge(sample.sentence)
 
     # Learn the parameters of the training split
     naive_bayes.learn_parameters()
