@@ -1,5 +1,7 @@
 # From scikit-learn website
 # http://scikit-learn.org/stable/auto_examples/text/document_classification_20newsgroups.html
+# Other notes
+# http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
 
 import os
 import json
@@ -243,7 +245,17 @@ plt.barh(indices, score, .2, label="score", color='r')
 plt.barh(indices + .3, training_time, .2, label="training time", color='g')
 plt.barh(indices + .6, test_time, .2, label="test time", color='b')
 plt.yticks(())
-plt.legend(loc='best')
+
+# Shrink current axis by 20%
+ax = plt.subplot(111)
+box = ax.get_position()
+ax.set_position([box.x0, box.y0, box.width * 0.8, box.height])
+
+# Put a legend to the right of the current axis
+ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+
+plt.gcf().set_facecolor('white')
+
 plt.subplots_adjust(left=.25)
 plt.subplots_adjust(top=.95)
 plt.subplots_adjust(bottom=.05)
