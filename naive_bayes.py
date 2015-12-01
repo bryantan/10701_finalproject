@@ -154,6 +154,10 @@ class POSTagger:
     def __init__(self, tagger_path, model_path, output_filename):
         self.st = StanfordPOSTagger(tagger_path, model_path)
         self.output_filename = output_filename
+        try:
+            os.remove(self.output_filename)
+        except OSError:
+            pass
 
     def output_knowledge(self, sentence):
         sentence += " ."
@@ -175,12 +179,15 @@ if __name__ == "__main__":
     naive_bayes = NaiveBayes()
     naive_bayes.add_samples(files=training_data_files)
 
+    # Create POSTagger client
+    pos_tagger = POSTagger(TAGGER_PATH, MODEL_PATH, OUTPUT_FILE)
+    # Create trainning data file for CRF++ with POS tags
+    for sample in naive_bayes.samples[KNOWLEDGE]:
+        pos_tagger.output_knowledge(sample.sentence)
+
     # Learn the parameters of the training split
     naive_bayes.learn_parameters()
     naive_bayes.output_probabilities()
-
-    # Create POSTagger client
-    pos_tagger = POSTagger(TAGGER_PATH, MODEL_PATH, OUTPUT_FILE)
 
     # Classify the testing split and report accuracy
     knowledge_samples, general_samples = naive_bayes.predict_samples(
@@ -189,7 +196,6 @@ if __name__ == "__main__":
     total_count = len(knowledge_samples) + len(general_samples)
     for sample in knowledge_samples:
         if sample.features['type'] != "none":
-            pos_tagger.output_knowledge(sample.sentence)
             knowledge_correct_count = knowledge_correct_count + 1
     for sample in general_samples:
         if sample.features['type'] == "none":
