@@ -2,6 +2,7 @@ import os
 import re
 import json
 import math
+from nltk.tag import StanfordPOSTagger
 
 # Constants
 KNOWLEDGE = True
@@ -14,6 +15,12 @@ DICT_FILE = os.getcwd() + "/textbook_dict"
 GENERAL_PROBS_FILE = "general.probs"
 KNOWLEDGE_PROBS_FILE = "knowledge.probs"
 HAS_BOLD = "_has_bold_"
+
+# Stanford POS Tagger
+TAGGER_PATH = "/media/bolat/DATA/10-701/project/crf++/stanford-postagger" + \
+    "-2015-04-20/models/english-bidirectional-distsim.tagger"
+MODEL_PATH = "/home/bolat/data/10-701/project/crf++/stanford-postagger" + \
+    "-2015-04-20/stanford-postagger.jar"
 
 
 # Features
@@ -141,6 +148,19 @@ class NaiveBayes:
         return float(occurences) / total_size
 
 
+class POSTagger:
+
+    def __init__(self, tagger_path, model_path):
+        self.st = StanfordPOSTagger(tagger_path, model_path)
+
+    def output_knowledge(self, sentence):
+        sentence += " ."
+        s = ""
+        for word, pos_tag in self.st.tag(sentence.split()):
+            s += "%s\t%s\n" % (word, pos_tag)
+        return s
+
+
 if __name__ == "__main__":
     # Retrieve training and testing splits
     training_data_files = map(lambda filename: os.path.join(
@@ -156,6 +176,9 @@ if __name__ == "__main__":
     naive_bayes.learn_parameters()
     naive_bayes.output_probabilities()
 
+    # Create POSTagger client
+    pos_tagger = POSTagger(TAGGER_PATH, MODEL_PATH)
+
     # Classify the testing split and report accuracy
     knowledge_samples, general_samples = naive_bayes.predict_samples(
         training_data_files)
@@ -163,6 +186,7 @@ if __name__ == "__main__":
     total_count = len(knowledge_samples) + len(general_samples)
     for sample in knowledge_samples:
         if sample.features['type'] != "none":
+            print pos_tagger.output_knowledge(sample.sentence)
             knowledge_correct_count = knowledge_correct_count + 1
     for sample in general_samples:
         if sample.features['type'] == "none":
