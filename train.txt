@@ -2002,616 +2002,592 @@ x   NN  I_EQUATION
 1   CD  I_EQUATION
 .   .   O
 
-an	DT
-object	NN
-is	VBZ
-said	VBN
-to	TO
-be	VB
-in	IN
-uniform	JJ
-motion	NN
-in	IN
-a	DT
-straight	JJ
-line	NN
-if	IN
-its	PRP$
-displacement	NN
-is	VBZ
-equal	JJ
-in	IN
-equal	JJ
-intervals	NNS
-of	IN
-time	NN
+an	DT B_DEFINITION
+object	NN I_DEFINITION
+is	VBZ B_EQUAL
+said	VBN I_EQUAL
+to	TO B_KEY_PHRASE
+be	VB I_KEY_PHRASE
+in	IN I_KEY_PHRASE
+uniform	JJ I_KEY_PHRASE
+motion	NN I_KEY_PHRASE
+in	IN I_KEY_PHRASE
+a	DT I_KEY_PHRASE
+straight	JJ I_KEY_PHRASE
+line	NN I_KEY_PHRASE
+if	IN I_DEFINITION
+its	PRP$ I_DEFINITION
+displacement	NN I_DEFINITION
+is	VBZ I_DEFINITION
+equal	JJ I_DEFINITION
+in	IN I_DEFINITION
+equal	JJ I_DEFINITION
+intervals	NNS I_DEFINITION
+of	IN I_DEFINITION
+time	NN I_DEFINITION
+.	. O
+
+average	JJ B_KEY_PHRASE
+velocity	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+the	DT B_DEFINITION
+displacement	NN I_DEFINITION
+divided	VBN I_DEFINITION
+by	IN I_DEFINITION
+the	DT I_DEFINITION
+time	NN I_DEFINITION
+interval	NN I_DEFINITION
+in	IN I_DEFINITION
+which	WDT I_DEFINITION
+the	DT I_DEFINITION
+displacement	NN I_DEFINITION
+occurs	VBZ I_DEFINITION
+:	: O
+v	LS B_EQUATION
+x	NN I_EQUATION
+t	NN I_EQUATION
+=	JJ I_EQUATION
+δ	FW I_EQUATION
+δ	FW I_EQUATION
+on	IN I_EQUATION
+an	DT I_EQUATION
+x-t	NN I_EQUATION
+graph	NN O
+the	DT O
+average	 JJ O
+velocity	NN O
+over	IN O
+a	DT O
+time	NN  O
+interval	NN  O
+is	VBZ  O
+the	DT O
+slope	NN O
+of	IN O
+the	DT O
+line	NN O
+connecting	VBG O
+the	DT O
+initial	JJ O
+and	CC O
+final	JJ O
+positions	NNS O
+corresponding	VBG O
+to	TO O
+that	DT O
+interval	NN O
+.	. O
+
+average	JJ B_KEY_PHRASE
+speed	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+the	DT B_DEFINITION
+ratio	NN I_DEFINITION
+of	IN I_DEFINITION
+total	JJ I_DEFINITION
+path	NN I_DEFINITION
+length	NN I_DEFINITION
+traversed	VBD I_DEFINITION
+and	CC I_DEFINITION
+the	DT I_DEFINITION
+corresponding	JJ I_DEFINITION
+time	NN I_DEFINITION
+interval	NN I_DEFINITION
+.	. O
+
+instantaneous	JJ B_KEY_PHRASE
+velocity	NN I_KEY_PHRASE
+or	CC I_KEY_PHRASE
+simply	RB I_KEY_PHRASE
+velocity	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+defined	VBN I_EQUAL
+as	IN I_EQUAL
+the	DT B_DEFINITION
+limit	NN I_DEFINITION
+of	IN I_DEFINITION
+the	DT I_DEFINITION
+average	JJ I_DEFINITION
+velocity	NN I_DEFINITION
+as	IN I_DEFINITION
+the	DT I_DEFINITION
+time	NN I_DEFINITION
+interval	FW I_DEFINITION
+δt	FW I_DEFINITION
+becomes	VBZ I_DEFINITION
+infinitesimally	RB I_DEFINITION
+small	JJ I_DEFINITION
+:	: O
+d	FW  I_EQUATION
+d	FW  I_EQUATION
+t	NN  I_EQUATION
+0	CD  I_EQUATION
+t	NN  I_EQUATION
+0	CD  I_EQUATION
+x	NN  I_EQUATION
+x	NN  I_EQUATION
+v	LS  I_EQUATION
+lim	NN  I_EQUATION
+v	LS  I_EQUATION
+lim	NN  I_EQUATION
+t	NN  I_EQUATION
+t	NN  I_EQUATION
+the	DT B_KEY_PHRASE
+velocity	NN I_KEY_PHRASE
+at	IN I_KEY_PHRASE
+a	DT I_KEY_PHRASE
+particular	JJ I_KEY_PHRASE
+instant	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+equal	JJ I_EQUAL
+to	TO I_EQUAL
+the	DT B_DEFINITION
+slope	NN I_DEFINITION
+of	IN I_DEFINITION
+the	DT I_DEFINITION
+tangent	NN I_DEFINITION
+drawn	VBN I_DEFINITION
+on	IN I_DEFINITION
+position-time	JJ I_DEFINITION
+graph	NN I_DEFINITION
+at	IN I_DEFINITION
+that	DT I_DEFINITION
+instant	NN I_DEFINITION
+.	. O
+
+average	JJ B_KEY_PHRASE
+acceleration	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+the	DT B_DEFINITION
+change	NN I_DEFINITION
+in	IN I_DEFINITION
+velocity	NN I_DEFINITION
+divided	VBN I_DEFINITION
+by	IN I_DEFINITION
+the	DT I_DEFINITION
+time	NN I_DEFINITION
+interval	NN I_DEFINITION
+during	IN I_DEFINITION
+which	WDT I_DEFINITION
+the	DT I_DEFINITION
+change	NN I_DEFINITION
+occurs	VBZ I_DEFINITION
+:	: O
+v	LS B_EQUATION
+a	DT I_EQUATION
+t	NN I_EQUATION
+9	CD I_EQUATION
+.	. O
+
+instantaneous	JJ B_KEY_PHRASE
+acceleration	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+defined	VBN I_EQUAL
+as	IN I_EQUAL
+the	DT B_DEFINITION
+limit	NN I_DEFINITION
+of	IN I_DEFINITION
+the	DT I_DEFINITION
+average	JJ I_DEFINITION
+acceleration	NN I_DEFINITION
+as	IN I_DEFINITION
+the	DT I_DEFINITION
+time	NN I_DEFINITION
+interval	FW I_DEFINITION
+δt	FW I_DEFINITION
+goes	VBZ I_DEFINITION
+to	TO I_DEFINITION
+zero	VB I_DEFINITION
+:	: O
+d	FW B_EQUATION
+d	FW I_EQUATION
+t	NN I_EQUATION
+0	CD I_EQUATION
+t	NN I_EQUATION
+0	CD I_EQUATION
+v	LS I_EQUATION
+v	LS I_EQUATION
+a	DT I_EQUATION
+lim	NN I_EQUATION
+a	DT I_EQUATION
+lim	NN I_EQUATION
+t	NN I_EQUATION
+t	NN I_EQUATION
+the	DT O
+acceleration	NN O
+of	IN O
+an	DT O
+object	NN O
+at	IN O
+a	DT O
+particular	JJ O
+time	NN O
+is	VBZ O
+the	DT O
+slope	NN O
+of	IN O
+the	DT O
+velocity-time	JJ O
+graph	NN O
+at	IN O
+that	 DT O
+instant	NN O
+of	IN O
+time	NN O
 .	.
 
-average	JJ
-velocity	NN
-is	VBZ
-the	DT
-displacement	NN
-divided	VBN
-by	IN
-the	DT
-time	NN
-interval	NN
-in	IN
-which	WDT
-the	DT
-displacement	NN
-occurs	VBZ
-:	:
-v	LS
-x	NN
-t	NN
-=	JJ
-δ	FW
-δ	FW
-on	IN
-an	DT
-x-t	NN
-graph	NN
-the	DT
-average	JJ
-velocity	NN
-over	IN
-a	DT
-time	NN
-interval	NN
-is	VBZ
-the	DT
-slope	NN
-of	IN
-the	DT
-line	NN
-connecting	VBG
-the	DT
-initial	JJ
-and	CC
-final	JJ
-positions	NNS
-corresponding	VBG
-to	TO
-that	DT
-interval	NN
-.	.
+the	DT O
+area	NN O
+under	IN O
+the	DT O
+velocity-time	JJ O
+curve	NN O
+between	IN O
+times	NNS O
+t	NN O
+1	CD O
+and	CC O
+t	NN O
+2	CD O
+is	VBZ O
+equal	JJ O
+to	TO O
+the	DT O
+displacement	NN O
+of	IN O
+the	DT O
+object	 NN O
+during	IN O
+that	DT O
+interval	NN O
+of	IN O
+time	NN O
+.	. O
 
-average	JJ
-speed	NN
-is	VBZ
-the	DT
-ratio	NN
-of	IN
-total	JJ
-path	NN
-length	NN
-traversed	VBD
-and	CC
-the	DT
-corresponding	JJ
-time	NN
-interval	NN
-.	.
+for	IN O
+objects	NNS O
+in	IN O
+uniformly	RB O
+accelerated	VBN O
+rectilinear	JJ O
+motion	NN O
+the	DT O
+five	CD O
+quantities	NNS O
+displacement	NN O
+x	NN O
+time	NN O
+taken	VBN O
+t	NN O
+initial	JJ O
+velocity	NN O
+v	LS O
+0	CD O
+final	JJ O
+velocity	NN O
+v	LS O
+and	CC O
+acceleration	NN O
+a	DT O
+are	VBP O
+related	VBN O
+by	IN O
+a	DT O
+set	NN O
+of	IN O
+simple	JJ O
+equations	NNS O
+called	VBN O
+kinematic	JJ O
+equations	NNS O
+of	IN O
+motion	NN O
+:	: O
+v	LS B_EQUATION
+=	JJ I_EQUATION
+v	LS I_EQUATION
+0	CD I_EQUATION
++	CC I_EQUATION
+at	IN I_EQUATION
+x	NN I_EQUATION
+v	LS I_EQUATION
+t	NN I_EQUATION
+1	CD I_EQUATION
+2	CD I_EQUATION
+at	IN I_EQUATION
+0	CD I_EQUATION
+2	CD I_EQUATION
+=	JJ I_EQUATION
++	CC I_EQUATION
+v	LS I_EQUATION
+v	LS I_EQUATION
+2ax	NN I_EQUATION
+2	CD I_EQUATION
+0	CD I_EQUATION
+2	CD I_EQUATION
+=	JJ I_EQUATION
++	CC I_EQUATION
+if	IN O
+the	DT O
+position	NN O
+of	IN O
+the	DT O
+object	NN O
+at	IN O
+time	NN O
+t	NN O
+=	JJ O
+0	CD O
+is	VBZ O
+0	CD O
+.	. O
 
-the	DT
-average	JJ
-speed	NN
-of	IN
-an	DT
-object	NN
-is	VBZ
-greater	JJR
-or	CC
-equal	JJ
-to	TO
-the	DT
-magnitude	NN
-of	IN
-the	DT
-average	JJ
-velocity	NN
-over	IN
-a	DT
-given	VBN
-time	NN
-interval	NN
-.	.
+average	NN B_KEY_PHRASE
+speed	NN I_KEY_PHRASE
+of	IN I_KEY_PHRASE
+a	DT I_KEY_PHRASE
+particle	NN I_KEY_PHRASE
+over	IN I_KEY_PHRASE
+an	DT I_KEY_PHRASE
+interval	NN I_KEY_PHRASE
+of	IN I_KEY_PHRASE
+time	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+defined	VBN I_EQUAL
+as	IN I_EQUAL
+the	DT B_DEFINITION
+total	JJ I_DEFINITION
+path	NN I_DEFINITION
+length	NN I_DEFINITION
+divided	VBN I_DEFINITION
+by	IN I_DEFINITION
+the	DT I_DEFINITION
+time	NN I_DEFINITION
+interval	NN I_DEFINITION
+.	. O
 
-instantaneous	JJ
-velocity	NN
-or	CC
-simply	RB
-velocity	NN
-is	VBZ
-defined	VBN
-as	IN
-the	DT
-limit	NN
-of	IN
-the	DT
-average	JJ
-velocity	NN
-as	IN
-the	DT
-time	NN
-interval	FW
-δt	FW
-becomes	VBZ
-infinitesimally	RB
-small	JJ
-:	:
-d	FW
-d	FW
-t	NN
-0	CD
-t	NN
-0	CD
-x	NN
-x	NN
-v	LS
-lim	NN
-v	LS
-lim	NN
-t	NN
-t	NN
-the	DT
-velocity	NN
-at	IN
-a	DT
-particular	JJ
-instant	NN
-is	VBZ
-equal	JJ
-to	TO
-the	DT
-slope	NN
-of	IN
-the	DT
-tangent	NN
-drawn	VBN
-on	IN
-position-time	JJ
-graph	NN
-at	IN
-that	DT
-instant	NN
-.	.
+this	DT O
+means	VBZ O
+that	IN O
+tan	FW O
+θ	FW O
+approaches	VBZ O
+the	DT B_DEFINITION
+slope	NN I_DEFINITION
+of	IN I_DEFINITION
+the	DT I_DEFINITION
+tangent	NN I_DEFINITION
+at	IN I_DEFINITION
+p	NN I_DEFINITION
+denoted	VBN I_DEFINITION
+by	IN I_DEFINITION
+m:	NN B_EQUATION
+x	NN I_EQUATION
+0	CD I_EQUATION
+0	CD I_EQUATION
+lim	FW I_EQUATION
+lim	FW I_EQUATION
+x	NN I_EQUATION
+y	NN I_EQUATION
+y	NN I_EQUATION
+y	NN I_EQUATION
+y	NN I_EQUATION
+m	NN I_EQUATION
+x	NN I_EQUATION
+x	NN I_EQUATION
+3	CD I_EQUATION
+the	DT I_DEFINITION
+limit	NN I_DEFINITION
+of	IN I_DEFINITION
+the	DT I_DEFINITION
+ratio	NN I_DEFINITION
+δy/δx	NN I_DEFINITION
+as	IN I_DEFINITION
+δx	NN I_DEFINITION
+approaches	NNS I_DEFINITION
+zero	VBP I_DEFINITION
+is	VBZ B_EQUAL
+called	VBN I_EQUAL
+the	DT B_KEY_PHRASE
+derivative	NN I_KEY_PHRASE
+of	IN I_KEY_PHRASE
+y	NN I_KEY_PHRASE
+with	IN I_KEY_PHRASE
+respect	NN I_KEY_PHRASE
+to	TO I_KEY_PHRASE
+x	NN I_KEY_PHRASE
+and	CC O
+is	VBZ O
+written	VBN O
+as	IN O
+dy/dx	NN O
+.	. O
 
-average	JJ
-acceleration	NN
-is	VBZ
-the	DT
-change	NN
-in	IN
-velocity	NN
-divided	VBN
-by	IN
-the	DT
-time	NN
-interval	NN
-during	IN
-which	WDT
-the	DT
-change	NN
-occurs	VBZ
-:	:
-v	LS
-a	DT
-t	NN
-9	CD
-.	.
+basically	RB O
+the	DT O
+difference	NN O
+is	VBZ O
+that	IN O
+a	DT O
+direction	NN O
+is	VBZ O
+associated	VBN O
+with	IN O
+a	DT O
+vector	NN O
+but	CC O
+not	RB O
+with	IN O
+a	DT O
+scalar	NN O
+.	. O
 
-instantaneous	JJ
-acceleration	NN
-is	VBZ
-defined	VBN
-as	IN
-the	DT
-limit	NN
-of	IN
-the	DT
-average	JJ
-acceleration	NN
-as	IN
-the	DT
-time	NN
-interval	FW
-δt	FW
-goes	VBZ
-to	TO
-zero	VB
-:	:
-d	FW
-d	FW
-t	NN
-0	CD
-t	NN
-0	CD
-v	LS
-v	LS
-a	DT
-lim	NN
-a	DT
-lim	NN
-t	NN
-t	NN
-the	DT
-acceleration	NN
-of	IN
-an	DT
-object	NN
-at	IN
-a	DT
-particular	JJ
-time	NN
-is	VBZ
-the	DT
-slope	NN
-of	IN
-the	DT
-velocity-time	JJ
-graph	NN
-at	IN
-that	DT
-instant	NN
-of	IN
-time	NN
-.	.
+a	DT B_KEY_PHRASE
+scalar	JJ I_KEY_PHRASE
+quantity	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+a	DT B_DEFINITION
+quantity	NN I_DEFINITION
+with	IN I_DEFINITION
+magnitude	NN I_DEFINITION
+only	RB I_DEFINITION
+.	. O
 
-the	DT
-area	NN
-under	IN
-the	DT
-velocity-time	JJ
-curve	NN
-between	IN
-times	NNS
-t	NN
-1	CD
-and	CC
-t	NN
-2	CD
-is	VBZ
-equal	JJ
-to	TO
-the	DT
-displacement	NN
-of	IN
-the	DT
-object	NN
-during	IN
-that	DT
-interval	NN
-of	IN
-time	NN
-.	.
+scalars	NNS O
+can	MD O
+be	VB O
+added	VBN O
+subtracted	VBN O
+multiplied	VBD O
+and	CC O
+divided	VBD O
+41	CD O
+introduction	NN O
+42	CD O
+scalars	NNS O
+and	CC O
+vectors	NNS O
+43	CD O
+multiplication	NN O
+of	IN O
+vectors	NNS O
+by	IN O
+real	JJ O
+numbers	NNS O
+44	CD O
+addition	NN O
+and	CC O
+subtraction	NN O
+of	IN O
+vectors	NNS O
+—	CD O
+graphical	JJ O
+method	NN O
+45	CD O
+resolution	NN O
+of	IN O
+vectors	NNS O
+46	CD O
+vector	NN O
+addition	NN O
+—	CD O
+analytical	JJ O
+method	NN O
+47	CD O
+motion	NN O
+in	IN O
+a	DT O
+plane	NN O
+48	CD O
+motion	NN O
+in	IN O
+a	DT O
+plane	NN O
+with	IN O
+constant	JJ O
+acceleration	NN O
+49	CD O
+relative	JJ O
+velocity	NN O
+in	IN O
+two	CD O
+dimensions	NNS O
+410	CD O
+projectile	NN O
+motion	NN O
+411	CD O
+uniform	JJ O
+circular	JJ O
+motion	NN O
+summary	NN O
+points	NNS O
+to	TO O
+ponder	VB O
+exercises	NNS O
+additional	JJ O
+exercises	NNS O
+©	FW O
+ncert	FW O
+not	RB O
+to	TO O
+be	VB O
+republished	VBN O
+physics	NN O
+66	CD O
+just	RB O
+as	IN O
+the	DT O
+ordinary	JJ O
+numbers	NNS O
+*	NN O
+.	. O
 
-for	IN
-objects	NNS
-in	IN
-uniformly	RB
-accelerated	VBN
-rectilinear	JJ
-motion	NN
-the	DT
-five	CD
-quantities	NNS
-displacement	NN
-x	NN
-time	NN
-taken	VBN
-t	NN
-initial	JJ
-velocity	NN
-v	LS
-0	CD
-final	JJ
-velocity	NN
-v	LS
-and	CC
-acceleration	NN
-a	DT
-are	VBP
-related	VBN
-by	IN
-a	DT
-set	NN
-of	IN
-simple	JJ
-equations	NNS
-called	VBN
-kinematic	JJ
-equations	NNS
-of	IN
-motion	NN
-:	:
-v	LS
-=	JJ
-v	LS
-0	CD
-+	CC
-at	IN
-x	NN
-v	LS
-t	NN
-1	CD
-2	CD
-at	IN
-0	CD
-2	CD
-=	JJ
-+	CC
-v	LS
-v	LS
-2ax	NN
-2	CD
-0	CD
-2	CD
-=	JJ
-+	CC
-if	IN
-the	DT
-position	NN
-of	IN
-the	DT
-object	NN
-at	IN
-time	NN
-t	NN
-=	JJ
-0	CD
-is	VBZ
-0	CD
-.	.
+a	DT B_KEY_PHRASE
+vector	NN I_KEY_PHRASE
+quantity	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+a	DT I_EQUAL
+quantity	NN B_DEFINITION
+that	WDT I_DEFINITION
+has	VBZ I_DEFINITION
+both	DT I_DEFINITION
+a	DT I_DEFINITION
+magnitude	NN I_DEFINITION
+and	CC I_DEFINITION
+a	DT I_DEFINITION
+direction	NN I_DEFINITION
+and	CC I_DEFINITION
+obeys	VBZ I_DEFINITION
+the	DT I_DEFINITION
+triangle	NN I_DEFINITION
+law	NN I_DEFINITION
+of	IN I_DEFINITION
+addition	NN I_DEFINITION
+or	CC I_DEFINITION
+equivalently	RB I_DEFINITION
+the	DT I_DEFINITION
+parallelogram	NN I_DEFINITION
+law	NN I_DEFINITION
+of	IN I_DEFINITION
+addition	NN I_DEFINITION
+.	. O
 
-[average	NN
-speed	NN
-of	IN
-a	DT
-particle	NN
-over	IN
-an	DT
-interval	NN
-of	IN
-time	NN
-is	VBZ
-defined	VBN
-as	IN
-the	DT
-total	JJ
-path	NN
-length	NN
-divided	VBN
-by	IN
-the	DT
-time	NN
-interval]	NN
-.	.
-
-this	DT
-means	VBZ
-that	IN
-tan	FW
-θ	FW
-approaches	VBZ
-the	DT
-slope	NN
-of	IN
-the	DT
-tangent	NN
-at	IN
-p	NN
-denoted	VBN
-by	IN
-m:	NN
-x	NN
-0	CD
-0	CD
-lim	FW
-lim	FW
-x	NN
-y	NN
-y	NN
-y	NN
-y	NN
-m	NN
-x	NN
-x	NN
-3	CD
-the	DT
-limit	NN
-of	IN
-the	DT
-ratio	NN
-δy/δx	NN
-as	IN
-δx	NN
-approaches	NNS
-zero	VBP
-is	VBZ
-called	VBN
-the	DT
-derivative	NN
-of	IN
-y	NN
-with	IN
-respect	NN
-to	TO
-x	NN
-and	CC
-is	VBZ
-written	VBN
-as	IN
-dy/dx	NN
-.	.
-
-basically	RB
-the	DT
-difference	NN
-is	VBZ
-that	IN
-a	DT
-direction	NN
-is	VBZ
-associated	VBN
-with	IN
-a	DT
-vector	NN
-but	CC
-not	RB
-with	IN
-a	DT
-scalar	NN
-.	.
-
-a	DT
-scalar	JJ
-quantity	NN
-is	VBZ
-a	DT
-quantity	NN
-with	IN
-magnitude	NN
-only	RB
-.	.
-
-scalars	NNS
-can	MD
-be	VB
-added	VBN
-subtracted	VBN
-multiplied	VBD
-and	CC
-divided	VBD
-41	CD
-introduction	NN
-42	CD
-scalars	NNS
-and	CC
-vectors	NNS
-43	CD
-multiplication	NN
-of	IN
-vectors	NNS
-by	IN
-real	JJ
-numbers	NNS
-44	CD
-addition	NN
-and	CC
-subtraction	NN
-of	IN
-vectors	NNS
-—	CD
-graphical	JJ
-method	NN
-45	CD
-resolution	NN
-of	IN
-vectors	NNS
-46	CD
-vector	NN
-addition	NN
-—	CD
-analytical	JJ
-method	NN
-47	CD
-motion	NN
-in	IN
-a	DT
-plane	NN
-48	CD
-motion	NN
-in	IN
-a	DT
-plane	NN
-with	IN
-constant	JJ
-acceleration	NN
-49	CD
-relative	JJ
-velocity	NN
-in	IN
-two	CD
-dimensions	NNS
-410	CD
-projectile	NN
-motion	NN
-411	CD
-uniform	JJ
-circular	JJ
-motion	NN
-summary	NN
-points	NNS
-to	TO
-ponder	VB
-exercises	NNS
-additional	JJ
-exercises	NNS
-©	FW
-ncert	FW
-not	RB
-to	TO
-be	VB
-republished	VBN
-physics	NN
-66	CD
-just	RB
-as	IN
-the	DT
-ordinary	JJ
-numbers	NNS
-*	NN
-.	.
-
-a	DT
-vector	NN
-quantity	NN
-is	VBZ
-a	DT
-quantity	NN
-that	WDT
-has	VBZ
-both	DT
-a	DT
-magnitude	NN
-and	CC
-a	DT
-direction	NN
-and	CC
-obeys	VBZ
-the	DT
-triangle	NN
-law	NN
-of	IN
-addition	NN
-or	CC
-equivalently	RB
-the	DT
-parallelogram	NN
-law	NN
-of	IN
-addition	NN
-.	.
-
-so	IN
-a	DT
-vector	NN
-is	VBZ
-specified	VBN
-by	IN
-giving	VBG
-its	PRP$
-magnitude	NN
-by	IN
-a	DT
-number	NN
-and	CC
-its	PRP$
-direction	NN
-.	.
+so	IN O
+a	DT O
+vector	NN O
+is	VBZ O
+specified	VBN O
+by	IN O
+giving	VBG O
+its	PRP$ O
+magnitude	NN O
+by	IN O
+a	DT O
+number	NN O
+and	CC O
+its	PRP$ O
+direction	NN O
+.	. O
 
 if	IN
 the	DT
@@ -2634,11 +2610,11 @@ and	CC
 tip	NN
 at	IN
 p′	NN
-is	VBZ
-called	VBN
-the	DT
-displacement	NN
-vector	NN
+is	VBZ B_EQUAL
+called	VBN I_EQUAL
+the	DT B_KEY_PHRASE
+displacement	NN I_KEY_PHRASE
+vector	NN I_KEY_PHRASE
 corresponding	VBG
 to	TO
 motion	NN
