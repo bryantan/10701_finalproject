@@ -2589,805 +2589,805 @@ its	PRP$ O
 direction	NN O
 .	. O
 
-if	IN
-the	DT
-object	NN
-moves	VBZ
-from	IN
-p	NN
-to	TO
-p	NN
-′	CD
-the	DT
-vector	NN
-pp	NN
-′	NN
-with	IN
-tail	NN
-at	IN
-p	NN
-and	CC
-tip	NN
-at	IN
-p′	NN
+if	IN B_DEFINITION
+the	DT I_DEFINITION
+object	NN I_DEFINITION
+moves	VBZ I_DEFINITION
+from	IN I_DEFINITION
+p	NN I_DEFINITION
+to	TO I_DEFINITION
+p	NN I_DEFINITION
+′	CD I_DEFINITION
+the	DT I_DEFINITION
+vector	NN I_DEFINITION
+pp	NN I_DEFINITION
+′	NN I_DEFINITION
+with	IN I_DEFINITION
+tail	NN I_DEFINITION
+at	IN I_DEFINITION
+p	NN I_DEFINITION
+and	CC I_DEFINITION
+tip	NN I_DEFINITION
+at	IN I_DEFINITION
+p′	NN I_DEFINITION
+is	VBZ B_EQUAL B_EQUAL
+called	VBN I_EQUAL I_EQUAL
+the	DT B_KEY_PHRASE B_KEY_PHRASE
+displacement	NN I_KEY_PHRASE I_KEY_PHRASE
+vector	NN I_KEY_PHRASE I_KEY_PHRASE
+corresponding	VBG O
+to	TO O
+motion	NN O
+from	IN O
+point	NN O
+p	NN O
+at	IN O
+time	NN O
+t	NN O
+to	TO O
+point	VB O
+p	NN O
+′	NN O
+at	IN O
+time	NN O
+t′	NN O
+.	. O
+
+it	PRP O
+is	VBZ O
+important	JJ O
+to	TO O
+note	VB O
+that	DT O
+displacement	NN B_KEY_PHRASE
+vector	NN I_KEY_PHRASE
 is	VBZ B_EQUAL
+the	DT B_DEFINITION
+straight	JJ I_DEFINITION
+line	NN I_DEFINITION
+joining	VBG I_DEFINITION
+the	DT I_DEFINITION
+initial	JJ I_DEFINITION
+and	CC I_DEFINITION
+final	JJ I_DEFINITION
+positions	NNS I_DEFINITION
+and	CC O
+does	VBZ O
+not	RB O
+depend	VB O
+on	IN O
+the	DT O
+actual	JJ O
+path	NN O
+undertaken	VBN O
+by	IN O
+the	DT O
+object	NN O
+between	IN O
+the	DT O
+two	CD O
+positions	NNS O
+.	. O
+
+therefore	RB O
+the	DT I_KEY_PHRASE
+magnitude	NN I_KEY_PHRASE
+of	IN I_KEY_PHRASE
+displacement	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+either	CC B_DEFINITION
+less	RBR I_DEFINITION
+or	CC I_DEFINITION
+equal	JJ I_DEFINITION
+to	TO I_DEFINITION
+the	DT I_DEFINITION
+path	NN I_DEFINITION
+length	NN I_DEFINITION
+of	IN I_DEFINITION
+an	DT I_DEFINITION
+object	NN I_DEFINITION
+between	IN I_DEFINITION
+two	CD I_DEFINITION
+points	NNS I_DEFINITION
+.	. O
+
+422	CD O
+equality	NN O
+of	IN O
+vectors	NNS O
+two	CD B_KEY_PHRASE
+vectors	NNS I_KEY_PHRASE
+a	DT I_KEY_PHRASE
+and	CC I_KEY_PHRASE
+b	NN I_KEY_PHRASE
+are	VBP I_KEY_PHRASE
+said	VBN I_KEY_PHRASE
+to	TO I_KEY_PHRASE
+be	VB I_KEY_PHRASE
+equal	JJ I_KEY_PHRASE
+if	IN B_EQUAL
+and	CC I_EQUAL
+only	RB I_EQUAL
+if	IN I_EQUAL
+they	PRP B_DEFINITION
+have	VBP I_DEFINITION
+the	DT I_DEFINITION
+same	JJ I_DEFINITION
+magnitude	NN I_DEFINITION
+and	CC I_DEFINITION
+the	DT I_DEFINITION
+same	JJ I_DEFINITION
+direction	NN I_DEFINITION
+.	. O
+
+such	JJ B_DEFINITION
+vectors	NNS I_DEFINITION
+are	VBP B_EQUAL
+called	VBN I_EQUAL
+free	JJ B_EQUAL
+vectors	NNS I_EQUAL
+.	. O
+
+such	JJ B_DEFINITION
+vectors	NNS I_DEFINITION
+are	VBP B_EQUAL
+called	VBN I_EQUAL
+localised	JJ B_EQUAL
+vectors	NNS I_EQUAL
+.	. O
+
+43	CD O
+multiplication	NN O
+of	IN O
+vectors	NNS O
+by	IN O
+real	JJ O
+numbers	NNS O
+multiplying	VBG O
+a	DT O
+vector	NN O
+a	DT O
+with	IN O
+a	DT O
+positive	JJ O
+number	NN O
+λ	NN O
+gives	VBZ O
+a	DT O
+vector	NN O
+whose	WP$ O
+magnitude	NN O
+is	VBZ O
+changed	VBN O
+by	IN O
+the	DT O
+factor	NN O
+λ	NN O
+but	CC O
+the	DT O
+direction	NN O
+is	VBZ O
+the	DT O
+same	JJ O
+as	IN O
+that	DT O
+of	IN O
+a	DT O
+:	: O
+⏐	FW O
+λ	FW O
+a	DT O
+⏐	NN O
+=	JJ O
+λ	FW O
+⏐	FW O
+a	DT O
+⏐	NN O
+if	IN O
+λ	FW O
+&gt	FW O
+0	CD O
+.	. O
+
+©	FW O
+ncert	FW O
+not	RB O
+to	TO O
+be	VB O
+republished	VBN O
+physics	NN O
+68	CD O
+arranged	VBD B_DEFINITION
+head	NN I_DEFINITION
+to	TO I_DEFINITION
+tail	NN I_DEFINITION
+this	DT B_EQUAL
+graphical	JJ I_EQUAL
+method	NN I_EQUAL
+is	VBZ I_EQUAL
 called	VBN I_EQUAL
 the	DT B_KEY_PHRASE
-displacement	NN I_KEY_PHRASE
+head-to-tail	JJ I_KEY_PHRASE
+method	NN I_KEY_PHRASE
+.	. O
+
+the	DT B_DEFINITION
+two	CD I_DEFINITION
+vectors	NNS I_DEFINITION
+and	CC I_DEFINITION
+their	PRP$ I_DEFINITION
+resultant	JJ I_DEFINITION
+form	NN I_DEFINITION
+three	CD I_DEFINITION
+sides	NNS I_DEFINITION
+of	IN I_DEFINITION
+a	DT I_DEFINITION
+triangle	NN I_DEFINITION
+so	IN B_EQUAL
+this	DT I_EQUAL
+method	NN I_EQUAL
+is	VBZ I_EQUAL
+also	RB I_EQUAL
+known	VBN I_EQUAL
+as	IN I_EQUAL
+triangle	NN B_KEY_PHRASE
+method	NN I_KEY_PHRASE
+of	IN I_KEY_PHRASE
 vector	NN I_KEY_PHRASE
-corresponding	VBG
-to	TO
-motion	NN
-from	IN
-point	NN
-p	NN
-at	IN
-time	NN
-t	NN
-to	TO
-point	VB
-p	NN
-′	NN
-at	IN
-time	NN
-t′	NN
+addition	NN I_KEY_PHRASE
 .	.
 
-it	PRP
-is	VBZ
-important	JJ
-to	TO
-note	VB
-that	DT
-displacement	NN
-vector	NN
-is	VBZ
-the	DT
-straight	JJ
-line	NN
-joining	VBG
-the	DT
-initial	JJ
-and	CC
-final	JJ
-positions	NNS
-and	CC
-does	VBZ
-not	RB
-depend	VB
-on	IN
-the	DT
-actual	JJ
-path	NN
-undertaken	VBN
-by	IN
-the	DT
-object	NN
-between	IN
-the	DT
-two	CD
-positions	NNS
-.	.
+thus	RB O
+vector	NN B_KEY_PHRASE
+addition	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+commutative:	FW B_DEFINITION
+a	FW O
++	CC O
+b	NN O
+=	JJ O
+b	NN O
++	CC O
+a	DT O
+41	CD O
+the	DT O
+addition	NN O
+of	IN O
+vectors	NNS O
+also	RB O
+obeys	VBZ O
+the	DT O
+associative	JJ O
+law	NN O
+as	IN O
+illustrated	JJ O
+in	FW O
+fig	FW O
+44d	NN O
+.	. O
 
-therefore	RB
-the	DT
-magnitude	NN
-of	IN
-displacement	NN
-is	VBZ
-either	CC
-less	RBR
-or	CC
-equal	JJ
-to	TO
-the	DT
-path	NN
-length	NN
-of	IN
-an	DT
-object	NN
-between	IN
-two	CD
-points	NNS
-.	.
+since	IN B_DEFINITION
+the	DT I_DEFINITION
+magnitudes	NNS I_DEFINITION
+of	IN I_DEFINITION
+the	DT I_DEFINITION
+two	CD I_DEFINITION
+vectors	NNS I_DEFINITION
+are	VBP I_DEFINITION
+the	DT I_DEFINITION
+same	JJ I_DEFINITION
+but	CC I_DEFINITION
+the	DT I_DEFINITION
+directions	NNS I_DEFINITION
+are	VBP I_DEFINITION
+opposite	JJ I_DEFINITION
+the	DT I_DEFINITION
+resultant	JJ I_DEFINITION
+vector	NN I_DEFINITION
+has	VBZ I_DEFINITION
+zero	CD I_DEFINITION
+magnitude	NN I_DEFINITION
+and	CC B_EQUAL
+is	VBZ I_EQUAL
+represented	VBN I_EQUAL
+by	IN I_EQUAL
+0	CD I_EQUAL
+called	VBD I_EQUAL
+a	DT B_KEY_PHRASE
+null	JJ I_KEY_PHRASE
+vector	NN I_KEY_PHRASE
+or	CC I_KEY_PHRASE
+a	DT I_KEY_PHRASE
+zero	NN I_KEY_PHRASE
+vector	NN I_KEY_PHRASE
+:	: O
+a	DT O
+–	NN O
+a	DT O
+=	JJ O
+0	CD O
+|0|=	CD O
+0	CD O
+43	CD O
+since	IN O
+the	DT O
+magnitude	NN O
+of	IN O
+a	DT O
+null	JJ O
+vector	NN O
+is	VBZ O
+zero	VB O
+its	PRP$ O
+direction	NN O
+cannot	NN O
+be	VB O
+specified	VBN O
+.	. O
 
-422	CD
-equality	NN
-of	IN
-vectors	NNS
-two	CD
-vectors	NNS
-a	DT
-and	CC
-b	NN
-are	VBP
-said	VBN
-to	TO
-be	VB
-equal	JJ
-if	IN
-and	CC
-only	RB
-if	IN
-they	PRP
-have	VBP
-the	DT
-same	JJ
-magnitude	NN
-and	CC
-the	DT
-same	JJ
-direction	NN
-.	.
+subtraction	NN O
+of	IN O
+vectors	NNS O
+can	MD O
+be	VB O
+defined	VBN O
+in	IN O
+terms	NNS O
+of	IN O
+addition	NN O
+of	IN O
+vectors	NNS O
+.	. O
 
-such	JJ
-vectors	NNS
-are	VBP
-called	VBN
-free	JJ
-vectors	NNS
-.	.
+unit	NN O
+vectors:	NN O
+a	DT B_KEY_PHRASE
+unit	NN I_KEY_PHRASE
+vector	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+a	DT B_DEFINITION
+vector	NN I_DEFINITION
+of	IN I_DEFINITION
+unit	NN I_DEFINITION
+magnitude	NN I_DEFINITION
+and	CC I_DEFINITION
+points	NNS I_DEFINITION
+in	IN I_DEFINITION
+a	DT I_DEFINITION
+particular	JJ I_DEFINITION
+direction	NN I_DEFINITION
+.	. O
 
-such	JJ
-vectors	NNS
-are	VBP
-called	VBN
-localised	JJ
-vectors	NNS
-.	.
+©	FW O
+ncert	FW O
+not	RB O
+to	TO O
+be	VB O
+republished	VBN O
+motion	NN O
+in	IN O
+a	DT O
+plane	NN O
+73	CD O
+471	CD O
+position	NN O
+vector	NN O
+and	CC O
+displacement	NN O
+the	DT O
+position	NN O
+vector	NN O
+r	NN O
+of	IN O
+a	DT O
+particle	NN O
+p	NN O
+located	JJ O
+in	IN O
+a	DT O
+plane	NN O
+with	IN O
+reference	NN O
+to	TO O
+the	DT O
+origin	NN O
+of	IN O
+an	DT O
+x-y	JJ O
+reference	NN O
+frame	NN O
+fig	NN O
+412	CD O
+is	VBZ O
+given	VBN O
+by	IN O
+r	NN O
+i	FW O
+j	FW O
+=	JJ O
++	CC O
+x	NN O
+y	NN O
+&#34	CD O
+&#34	CD O
+where	WRB O
+x	NN O
+and	CC O
+y	NN O
+are	VBP O
+components	NNS O
+of	IN O
+r	NN O
+along	IN O
+x-	NN O
+and	CC O
+y-	NN O
+axes	NNS O
+or	CC O
+simply	RB O
+they	PRP O
+are	VBP O
+the	DT O
+coordinates	VBZ O
+of	IN O
+the	DT O
+object	NN O
+.	. O
 
-43	CD
-multiplication	NN
-of	IN
-vectors	NNS
-by	IN
-real	JJ
-numbers	NNS
-multiplying	VBG
-a	DT
-vector	NN
-a	DT
-with	IN
-a	DT
-positive	JJ
-number	NN
-λ	NN
-gives	VBZ
-a	DT
-vector	NN
-whose	WP$
-magnitude	NN
-is	VBZ
-changed	VBN
-by	IN
-the	DT
-factor	NN
-λ	NN
-but	CC
-the	DT
-direction	NN
-is	VBZ
-the	DT
-same	JJ
-as	IN
-that	DT
-of	IN
-a	DT
-:	:
-⏐	FW
-λ	FW
-a	DT
-⏐	NN
-=	JJ
-λ	FW
-⏐	FW
-a	DT
-⏐	NN
-if	IN
-λ	FW
-&gt	FW
-0	CD
-.	.
+we	PRP O
+can	MD O
+write	VB O
+eq	IN O
+425	CD O
+in	IN O
+a	DT O
+component	NN O
+form:	FW O
+δ	FW O
+r	NN O
+=	JJ O
++	CC O
+−	NN O
++	CC O
+x'	NN O
+y'	CD O
+x	CC O
+&#34	CD O
+&#34	CD O
+&#34	CD O
+&#34	CD O
+i	FW O
+j	FW O
+i	FW O
+j	FW O
+y	NN O
+=	JJ O
++	CC O
+&#34	FW O
+&#34	FW O
+i	FW O
+j	FW O
+δ	FW O
+δ	FW O
+x	NN O
+y	NN O
+where	WRB O
+δ	NN O
+x	NN O
+=	JJ O
+x	NN O
+′	FW O
+–	FW O
+x	NN O
+δ	NN O
+y	NN O
+=	JJ O
+y	FW O
+′	FW O
+–	FW O
+y	FW O
+426	CD O
+velocity	NN O
+the	DT B_KEY_PHRASE
+average	JJ I_KEY_PHRASE
+velocity	NN I_KEY_PHRASE
+v	LS I_KEY_PHRASE
+of	IN I_KEY_PHRASE
+an	DT I_KEY_PHRASE
+object	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+the	DT B_DEFINITION
+ratio	NN I_DEFINITION
+of	IN I_DEFINITION
+the	DT I_DEFINITION
+displacement	NN I_DEFINITION
+and	CC I_DEFINITION
+the	DT I_DEFINITION
+corresponding	JJ I_DEFINITION
+time	NN I_DEFINITION
+interval	NN I_DEFINITION
+:	: O
+v	LS O
+r	NN O
+i	FW O
+j	FW O
+i	FW O
+j	NN O
+=	JJ O
+=	JJ O
++	CC O
+=	JJ O
++	CC O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+t	NN O
+x	NN O
+y	NN O
+t	NN O
+x	NN O
+t	NN O
+y	NN O
+t	NN O
+&#34	CD O
+&#34	CD O
+&#34	CD O
+&#34	CD O
+427	CD O
+or	CC O
+$	$ O
+ˆ	CD O
+x	NN O
+y	NN O
+v	LS O
+v	LS O
+v	LS O
+i	FW O
+j	FW O
+since	IN O
+v	LS O
+r	NN O
+=	JJ O
+δ	FW O
+δt	FW O
+the	DT O
+direction	NN O
+of	IN O
+the	DT O
+average	JJ O
+velocity	NN O
+is	VBZ O
+the	DT O
+same	JJ O
+as	IN O
+that	DT O
+of	IN O
+δ	NN O
+r	NN O
+fig	NN O
+412	CD O
+.	. O
 
-©	FW
-ncert	FW
-not	RB
-to	TO
-be	VB
-republished	VBN
-physics	NN
-68	CD
-arranged	VBD
-head	NN
-to	TO
-tail	NN
-this	DT
-graphical	JJ
-method	NN
-is	VBZ
-called	VBN
-the	DT
-head-to-tail	JJ
-method	NN
-.	.
+the	DT O
+velocity	NN O
+instantaneous	JJ B_KEY_PHRASE
+velocity	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+given	VBN I_EQUAL
+by	IN I_EQUAL
+the	DT B_DEFINITION
+limiting	VBG I_DEFINITION
+value	NN I_DEFINITION
+of	IN I_DEFINITION
+the	DT I_DEFINITION
+average	JJ I_DEFINITION
+velocity	NN I_DEFINITION
+as	IN I_DEFINITION
+the	DT I_DEFINITION
+time	NN I_DEFINITION
+interval	JJ I_DEFINITION
+approaches	NNS I_DEFINITION
+zero	VBP I_DEFINITION
+:	: O
+v	LS O
+r	NN O
+r	NN O
+=	JJ O
+=	JJ O
+→	FW O
+lim	FW O
+t	NN O
+t	NN O
+t	NN O
+δ	NN O
+δ	NN O
+δ	NN O
+0	CD O
+d	NN O
+d	NN O
+428	CD O
+the	DT O
+meaning	NN O
+of	IN O
+the	DT O
+limiting	VBG O
+process	NN O
+can	MD O
+be	VB O
+easily	RB O
+understood	VBN O
+with	IN O
+the	DT O
+help	NN O
+of	IN O
+fig	FW O
+413a	FW O
+to	TO O
+d	NN O
+.	. O
 
-the	DT
-two	CD
-vectors	NNS
-and	CC
-their	PRP$
-resultant	JJ
-form	NN
-three	CD
-sides	NNS
-of	IN
-a	DT
-triangle	NN
-so	IN
-this	DT
-method	NN
-is	VBZ
-also	RB
-known	VBN
-as	IN
-triangle	NN
-method	NN
-of	IN
-vector	NN
-addition	NN
-.	.
+the	DT O
+direction	NN O
+of	IN O
+the	DT O
+average	JJ O
+velocity	NN O
+v	LS O
+is	VBZ O
+shown	VBN O
+in	IN O
+figures	NNS O
+a	DT O
+b	NN O
+and	CC O
+c	NN O
+for	IN O
+three	CD O
+decreasing	VBG O
+values	NNS O
+of	IN O
+δ	NN O
+t	NN O
+ie	FW O
+δ	FW O
+t	NN O
+1	CD O
+δ	NN O
+t	NN O
+2	CD O
+and	CC O
+δ	NN O
+t	NN O
+3	CD O
+δ	NN O
+t	NN O
+1	CD O
+&gt	FW O
+δ	FW O
+t	NN O
+2	CD O
+&gt	FW O
+δ	FW O
+t	NN O
+3	CD O
+.	. O
 
-thus	RB
-vector	NN
-addition	NN
-is	VBZ
-commutative:	FW
-a	FW
-+	CC
-b	NN
-=	JJ
-b	NN
-+	CC
-a	DT
-41	CD
-the	DT
-addition	NN
-of	IN
-vectors	NNS
-also	RB
-obeys	VBZ
-the	DT
-associative	JJ
-law	NN
-as	IN
-illustrated	JJ
-in	FW
-fig	FW
-44d	NN
-.	.
+acceleration	NN O
+the	DT B_KEY_PHRASE
+average	JJ I_KEY_PHRASE
+acceleration	NN I_KEY_PHRASE
+a	DT I_KEY_PHRASE
+of	IN I_KEY_PHRASE
+an	DT I_KEY_PHRASE
+object	NN I_KEY_PHRASE
+for	IN I_KEY_PHRASE
+a	DT I_KEY_PHRASE
+time	NN I_KEY_PHRASE
+interval	JJ I_KEY_PHRASE
+δt	NN I_KEY_PHRASE
+moving	VBG I_KEY_PHRASE
+in	IN I_KEY_PHRASE
+x-y	JJ I_KEY_PHRASE
+plane	NN I_KEY_PHRASE
+is	VBZ B_EQUAL
+the	DT B_DEFINITION
+change	NN I_DEFINITION
+in	IN I_DEFINITION
+velocity	NN I_DEFINITION
+divided	VBN I_DEFINITION
+by	IN I_DEFINITION
+the	DT I_DEFINITION
+time	NN I_DEFINITION
+interval	NN I_DEFINITION
+:	: O
+a	DT O
+v	LS O
+i	FW O
+j	FW O
+i	FW O
+j	NN O
+=	JJ O
+=	JJ O
++	CC O
+=	JJ O
++	CC O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+δ	FW O
+t	NN O
+v	LS O
+v	LS O
+t	NN O
+v	LS O
+t	NN O
+v	LS O
+t	NN O
+x	NN O
+y	NN O
+x	NN O
+y	FW O
+&#34	FW O
+&#34	FW O
+&#34	FW O
+&#34	FW O
+431a	FW O
+or	CC O
+a	FW O
+i	FW O
+j	NN O
+=	JJ O
++	CC O
+a	DT O
+a	DT O
+x	NN O
+y	NN O
+&#34	CD O
+&#34	CD O
+.	. O
 
-since	IN
-the	DT
-magnitudes	NNS
-of	IN
-the	DT
-two	CD
-vectors	NNS
-are	VBP
-the	DT
-same	JJ
-but	CC
-the	DT
-directions	NNS
-are	VBP
-opposite	JJ
-the	DT
-resultant	JJ
-vector	NN
-has	VBZ
-zero	CD
-magnitude	NN
-and	CC
-is	VBZ
-represented	VBN
-by	IN
-0	CD
-called	VBD
-a	DT
-null	JJ
-vector	NN
-or	CC
-a	DT
-zero	NN
-vector	NN
-:	:
-a	DT
-–	NN
-a	DT
-=	JJ
-0	CD
-|0|=	CD
-0	CD
-43	CD
-since	IN
-the	DT
-magnitude	NN
-of	IN
-a	DT
-null	JJ
-vector	NN
-is	VBZ
-zero	VB
-its	PRP$
-direction	NN
-cannot	NN
-be	VB
-specified	VBN
-.	.
-
-subtraction	NN
-of	IN
-vectors	NNS
-can	MD
-be	VB
-defined	VBN
-in	IN
-terms	NNS
-of	IN
-addition	NN
-of	IN
-vectors	NNS
-.	.
-
-unit	NN
-vectors:	NN
-a	DT
-unit	NN
-vector	NN
-is	VBZ
-a	DT
-vector	NN
-of	IN
-unit	NN
-magnitude	NN
-and	CC
-points	NNS
-in	IN
-a	DT
-particular	JJ
-direction	NN
-.	.
-
-©	FW
-ncert	FW
-not	RB
-to	TO
-be	VB
-republished	VBN
-motion	NN
-in	IN
-a	DT
-plane	NN
-73	CD
-471	CD
-position	NN
-vector	NN
-and	CC
-displacement	NN
-the	DT
-position	NN
-vector	NN
-r	NN
-of	IN
-a	DT
-particle	NN
-p	NN
-located	JJ
-in	IN
-a	DT
-plane	NN
-with	IN
-reference	NN
-to	TO
-the	DT
-origin	NN
-of	IN
-an	DT
-x-y	JJ
-reference	NN
-frame	NN
-fig	NN
-412	CD
-is	VBZ
-given	VBN
-by	IN
-r	NN
-i	FW
-j	FW
-=	JJ
-+	CC
-x	NN
-y	NN
-&#34	CD
-&#34	CD
-where	WRB
-x	NN
-and	CC
-y	NN
-are	VBP
-components	NNS
-of	IN
-r	NN
-along	IN
-x-	NN
-and	CC
-y-	NN
-axes	NNS
-or	CC
-simply	RB
-they	PRP
-are	VBP
-the	DT
-coordinates	VBZ
-of	IN
-the	DT
-object	NN
-.	.
-
-we	PRP
-can	MD
-write	VB
-eq	IN
-425	CD
-in	IN
-a	DT
-component	NN
-form:	FW
-δ	FW
-r	NN
-=	JJ
-+	CC
-−	NN
-+	CC
-x'	NN
-y'	CD
-x	CC
-&#34	CD
-&#34	CD
-&#34	CD
-&#34	CD
-i	FW
-j	FW
-i	FW
-j	FW
-y	NN
-=	JJ
-+	CC
-&#34	FW
-&#34	FW
-i	FW
-j	FW
-δ	FW
-δ	FW
-x	NN
-y	NN
-where	WRB
-δ	NN
-x	NN
-=	JJ
-x	NN
-′	FW
-–	FW
-x	NN
-δ	NN
-y	NN
-=	JJ
-y	FW
-′	FW
-–	FW
-y	FW
-426	CD
-velocity	NN
-the	DT
-average	JJ
-velocity	NN
-v	LS
-of	IN
-an	DT
-object	NN
-is	VBZ
-the	DT
-ratio	NN
-of	IN
-the	DT
-displacement	NN
-and	CC
-the	DT
-corresponding	JJ
-time	NN
-interval	NN
-:	:
-v	LS
-r	NN
-i	FW
-j	FW
-i	FW
-j	NN
-=	JJ
-=	JJ
-+	CC
-=	JJ
-+	CC
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-t	NN
-x	NN
-y	NN
-t	NN
-x	NN
-t	NN
-y	NN
-t	NN
-&#34	CD
-&#34	CD
-&#34	CD
-&#34	CD
-427	CD
-or	CC
-$	$
-ˆ	CD
-x	NN
-y	NN
-v	LS
-v	LS
-v	LS
-i	FW
-j	FW
-since	IN
-v	LS
-r	NN
-=	JJ
-δ	FW
-δt	FW
-the	DT
-direction	NN
-of	IN
-the	DT
-average	JJ
-velocity	NN
-is	VBZ
-the	DT
-same	JJ
-as	IN
-that	DT
-of	IN
-δ	NN
-r	NN
-fig	NN
-412	CD
-.	.
-
-the	DT
-velocity	NN
-instantaneous	JJ
-velocity	NN
-is	VBZ
-given	VBN
-by	IN
-the	DT
-limiting	VBG
-value	NN
-of	IN
-the	DT
-average	JJ
-velocity	NN
-as	IN
-the	DT
-time	NN
-interval	JJ
-approaches	NNS
-zero	VBP
-:	:
-v	LS
-r	NN
-r	NN
-=	JJ
-=	JJ
-→	FW
-lim	FW
-t	NN
-t	NN
-t	NN
-δ	NN
-δ	NN
-δ	NN
-0	CD
-d	NN
-d	NN
-428	CD
-the	DT
-meaning	NN
-of	IN
-the	DT
-limiting	VBG
-process	NN
-can	MD
-be	VB
-easily	RB
-understood	VBN
-with	IN
-the	DT
-help	NN
-of	IN
-fig	FW
-413a	FW
-to	TO
-d	NN
-.	.
-
-the	DT
-direction	NN
-of	IN
-the	DT
-average	JJ
-velocity	NN
-v	LS
-is	VBZ
-shown	VBN
-in	IN
-figures	NNS
-a	DT
-b	NN
-and	CC
-c	NN
-for	IN
-three	CD
-decreasing	VBG
-values	NNS
-of	IN
-δ	NN
-t	NN
-ie	FW
-δ	FW
-t	NN
-1	CD
-δ	NN
-t	NN
-2	CD
-and	CC
-δ	NN
-t	NN
-3	CD
-δ	NN
-t	NN
-1	CD
-&gt	FW
-δ	FW
-t	NN
-2	CD
-&gt	FW
-δ	FW
-t	NN
-3	CD
-.	.
-
-acceleration	NN
-the	DT
-average	JJ
-acceleration	NN
-a	DT
-of	IN
-an	DT
-object	NN
-for	IN
-a	DT
-time	NN
-interval	JJ
-δt	NN
-moving	VBG
-in	IN
-x-y	JJ
-plane	NN
-is	VBZ
-the	DT
-change	NN
-in	IN
-velocity	NN
-divided	VBN
-by	IN
-the	DT
-time	NN
-interval	NN
-:	:
-a	DT
-v	LS
-i	FW
-j	FW
-i	FW
-j	NN
-=	JJ
-=	JJ
-+	CC
-=	JJ
-+	CC
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-δ	FW
-t	NN
-v	LS
-v	LS
-t	NN
-v	LS
-t	NN
-v	LS
-t	NN
-x	NN
-y	NN
-x	NN
-y	FW
-&#34	FW
-&#34	FW
-&#34	FW
-&#34	FW
-431a	FW
-or	CC
-a	FW
-i	FW
-j	NN
-=	JJ
-+	CC
-a	DT
-a	DT
-x	NN
-y	NN
-&#34	CD
-&#34	CD
-.	.
-
-note	NN
-that	IN
-in	IN
-one	CD
-dimension	NN
-the	DT
-velocity	NN
-and	CC
-the	DT
-acceleration	NN
-of	IN
-an	DT
-object	NN
-are	VBP
-always	RB
-along	IN
-the	DT
-same	JJ
-straight	JJ
-line	NN
-either	CC
-in	IN
-the	DT
-same	JJ
-di-	NN
-rection	NN
-or	CC
-in	IN
-the	DT
-opposite	JJ
-direction	NN
-.	.
+note	NN O
+that	IN O
+in	IN O
+one	CD O
+dimension	NN O
+the	DT O
+velocity	NN O
+and	CC O
+the	DT O
+acceleration	NN O
+of	IN O
+an	DT O
+object	NN O
+are	VBP O
+always	RB O
+along	IN O
+the	DT O
+same	JJ O
+straight	JJ O
+line	NN O
+either	CC O
+in	IN O
+the	DT O
+same	JJ O
+di-	NN O
+rection	NN O
+or	CC O
+in	IN O
+the	DT O
+opposite	JJ O
+direction	NN O
+.	. O
 
 however	RB O
 for	IN O
