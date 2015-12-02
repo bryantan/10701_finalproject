@@ -2234,7 +2234,7 @@ that	 DT O
 instant	NN O
 of	IN O
 time	NN O
-.	.
+.	. O
 
 the	DT O
 area	NN O
@@ -2610,11 +2610,11 @@ and	CC I_DEFINITION
 tip	NN I_DEFINITION
 at	IN I_DEFINITION
 p′	NN I_DEFINITION
-is	VBZ B_EQUAL B_EQUAL
-called	VBN I_EQUAL I_EQUAL
-the	DT B_KEY_PHRASE B_KEY_PHRASE
-displacement	NN I_KEY_PHRASE I_KEY_PHRASE
-vector	NN I_KEY_PHRASE I_KEY_PHRASE
+is	VBZ B_EQUAL
+called	VBN I_EQUAL
+the	DT B_KEY_PHRASE
+displacement	NN I_KEY_PHRASE
+vector	NN I_KEY_PHRASE
 corresponding	VBG O
 to	TO O
 motion	NN O
@@ -2835,7 +2835,7 @@ method	NN I_KEY_PHRASE
 of	IN I_KEY_PHRASE
 vector	NN I_KEY_PHRASE
 addition	NN I_KEY_PHRASE
-.	.
+.	. O
 
 thus	RB O
 vector	NN B_KEY_PHRASE
@@ -4957,7 +4957,7 @@ called	VBN I_EQUAL
 the	DT B_KEY_PHRASE
 centripetal	JJ I_KEY_PHRASE
 force	NN I_KEY_PHRASE
-.	.
+.	. O
 
 the	DT O
 scalar	NN O
@@ -5439,7 +5439,7 @@ be	VB I_EQUAL
 an	DT B_KEY_PHRASE
 exothermic	JJ I_KEY_PHRASE
 reaction	NN I_KEY_PHRASE
-.	.
+.	. O
 
 if	IN O
 the	DT B_DEFINITION
@@ -6654,7 +6654,7 @@ areas	NNS I_LAW
 the	DT O
 line	NN O
 that	WDT O
-joins	VBZ O O
+joins	VBZ O
 any	DT O
 planet	NN O
 to	TO O
@@ -6663,7 +6663,7 @@ sun	NN O
 sweeps	VBZ O
 equal	JJ O
 areas	NNS O
-in	IN O O
+in	IN O
 equal	JJ O
 intervals	NNS O
 of	IN O
@@ -7066,7 +7066,7 @@ are	VBP B_EQUAL
 called	VBN I_EQUAL
 geostationery	JJ B_KEY_PHRASE
 satellites	NNS I_KEY_PHRASE
-.	.
+.	. O
 
 newton’s	NN B_LAW
 law	NN I_LAW
