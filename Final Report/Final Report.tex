@@ -237,8 +237,73 @@ After a couple of iterations on a Naive Bayes classifier, scikit-learn, a Python
 \end{tabular}
 \end{center}
 
-\subsection{Conditional Random Fields}
+\vspace{2em}
 
+\subsection{Individual Sentence Tagging Using Conditional Random Fields}
+
+In order to predict the structure the knowledge sentences and derive the relationship between different physics terms, we used Conditional Random Fields (CRF) model to label each particular word with one of the following tags: key phrase, definition, equal, operators, operands, equation, and other. We used the CRF++, which is a simple open source implementation of CRFs for labeling sequential data, in our case, knowledge sentences. We split the dataset into training (75\% of the dataset) and testing parts (25\% of the dataset) to measure the accuracy of the classifier. The accuracy results are shown in Table~\ref{tab:crf-results}.
+
+\begin{center}
+\captionof{table}{Individual Sentence Tagging Accuracy Using CRF} \label{tab:crf-results} 
+\begin{tabular}{ |c||c|c| }
+	\hline
+	\multicolumn{3}{|c|}{CRF Accuracy} \\
+	\hline
+	Features Selected & Training Accuracy & Testing Accuracy \\
+	\hline
+	Unigrams & 95.9\% & 60.4\% \\
+	Bigrams & 99.8\% & 70.9\% \\
+	\hline
+\end{tabular}
+\end{center}
+
+As we can see the accuracy increased considerably when using bigrams as features (that is considering not only the current context such as the neighbour words but also the predicted labels of the neighbour words).
+
+Table~\ref{tab:crf-training-results} and Table~\ref{tab:crf-testing-results} show other metrics of the classifier, specifically, precision, recall, and F1 score. As shown below the classifier performs much better in differentiating definitions and equalities and worse in identifying key phrases.
+
+\begin{center}
+\captionof{table}{Classification Accuracy of Individual Sentence Tagging Using CRF} \label{tab:crf-training-results} 
+\begin{tabular}{ |c||c|c|c|c| }
+	\hline
+	\multicolumn{5}{|c|}{CRF Accuracy on Training Data} \\
+	\hline
+	Metric & Key Phrase & Definition & Equal & Other \\
+	\hline
+	Precision & 1.00 & 0.99 & 0.98 & 0.99 \\
+	Recall & 0.99 & 0.99 & 1.00 & 0.99 \\
+	F1 Score & 0.99 & 0.99 & 0.99 & 0.99 \\
+	\hline
+\end{tabular}
+\end{center}
+
+\vspace{2em}
+
+\begin{center}
+\captionof{table}{Classification Accuracy of Individual Sentence Tagging Using CRF} \label{tab:crf-testing-results} 
+\begin{tabular}{ |c||c|c|c|c| }
+	\hline
+	\multicolumn{5}{|c|}{CRF Accuracy on Testing Data} \\
+	\hline
+	Metric & Key Phrase & Definition & Equal & Other \\
+	\hline
+	Precision & 0.45 & 0.87 & 0.70 & 0.54 \\
+	Recall & 0.48 & 0.75 & 0.75 & 0.78 \\
+	F1 Score & 0.46 & 0.80 & 0.72 & 0.64` \\
+	\hline
+\end{tabular}
+\end{center}
+
+
+\section{Conclusion and Future Work}
+
+From the results of this project, a number of important lessons were learned. First, the importance of good data, whether training or testing, is very important. The manual tagging of sentences and words was tedious and error-prone, coupled with the fact that clear criteria for knowledge-containing sentences had not been established, resulted in numerous data points being misclassified. Putting the data through the classifiers actually helped identify the sentences that were incorrectly tagged. Second, by applying knowledge of the problem to assist machine learning, the results can be dramatically better. In this project, the key phrases and bolded words allowed much higher accuracy than using more complex classifiers or automatic feature selection. Third, using a good metric for accuracy and performance is essential for proper evaluation. The overall sentence classification accuracy was misleading due to the disparate number of knowledge containing sentences and regular sentences, and the individual word tagging accuracies for CRF do not mean much if the key phrases of a sentence are not classified as such.
+
+As evident from the results, there is still a lot left to be desired in terms of accuracy on each step of the process. Better sentence tokenizing and textbook parsing would improve the quality of the data point creation, and machine learning processes could also be applied to improve quality. Sentence classification can be improved through the use of a boosting classifier and the identification of more key features of knowledge containing sentences. Sentence analysis and word tagging can also be improved by taking into account more features, such as metadata that was captured in the data point creation but not utilized in CRF. Domain-specific knowledge was not utilized in this project - for example, a glossary of physics terms can be constructed from an external source to better identify key phrases for the word tagging.
+
+
+\section{Code Implementation}
+
+The Python implementation of the project along with the generated dataset could be found in the following GitHub repository: \url{https://github.com/bryantan/10701\_finalproject}
 
 \subsubsection*{References}
 
